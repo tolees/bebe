@@ -20,4 +20,6 @@ Está [Nenuco Agua de Colonia recomendado para bebés fragancia original - 600 m
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004XGQ1PU/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

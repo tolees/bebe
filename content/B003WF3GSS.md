@@ -20,4 +20,6 @@ Ahora mismo tienes [Suavinex – Loción hidratante Corporal para bebés. Apta p
 
 [Visítala!!!](https://www.amazon.es/dp/B003WF3GSS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

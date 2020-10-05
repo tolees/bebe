@@ -20,4 +20,6 @@ Está [Concord Transformer Pro  Silla de coche grupo 1/2/3 Isofix  rojo  Bordeau
 
 [Ver la oferta!!](https://www.amazon.es/dp/B015P7UICM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

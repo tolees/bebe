@@ -20,4 +20,6 @@ Está [Primigi Gore-Tex Pfz 43820  Botas para Bebés  Azu/Jeans 4382000  26 EU](
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NGWQ8FJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Cybex Gold - Silla de coche Solution S-Fix  para coches con y sin Isofix
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GL2SR5K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

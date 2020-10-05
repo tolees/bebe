@@ -20,4 +20,6 @@ Tienes [Cybex - Silla de coche grupo 1/2/3 Pallas  silla de coche 2 en 1 para ni
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FAO6HIA/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

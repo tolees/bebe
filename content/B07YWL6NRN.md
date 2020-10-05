@@ -20,4 +20,6 @@ Tienes [Nuk Sports Cup - Botella para aprender a beber  antigoteo  boquilla de s
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YWL6NRN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

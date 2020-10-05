@@ -20,4 +20,6 @@ Está [JUNSHEN Juguetes de baño 6PCS   Juguetes para bebés  Juguetes para el A
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CXR3VX8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

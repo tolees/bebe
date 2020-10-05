@@ -20,4 +20,6 @@ Está [Pinypon-700014032 Niños y Bebés  Pack C  Multicolor  Famosa 700014032 ]
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079MF4WRY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

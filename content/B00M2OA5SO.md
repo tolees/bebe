@@ -20,4 +20,6 @@ Está [Cybex Silver Solution X2-Fix - Silla de coche  con y sin Isofix  Grupo 2/
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00M2OA5SO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

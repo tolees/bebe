@@ -20,4 +20,6 @@ Está [Philips Avent SCD287/24 - Set de regalo natural dragon  1 biberón  2 chu
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FLGDB6B/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

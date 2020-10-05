@@ -20,4 +20,6 @@ Ahora mismo tienes [Fisher-Price Bob The Builder  R/C Super Scoop](https://www.a
 
 [Visítala!!!](https://www.amazon.com/dp/B01ASVDR3M/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
