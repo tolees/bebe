@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.21 % en Cybex - Silla de coche grupo 2/3 Solutio'
-date: 2020-10-05 11:43:05
+date: 2020-10-06 12:21:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wYDuP5IDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wYDuP5IDL._SL200_.jpg' ]
 comments: true
