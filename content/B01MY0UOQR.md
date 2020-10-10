@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.48 % en Safety 1st Wall Fix Extending Barrera de'
-date: 2020-10-08 07:00:39
+date: 2020-10-10 13:56:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tis8wU4KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tis8wU4KL._SL200_.jpg' ]
 comments: true
