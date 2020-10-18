@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.14 % en Munchkin Swimming Scuba Buddy Wind Up Ba'
-date: 2020-10-17 00:09:42
+date: 2020-10-18 01:45:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41miZHTQrVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41miZHTQrVL._SL200_.jpg' ]
 comments: true
