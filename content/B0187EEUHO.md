@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Safety 1st 24835510 Barrera de cama port al 28.12 % de descuento'
-date: 2020-10-05 17:27:02
+date: 2020-10-28 07:36:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31bCWPwzLSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31bCWPwzLSL._SL200_.jpg' ]
 comments: true
