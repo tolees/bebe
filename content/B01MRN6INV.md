@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hauck Open N Stop Puerta de Seguridad co al 27.89 % de descuento'
-date: 2020-10-26 13:16:41
+date: 2020-10-29 17:34:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ji+dRuqHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ji+dRuqHL._SL200_.jpg' ]
 comments: true
