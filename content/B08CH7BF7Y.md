@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.44 % en Termometro Infrarrojos  KKmier Termómetr'
-date: 2020-10-29 10:09:29
+date: 2020-11-01 17:07:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a+4BazUfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a+4BazUfL._SL200_.jpg' ]
 comments: true
