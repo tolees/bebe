@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babify Lagoon Bañera Plegable de Bebe co al 36.56 % de descuento'
-date: 2020-11-05 03:37:27
+date: 2020-11-06 04:15:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/312DlZD4xJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312DlZD4xJL._SL200_.jpg' ]
 comments: true
