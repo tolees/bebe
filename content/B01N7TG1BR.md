@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicco Boppy - Cojín ergonómico con acti al 36.57 % de descuento'
-date: 2020-11-08 19:21:43
+date: 2020-11-10 19:12:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/5147JtcesIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5147JtcesIL._SL200_.jpg' ]
 comments: true
