@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.31 % en Bebé Prewalker Zapatos Auxma Primeros Pa'
-date: 2020-10-28 16:44:23
+date: 2020-11-11 15:10:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XODuwrKyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XODuwrKyL._SL200_.jpg' ]
 comments: true
