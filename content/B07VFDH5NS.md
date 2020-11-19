@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon Nenuco - Detergente para lavadora  al 26.01 % de descuento'
-date: 2020-11-18 01:07:16
+date: 2020-11-19 01:23:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MiYuXvaLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MiYuXvaLL._SL200_.jpg' ]
 comments: true
