@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eryplast Lutsine E45 - Pasta al Agua par al 37.08 % de descuento'
-date: 2020-11-15 06:11:09
+date: 2020-11-19 19:20:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PmsDvXz5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PmsDvXz5L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nenuco Jabon Líquido Ultra Suave de bebé al 30.15 % de descuento'
-date: 2020-11-09 12:37:56
+date: 2020-11-19 19:39:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/512xgQ16u4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512xgQ16u4L._SL200_.jpg' ]
 comments: true
