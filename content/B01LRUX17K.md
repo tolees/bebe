@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hauck Sleep N Play Center - Cuna de viaj al 37.50 % de descuento'
-date: 2020-11-24 15:42:17
+date: 2020-11-25 15:59:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aAnKnHYRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aAnKnHYRL._SL200_.jpg' ]
 comments: true
