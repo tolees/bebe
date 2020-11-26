@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hauck Shopper Neo II - Silla de paseo co al 25.00 % de descuento'
-date: 2020-11-21 21:02:03
+date: 2020-11-26 08:44:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UdotCgR0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UdotCgR0L._SL200_.jpg' ]
 comments: true
