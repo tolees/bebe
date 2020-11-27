@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medela Tire Lait Électrique Double Pompa al 30.00 % de descuento'
-date: 2020-11-24 14:53:11
+date: 2020-11-27 15:04:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/310RLVVZ94L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310RLVVZ94L._SL200_.jpg' ]
 comments: true
