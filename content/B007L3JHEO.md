@@ -14,11 +14,11 @@ comparePrice: 15.62 EUR
 inStock: true
 ---
 
-Está [WaterWipes Toallitas para Pieles Sensible de Bebé  99.9% agua purificada  60 Unidad  Paquete de 4 ](https://www.amazon.es/dp/B007L3JHEO/?tag=redken-21) con 26.06 de descuento por 11.55 EUR (original: 15.62 EUR) en el siguiente enlace!
+Está [WaterWipes Toallitas para Pieles Sensible de Bebé  99.9% agua purificada  60 Unidad  Paquete de 4 ](https://www.amazon.es/dp/B007L3JHEO/?tag=tolees-21) con 26.06 de descuento por 11.55 EUR (original: 15.62 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41WnZSYisaL._SL200_.jpg)](https://www.amazon.es/dp/B007L3JHEO/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41WnZSYisaL._SL200_.jpg)](https://www.amazon.es/dp/B007L3JHEO/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B007L3JHEO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B007L3JHEO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

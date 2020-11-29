@@ -14,11 +14,11 @@ comparePrice: 4.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [One Step - Pack de 5 pruebas de embarazo 10 mIU/ml - Envío discreto - Ancho de tira a escoger  Tira ancha ](https://www.amazon.es/dp/B00AQIEGJW/?tag=redken-21) a 3.49 EUR (original: 4.99 EUR) (30.06 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [One Step - Pack de 5 pruebas de embarazo 10 mIU/ml - Envío discreto - Ancho de tira a escoger  Tira ancha ](https://www.amazon.es/dp/B00AQIEGJW/?tag=tolees-21) a 3.49 EUR (original: 4.99 EUR) (30.06 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/411clfuAUYL._SL200_.jpg)](https://www.amazon.es/dp/B00AQIEGJW/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/411clfuAUYL._SL200_.jpg)](https://www.amazon.es/dp/B00AQIEGJW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00AQIEGJW/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00AQIEGJW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

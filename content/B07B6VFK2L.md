@@ -14,11 +14,11 @@ comparePrice: 17.44 EUR
 inStock: true
 ---
 
-Tienes [Nestlé Naturnes Bio Bolsita de puré de Pera  Manzana y Plátano - Bolsita de Puré Para bebés 16x90g](https://www.amazon.es/dp/B07B6VFK2L/?tag=redken-21) con un 30.28 % de descuento con precio de oferta de 12.16 EUR (original: 17.44 EUR) en el siguiente enlace!
+Tienes [Nestlé Naturnes Bio Bolsita de puré de Pera  Manzana y Plátano - Bolsita de Puré Para bebés 16x90g](https://www.amazon.es/dp/B07B6VFK2L/?tag=tolees-21) con un 30.28 % de descuento con precio de oferta de 12.16 EUR (original: 17.44 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51ORmfMBAmL._SL200_.jpg)](https://www.amazon.es/dp/B07B6VFK2L/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51ORmfMBAmL._SL200_.jpg)](https://www.amazon.es/dp/B07B6VFK2L/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07B6VFK2L/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07B6VFK2L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
