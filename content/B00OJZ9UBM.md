@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baby Jogger City Mini Zip - Silla de pas al 55.93 % de descuento'
-date: 2020-11-26 08:08:27
+date: 2020-12-01 22:54:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LrlzsbfNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LrlzsbfNL._SL200_.jpg' ]
 comments: true
