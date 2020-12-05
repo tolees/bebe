@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.78 % en Safety 1st Bolid Andador bebé primeros p'
-date: 2020-12-04 09:07:53
+date: 2020-12-05 17:35:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/4134IfDMzyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4134IfDMzyL._SL200_.jpg' ]
 comments: true
