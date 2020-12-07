@@ -6,6 +6,8 @@ theme = "hugo-shopping-product-catalogue-simple"
 [Params]
 description = "Las últimas rebajas de"
 channel = "https://t.me/s/estodobebe"
+ga="G-SW01PLBZE8"
+yandex="2e182b1358b7eb92"
 
 [sitemap]
   changefreq = "daily"
