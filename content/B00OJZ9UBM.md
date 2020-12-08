@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Baby Jogger City Mini Zip - Silla de paseo  color negro](https://www.amazon.es/dp/B00OJZ9UBM/?tag=tolees-21) a 149.4 EUR (original: 339.0 EUR) (55.93 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41LrlzsbfNL._SL200_.jpg)](https://www.amazon.es/dp/B00OJZ9UBM/?tag=tolees-21)
+[![Baby Jogger City Mini Zip - Silla de pas](https://m.media-amazon.com/images/I/41LrlzsbfNL._SL200_.jpg)](https://www.amazon.es/dp/B00OJZ9UBM/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B00OJZ9UBM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

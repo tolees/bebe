@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [MICHLEY Toalla Bebe con Capucha  70x70cm Algodón Capa de Baño Bebé for 2-6 Años Pájaro morado](https://www.amazon.es/dp/B07BSZYQ65/?tag=tolees-21) a 26.99 EUR (original: 35.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41QKS1YW0WL._SL200_.jpg)](https://www.amazon.es/dp/B07BSZYQ65/?tag=tolees-21)
+[![MICHLEY Toalla Bebe con Capucha  70x70cm](https://m.media-amazon.com/images/I/41QKS1YW0WL._SL200_.jpg)](https://www.amazon.es/dp/B07BSZYQ65/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B07BSZYQ65/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

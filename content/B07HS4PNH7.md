@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Blevit Plus 5 Cereales para bebé  1 unidad 600 gr. A partir de los 5 meses.](https://www.amazon.es/dp/B07HS4PNH7/?tag=tolees-21) a 10.69 EUR (original: 16.66 EUR) (35.83 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51JTsyEv5LL._SL200_.jpg)](https://www.amazon.es/dp/B07HS4PNH7/?tag=tolees-21)
+[![Blevit Plus 5 Cereales para bebé  1 unid](https://m.media-amazon.com/images/I/51JTsyEv5LL._SL200_.jpg)](https://www.amazon.es/dp/B07HS4PNH7/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B07HS4PNH7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

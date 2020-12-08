@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Me to You Tiny Tatty Teddy - Caja de almacenamiento para recuerdos de bebé](https://www.amazon.es/dp/B07NGYDR9L/?tag=tolees-21) a 11.51 EUR (original: 18.7 EUR) (38.45 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31gsYe+MvzL._SL200_.jpg)](https://www.amazon.es/dp/B07NGYDR9L/?tag=tolees-21)
+[![Me to You Tiny Tatty Teddy - Caja de alm](https://m.media-amazon.com/images/I/31gsYe+MvzL._SL200_.jpg)](https://www.amazon.es/dp/B07NGYDR9L/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B07NGYDR9L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
