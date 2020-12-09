@@ -10,8 +10,11 @@ author: ring
 slug: B0837FWLRW
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 9.95 EUR
 inStock: true
+prodname: Nenuco de Famosa-Portabebés  niñas a Partir de 3 años   700015611 
 ---
 
 Está [Nenuco de Famosa-Portabebés  niñas a Partir de 3 años   700015611 ](https://www.amazon.es/dp/B0837FWLRW/?tag=tolees-21) con 29.75 de descuento por 6.99 EUR (original: 9.95 EUR) en el siguiente enlace!

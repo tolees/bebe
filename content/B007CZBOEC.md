@@ -10,8 +10,11 @@ author: ring
 slug: B007CZBOEC
 description:
 actualPrice: 21.16 EUR
+currency: EUR
+price: 21.16
 comparePrice: 29.69 EUR
 inStock: true
+prodname: Chicco Buenas Noches Estrellitas - Proyector con efecto de luces y melodías  color azul
 ---
 
 Tienes [Chicco Buenas Noches Estrellitas - Proyector con efecto de luces y melodías  color azul](https://www.amazon.es/dp/B007CZBOEC/?tag=tolees-21) con un 28.73 % de descuento con precio de oferta de 21.16 EUR (original: 29.69 EUR) en el siguiente enlace!

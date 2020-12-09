@@ -10,8 +10,11 @@ author: ring
 slug: B079Y8KFDQ
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 14.16 EUR
 inStock: true
+prodname: Chicco Mini Turbo Touch - Mini vehiculos con carga por retroceso o movimiento libre de ruedas  color azul
 ---
 
 Ahora mismo tienes [Chicco Mini Turbo Touch - Mini vehiculos con carga por retroceso o movimiento libre de ruedas  color azul](https://www.amazon.es/dp/B079Y8KFDQ/?tag=tolees-21) a 6.99 EUR (original: 14.16 EUR) (50.64 %  de descuento) en el siguiente enlace!

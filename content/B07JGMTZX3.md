@@ -10,8 +10,11 @@ author: ring
 slug: B07JGMTZX3
 description:
 actualPrice: 75.74 EUR
+currency: EUR
+price: 75.74
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Safety 1st Timba con cojín  Trona de madera evolutiva  Trona para bebés con bandeja extraíble  Silla de altura regulable crece con el niño 6 meses - 10 años  color Natural
 ---
 
 Está [Safety 1st Timba con cojín  Trona de madera evolutiva  Trona para bebés con bandeja extraíble  Silla de altura regulable crece con el niño 6 meses - 10 años  color Natural](https://www.amazon.es/dp/B07JGMTZX3/?tag=tolees-21) con 45.90 de descuento por 75.74 EUR (original: 140.0 EUR) en el siguiente enlace!

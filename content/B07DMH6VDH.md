@@ -10,8 +10,11 @@ author: ring
 slug: B07DMH6VDH
 description:
 actualPrice: 13.39 EUR
+currency: EUR
+price: 13.39
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Philips Avent Biberón Natural SCF033/27 - Pack de dos biberones de 260 ml con tetina con flujo para recién nacidos  diseñada para imitar el tacto del pecho  0% BPA  1m+  color transparente
 ---
 
 Tienes [Philips Avent Biberón Natural SCF033/27 - Pack de dos biberones de 260 ml con tetina con flujo para recién nacidos  diseñada para imitar el tacto del pecho  0% BPA  1m+  color transparente](https://www.amazon.es/dp/B07DMH6VDH/?tag=tolees-21) con un 29.49 % de descuento con precio de oferta de 13.39 EUR (original: 18.99 EUR) en el siguiente enlace!

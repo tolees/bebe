@@ -10,8 +10,11 @@ author: ring
 slug: B07DD5CVSY
 description:
 actualPrice: 29.6 EUR
+currency: EUR
+price: 29.6
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Nenuco Juguetón  muñeco Interactivo 5 Juegos  Famosa 700014356    color/modelo surtido
 ---
 
 Está [Nenuco Juguetón  muñeco Interactivo 5 Juegos  Famosa 700014356    color/modelo surtido](https://www.amazon.es/dp/B07DD5CVSY/?tag=tolees-21) con 34.15 de descuento por 29.6 EUR (original: 44.95 EUR) en el siguiente enlace!

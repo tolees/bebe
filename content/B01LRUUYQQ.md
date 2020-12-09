@@ -10,8 +10,11 @@ author: ring
 slug: B01LRUUYQQ
 description:
 actualPrice: 29 EUR
+currency: EUR
+price: 29
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Hauck Sun Plus - Disney silla de paseo compacta y ligera  diseño disney  para bebes de 6 meses a 15 kg  minnie pink  rosa 
 ---
 
 Ahora mismo tienes [Hauck Sun Plus - Disney silla de paseo compacta y ligera  diseño disney  para bebes de 6 meses a 15 kg  minnie pink  rosa ](https://www.amazon.es/dp/B01LRUUYQQ/?tag=tolees-21) a 29 EUR (original: 44.99 EUR) (35.54 %  de descuento) en el siguiente enlace!

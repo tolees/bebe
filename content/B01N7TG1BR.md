@@ -10,8 +10,11 @@ author: ring
 slug: B01N7TG1BR
 description:
 actualPrice: 12.68 EUR
+currency: EUR
+price: 12.68
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Chicco Boppy - Cojín ergonómico con actividades - Alfombra y gimnasio de juegos bebés - colores animales
 ---
 
 Está [Chicco Boppy - Cojín ergonómico con actividades - Alfombra y gimnasio de juegos bebés - colores animales](https://www.amazon.es/dp/B01N7TG1BR/?tag=tolees-21) con 36.57 de descuento por 12.68 EUR (original: 19.99 EUR) en el siguiente enlace!

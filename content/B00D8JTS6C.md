@@ -10,8 +10,11 @@ author: ring
 slug: B00D8JTS6C
 description:
 actualPrice: 6.2 EUR
+currency: EUR
+price: 6.2
 comparePrice: 8.31 EUR
 inStock: true
+prodname: ARNIDOL Gel stick  reconforta tras golpes leves  Barra 15g  8424657531014 
 ---
 
 Está [ARNIDOL Gel stick  reconforta tras golpes leves  Barra 15g  8424657531014 ](https://www.amazon.es/dp/B00D8JTS6C/?tag=tolees-21) con 25.39 de descuento por 6.2 EUR (original: 8.31 EUR) en el siguiente enlace!

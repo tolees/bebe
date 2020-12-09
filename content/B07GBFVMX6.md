@@ -10,8 +10,11 @@ author: ring
 slug: B07GBFVMX6
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 66.6 EUR
 inStock: true
+prodname: IMC Toys - Bebés Llorones  Minnie  97865 
 ---
 
 Ahora mismo tienes [IMC Toys - Bebés Llorones  Minnie  97865 ](https://www.amazon.es/dp/B07GBFVMX6/?tag=tolees-21) a 39.99 EUR (original: 66.6 EUR) (39.95 %  de descuento) en el siguiente enlace!

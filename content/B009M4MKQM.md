@@ -10,8 +10,11 @@ author: ring
 slug: B009M4MKQM
 description:
 actualPrice: 5.7 EUR
+currency: EUR
+price: 5.7
 comparePrice: 10.6 EUR
 inStock: true
+prodname: Rhinomer Baby - Recambios Blandos Desechables para Narhinel Confort Aspirador Nasal para Bebés - 20 unidades
 ---
 
 Está [Rhinomer Baby - Recambios Blandos Desechables para Narhinel Confort Aspirador Nasal para Bebés - 20 unidades](https://www.amazon.es/dp/B009M4MKQM/?tag=tolees-21) con 46.23 de descuento por 5.7 EUR (original: 10.6 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MSZMINO
 description:
 actualPrice: 4.75 EUR
+currency: EUR
+price: 4.75
 comparePrice: 9.03 EUR
 inStock: true
+prodname: Twistshake - Biberón anticólico tetina silicona  260 ml.  negro
 ---
 
 Ahora mismo tienes [Twistshake - Biberón anticólico tetina silicona  260 ml.  negro](https://www.amazon.es/dp/B01MSZMINO/?tag=tolees-21) a 4.75 EUR (original: 9.03 EUR) (47.40 %  de descuento) en el siguiente enlace!

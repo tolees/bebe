@@ -10,8 +10,11 @@ author: ring
 slug: B07NGYDR9L
 description:
 actualPrice: 11.51 EUR
+currency: EUR
+price: 11.51
 comparePrice: 18.7 EUR
 inStock: true
+prodname: Me to You Tiny Tatty Teddy - Caja de almacenamiento para recuerdos de bebé
 ---
 
 Tienes [Me to You Tiny Tatty Teddy - Caja de almacenamiento para recuerdos de bebé](https://www.amazon.es/dp/B07NGYDR9L/?tag=tolees-21) con un 38.45 % de descuento con precio de oferta de 11.51 EUR (original: 18.7 EUR) en el siguiente enlace!

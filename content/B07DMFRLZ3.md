@@ -10,8 +10,11 @@ author: ring
 slug: B07DMFRLZ3
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Philips Avent SCD301/01 - Set de recién nacido gama natural  4 biberones  chupete y escobilla  transparente
 ---
 
 Ahora mismo tienes [Philips Avent SCD301/01 - Set de recién nacido gama natural  4 biberones  chupete y escobilla  transparente](https://www.amazon.es/dp/B07DMFRLZ3/?tag=tolees-21) a 22.99 EUR (original: 39.99 EUR) (42.51 %  de descuento) en el siguiente enlace!

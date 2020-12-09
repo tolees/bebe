@@ -10,8 +10,11 @@ author: ring
 slug: B07RP16NMK
 description:
 actualPrice: 36.49 EUR
+currency: EUR
+price: 36.49
 comparePrice: 48.99 EUR
 inStock: true
+prodname: Dodot Activity - Pañales con Ajuste más Resistente 13 kg+  Talla 6  117 Unidades
 ---
 
 Está [Dodot Activity - Pañales con Ajuste más Resistente 13 kg+  Talla 6  117 Unidades](https://www.amazon.es/dp/B07RP16NMK/?tag=tolees-21) con 25.52 de descuento por 36.49 EUR (original: 48.99 EUR) en el siguiente enlace!

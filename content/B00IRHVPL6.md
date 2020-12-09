@@ -10,8 +10,11 @@ author: ring
 slug: B00IRHVPL6
 description:
 actualPrice: 4.9 EUR
+currency: EUR
+price: 4.9
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Tommee Tippee Succhietti Fun Style  0-6 Mesi  2 pezzi
 ---
 
 Tienes [Tommee Tippee Succhietti Fun Style  0-6 Mesi  2 pezzi](https://www.amazon.it/dp/B00IRHVPL6/?tag=tolees00-21) con un 45.49 % de descuento con precio de oferta de 4.9 EUR (original: 8.99 EUR) en el siguiente enlace!

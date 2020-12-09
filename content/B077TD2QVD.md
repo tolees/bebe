@@ -10,8 +10,11 @@ author: ring
 slug: B077TD2QVD
 description:
 actualPrice: 15.58 EUR
+currency: EUR
+price: 15.58
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Gocco S87OJTCA101  Falda para Bebés  Rojo  Fresa   12-20 Meses
 ---
 
 Ahora mismo tienes [Gocco S87OJTCA101  Falda para Bebés  Rojo  Fresa   12-20 Meses](https://www.amazon.es/dp/B077TD2QVD/?tag=tolees-21) a 15.58 EUR (original: 45.99 EUR) (66.12 %  de descuento) en el siguiente enlace!

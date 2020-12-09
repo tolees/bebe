@@ -10,8 +10,11 @@ author: ring
 slug: B07M8YFZH5
 description:
 actualPrice: 45.49 EUR
+currency: EUR
+price: 45.49
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Dodot Sensitive - Pañales  11-16 kg  Talla 5  168 Unidades
 ---
 
 Está [Dodot Sensitive - Pañales  11-16 kg  Talla 5  168 Unidades](https://www.amazon.es/dp/B07M8YFZH5/?tag=tolees-21) con 30.00 de descuento por 45.49 EUR (original: 64.99 EUR) en el siguiente enlace!

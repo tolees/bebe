@@ -10,8 +10,11 @@ author: ring
 slug: B08GCYY8DD
 description:
 actualPrice: 5.78 EUR
+currency: EUR
+price: 5.78
 comparePrice: 7.99 EUR
 inStock: true
+prodname: OnlyBP - 20 pcs Protector esquinas bebe transparente  Esquineros protectores bebe suaves
 ---
 
 Está [OnlyBP - 20 pcs Protector esquinas bebe transparente  Esquineros protectores bebe suaves](https://www.amazon.es/dp/B08GCYY8DD/?tag=tolees-21) con 27.66 de descuento por 5.78 EUR (original: 7.99 EUR) en el siguiente enlace!

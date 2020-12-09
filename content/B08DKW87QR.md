@@ -10,8 +10,11 @@ author: ring
 slug: B08DKW87QR
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: BEAU-PRO Calendrier de l Avent 2020  Coffret Maquillage  24 Produits Cosmétiques  Soin de la Peau et Beauté pour Noël  Superbe pour Filles/Femmes/Mères
 ---
 
 Tienes [BEAU-PRO Calendrier de l Avent 2020  Coffret Maquillage  24 Produits Cosmétiques  Soin de la Peau et Beauté pour Noël  Superbe pour Filles/Femmes/Mères](https://www.amazon.fr/dp/B08DKW87QR/?tag=tolees0d-21) con un 32.01 % de descuento con precio de oferta de 33.99 EUR (original: 49.99 EUR) en el siguiente enlace!

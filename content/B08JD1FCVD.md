@@ -10,8 +10,11 @@ author: ring
 slug: B08JD1FCVD
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Vibeey Termometro Infrarrojos Digital Termometro Infrarrojos de Frente Sin Contacto Digital para Bebés y Adultos  Lectura Instantánea con Pantalla LCD Digital
 ---
 
 Ahora mismo tienes [Vibeey Termometro Infrarrojos Digital Termometro Infrarrojos de Frente Sin Contacto Digital para Bebés y Adultos  Lectura Instantánea con Pantalla LCD Digital](https://www.amazon.es/dp/B08JD1FCVD/?tag=tolees-21) a 19.95 EUR (original: 27.99 EUR) (28.72 %  de descuento) en el siguiente enlace!

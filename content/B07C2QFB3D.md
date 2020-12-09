@@ -10,8 +10,11 @@ author: ring
 slug: B07C2QFB3D
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Kono Mochilas de Pañales y Biberones  Mochila de Cambio Bebé con Bolsillo Térmico para Biberones  Punto rosa 
 ---
 
 Está [Kono Mochilas de Pañales y Biberones  Mochila de Cambio Bebé con Bolsillo Térmico para Biberones  Punto rosa ](https://www.amazon.es/dp/B07C2QFB3D/?tag=tolees-21) con 56.53 de descuento por 19.99 EUR (original: 45.99 EUR) en el siguiente enlace!

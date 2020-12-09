@@ -10,8 +10,11 @@ author: ring
 slug: B07F5LQWM9
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Luchild 8pcs Tope Clip Protector Puerta Dedos Espuma tope puerta bebe Seguridad Puertas Niños
 ---
 
 Tienes [Luchild 8pcs Tope Clip Protector Puerta Dedos Espuma tope puerta bebe Seguridad Puertas Niños](https://www.amazon.es/dp/B07F5LQWM9/?tag=tolees-21) con un 33.37 % de descuento con precio de oferta de 5.99 EUR (original: 8.99 EUR) en el siguiente enlace!

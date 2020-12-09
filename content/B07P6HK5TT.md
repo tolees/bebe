@@ -10,8 +10,11 @@ author: ring
 slug: B07P6HK5TT
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Aibrou Camisón Mujer Algodón Pijama Embarazada Ropa para Dormir Premamá Manga Corta Hospital Invierno Verano  Large  Azul Oscuro 
 ---
 
 Ahora mismo tienes [Aibrou Camisón Mujer Algodón Pijama Embarazada Ropa para Dormir Premamá Manga Corta Hospital Invierno Verano  Large  Azul Oscuro ](https://www.amazon.es/dp/B07P6HK5TT/?tag=tolees-21) a 21.99 EUR (original: 49.99 EUR) (56.01 %  de descuento) en el siguiente enlace!

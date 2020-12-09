@@ -10,8 +10,11 @@ author: ring
 slug: B08GY4CZJN
 description:
 actualPrice: 19.81 EUR
+currency: EUR
+price: 19.81
 comparePrice: 28.04 EUR
 inStock: true
+prodname: ISDIN NutraISDIN 690020489 Canastilla Mini Azul  Pack Body Lotion  Bath Gel  Zn40  Facial SPF15
 ---
 
 Tienes [ISDIN NutraISDIN 690020489 Canastilla Mini Azul  Pack Body Lotion  Bath Gel  Zn40  Facial SPF15](https://www.amazon.es/dp/B08GY4CZJN/?tag=tolees-21) con un 29.35 % de descuento con precio de oferta de 19.81 EUR (original: 28.04 EUR) en el siguiente enlace!

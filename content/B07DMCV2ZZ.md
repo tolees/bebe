@@ -10,8 +10,11 @@ author: ring
 slug: B07DMCV2ZZ
 description:
 actualPrice: 5.19 EUR
+currency: EUR
+price: 5.19
 comparePrice: 6.99 EUR
 inStock: true
+prodname: Philips Avent SCF042/27-2 - Tetinas natural flujo lento  1m+  con 1 agujero
 ---
 
 Está [Philips Avent SCF042/27-2 - Tetinas natural flujo lento  1m+  con 1 agujero](https://www.amazon.es/dp/B07DMCV2ZZ/?tag=tolees-21) con 25.75 de descuento por 5.19 EUR (original: 6.99 EUR) en el siguiente enlace!

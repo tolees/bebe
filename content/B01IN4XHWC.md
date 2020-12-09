@@ -10,8 +10,11 @@ author: ring
 slug: B01IN4XHWC
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Fisher-Price Maletín pequeño doctor  juego de rol niño +3 años  Mattel DVH14 
 ---
 
 Tienes [Fisher-Price Maletín pequeño doctor  juego de rol niño +3 años  Mattel DVH14 ](https://www.amazon.es/dp/B01IN4XHWC/?tag=tolees-21) con un 37.52 % de descuento con precio de oferta de 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

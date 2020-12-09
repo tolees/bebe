@@ -10,8 +10,11 @@ author: ring
 slug: B07XPG77LF
 description:
 actualPrice: 138.89 EUR
+currency: EUR
+price: 138.89
 comparePrice: 219.95 EUR
 inStock: true
+prodname: Cybex Gold - Silla de coche Solution S-Fix  para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años aprox.  Negro  Granite Black 
 ---
 
 Está [Cybex Gold - Silla de coche Solution S-Fix  para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años aprox.  Negro  Granite Black ](https://www.amazon.es/dp/B07XPG77LF/?tag=tolees-21) con 36.85 de descuento por 138.89 EUR (original: 219.95 EUR) en el siguiente enlace!

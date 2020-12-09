@@ -10,8 +10,11 @@ author: ring
 slug: B08KPY14XB
 description:
 actualPrice: 8.08 EUR
+currency: EUR
+price: 8.08
 comparePrice: 16.16 EUR
 inStock: true
+prodname: lijun Bloques de construcción  Juguete Educativo Montessori de descomposición en Forma de geometría de Aprendizaje de Madera para niños y bebés
 ---
 
 Tienes [lijun Bloques de construcción  Juguete Educativo Montessori de descomposición en Forma de geometría de Aprendizaje de Madera para niños y bebés](https://www.amazon.es/dp/B08KPY14XB/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 8.08 EUR (original: 16.16 EUR) en el siguiente enlace!

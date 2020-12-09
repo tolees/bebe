@@ -10,8 +10,11 @@ author: ring
 slug: B01M1Y7HOQ
 description:
 actualPrice: 31.2 EUR
+currency: EUR
+price: 31.2
 comparePrice: 49.0 EUR
 inStock: true
+prodname: Hot Mom - barandillas de la cama 150 cm para bebés  portátil y estable  barrera de seguridad color rosa  2020 new
 ---
 
 Está [Hot Mom - barandillas de la cama 150 cm para bebés  portátil y estable  barrera de seguridad color rosa  2020 new](https://www.amazon.es/dp/B01M1Y7HOQ/?tag=tolees-21) con 36.33 de descuento por 31.2 EUR (original: 49.0 EUR) en el siguiente enlace!

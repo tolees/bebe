@@ -10,8 +10,11 @@ author: ring
 slug: B00KU0TY5W
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Philips Avent SCF330/13 - Extractor de leche manual  con cojín masajeador y 3 vasos de almacenamiento
 ---
 
 Está [Philips Avent SCF330/13 - Extractor de leche manual  con cojín masajeador y 3 vasos de almacenamiento](https://www.amazon.es/dp/B00KU0TY5W/?tag=tolees-21) con 45.01 de descuento por 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00P4CEUS2
 description:
 actualPrice: 19.57 EUR
+currency: EUR
+price: 19.57
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Fisher Price Caballito de mar dulces sueños azul  juguete de cuna bebé  Mattel DGH82    color/modelo surtido
 ---
 
 Está [Fisher Price Caballito de mar dulces sueños azul  juguete de cuna bebé  Mattel DGH82    color/modelo surtido](https://www.amazon.es/dp/B00P4CEUS2/?tag=tolees-21) con 34.74 de descuento por 19.57 EUR (original: 29.99 EUR) en el siguiente enlace!

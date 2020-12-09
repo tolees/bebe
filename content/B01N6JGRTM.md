@@ -10,8 +10,11 @@ author: ring
 slug: B01N6JGRTM
 description:
 actualPrice: 194.95 EUR
+currency: EUR
+price: 194.95
 comparePrice: 360.13 EUR
 inStock: true
+prodname: Bebe Confort 3220660266593 Carrito gemelar 2Asiento s  Marrón - Cochecito  Carrito gemelar  36 mes es   2 Asiento s   Marrón  Aluminio  De plástico  Plano 
 ---
 
 Ahora mismo tienes [Bebe Confort 3220660266593 Carrito gemelar 2Asiento s  Marrón - Cochecito  Carrito gemelar  36 mes es   2 Asiento s   Marrón  Aluminio  De plástico  Plano ](https://www.amazon.es/dp/B01N6JGRTM/?tag=tolees-21) a 194.95 EUR (original: 360.13 EUR) (45.87 %  de descuento) en el siguiente enlace!

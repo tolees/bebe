@@ -10,8 +10,11 @@ author: ring
 slug: B07LFS2C2X
 description:
 actualPrice: 20.59 EUR
+currency: EUR
+price: 20.59
 comparePrice: 38.01 EUR
 inStock: true
+prodname: Chicco Completo Polo con Pantaloni Lunghi Conjunto de Ropa  Gris  Grigio Medio 095   86  Talla del Fabricante: 086  para Bebés
 ---
 
 Está [Chicco Completo Polo con Pantaloni Lunghi Conjunto de Ropa  Gris  Grigio Medio 095   86  Talla del Fabricante: 086  para Bebés](https://www.amazon.es/dp/B07LFS2C2X/?tag=tolees-21) con 45.83 de descuento por 20.59 EUR (original: 38.01 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01KWJT6AS
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 24.19 EUR
 inStock: true
+prodname: Espejo Retrovisor Coche de VicTsing para Vigilar al Bebé en el Coche  360° Ajustable Irrompible Interior Espejo Coche Bebé  para Los Asientos de Niños Orientados Hacia Atrás 100% Inastillable
 ---
 
 Tienes [Espejo Retrovisor Coche de VicTsing para Vigilar al Bebé en el Coche  360° Ajustable Irrompible Interior Espejo Coche Bebé  para Los Asientos de Niños Orientados Hacia Atrás 100% Inastillable](https://www.amazon.es/dp/B01KWJT6AS/?tag=tolees-21) con un 29.76 % de descuento con precio de oferta de 16.99 EUR (original: 24.19 EUR) en el siguiente enlace!

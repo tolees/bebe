@@ -10,8 +10,11 @@ author: ring
 slug: B005XATCO2
 description:
 actualPrice: 167.44 EUR
+currency: EUR
+price: 167.44
 comparePrice: 289.95 EUR
 inStock: true
+prodname: Cybex Silver Pallas-Fix Seggiolino Auto 2 in 1 per Bambini  per Auto con e senza ISOFIX  Gruppo 1/2/3/9-36 kg  dai 9 Mesi ca. ai 12 Anni ca.  Nero  Pure Black 
 ---
 
 Tienes [Cybex Silver Pallas-Fix Seggiolino Auto 2 in 1 per Bambini  per Auto con e senza ISOFIX  Gruppo 1/2/3/9-36 kg  dai 9 Mesi ca. ai 12 Anni ca.  Nero  Pure Black ](https://www.amazon.it/dp/B005XATCO2/?tag=tolees00-21) con un 42.25 % de descuento con precio de oferta de 167.44 EUR (original: 289.95 EUR) en el siguiente enlace!

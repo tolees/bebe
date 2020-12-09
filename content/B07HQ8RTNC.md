@@ -10,8 +10,11 @@ author: ring
 slug: B07HQ8RTNC
 description:
 actualPrice: 27.69 EUR
+currency: EUR
+price: 27.69
 comparePrice: 37.99 EUR
 inStock: true
+prodname: IMC Toys - Bebés Llorones  Fancy  97056 
 ---
 
 Tienes [IMC Toys - Bebés Llorones  Fancy  97056 ](https://www.amazon.es/dp/B07HQ8RTNC/?tag=tolees-21) con un 27.11 % de descuento con precio de oferta de 27.69 EUR (original: 37.99 EUR) en el siguiente enlace!

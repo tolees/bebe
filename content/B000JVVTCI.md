@@ -10,8 +10,11 @@ author: ring
 slug: B000JVVTCI
 description:
 actualPrice: 6.62 EUR
+currency: EUR
+price: 6.62
 comparePrice: 10.98 EUR
 inStock: true
+prodname: NUBY Llaves de dentición refrigerantes con pureICE Gel
 ---
 
 Ahora mismo tienes [NUBY Llaves de dentición refrigerantes con pureICE Gel](https://www.amazon.es/dp/B000JVVTCI/?tag=tolees-21) a 6.62 EUR (original: 10.98 EUR) (39.71 %  de descuento) en el siguiente enlace!

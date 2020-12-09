@@ -10,8 +10,11 @@ author: ring
 slug: B0756HXMHW
 description:
 actualPrice: 71.86 EUR
+currency: EUR
+price: 71.86
 comparePrice: 139.9 EUR
 inStock: true
+prodname: Tiny Love 3 in 1 Cozy Rocker - Balancín para bebé  Gris
 ---
 
 Está [Tiny Love 3 in 1 Cozy Rocker - Balancín para bebé  Gris](https://www.amazon.es/dp/B0756HXMHW/?tag=tolees-21) con 48.63 de descuento por 71.86 EUR (original: 139.9 EUR) en el siguiente enlace!
