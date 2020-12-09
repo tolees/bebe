@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Decdeal Bebé Manta Mensual Hito Franela como Fondo Fotográfico para Bebé Recién Nacido con Estampado Floral 28 * 40
+prodname: 'Decdeal Bebé Manta Mensual Hito Franela como Fondo Fotográfico para Bebé Recién Nacido con Estampado Floral 28 * 40'
 ---
 
 Está [Decdeal Bebé Manta Mensual Hito Franela como Fondo Fotográfico para Bebé Recién Nacido con Estampado Floral 28 * 40](https://www.amazon.es/dp/B07H8FV6MK/?tag=tolees-21) con 28.59 de descuento por 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

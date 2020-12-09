@@ -14,7 +14,7 @@ currency: EUR
 price: 97.63
 comparePrice: 189.95 EUR
 inStock: true
-prodname: CYBEX Silver Siège Auto Solution X  Groupes 2/3  15-36 kg   De 3 Ans à 12 Ans Environ  Sans ISOFIX  Rumba Red
+prodname: 'CYBEX Silver Siège Auto Solution X  Groupes 2/3  15-36 kg   De 3 Ans à 12 Ans Environ  Sans ISOFIX  Rumba Red'
 ---
 
 Tienes [CYBEX Silver Siège Auto Solution X  Groupes 2/3  15-36 kg   De 3 Ans à 12 Ans Environ  Sans ISOFIX  Rumba Red](https://www.amazon.fr/dp/B00FAO6QEA/?tag=tolees0d-21) con un 48.60 % de descuento con precio de oferta de 97.63 EUR (original: 189.95 EUR) en el siguiente enlace!

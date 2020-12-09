@@ -14,7 +14,7 @@ currency: EUR
 price: 24.79
 comparePrice: 42.99 EUR
 inStock: true
-prodname: Nebulizador Comprimido - Nebulizador con Tasa de Atomización Ajustable con Boquilla y Máscara para Bebés  Adultos y Ancianos - Inhalador de Compresor Eficaz para enfermedades Respiratorias
+prodname: 'Nebulizador Comprimido - Nebulizador con Tasa de Atomización Ajustable con Boquilla y Máscara para Bebés  Adultos y Ancianos - Inhalador de Compresor Eficaz para enfermedades Respiratorias'
 ---
 
 Ahora mismo tienes [Nebulizador Comprimido - Nebulizador con Tasa de Atomización Ajustable con Boquilla y Máscara para Bebés  Adultos y Ancianos - Inhalador de Compresor Eficaz para enfermedades Respiratorias](https://www.amazon.es/dp/B07FXBCF33/?tag=tolees-21) a 24.79 EUR (original: 42.99 EUR) (42.34 %  de descuento) en el siguiente enlace!

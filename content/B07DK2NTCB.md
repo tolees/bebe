@@ -14,7 +14,7 @@ currency: EUR
 price: 35.96
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Geox Baby Each Boy  Zapatillas para Bebés  Azul  Navy C4002   19 EU
+prodname: 'Geox Baby Each Boy  Zapatillas para Bebés  Azul  Navy C4002   19 EU'
 ---
 
 Tienes [Geox Baby Each Boy  Zapatillas para Bebés  Azul  Navy C4002   19 EU](https://www.amazon.es/dp/B07DK2NTCB/?tag=tolees-21) con un 27.94 % de descuento con precio de oferta de 35.96 EUR (original: 49.9 EUR) en el siguiente enlace!

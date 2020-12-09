@@ -14,7 +14,7 @@ currency: GBP
 price: 4.0
 comparePrice: 5.49 GBP
 inStock: true
-prodname: Munchkin Swimming Scuba Buddy Wind Up Bath Toy
+prodname: 'Munchkin Swimming Scuba Buddy Wind Up Bath Toy'
 ---
 
 Ahora mismo tienes [Munchkin Swimming Scuba Buddy Wind Up Bath Toy](https://www.amazon.co.uk/dp/B00QTXYO4U/?tag=tolees0a-21) a 4.0 GBP (original: 5.49 GBP) (27.14 %  de descuento) en el siguiente enlace!

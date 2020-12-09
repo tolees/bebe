@@ -14,7 +14,7 @@ currency: EUR
 price: 23.75
 comparePrice: 34.95 EUR
 inStock: true
-prodname: PUMA Smash v2 SD V Inf  Zapatillas Unisex Bebé  Azul  Peacoat White   25 EU
+prodname: 'PUMA Smash v2 SD V Inf  Zapatillas Unisex Bebé  Azul  Peacoat White   25 EU'
 ---
 
 Está [PUMA Smash v2 SD V Inf  Zapatillas Unisex Bebé  Azul  Peacoat White   25 EU](https://www.amazon.es/dp/B077MJGP9R/?tag=tolees-21) con 32.05 de descuento por 23.75 EUR (original: 34.95 EUR) en el siguiente enlace!

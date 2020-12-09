@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Limpiador de Oídos  Ear Wax Cleaner  Limpador Cera Oidos  Kit de herramientas para limpieza de oídos  espiral inteligente  con 16 puntas lavables  Seguro y Suave  Adecuado para Bebés y Adultos-Verde
+prodname: 'Limpiador de Oídos  Ear Wax Cleaner  Limpador Cera Oidos  Kit de herramientas para limpieza de oídos  espiral inteligente  con 16 puntas lavables  Seguro y Suave  Adecuado para Bebés y Adultos-Verde'
 ---
 
 Está [Limpiador de Oídos  Ear Wax Cleaner  Limpador Cera Oidos  Kit de herramientas para limpieza de oídos  espiral inteligente  con 16 puntas lavables  Seguro y Suave  Adecuado para Bebés y Adultos-Verde](https://www.amazon.es/dp/B08N66KNCW/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

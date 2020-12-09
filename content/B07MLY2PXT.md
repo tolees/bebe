@@ -14,7 +14,7 @@ currency: GBP
 price: 23.99
 comparePrice: 34.99 GBP
 inStock: true
-prodname: Fisher-Price GHR18 Linkimals Smooth Moves Sloth  Baby Toy with Music & Lights  Multicolour
+prodname: 'Fisher-Price GHR18 Linkimals Smooth Moves Sloth  Baby Toy with Music & Lights  Multicolour'
 ---
 
 Está [Fisher-Price GHR18 Linkimals Smooth Moves Sloth  Baby Toy with Music & Lights  Multicolour](https://www.amazon.co.uk/dp/B07MLY2PXT/?tag=tolees0a-21) con 31.44 de descuento por 23.99 GBP (original: 34.99 GBP) en el siguiente enlace!

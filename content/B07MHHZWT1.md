@@ -14,7 +14,7 @@ currency: EUR
 price: 15.96
 comparePrice: 22.85 EUR
 inStock: true
-prodname: Nenuco Jabon Líquido Ultra Suave de bebé con extracto de aloe - paquete de 6 unidades x 750 ml
+prodname: 'Nenuco Jabon Líquido Ultra Suave de bebé con extracto de aloe - paquete de 6 unidades x 750 ml'
 ---
 
 Ahora mismo tienes [Nenuco Jabon Líquido Ultra Suave de bebé con extracto de aloe - paquete de 6 unidades x 750 ml](https://www.amazon.es/dp/B07MHHZWT1/?tag=tolees-21) a 15.96 EUR (original: 22.85 EUR) (30.15 %  de descuento) en el siguiente enlace!

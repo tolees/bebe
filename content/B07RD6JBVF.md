@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 58.75 EUR
 inStock: true
-prodname: meiqicool Alfombra Puzzle para Niños Bebe Infantil  esteras de 30x30 cm  18 Piezas en Espuma EVA años Alfombra puzle Goma Espuma 0810 Turquesa Beige 0810
+prodname: 'meiqicool Alfombra Puzzle para Niños Bebe Infantil  esteras de 30x30 cm  18 Piezas en Espuma EVA años Alfombra puzle Goma Espuma 0810 Turquesa Beige 0810'
 ---
 
 Tienes [meiqicool Alfombra Puzzle para Niños Bebe Infantil  esteras de 30x30 cm  18 Piezas en Espuma EVA años Alfombra puzle Goma Espuma 0810 Turquesa Beige 0810](https://www.amazon.es/dp/B07RD6JBVF/?tag=tolees-21) con un 47.25 % de descuento con precio de oferta de 30.99 EUR (original: 58.75 EUR) en el siguiente enlace!

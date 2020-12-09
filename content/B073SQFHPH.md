@@ -14,7 +14,7 @@ currency: EUR
 price: 15.66
 comparePrice: 28.66 EUR
 inStock: true
-prodname: Protección Auditiva Orejeras para Bebé Oídos Plegables y Ajustables Reducción de Ruido para Dormir para Recién Nacidos  3 Meses – 2 Años Niño  rosado 
+prodname: 'Protección Auditiva Orejeras para Bebé Oídos Plegables y Ajustables Reducción de Ruido para Dormir para Recién Nacidos  3 Meses – 2 Años Niño  rosado '
 ---
 
 Tienes [Protección Auditiva Orejeras para Bebé Oídos Plegables y Ajustables Reducción de Ruido para Dormir para Recién Nacidos  3 Meses – 2 Años Niño  rosado ](https://www.amazon.es/dp/B073SQFHPH/?tag=tolees-21) con un 45.36 % de descuento con precio de oferta de 15.66 EUR (original: 28.66 EUR) en el siguiente enlace!

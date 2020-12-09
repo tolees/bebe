@@ -14,7 +14,7 @@ currency: EUR
 price: 3.49
 comparePrice: 4.99 EUR
 inStock: true
-prodname: One Step - Pack de 5 pruebas de embarazo 10 mIU/ml - Envío discreto - Ancho de tira a escoger  Tira ancha 
+prodname: 'One Step - Pack de 5 pruebas de embarazo 10 mIU/ml - Envío discreto - Ancho de tira a escoger  Tira ancha '
 ---
 
 Está [One Step - Pack de 5 pruebas de embarazo 10 mIU/ml - Envío discreto - Ancho de tira a escoger  Tira ancha ](https://www.amazon.es/dp/B00AQIEGJW/?tag=tolees-21) con 30.06 de descuento por 3.49 EUR (original: 4.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Fisher-Price Móvil ositos voladores  juguete de cuna proyector para bebé  Mattel CDN41 
+prodname: 'Fisher-Price Móvil ositos voladores  juguete de cuna proyector para bebé  Mattel CDN41 '
 ---
 
 Ahora mismo tienes [Fisher-Price Móvil ositos voladores  juguete de cuna proyector para bebé  Mattel CDN41 ](https://www.amazon.es/dp/B00PI0J4CM/?tag=tolees-21) a 26.99 EUR (original: 49.99 EUR) (46.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 26.79
 comparePrice: 37.99 EUR
 inStock: true
-prodname: IMC Toys - Bebés Llorones  Dotty Dalmata  96370 
+prodname: 'IMC Toys - Bebés Llorones  Dotty Dalmata  96370 '
 ---
 
 Tienes [IMC Toys - Bebés Llorones  Dotty Dalmata  96370 ](https://www.amazon.es/dp/B079NN9XPP/?tag=tolees-21) con un 29.48 % de descuento con precio de oferta de 26.79 EUR (original: 37.99 EUR) en el siguiente enlace!

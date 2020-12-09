@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Tommee Tippee Poubelle à Couches Twist & Click Sangenic TEC  Contient Jusqu’à 30 Couches  Protection Anti-Odeur et Anti-Germe Garantie  Inclus 1x Cassette de Recharge  Couleur Blanche
+prodname: 'Tommee Tippee Poubelle à Couches Twist & Click Sangenic TEC  Contient Jusqu’à 30 Couches  Protection Anti-Odeur et Anti-Germe Garantie  Inclus 1x Cassette de Recharge  Couleur Blanche'
 ---
 
 Tienes [Tommee Tippee Poubelle à Couches Twist & Click Sangenic TEC  Contient Jusqu’à 30 Couches  Protection Anti-Odeur et Anti-Germe Garantie  Inclus 1x Cassette de Recharge  Couleur Blanche](https://www.amazon.fr/dp/B07KBGCPSG/?tag=tolees0d-21) con un 69.99 % de descuento con precio de oferta de 9.9 EUR (original: 32.99 EUR) en el siguiente enlace!

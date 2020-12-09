@@ -14,7 +14,7 @@ currency: GBP
 price: 85.0
 comparePrice: 160.0 GBP
 inStock: true
-prodname: Cybex Silver Solution M-Fix SL Child s Car Seat  with Reclining Headrest and ISOFIX Compatible  Group 2/3  15-36 kg   From Approx. 3 to Approx. 12 Years  Pure Black
+prodname: 'Cybex Silver Solution M-Fix SL Child s Car Seat  with Reclining Headrest and ISOFIX Compatible  Group 2/3  15-36 kg   From Approx. 3 to Approx. 12 Years  Pure Black'
 ---
 
 Está [Cybex Silver Solution M-Fix SL Child s Car Seat  with Reclining Headrest and ISOFIX Compatible  Group 2/3  15-36 kg   From Approx. 3 to Approx. 12 Years  Pure Black](https://www.amazon.co.uk/dp/B073HDCTYY/?tag=tolees0a-21) con 46.88 de descuento por 85.0 GBP (original: 160.0 GBP) en el siguiente enlace!

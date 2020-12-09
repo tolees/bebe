@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: MICHLEY Bebés Ropa Oso Pelele de Niños Niñas del Otoño e Invierno Unisex Pijama Blanco-100cm
+prodname: 'MICHLEY Bebés Ropa Oso Pelele de Niños Niñas del Otoño e Invierno Unisex Pijama Blanco-100cm'
 ---
 
 Está [MICHLEY Bebés Ropa Oso Pelele de Niños Niñas del Otoño e Invierno Unisex Pijama Blanco-100cm](https://www.amazon.es/dp/B06XBLL8W7/?tag=tolees-21) con 31.83 de descuento por 14.99 EUR (original: 21.99 EUR) en el siguiente enlace!

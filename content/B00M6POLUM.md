@@ -14,7 +14,7 @@ currency: EUR
 price: 22.84
 comparePrice: 30.99 EUR
 inStock: true
-prodname: Philips Avent - Juego de recipientes para comida de bebé  20 recipientes + 1 cuchara + libro recetas 
+prodname: 'Philips Avent - Juego de recipientes para comida de bebé  20 recipientes + 1 cuchara + libro recetas '
 ---
 
 Ahora mismo tienes [Philips Avent - Juego de recipientes para comida de bebé  20 recipientes + 1 cuchara + libro recetas ](https://www.amazon.es/dp/B00M6POLUM/?tag=tolees-21) a 22.84 EUR (original: 30.99 EUR) (26.30 %  de descuento) en el siguiente enlace!

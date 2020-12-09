@@ -14,7 +14,7 @@ currency: EUR
 price: 10.8
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Rovtop Cinturón para Embarazada en el Coche que Protege al Bebé y la Mamá Embarazada del Cinturón Ajustable para Mujer- Negro
+prodname: 'Rovtop Cinturón para Embarazada en el Coche que Protege al Bebé y la Mamá Embarazada del Cinturón Ajustable para Mujer- Negro'
 ---
 
 Está [Rovtop Cinturón para Embarazada en el Coche que Protege al Bebé y la Mamá Embarazada del Cinturón Ajustable para Mujer- Negro](https://www.amazon.es/dp/B07KG2HBDL/?tag=tolees-21) con 39.97 de descuento por 10.8 EUR (original: 17.99 EUR) en el siguiente enlace!

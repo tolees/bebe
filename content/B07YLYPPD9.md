@@ -14,7 +14,7 @@ currency: EUR
 price: 120.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Chicco Polly Progres5 - Trona Evolutiva: Hamaca  Trona y Elevador Compacto  Ajustable  con 4 Ruedas y Freno  de 0 a 3 Años  Color Rojo Estampado Ballenas  Red 
+prodname: 'Chicco Polly Progres5 - Trona Evolutiva: Hamaca  Trona y Elevador Compacto  Ajustable  con 4 Ruedas y Freno  de 0 a 3 Años  Color Rojo Estampado Ballenas  Red '
 ---
 
 Tienes [Chicco Polly Progres5 - Trona Evolutiva: Hamaca  Trona y Elevador Compacto  Ajustable  con 4 Ruedas y Freno  de 0 a 3 Años  Color Rojo Estampado Ballenas  Red ](https://www.amazon.es/dp/B07YLYPPD9/?tag=tolees-21) con un 39.70 % de descuento con precio de oferta de 120.0 EUR (original: 199.0 EUR) en el siguiente enlace!

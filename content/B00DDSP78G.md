@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 30.02 EUR
 inStock: true
-prodname: Tommee Tippee Kit de Biberones Anti-cólicos Avanzado
+prodname: 'Tommee Tippee Kit de Biberones Anti-cólicos Avanzado'
 ---
 
 Ahora mismo tienes [Tommee Tippee Kit de Biberones Anti-cólicos Avanzado](https://www.amazon.es/dp/B00DDSP78G/?tag=tolees-21) a 19.99 EUR (original: 30.02 EUR) (33.41 %  de descuento) en el siguiente enlace!

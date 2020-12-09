@@ -14,7 +14,7 @@ currency: EUR
 price: 3.49
 comparePrice: 5.99 EUR
 inStock: true
-prodname: PUMA Sock Abs 2p Calcetines  Azul  blue green combo   15-18  Pack de 2  Unisex bebé
+prodname: 'PUMA Sock Abs 2p Calcetines  Azul  blue green combo   15-18  Pack de 2  Unisex bebé'
 ---
 
 Tienes [PUMA Sock Abs 2p Calcetines  Azul  blue green combo   15-18  Pack de 2  Unisex bebé](https://www.amazon.es/dp/B01KCQPKFG/?tag=tolees-21) con un 41.74 % de descuento con precio de oferta de 3.49 EUR (original: 5.99 EUR) en el siguiente enlace!

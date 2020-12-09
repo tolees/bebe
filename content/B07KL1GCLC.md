@@ -14,7 +14,7 @@ currency: EUR
 price: 29
 comparePrice: 52 EUR
 inStock: true
-prodname: Safety 1st PEPS+CAPOTA  Black Chic  - Silla de paseo  color negro
+prodname: 'Safety 1st PEPS+CAPOTA  Black Chic  - Silla de paseo  color negro'
 ---
 
 Ahora mismo tienes [Safety 1st PEPS+CAPOTA  Black Chic  - Silla de paseo  color negro](https://www.amazon.es/dp/B07KL1GCLC/?tag=tolees-21) a 29 EUR (original: 52 EUR) (44.23 %  de descuento) en el siguiente enlace!

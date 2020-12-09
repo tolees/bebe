@@ -14,7 +14,7 @@ currency: EUR
 price: 26.5
 comparePrice: 36.29 EUR
 inStock: true
-prodname: Huggies Ultra Comfort Pañales Talla 3  4-9 Kg  - 168 Pañales
+prodname: 'Huggies Ultra Comfort Pañales Talla 3  4-9 Kg  - 168 Pañales'
 ---
 
 Está [Huggies Ultra Comfort Pañales Talla 3  4-9 Kg  - 168 Pañales](https://www.amazon.es/dp/B074KLTBLM/?tag=tolees-21) con 26.98 de descuento por 26.5 EUR (original: 36.29 EUR) en el siguiente enlace!

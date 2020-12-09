@@ -14,7 +14,7 @@ currency: EUR
 price: 28.99
 comparePrice: 56.99 EUR
 inStock: true
-prodname: Aicook Humidificador Frío de la Niebla  Humidificadores Ultrasónicos de 3 5L  Tiempo de Trabajo de 12-36 Horas  Niebla Ajustable de para el Dormitorio de Bebé  Cierre Automático
+prodname: 'Aicook Humidificador Frío de la Niebla  Humidificadores Ultrasónicos de 3 5L  Tiempo de Trabajo de 12-36 Horas  Niebla Ajustable de para el Dormitorio de Bebé  Cierre Automático'
 ---
 
 Tienes [Aicook Humidificador Frío de la Niebla  Humidificadores Ultrasónicos de 3 5L  Tiempo de Trabajo de 12-36 Horas  Niebla Ajustable de para el Dormitorio de Bebé  Cierre Automático](https://www.amazon.es/dp/B07DCN6BRF/?tag=tolees-21) con un 49.13 % de descuento con precio de oferta de 28.99 EUR (original: 56.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32.77
 comparePrice: 48.28 EUR
 inStock: true
-prodname: Chicco 8003670740582 Niño/niña Juego Educativo - Juegos educativos
+prodname: 'Chicco 8003670740582 Niño/niña Juego Educativo - Juegos educativos'
 ---
 
 Tienes [Chicco 8003670740582 Niño/niña Juego Educativo - Juegos educativos](https://www.amazon.es/dp/B009AW1SKU/?tag=tolees-21) con un 32.13 % de descuento con precio de oferta de 32.77 EUR (original: 48.28 EUR) en el siguiente enlace!

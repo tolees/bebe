@@ -14,7 +14,7 @@ currency: EUR
 price: 12.16
 comparePrice: 17.44 EUR
 inStock: true
-prodname: Nestlé Yogolino Postre lácteo Bolsitas con Multifrutas y cereales - Para bebés a partir de 6 meses - Paquete de 16 unidadesx90g
+prodname: 'Nestlé Yogolino Postre lácteo Bolsitas con Multifrutas y cereales - Para bebés a partir de 6 meses - Paquete de 16 unidadesx90g'
 ---
 
 Está [Nestlé Yogolino Postre lácteo Bolsitas con Multifrutas y cereales - Para bebés a partir de 6 meses - Paquete de 16 unidadesx90g](https://www.amazon.es/dp/B07B6ZDTY7/?tag=tolees-21) con 30.28 de descuento por 12.16 EUR (original: 17.44 EUR) en el siguiente enlace!

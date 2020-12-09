@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 36.99 EUR
 inStock: true
-prodname: Tommee Tippee Grofriend Recargable USB  con Sensor de Llanto  Bennie el Oso
+prodname: 'Tommee Tippee Grofriend Recargable USB  con Sensor de Llanto  Bennie el Oso'
 ---
 
 Ahora mismo tienes [Tommee Tippee Grofriend Recargable USB  con Sensor de Llanto  Bennie el Oso](https://www.amazon.es/dp/B082QGWNQ2/?tag=tolees-21) a 26.99 EUR (original: 36.99 EUR) (27.03 %  de descuento) en el siguiente enlace!

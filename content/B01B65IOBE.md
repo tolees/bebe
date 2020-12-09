@@ -14,7 +14,7 @@ currency: EUR
 price: 38.49
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Nenuco Doctora  ¿por Qué Llora?  Famosa 700012646 
+prodname: 'Nenuco Doctora  ¿por Qué Llora?  Famosa 700012646 '
 ---
 
 Tienes [Nenuco Doctora  ¿por Qué Llora?  Famosa 700012646 ](https://www.amazon.es/dp/B01B65IOBE/?tag=tolees-21) con un 29.95 % de descuento con precio de oferta de 38.49 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 33.99 EUR
 inStock: true
-prodname: Philips Avent SCD806/03 - Set de recién nacido gama Anti-colic  5 biberones
+prodname: 'Philips Avent SCD806/03 - Set de recién nacido gama Anti-colic  5 biberones'
 ---
 
 Está [Philips Avent SCD806/03 - Set de recién nacido gama Anti-colic  5 biberones](https://www.amazon.es/dp/B07HZFYDZM/?tag=tolees-21) con 41.19 de descuento por 19.99 EUR (original: 33.99 EUR) en el siguiente enlace!

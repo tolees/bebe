@@ -14,7 +14,7 @@ currency: EUR
 price: 10.69
 comparePrice: 16.66 EUR
 inStock: true
-prodname: Blevit Plus 5 Cereales para bebé  1 unidad 600 gr. A partir de los 5 meses.
+prodname: 'Blevit Plus 5 Cereales para bebé  1 unidad 600 gr. A partir de los 5 meses.'
 ---
 
 Está [Blevit Plus 5 Cereales para bebé  1 unidad 600 gr. A partir de los 5 meses.](https://www.amazon.es/dp/B07HS4PNH7/?tag=tolees-21) con 35.83 de descuento por 10.69 EUR (original: 16.66 EUR) en el siguiente enlace!

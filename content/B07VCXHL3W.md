@@ -14,7 +14,7 @@ currency: EUR
 price: 17.38
 comparePrice: 23.99 EUR
 inStock: true
-prodname: KYG Cámara de Monitor de Bebé
+prodname: 'KYG Cámara de Monitor de Bebé'
 ---
 
 Tienes [KYG Cámara de Monitor de Bebé](https://www.amazon.es/dp/B07VCXHL3W/?tag=tolees-21) con un 27.55 % de descuento con precio de oferta de 17.38 EUR (original: 23.99 EUR) en el siguiente enlace!

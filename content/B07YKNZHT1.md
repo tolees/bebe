@@ -14,7 +14,7 @@ currency: GBP
 price: 19.99
 comparePrice: 29.99 GBP
 inStock: true
-prodname: Chicco Pocket Snack Booster Seat - Hydra Blue  Height Adjustable  Lightweight and Compact  Travel Friendly
+prodname: 'Chicco Pocket Snack Booster Seat - Hydra Blue  Height Adjustable  Lightweight and Compact  Travel Friendly'
 ---
 
 Está [Chicco Pocket Snack Booster Seat - Hydra Blue  Height Adjustable  Lightweight and Compact  Travel Friendly](https://www.amazon.co.uk/dp/B07YKNZHT1/?tag=tolees0a-21) con 33.34 de descuento por 19.99 GBP (original: 29.99 GBP) en el siguiente enlace!

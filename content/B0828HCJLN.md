@@ -14,7 +14,7 @@ currency: EUR
 price: 6.47
 comparePrice: 10.97 EUR
 inStock: true
-prodname: Tommee Tippee - Caldera de silicona ultraligera  6-18 m  2 unidades 
+prodname: 'Tommee Tippee - Caldera de silicona ultraligera  6-18 m  2 unidades '
 ---
 
 Tienes [Tommee Tippee - Caldera de silicona ultraligera  6-18 m  2 unidades ](https://www.amazon.es/dp/B0828HCJLN/?tag=tolees-21) con un 41.02 % de descuento con precio de oferta de 6.47 EUR (original: 10.97 EUR) en el siguiente enlace!

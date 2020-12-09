@@ -14,7 +14,7 @@ currency: EUR
 price: 16.9
 comparePrice: 34.9 EUR
 inStock: true
-prodname: Chicco - Gioco Primi Passi Happy Hippy  9m+  5905
+prodname: 'Chicco - Gioco Primi Passi Happy Hippy  9m+  5905'
 ---
 
 Tienes [Chicco - Gioco Primi Passi Happy Hippy  9m+  5905](https://www.amazon.it/dp/B00HYZIOF2/?tag=tolees00-21) con un 51.58 % de descuento con precio de oferta de 16.9 EUR (original: 34.9 EUR) en el siguiente enlace!

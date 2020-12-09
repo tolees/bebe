@@ -14,7 +14,7 @@ currency: EUR
 price: 10.44
 comparePrice: 14.4 EUR
 inStock: true
-prodname: Nestlé Naturnes Bio - Papilla de cereales Trigo y Avena - Alimento Para bebés - 6x240g
+prodname: 'Nestlé Naturnes Bio - Papilla de cereales Trigo y Avena - Alimento Para bebés - 6x240g'
 ---
 
 Tienes [Nestlé Naturnes Bio - Papilla de cereales Trigo y Avena - Alimento Para bebés - 6x240g](https://www.amazon.es/dp/B07B6VFLWT/?tag=tolees-21) con un 27.50 % de descuento con precio de oferta de 10.44 EUR (original: 14.4 EUR) en el siguiente enlace!

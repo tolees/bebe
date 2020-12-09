@@ -14,7 +14,7 @@ currency: EUR
 price: 7.25
 comparePrice: 9.9 EUR
 inStock: true
-prodname: Nestlé Papillas NESTUM - Cereales para bebé  8 cereales - Pack Ahorro: 1.1 kg
+prodname: 'Nestlé Papillas NESTUM - Cereales para bebé  8 cereales - Pack Ahorro: 1.1 kg'
 ---
 
 Ahora mismo tienes [Nestlé Papillas NESTUM - Cereales para bebé  8 cereales - Pack Ahorro: 1.1 kg](https://www.amazon.es/dp/B07GFH8TNC/?tag=tolees-21) a 7.25 EUR (original: 9.9 EUR) (26.77 %  de descuento) en el siguiente enlace!

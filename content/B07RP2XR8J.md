@@ -14,7 +14,7 @@ currency: GBP
 price: 135.99
 comparePrice: 189.0 GBP
 inStock: true
-prodname: Maxi-Cosi Kore i-Size Child Car Seat  ISOFIX Installation  3.5-12 Years  100-150 cm  Authentic Black
+prodname: 'Maxi-Cosi Kore i-Size Child Car Seat  ISOFIX Installation  3.5-12 Years  100-150 cm  Authentic Black'
 ---
 
 Ahora mismo tienes [Maxi-Cosi Kore i-Size Child Car Seat  ISOFIX Installation  3.5-12 Years  100-150 cm  Authentic Black](https://www.amazon.co.uk/dp/B07RP2XR8J/?tag=tolees0a-21) a 135.99 GBP (original: 189.0 GBP) (28.05 %  de descuento) en el siguiente enlace!

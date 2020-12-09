@@ -14,7 +14,7 @@ currency: EUR
 price: 9.98
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Munchkin Set De Regalo De Vaso Miracle 360 It S A Miracle  Rosa/Amarillo 1 unidad 530 g
+prodname: 'Munchkin Set De Regalo De Vaso Miracle 360 It S A Miracle  Rosa/Amarillo 1 unidad 530 g'
 ---
 
 Está [Munchkin Set De Regalo De Vaso Miracle 360 It S A Miracle  Rosa/Amarillo 1 unidad 530 g](https://www.amazon.es/dp/B07WZSWGKN/?tag=tolees-21) con 50.08 de descuento por 9.98 EUR (original: 19.99 EUR) en el siguiente enlace!

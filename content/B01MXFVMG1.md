@@ -14,7 +14,7 @@ currency: EUR
 price: 35
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Badabulle B001005 - Bebé station azul-gris
+prodname: 'Badabulle B001005 - Bebé station azul-gris'
 ---
 
 Está [Badabulle B001005 - Bebé station azul-gris](https://www.amazon.es/dp/B01MXFVMG1/?tag=tolees-21) con 61.09 de descuento por 35 EUR (original: 89.95 EUR) en el siguiente enlace!

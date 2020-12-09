@@ -14,7 +14,7 @@ currency: EUR
 price: 54.85
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Chicco Cosmos Seggiolino Auto 0-18 kg  Gruppo 0/1  Jet Black
+prodname: 'Chicco Cosmos Seggiolino Auto 0-18 kg  Gruppo 0/1  Jet Black'
 ---
 
 Ahora mismo tienes [Chicco Cosmos Seggiolino Auto 0-18 kg  Gruppo 0/1  Jet Black](https://www.amazon.it/dp/B07GX1RPCH/?tag=tolees00-21) a 54.85 EUR (original: 129.0 EUR) (57.48 %  de descuento) en el siguiente enlace!

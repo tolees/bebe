@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 39.11 EUR
 inStock: true
-prodname: Sacaleches manual  extractor de leche Harmony Medela
+prodname: 'Sacaleches manual  extractor de leche Harmony Medela'
 ---
 
 Tienes [Sacaleches manual  extractor de leche Harmony Medela](https://www.amazon.es/dp/B071ZGHP4N/?tag=tolees-21) con un 33.55 % de descuento con precio de oferta de 25.99 EUR (original: 39.11 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: PUTUO Niños Calcetines De Algodón Respirable  Calcetines para Bebés Niños para verano primavera otoño  2-11 años  5 pares
+prodname: 'PUTUO Niños Calcetines De Algodón Respirable  Calcetines para Bebés Niños para verano primavera otoño  2-11 años  5 pares'
 ---
 
 Está [PUTUO Niños Calcetines De Algodón Respirable  Calcetines para Bebés Niños para verano primavera otoño  2-11 años  5 pares](https://www.amazon.es/dp/B07PCQB6R6/?tag=tolees-21) con 44.02 de descuento por 13.99 EUR (original: 24.99 EUR) en el siguiente enlace!

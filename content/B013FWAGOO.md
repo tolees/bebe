@@ -14,7 +14,7 @@ currency: USD
 price: 4.73
 comparePrice: 9.13 USD
 inStock: true
-prodname: Nuby 2-Pack Tub Tugs Floating Boat Bath Toys  Colors May Vary
+prodname: 'Nuby 2-Pack Tub Tugs Floating Boat Bath Toys  Colors May Vary'
 ---
 
 Tienes [Nuby 2-Pack Tub Tugs Floating Boat Bath Toys  Colors May Vary](https://www.amazon.com/dp/B013FWAGOO/?tag=tolees-20) con un 48.19 % de descuento con precio de oferta de 4.73 USD (original: 9.13 USD) en el siguiente enlace!

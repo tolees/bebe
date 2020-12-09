@@ -4,7 +4,7 @@ title = "Los últimos descuentos detectados!"
 theme = "hugo-shopping-product-catalogue-simple"
 
 [Params]
-description = "Las últimas rebajas de"
+description = "Descuentos para tu bebé"
 channel = "https://t.me/s/estodobebe"
 ga="G-SW01PLBZE8"
 yandex="2e182b1358b7eb92"

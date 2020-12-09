@@ -14,7 +14,7 @@ currency: EUR
 price: 14.13
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Ipanema My First Baby  Sandalias Unisex bebé  Multicolor  Blue/Pink 8011.0   19/20 EU
+prodname: 'Ipanema My First Baby  Sandalias Unisex bebé  Multicolor  Blue/Pink 8011.0   19/20 EU'
 ---
 
 Está [Ipanema My First Baby  Sandalias Unisex bebé  Multicolor  Blue/Pink 8011.0   19/20 EU](https://www.amazon.es/dp/B07X4SPY9P/?tag=tolees-21) con 38.54 de descuento por 14.13 EUR (original: 22.99 EUR) en el siguiente enlace!

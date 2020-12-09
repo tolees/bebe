@@ -14,7 +14,7 @@ currency: EUR
 price: 13.79
 comparePrice: 27.0 EUR
 inStock: true
-prodname: Moon and Back de Hanna Andersson - Pijama de una pieza con pies hecho de algodón orgánico para bebé  Gris  3-6 messes  56-67 CM 
+prodname: 'Moon and Back de Hanna Andersson - Pijama de una pieza con pies hecho de algodón orgánico para bebé  Gris  3-6 messes  56-67 CM '
 ---
 
 Ahora mismo tienes [Moon and Back de Hanna Andersson - Pijama de una pieza con pies hecho de algodón orgánico para bebé  Gris  3-6 messes  56-67 CM ](https://www.amazon.es/dp/B07P23YTHT/?tag=tolees-21) a 13.79 EUR (original: 27.0 EUR) (48.93 %  de descuento) en el siguiente enlace!

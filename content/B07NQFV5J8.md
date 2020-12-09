@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: HYLOGY Termómetro de Frente  Termómetro Digital Infrarrojo Lecturas Precisas Instantáneas  4 en 1 Termómetro sin Contacto Profesional para Bebés  Niños  Adultos
+prodname: 'HYLOGY Termómetro de Frente  Termómetro Digital Infrarrojo Lecturas Precisas Instantáneas  4 en 1 Termómetro sin Contacto Profesional para Bebés  Niños  Adultos'
 ---
 
 Tienes [HYLOGY Termómetro de Frente  Termómetro Digital Infrarrojo Lecturas Precisas Instantáneas  4 en 1 Termómetro sin Contacto Profesional para Bebés  Niños  Adultos](https://www.amazon.es/dp/B07NQFV5J8/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

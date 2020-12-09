@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: MICHLEY Toalla Bebe con Capucha  70x70cm Algodón Capa de Baño Bebé for 2-6 Años pajaro rojo
+prodname: 'MICHLEY Toalla Bebe con Capucha  70x70cm Algodón Capa de Baño Bebé for 2-6 Años pajaro rojo'
 ---
 
 Tienes [MICHLEY Toalla Bebe con Capucha  70x70cm Algodón Capa de Baño Bebé for 2-6 Años pajaro rojo](https://www.amazon.es/dp/B07TBJ3MWK/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 26.99 EUR (original: 35.99 EUR) en el siguiente enlace!

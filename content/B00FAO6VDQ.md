@@ -14,7 +14,7 @@ currency: GBP
 price: 82.99
 comparePrice: 145.0 GBP
 inStock: true
-prodname: CYBEX Silver Solution X-Fix Child s Car Seat  For Cars with and without ISOFIX  Group 2/3  15-36 kg   From approx. 3 to approx. 12 years  Gray Rabbit
+prodname: 'CYBEX Silver Solution X-Fix Child s Car Seat  For Cars with and without ISOFIX  Group 2/3  15-36 kg   From approx. 3 to approx. 12 years  Gray Rabbit'
 ---
 
 Ahora mismo tienes [CYBEX Silver Solution X-Fix Child s Car Seat  For Cars with and without ISOFIX  Group 2/3  15-36 kg   From approx. 3 to approx. 12 years  Gray Rabbit](https://www.amazon.co.uk/dp/B00FAO6VDQ/?tag=tolees0a-21) a 82.99 GBP (original: 145.0 GBP) (42.77 %  de descuento) en el siguiente enlace!

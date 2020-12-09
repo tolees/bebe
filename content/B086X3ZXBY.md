@@ -14,7 +14,7 @@ currency: GBP
 price: 22.99
 comparePrice: 46.99 GBP
 inStock: true
-prodname: Fisher-Price Laugh & Learn Smart Stages Chair PINK - QE
+prodname: 'Fisher-Price Laugh & Learn Smart Stages Chair PINK - QE'
 ---
 
 Tienes [Fisher-Price Laugh & Learn Smart Stages Chair PINK - QE](https://www.amazon.co.uk/dp/B086X3ZXBY/?tag=tolees0a-21) con un 51.07 % de descuento con precio de oferta de 22.99 GBP (original: 46.99 GBP) en el siguiente enlace!
