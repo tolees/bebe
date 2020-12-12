@@ -29,9 +29,9 @@ Ahora mismo tienes [Depesche 8569 Princess Mimi  Caja de dientes de leche  Model
 Características:
 
 - Dimensiones: aprox. 4,8 x 4,9 x 2,6 cm.
-- Caja pequeña de metal.
 - Para guardar los dientes de leche.
 - No es posible elegir el artículo.
+- Caja pequeña de metal.
 
 [Visítala!!!](https://www.amazon.es/dp/B07GNSF55Y/?tag=tolees-21)
 
