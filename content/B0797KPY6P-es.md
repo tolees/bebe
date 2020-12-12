@@ -24,9 +24,9 @@ Ahora mismo tienes [Chicos - Gran Carrito Supermercado Plegable  con Sillita par
 
 🔎:
 
-- Carrito de la compra con siliita para bebé se plega y se puede convertir en cesta
 - Incluye 18 accesorios: fruta, verdura, queso y mucho más
 - Indicado para niñas y niños a partir de 3 años
 - Los juegos de rol fomentan la imaginación, la creatividad, la empatía y la capacidad de resolver problemas de los niños además les ayuda a entender un poco mejor el munco que les rodea
+- Carrito de la compra con siliita para bebé se plega y se puede convertir en cesta
 
 [Visítala!!!](https://www.amazon.es/dp/B0797KPY6P/?tag=tolees-21)
