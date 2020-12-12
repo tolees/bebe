@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.99 % en Dodot Pañales Talla 3  5-10 kg  140 paña'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B00X9YEGUO.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B00X9YEGUO.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B00X9YEGUO.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.18 EUR
 inStock: true
 prodname: 'Dodot Pañales Talla 3  5-10 kg  140 pañales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00X9YEGUO/?tag=tolees-21'
+descuento: '28.99'
+titulo: 'Dodot Pañales Talla 3  5-10 kg  140 paña'
 ---
 
 Tienes [Dodot Pañales Talla 3  5-10 kg  140 pañales](https://www.amazon.es/dp/B00X9YEGUO/?tag=tolees-21) con un 28.99 % de descuento con precio de oferta de 29.95 EUR (original: 42.18 EUR) en el siguiente enlace!

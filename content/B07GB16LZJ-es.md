@@ -3,6 +3,7 @@ layout: post
 title: 'LED Luz de noche OxyLE LED luz nocturna  al 41.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zwqh0UsgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zwqh0UsgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zwqh0UsgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'LED Luz de noche OxyLE LED luz nocturna niño con sensor crepuscular Luz bebé automáticamente ahorro de energía para la habitación de los niños  dormitorio  baño  pasillo  blanco cálido  2 paquetes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB16LZJ/?tag=tolees-21'
+descuento: '41.20'
+titulo: 'LED Luz de noche OxyLE LED luz nocturna '
 ---
 
 Ahora mismo tienes [LED Luz de noche OxyLE LED luz nocturna niño con sensor crepuscular Luz bebé automáticamente ahorro de energía para la habitación de los niños  dormitorio  baño  pasillo  blanco cálido  2 paquetes](https://www.amazon.es/dp/B07GB16LZJ/?tag=tolees-21) a 9.99 EUR (original: 16.99 EUR) (41.20 %  de descuento) en el siguiente enlace!

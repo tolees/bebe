@@ -3,6 +3,7 @@ layout: post
 title: 'Calcetines de Compresión Medias de Compr al 42.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5101l5VV-IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5101l5VV-IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5101l5VV-IL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Calcetines de Compresión Medias de Compresión para Hombres y Mujeres  Calcetines de Compresión para Running  Deportes  Trotar  Ciclismo  Volar  Viajar  Embarazo y Médicos   15-25 mmHg   4 Pares'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MDMLYML/?tag=tolees-21'
+descuento: '42.44'
+titulo: 'Calcetines de Compresión Medias de Compr'
 ---
 
 Está [Calcetines de Compresión Medias de Compresión para Hombres y Mujeres  Calcetines de Compresión para Running  Deportes  Trotar  Ciclismo  Volar  Viajar  Embarazo y Médicos   15-25 mmHg   4 Pares](https://www.amazon.es/dp/B07MDMLYML/?tag=tolees-21) con 42.44 de descuento por 18.99 EUR (original: 32.99 EUR) en el siguiente enlace!

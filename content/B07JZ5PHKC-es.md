@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.98 % en adidas Altasport CF I  Zapatillas de Gim'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zki6xNYLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zki6xNYLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zki6xNYLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'adidas Altasport CF I  Zapatillas de Gimnasia Unisex bebé  Azul True Blue/FTWR White/Active Orange  26 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZ5PHKC/?tag=tolees-21'
+descuento: '49.98'
+titulo: 'adidas Altasport CF I  Zapatillas de Gim'
 ---
 
 Tienes [adidas Altasport CF I  Zapatillas de Gimnasia Unisex bebé  Azul True Blue/FTWR White/Active Orange  26 EU](https://www.amazon.es/dp/B07JZ5PHKC/?tag=tolees-21) con un 49.98 % de descuento con precio de oferta de 14.98 EUR (original: 29.95 EUR) en el siguiente enlace!

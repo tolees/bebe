@@ -3,6 +3,7 @@ layout: post
 title: 'Britax Römer Advansafix III SICT  Silla  al 51.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o-tbszuhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o-tbszuhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o-tbszuhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 435.6 EUR
 inStock: true
 prodname: 'Britax Römer Advansafix III SICT  Silla de coche grupo 1/2/3 Isofix  gris  Storm Grey '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4BO0C6/?tag=tolees-21'
+descuento: '51.79'
+titulo: 'Britax Römer Advansafix III SICT  Silla '
 ---
 
 Ahora mismo tienes [Britax Römer Advansafix III SICT  Silla de coche grupo 1/2/3 Isofix  gris  Storm Grey ](https://www.amazon.es/dp/B01N4BO0C6/?tag=tolees-21) a 210 EUR (original: 435.6 EUR) (51.79 %  de descuento) en el siguiente enlace!

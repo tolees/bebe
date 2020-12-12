@@ -3,6 +3,7 @@ layout: post
 title: 'Safety 1st MINI DREAMS  Happy Day  - Cun al 33.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TLYerLMQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TLYerLMQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TLYerLMQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 96 EUR
 inStock: true
 prodname: 'Safety 1st MINI DREAMS  Happy Day  - Cuna de Viaje  color beige - Cuna de viaje'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQL7DGQ/?tag=tolees-21'
+descuento: '33.83'
+titulo: 'Safety 1st MINI DREAMS  Happy Day  - Cun'
 ---
 
 Ahora mismo tienes [Safety 1st MINI DREAMS  Happy Day  - Cuna de Viaje  color beige - Cuna de viaje](https://www.amazon.es/dp/B07KQL7DGQ/?tag=tolees-21) a 63.52 EUR (original: 96 EUR) (33.83 %  de descuento) en el siguiente enlace!

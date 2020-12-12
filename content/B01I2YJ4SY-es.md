@@ -3,6 +3,7 @@ layout: post
 title: 'JANE Mini Goumi - Robot de cocina  unise al 41.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WGvYFIikL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WGvYFIikL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WGvYFIikL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'JANE Mini Goumi - Robot de cocina  unisex'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01I2YJ4SY/?tag=tolees-21'
+descuento: '41.00'
+titulo: 'JANE Mini Goumi - Robot de cocina  unise'
 ---
 
 Está [JANE Mini Goumi - Robot de cocina  unisex](https://www.amazon.es/dp/B01I2YJ4SY/?tag=tolees-21) con 41.00 de descuento por 59 EUR (original: 100 EUR) en el siguiente enlace!

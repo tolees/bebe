@@ -3,6 +3,7 @@ layout: post
 title: 'Nuby IDVP55 - Set de nacimiento al 61.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pDTqRfeFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pDTqRfeFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pDTqRfeFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.5 EUR
 inStock: true
 prodname: 'Nuby IDVP55 - Set de nacimiento'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079WYD61Y/?tag=tolees-21'
+descuento: '61.49'
+titulo: 'Nuby IDVP55 - Set de nacimiento'
 ---
 
 Ahora mismo tienes [Nuby IDVP55 - Set de nacimiento](https://www.amazon.es/dp/B079WYD61Y/?tag=tolees-21) a 17.52 EUR (original: 45.5 EUR) (61.49 %  de descuento) en el siguiente enlace!

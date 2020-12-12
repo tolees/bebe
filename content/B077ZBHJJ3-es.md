@@ -3,6 +3,7 @@ layout: post
 title: 'Juego de Pesca Baño Juguete de Agua para al 60.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ROjb3obgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ROjb3obgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ROjb3obgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.89 EUR
 inStock: true
 prodname: 'Juego de Pesca Baño Juguete de Agua para Bebe Hora Divertida de Baño  6 Peces '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077ZBHJJ3/?tag=tolees-21'
+descuento: '60.63'
+titulo: 'Juego de Pesca Baño Juguete de Agua para'
 ---
 
 Ahora mismo tienes [Juego de Pesca Baño Juguete de Agua para Bebe Hora Divertida de Baño  6 Peces ](https://www.amazon.es/dp/B077ZBHJJ3/?tag=tolees-21) a 10.98 EUR (original: 27.89 EUR) (60.63 %  de descuento) en el siguiente enlace!

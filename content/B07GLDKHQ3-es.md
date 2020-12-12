@@ -3,6 +3,7 @@ layout: post
 title: 'Cybex Gold - Cochecito Balios S con sill al 37.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D8Uz4okKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D8Uz4okKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D8Uz4okKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 539.95 EUR
 inStock: true
 prodname: 'Cybex Gold - Cochecito Balios S con silla reversible y con capazo S  desde el nacimiento hasta 17 kg  aprox. 4 años   tropical blue'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GLDKHQ3/?tag=tolees-21'
+descuento: '37.97'
+titulo: 'Cybex Gold - Cochecito Balios S con sill'
 ---
 
 Está [Cybex Gold - Cochecito Balios S con silla reversible y con capazo S  desde el nacimiento hasta 17 kg  aprox. 4 años   tropical blue](https://www.amazon.es/dp/B07GLDKHQ3/?tag=tolees-21) con 37.97 de descuento por 334.95 EUR (original: 539.95 EUR) en el siguiente enlace!

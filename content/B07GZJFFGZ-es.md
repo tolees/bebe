@@ -3,6 +3,7 @@ layout: post
 title: 'Vigilabebés LXMIMI Bebé Monitor IP WiFi  al 75.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sBK%2BKXNoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sBK%2BKXNoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sBK%2BKXNoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Vigilabebés LXMIMI Bebé Monitor IP WiFi P2P Cámara de Vigilancia/Seguridad Inalámbrica 720P con Intercomunicador Bidireccional Vision Nocturna Detección de Movimiento/Vista Remota para Mascotas/Bebé'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZJFFGZ/?tag=tolees-21'
+descuento: '75.00'
+titulo: 'Vigilabebés LXMIMI Bebé Monitor IP WiFi '
 ---
 
 Está [Vigilabebés LXMIMI Bebé Monitor IP WiFi P2P Cámara de Vigilancia/Seguridad Inalámbrica 720P con Intercomunicador Bidireccional Vision Nocturna Detección de Movimiento/Vista Remota para Mascotas/Bebé](https://www.amazon.es/dp/B07GZJFFGZ/?tag=tolees-21) con 75.00 de descuento por 49.99 EUR (original: 199.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Altasport CF I  Zapatillas de Gim al 50.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UmID8nnhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UmID8nnhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UmID8nnhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Adidas Altasport CF I  Zapatillas de Gimnasia Unisex bebé  Negro Core Black  25 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYLLC6Q/?tag=tolees-21'
+descuento: '50.98'
+titulo: 'Adidas Altasport CF I  Zapatillas de Gim'
 ---
 
 Está [Adidas Altasport CF I  Zapatillas de Gimnasia Unisex bebé  Negro Core Black  25 EU](https://www.amazon.es/dp/B07JYLLC6Q/?tag=tolees-21) con 50.98 de descuento por 14.68 EUR (original: 29.95 EUR) en el siguiente enlace!

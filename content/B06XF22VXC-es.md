@@ -3,6 +3,7 @@ layout: post
 title: '5 en 1 Multifunción Mochila Portabebé Er al 60.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416qw6J-LkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416qw6J-LkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416qw6J-LkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: '5 en 1 Multifunción Mochila Portabebé Ergonómica Portador de Bebé Transpirable Adjustable Fular Portabebés Asiento de Cadera Marsupios Portabebé para Bebé Recién Nacidos   Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XF22VXC/?tag=tolees-21'
+descuento: '60.01'
+titulo: '5 en 1 Multifunción Mochila Portabebé Er'
 ---
 
 Está [5 en 1 Multifunción Mochila Portabebé Ergonómica Portador de Bebé Transpirable Adjustable Fular Portabebés Asiento de Cadera Marsupios Portabebé para Bebé Recién Nacidos   Azul](https://www.amazon.es/dp/B06XF22VXC/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

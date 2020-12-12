@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Avent Classic+ - Set para recién al 43.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R1xFuhB0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R1xFuhB0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R1xFuhB0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.99 EUR
 inStock: true
 prodname: 'Philips Avent Classic+ - Set para recién nacidos  5 biberones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ICS016Y/?tag=tolees-21'
+descuento: '43.84'
+titulo: 'Philips Avent Classic+ - Set para recién'
 ---
 
 Ahora mismo tienes [Philips Avent Classic+ - Set para recién nacidos  5 biberones](https://www.amazon.es/dp/B01ICS016Y/?tag=tolees-21) a 19.09 EUR (original: 33.99 EUR) (43.84 %  de descuento) en el siguiente enlace!

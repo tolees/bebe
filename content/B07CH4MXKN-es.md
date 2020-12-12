@@ -3,6 +3,7 @@ layout: post
 title: 'Tommee Tippee Tetinas Anticólico  flujo  al 44.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J6CdoAE6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J6CdoAE6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J6CdoAE6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.42 EUR
 inStock: true
 prodname: 'Tommee Tippee Tetinas Anticólico  flujo lento  2 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CH4MXKN/?tag=tolees-21'
+descuento: '44.61'
+titulo: 'Tommee Tippee Tetinas Anticólico  flujo '
 ---
 
 Ahora mismo tienes [Tommee Tippee Tetinas Anticólico  flujo lento  2 unidades](https://www.amazon.es/dp/B07CH4MXKN/?tag=tolees-21) a 6.88 EUR (original: 12.42 EUR) (44.61 %  de descuento) en el siguiente enlace!

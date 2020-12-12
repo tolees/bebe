@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Courtset Inf Dino  Botas  al 47.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n-rSV%2BkPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n-rSV%2BkPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n-rSV%2BkPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'LE COQ SPORTIF Courtset Inf Dino  Botas para Bebés  Beige  Olive Night/Vibrant Orange Kaki   21 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC4KVMG/?tag=tolees-21'
+descuento: '47.12'
+titulo: 'LE COQ SPORTIF Courtset Inf Dino  Botas '
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Courtset Inf Dino  Botas para Bebés  Beige  Olive Night/Vibrant Orange Kaki   21 EU](https://www.amazon.es/dp/B07DC4KVMG/?tag=tolees-21) a 26.44 EUR (original: 50 EUR) (47.12 %  de descuento) en el siguiente enlace!

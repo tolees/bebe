@@ -3,6 +3,7 @@ layout: post
 title: 'PUTUO Niños Calcetines De Algodón Respir al 40.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bU3uHoY1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bU3uHoY1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bU3uHoY1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'PUTUO Niños Calcetines De Algodón Respirable  Calcetines para Bebés Niños para verano primavera otoño  2-11 años  5 pares'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P7GY6XH/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'PUTUO Niños Calcetines De Algodón Respir'
 ---
 
 Ahora mismo tienes [PUTUO Niños Calcetines De Algodón Respirable  Calcetines para Bebés Niños para verano primavera otoño  2-11 años  5 pares](https://www.amazon.es/dp/B07P7GY6XH/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

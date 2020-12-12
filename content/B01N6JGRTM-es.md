@@ -3,6 +3,7 @@ layout: post
 title: 'Bebe Confort 3220660266593 Carrito gemel al 45.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HzkoylzcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HzkoylzcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HzkoylzcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 360.13 EUR
 inStock: true
 prodname: 'Bebe Confort 3220660266593 Carrito gemelar 2Asiento s  Marrón - Cochecito  Carrito gemelar  36 mes es   2 Asiento s   Marrón  Aluminio  De plástico  Plano '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6JGRTM/?tag=tolees-21'
+descuento: '45.87'
+titulo: 'Bebe Confort 3220660266593 Carrito gemel'
 ---
 
 Está [Bebe Confort 3220660266593 Carrito gemelar 2Asiento s  Marrón - Cochecito  Carrito gemelar  36 mes es   2 Asiento s   Marrón  Aluminio  De plástico  Plano ](https://www.amazon.es/dp/B01N6JGRTM/?tag=tolees-21) con 45.87 de descuento por 194.95 EUR (original: 360.13 EUR) en el siguiente enlace!

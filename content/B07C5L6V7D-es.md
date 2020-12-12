@@ -3,6 +3,7 @@ layout: post
 title: 'Termómetro tiras para la frente  cuidado al 66.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J3bx1yZVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J3bx1yZVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J3bx1yZVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 7.07 EUR
 inStock: true
 prodname: 'Termómetro tiras para la frente  cuidado del bebé  adhesivo de temperatura de fiebre LCD  portátil una vez  10 unidades de pegatinas para termómetro de frente para niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C5L6V7D/?tag=tolees-21'
+descuento: '66.76'
+titulo: 'Termómetro tiras para la frente  cuidado'
 ---
 
 Está [Termómetro tiras para la frente  cuidado del bebé  adhesivo de temperatura de fiebre LCD  portátil una vez  10 unidades de pegatinas para termómetro de frente para niños](https://www.amazon.es/dp/B07C5L6V7D/?tag=tolees-21) con 66.76 de descuento por 2.35 EUR (original: 7.07 EUR) en el siguiente enlace!

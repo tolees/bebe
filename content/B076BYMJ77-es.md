@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.81 % en MirthMe luz peso bebé carrito/cochecito/'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wVBEkNJDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wVBEkNJDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wVBEkNJDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 74.6 EUR
 inStock: true
 prodname: 'MirthMe luz peso bebé carrito/cochecito/cochecito de bebé  color rojo  Original con cubierta para la lluvia'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BYMJ77/?tag=tolees-21'
+descuento: '26.81'
+titulo: 'MirthMe luz peso bebé carrito/cochecito/'
 ---
 
 Tienes [MirthMe luz peso bebé carrito/cochecito/cochecito de bebé  color rojo  Original con cubierta para la lluvia](https://www.amazon.es/dp/B076BYMJ77/?tag=tolees-21) con un 26.81 % de descuento con precio de oferta de 54.6 EUR (original: 74.6 EUR) en el siguiente enlace!

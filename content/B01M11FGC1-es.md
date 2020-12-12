@@ -3,6 +3,7 @@ layout: post
 title: 'Concord  Silla de coche grupo 0+ Isofix  al 53.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hB45zTUGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hB45zTUGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hB45zTUGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 235 EUR
 inStock: true
 prodname: 'Concord  Silla de coche grupo 0+ Isofix  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M11FGC1/?tag=tolees-21'
+descuento: '53.19'
+titulo: 'Concord  Silla de coche grupo 0+ Isofix '
 ---
 
 Está [Concord  Silla de coche grupo 0+ Isofix  negro](https://www.amazon.es/dp/B01M11FGC1/?tag=tolees-21) con 53.19 de descuento por 110 EUR (original: 235 EUR) en el siguiente enlace!
