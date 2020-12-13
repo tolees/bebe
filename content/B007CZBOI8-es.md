@@ -24,10 +24,10 @@ Tienes [Chicco Buenas Noches Estrellitas - Proyector con efecto de luces y melod
 
 ℹ️:
 
-- Dos modos de uso: luces o luces y melodía
-- Incluye un suave peluche extraible lavable
-- Música clásica de bach y rossini, y sonidos de la naturaleza
 - Proyector infantil que facilita el sueño
+- Música clásica de bach y rossini, y sonidos de la naturaleza
+- Dos modos de uso: luces o luces y melodía
 - Dos efectos de luz diferentes
+- Incluye un suave peluche extraible lavable
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B007CZBOI8/?tag=tolees-21)
