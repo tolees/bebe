@@ -26,9 +26,9 @@ Está [Fotoprotector ISDIN Fusion Fluid Mineral Baby SPF 50 - Protector solar fa
 ℹ️:
 
 - Testado pediátricamente y dermatológicamente, hipoalergénico: formulado para minimizar el riesgo de alergias
-- Su tecnología Fusion Fluid se funde con la piel ofreciendo una alta protección e hidratación para las pieles más sensibles
-- Rostro y cuerpo, exposición indirecta al sol, sin perfume
-- Muy resistente al agua y a la fricción, contiene antioxidantes
 - Alta protección UVB UVA SPF 50, para niños a partir de 6 meses
+- Rostro y cuerpo, exposición indirecta al sol, sin perfume
+- Su tecnología Fusion Fluid se funde con la piel ofreciendo una alta protección e hidratación para las pieles más sensibles
+- Muy resistente al agua y a la fricción, contiene antioxidantes
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01E0PUYGK/?tag=tolees-21)
