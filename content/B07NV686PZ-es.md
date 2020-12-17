@@ -25,10 +25,10 @@ Tienes [Ropa Bebe Niña Recién Nacido Niña Peleles Monos de Manga Corta + Flor
 
 ℹ️:
 
-- Grande para Ocasional, Diario, Partido Fiesta Boda o Fotografía, También un buen Recién nacido bebé de regalos de Navidad o Cumpleaños Bautizo
-- Bonito diseño de flores hace a tu pequeño adorable.
-- Paquete: 1 xTop + 1xPant + 1 diadema
 - El diseño elegante y de moda hacen que su bebé sea más atractivo
+- Bonito diseño de flores hace a tu pequeño adorable.
+- Grande para Ocasional, Diario, Partido Fiesta Boda o Fotografía, También un buen Recién nacido bebé de regalos de Navidad o Cumpleaños Bautizo
+- Paquete: 1 xTop + 1xPant + 1 diadema
 - Material: Mezcla de algodon
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NV686PZ/?tag=tolees-21)
