@@ -25,10 +25,10 @@ Tienes [Chicco - Radiocontrol Billy Bigwheels](https://www.amazon.es/dp/B001Q9EL
 
 ℹ️:
 
-- Pulse el botón y el sonido de la bocina, entonces todas las luces parpadean
 - Mando a distancia con una forma de " volante real"
 - Cuando se acelera, los faros iluminan y el motor ruge
 - Radiofrecuencia utilizada: 40.675 MHz
 - Vehículo de carretera con un control intuitivo
+- Pulse el botón y el sonido de la bocina, entonces todas las luces parpadean
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001Q9EL8G/?tag=tolees-21)
