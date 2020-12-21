@@ -25,10 +25,10 @@ Ahora mismo tienes [Fisher-Price - Robot interactivo Robita - color rosa y morad
 
 🔎:
 
-- Regalo original para bebes a partir de 9 meses
 - A bailar: la divertida música anima al niño a moverse al ritmo de robita, aprendizaje y juegos: juguete musical para bebé que le enseña las letras, los colores, los números y mucho más
-- Graba y remezcla: los padres o el niño pueden grabar una frase en este juguete con sonido para que robita la remezcle y la convierta en una gran canción
 - La gran barriga del muñeco interactivo está cubierta de luces led de colores
 - Robita baila moviendo las caderas y la cabeza al ritmo del juguete musical para bebé
+- Graba y remezcla: los padres o el niño pueden grabar una frase en este juguete con sonido para que robita la remezcle y la convierta en una gran canción
+- Regalo original para bebes a partir de 9 meses
 
 [Visítala!!!](https://www.amazon.es/dp/B01GQFK232/?tag=tolees-21)

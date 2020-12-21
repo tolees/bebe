@@ -25,8 +25,8 @@ Está [Nenuco Super Set de Ropa  35 cm  Famosa 700013740 ](https://www.amazon.es
 
 ℹ️:
 
-- Con detalles infantiles para llamar la atención de los más pequeños
 - Ropita para muñecos de 35 cm
+- Con detalles infantiles para llamar la atención de los más pequeños
 - Set de ropa compuesta por 6 diferentes piezas
 - Ayuda a desarrollar la motricidad y la destreza manual
 - Permite crear diferentes combinaciones para la muñeca
