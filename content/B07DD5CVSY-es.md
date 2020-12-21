@@ -26,9 +26,9 @@ Tienes [Nenuco Juguetón  muñeco Interactivo 5 Juegos  Famosa 700014356    colo
 ℹ️:
 
 - Nenuco mide 42 cm, lleva un trajecito divertido y un gorrito de perrito, incluye una mantita
-- Cucú- tras: nenuco coge la mantita con sus manos y se esconde detrás; si le haces cosquillas en la tripita, moverá sus bracitos y reirá a carcajadas
-- Juega al caballito: sienta a nenuco en tus piernas, si comienzas a trotar nenuco moverá la cabeza e imitará al caballito; haz el avión, levántalo por los aires y moverá sus bracitos hacia delante
 - Canta y da palmas: cuando juntas las manitas de nenuco canta una nota, si lo haces deprisa la canción será rápida pero puede hacer tantas versiones como quieras
 - Divertido nenuco interactivo que balbucea, se mueve, interactúa y juega como un bebé de verdad, hasta 5 juegos diferentes
+- Juega al caballito: sienta a nenuco en tus piernas, si comienzas a trotar nenuco moverá la cabeza e imitará al caballito; haz el avión, levántalo por los aires y moverá sus bracitos hacia delante
+- Cucú- tras: nenuco coge la mantita con sus manos y se esconde detrás; si le haces cosquillas en la tripita, moverá sus bracitos y reirá a carcajadas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DD5CVSY/?tag=tolees-21)
