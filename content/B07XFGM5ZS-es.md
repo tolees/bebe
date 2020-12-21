@@ -25,10 +25,10 @@ Tienes [Hauck 620403 Rocky - Hamacas bebes Disney de 0 meses hasta 9 kg  funcion
 
 ℹ️:
 
-- Seguridad: la hamaca de bebe dispone de un arnes de cintura de 3puntos
-- Reclinable: La hamaquita de bebe dispone de 3 posiciones de reclinacion para que su bebe se sienta comodo en cada momento
-- Funcionalidad: la hamaca tiene dos modalidades, hamaquita de bebe fija o balancin, según las necesidades puede convertirla de una modalidad a otra en pocos segundos
 - Limpieza: la vestidura es desenfundable y facil de lavar
+- Reclinable: La hamaquita de bebe dispone de 3 posiciones de reclinacion para que su bebe se sienta comodo en cada momento
+- Seguridad: la hamaca de bebe dispone de un arnes de cintura de 3puntos
 - Transporte: la hamaca es un óptimo acompañante de viajes, es facil de transportar gracias a sus dos asas laterales
+- Funcionalidad: la hamaca tiene dos modalidades, hamaquita de bebe fija o balancin, según las necesidades puede convertirla de una modalidad a otra en pocos segundos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XFGM5ZS/?tag=tolees-21)

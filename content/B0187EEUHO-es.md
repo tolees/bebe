@@ -25,11 +25,11 @@ Ahora mismo tienes [Safety 1st 24835510 Barrera de cama portátil y extensible  
 
 🔎:
 
-- Sin riesgo para los niños, resistente con estructura de metal e interior de malla
 - Tamaño montado: 106 (l) x 37 (w) x 42.5 (h) cm
+- Sin riesgo para los niños, resistente con estructura de metal e interior de malla
 - Compatible con colchón, longitud de 156 cm y grosor de 10 a 24 cm
-- Interior con marco metálico y red
 - Encaja en camas estándares y de lamas
+- Interior con marco metálico y red
 - Fácil de transportar, gracias a una longitud plegada de 71 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B0187EEUHO/?tag=tolees-21)
