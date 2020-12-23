@@ -25,10 +25,10 @@ En este momento está [Playgro Sonajero Multiactividades Caballo  Desde los 3 Me
 
 🔎:
 
-- Contenido: 1x Playgro Sonajero Multiactividades Caballo Clip Clop, Dimensiones: 19x14x9 cm, Material: Tejido: 100% Poliéster, Anillo: PP Perlas, Sonajero : ABS, Espejo : PET, Color: Rosa/Multicolor, Art. Nr.: 40143
-- Muchas posibilidades de juego: 4 patas sonoras, Espejo integrado, Pezuñas sonoras con cascabeles y perlas, Bolsillo con velcro para sorprender al bebé
+- Mezcla de materiales de alta calidad en poliéster, plástico ABS, PP y PET, Sin BPA, No lavar a máquina, Lavable con un paño húmedo
 - Burro de peluche multicolor para estimular la motricidad jugando, Ideal para estimular la vista, el oído y el tacto, Apto desde los 3 meses
 - Juegos variados y divertidos: etiquetas y anillos correderos en diferentes estructuras – Práctico anillo para llevar el juguete
-- Mezcla de materiales de alta calidad en poliéster, plástico ABS, PP y PET, Sin BPA, No lavar a máquina, Lavable con un paño húmedo
+- Contenido: 1x Playgro Sonajero Multiactividades Caballo Clip Clop, Dimensiones: 19x14x9 cm, Material: Tejido: 100% Poliéster, Anillo: PP Perlas, Sonajero : ABS, Espejo : PET, Color: Rosa/Multicolor, Art. Nr.: 40143
+- Muchas posibilidades de juego: 4 patas sonoras, Espejo integrado, Pezuñas sonoras con cascabeles y perlas, Bolsillo con velcro para sorprender al bebé
 
 [Aquí!!!](https://www.amazon.es/dp/B00EU8NIUW/?tag=tolees-21)
