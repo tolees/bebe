@@ -25,8 +25,8 @@ En este momento está [Chicco Buenas Noches Estrellitas - Proyector con efecto d
 
 🔎:
 
-- Música clásica de bach y rossini, y sonidos de la naturaleza
 - Proyector infantil que facilita el sueño
+- Música clásica de bach y rossini, y sonidos de la naturaleza
 - Dos efectos de luz diferentes
 - Dos modos de uso: luces o luces y melodía
 - Incluye un suave peluche extraible lavable
