@@ -26,8 +26,8 @@ Está [Fisher-Price - Gimnasio Deluxe Animalitos de la Selva  Manta de Juego Beb
 ℹ️:
 
 - En la opción de duración larga, ¡la música dura hasta veinte minutos!
-- Tres opciones de juego: boca arriba, boca abajo y de paseo.
 - Al apretar el ala del tucán o agitarlo, se activan melodías y luces.
+- Tres opciones de juego: boca arriba, boca abajo y de paseo.
 - Gimnasio para recién nacidos con más de diez juguetes y actividades, y un tucán extraíble que emite música y bailes de luces.
 - Responde a los movimientos del niño con música y luces en la opción de duración corta.
 
