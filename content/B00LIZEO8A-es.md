@@ -25,8 +25,8 @@ En este momento está [Nines Artesanals D Onil- Muñeca Tita con Chupete  Color 
 
 🔎:
 
-- Vestido de jacquard con gorrito a juego y botitas de piel
 - Incluye chupete
+- Vestido de jacquard con gorrito a juego y botitas de piel
 - 100% fabricado en España
 - Cuerpo blandito y tacto suave y perfumado
 
