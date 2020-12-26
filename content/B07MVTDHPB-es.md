@@ -27,8 +27,8 @@ Ahora mismo tienes [Muñeca Fantasy Dreamy de Bebés Llorones - IMC Toys](https:
 
 - Esta es Dreamy, una adorable Bebé Llorón con pijamita de unicornio. Los Bebes Llorónes son unas muñecas monísimas que lloran lágrimas de verdad.
 - Los Bebes Llorónés visten divertidos pijamas con alegres colores y estampados basados en sus inseparables mascotas. Los pijamas se pueden intercambiar entre las muñecas.
-- Incluye chupete y pijama; funciona con 2 pilas AAA.
 - Los Bebés Llorónes ofrecen una divertida forma de inculcar valores de respeto, responsabilidad y afecto por los demás; tamaño aproximado: 30,5 cm; edad recomendada: a partir de 18 meses
 - Al quitarle el chupete tu Bebé Llorón llora lágrimas de verdad. Pónselo otra vez o no dejará de llorar y cada vez lo hará más fuerte. Puedes acomodarla en tus brazos para calmarla.
+- Incluye chupete y pijama; funciona con 2 pilas AAA.
 
 [Visítala!!!](https://www.amazon.es/dp/B07MVTDHPB/?tag=tolees-21)
