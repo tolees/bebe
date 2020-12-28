@@ -25,10 +25,10 @@ En este momento está [Dodot Sensitive Toallitas para Bebé 15 Paquetes de 54 Un
 
 🔎:
 
-- Ayuda instantáneamente a recuperar el pH natural en pieles delicadas
-- Su loción ayuda a prevenir la irritación de la piel
 - Limpia de manera eficaz la piel gracias a su textura extra gruesa y suave
 - Óptima protección de la piel de Dodot
+- Ayuda instantáneamente a recuperar el pH natural en pieles delicadas
+- Su loción ayuda a prevenir la irritación de la piel
 - Testado dermatológicamente, sin perfume y 0% de fenoxietanol, parabenos y alcohol
 - Apropiadas desde el primer día porque están especialmente diseñadas para la piel del recién nacido
 
