@@ -25,11 +25,11 @@ En este momento está [Safety 1st Easy Close Metal Barrera de seguridad metalica
 
 🔎:
 
-- Quick installation cups provided to avoid damaging the walls
-- Note: The gap between the frame and the handle is part of the design, it will close when the gate is correctly fitted in your doorframe
-- Child-proof and very quick to assemble
 - U-pressure barrier metal is barrier gate with stair gate
+- Child-proof and very quick to assemble
+- Quick installation cups provided to avoid damaging the walls
 - Fixing by 4 points pressure makes no holes in the walls
+- Note: The gap between the frame and the handle is part of the design, it will close when the gate is correctly fitted in your doorframe
 - Opens like a door with using one hand
 
 [Aquí!!!](https://www.amazon.es/dp/B0177W8HBW/?tag=tolees-21)
