@@ -26,9 +26,9 @@ Ahora mismo tienes [Chicco Miinimo2 Silla de paseo ultracompacta y ligera  solo 
 🔎:
 
 - Respaldo reclinable en 4 posiciones
-- Ultracompacta y ligera
-- Fácil de transportar: bandolera + bolsa
 - Capota parasol extensible
 - Plegado de libro con una sola mano
+- Fácil de transportar: bandolera + bolsa
+- Ultracompacta y ligera
 
 [Visítala!!!](https://www.amazon.es/dp/B07G32BNHK/?tag=tolees-21)
