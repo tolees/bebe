@@ -25,10 +25,10 @@ Tienes [Chicco - Buenas Noches Osito  Rosa  00009156100000 ](https://www.amazon.
 
 🔎:
 
-- Música de Chopín y Brahms
 - 3 modos: luz, música o ambos
+- Luz antioscuridad con 2 combinaciones de colores
 - Volumen: 3 niveles
 - Peluche blando
-- Luz antioscuridad con 2 combinaciones de colores
+- Música de Chopín y Brahms
 
 [Comprar!!!](https://www.amazon.es/dp/B079TRMPPC/?tag=tolees-21)
