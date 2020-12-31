@@ -26,9 +26,9 @@ En este momento está [Pirulos Sábana Bajera Ajustable de Alta Calidad 100% Alg
 🔎:
 
 - Componentes: 100% algodón
-- Sábana bajera de alta calidad. Color blanco
-- Se compone de 1 sábana bajera ajustable de 60x120 cm
 - Sábana bajera ajustable para cuna de bebé
+- Se compone de 1 sábana bajera ajustable de 60x120 cm
 - Tejidos de confianza que garantiza la ausencia de sustancias nocivas en el producto
+- Sábana bajera de alta calidad. Color blanco
 
 [Aquí!!!](https://www.amazon.es/dp/B00K7E8IZS/?tag=tolees-21)
