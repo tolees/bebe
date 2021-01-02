@@ -26,9 +26,9 @@ Ahora mismo tienes [Motorola MBP667 Connect - Vigilabebés Vídeo Wi-Fi con Pant
 🔎:
 
 - Indicador visual del nivel acústico, notificaciones y control de sonido, movimiento y temperatura
-- Tecnología inalámbrica 2.4GHz FHSS (para visualización local) y conectividad inalámbrica wifi (para una visualización remota)
-- Visión Nocturna por infrarrojos
 - Grabación de vídeo y toma de imágenes manuales
 - Alcance de hasta 300 m o convertir su smartphone o tableta conectados a internet en una cámara vigilabebés con vídeo para controlar a su bebé desde cualquier lugar.
+- Visión Nocturna por infrarrojos
+- Tecnología inalámbrica 2.4GHz FHSS (para visualización local) y conectividad inalámbrica wifi (para una visualización remota)
 
 [Visítala!!!](https://www.amazon.es/dp/B077B7JZBX/?tag=tolees-21)
