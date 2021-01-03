@@ -25,8 +25,8 @@ Tienes [NUBY Llaves de dentición refrigerantes con pureICE Gel](https://www.ama
 
 ℹ️:
 
-- pûrICE: gel no tóxico que mantiene los mordedores fríos por más tiempo que los tradicionales rellenos de agua
 - Divertidos, elegantes y modernos
+- pûrICE: gel no tóxico que mantiene los mordedores fríos por más tiempo que los tradicionales rellenos de agua
 - Diferentes texturas: ayudan a tu bebé a la salida y fortalecimiento de sus nuevos dientes
 - 0% bisphenol A (BPA). Todos los productos Nûby son libres de BPA. El bebé los puedes chupar y morder sin ningún tipo de peligro
 
