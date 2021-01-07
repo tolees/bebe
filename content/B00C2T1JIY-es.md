@@ -25,8 +25,8 @@ Está [Cybex Aton Base 2-Fix Base para Aton y Aton 5  Grupo 0+  Negro](https://w
 
 ℹ️:
 
-- Sólida base ISOFIX para el montaje de portabebés en automóviles con y sin ISOFIX sin necesidad de pasar el cinturón de seguridad para una mayor seguridad y confort
 - Contenido: 1 ISOFIX base 2 fix, incluye bocas ISOFIX, material: plástico, metal, dimensiones (lxpxa): 51,5 x 38 x 19,5 cm, peso: 5,6 kg, color: negro
+- Sólida base ISOFIX para el montaje de portabebés en automóviles con y sin ISOFIX sin necesidad de pasar el cinturón de seguridad para una mayor seguridad y confort
 - Compatible con cybex portabebé aton y aton 5
 - Gran confort: instalación sencilla y segura, el portabebé se ajusta a la base con un solo clic sin necesidad de tener que atarlo
 - Seguridad y estabilidad adicional: instalación al dispositivo ISOFIX del automóvil mediante sus conectores, apto también para coches sin ISOFIX (fijación mediante el cinturón de seguridad)
