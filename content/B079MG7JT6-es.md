@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price Libro interactivo de aprend al 20.01 % de descuento'
-date: 2021-01-07 00:42:34
+date: 2021-01-08 00:59:21
 image: 'https://m.media-amazon.com/images/I/41egIR1M1sL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079MG7JT6/?tag=tolees-21'
 descuento: '20.01'
-average: '15.772925170068023'
+average: '15.775838926174492'
 ---
 
 Está [Fisher-Price Libro interactivo de aprendizaje  juguete bebé +6 meses  Mattel FRC69 ](https://www.amazon.es/dp/B079MG7JT6/?tag=tolees-21) con 20.01 de descuento por 15.99 EUR (original: 19.99 EUR) en el siguiente enlace!
