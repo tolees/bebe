@@ -25,10 +25,10 @@ En este momento está [KidKraft- Deluxe Activity Cube Juguete de laberinto de cu
 
 🔎:
 
-- Hecha de madera resistente de calidad
-- Cada lado tiene diferentes tareas
-- Fácil de montar
 - Ayuda a los niños a desarrollar sus habilidades motrices
 - 5 lados para que niños a partir de un año se diviertan
+- Cada lado tiene diferentes tareas
+- Fácil de montar
+- Hecha de madera resistente de calidad
 
 [Aquí!!!](https://www.amazon.es/dp/B00I14W8AM/?tag=tolees-21)
