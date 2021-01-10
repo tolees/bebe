@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huggies - Bañadores desechables  talla 3 al 20.02 % de rebaja'
-date: 2021-01-09 13:08:34
+date: 2021-01-10 14:42:43
 image: 'https://m.media-amazon.com/images/I/61ouTGsLfkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0RTP4X/?tag=tolees-21'
 descuento: '20.02'
-average: '8.15'
+average: '8.127142857142857'
 ---
 
 Tienes [Huggies - Bañadores desechables  talla 3-4   20 unidades](https://www.amazon.es/dp/B01M0RTP4X/?tag=tolees-21) con precio final de  7.99 EUR (original: 9.99 EUR) (20.02 %  de rebaja) aqui!
