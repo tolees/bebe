@@ -25,10 +25,10 @@ Tienes [Motorola Baby MBP11  Vigilabebés Audio Con Modo Eco  Blanco  Tamaño Ú
 
 ℹ️:
 
-- Range up to 300 m
-- Visual noise indicator
-- Integrated maximum sensibility microphone
 - Duct technology to guarantee maximum audio quality and privacy
+- Integrated maximum sensibility microphone
+- Visual noise indicator
+- Range up to 300 m
 - Alarm signal if out of range
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005IWH0WG/?tag=tolees-21)
