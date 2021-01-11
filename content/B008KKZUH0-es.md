@@ -25,10 +25,10 @@ Tienes [ISDIN Nutraisdin Bath Gel-Champú - 1000 ml.](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Protege el equilibrio cutáneo de la piel del bebé
-- Evita la deshidratación gracias a su formulación con tensioactivos muy suaves
 - Limpia con suavidad respetando la delicada piel del bebé
+- Evita la deshidratación gracias a su formulación con tensioactivos muy suaves
 - Probado pediátrica y dermatológicamente
 - Gel champú para piel y cabello del bebé
+- Protege el equilibrio cutáneo de la piel del bebé
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B008KKZUH0/?tag=tolees-21)
