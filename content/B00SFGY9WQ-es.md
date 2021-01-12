@@ -26,8 +26,8 @@ Tienes [Educa- Identic Peppa Pig Juego Educativo para Bebés  Multicolor  16227 
 🔎:
 
 - Recomendado a partir de 3 años
-- Contenidos adaptados a las áreas básicas de aprendizaje y para cada edad en concreto
 - Contiene 36 piezas
 - Conceptos educativos básicos
+- Contenidos adaptados a las áreas básicas de aprendizaje y para cada edad en concreto
 
 [Comprar!!!](https://www.amazon.es/dp/B00SFGY9WQ/?tag=tolees-21)
