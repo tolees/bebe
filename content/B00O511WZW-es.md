@@ -25,10 +25,10 @@ Está [Safety 1st Road Safe Silla de coche grupo 2/3  reclinable en 2 posicióne
 
 ℹ️:
 
-- Esta silla para coche ligera crece con el niño gracias a su reposacabezas ajustable con 6 posiciones
-- Instalación fácil y segura con el cinturón gracias a sus guías de cinturón accesibles
 - Silla para coche ligera, solo pesa 2.8 kg para cambiarla de coche fácilmente
-- Silla de auto con reposacabezas protector y respaldo reclinable con 2 posiciones para seguridad y comodidad
+- Esta silla para coche ligera crece con el niño gracias a su reposacabezas ajustable con 6 posiciones
 - Silla de coche para niños de 15 a 36 kg (de 3 a 10-12 años aprox.)
+- Silla de auto con reposacabezas protector y respaldo reclinable con 2 posiciones para seguridad y comodidad
+- Instalación fácil y segura con el cinturón gracias a sus guías de cinturón accesibles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00O511WZW/?tag=tolees-21)
