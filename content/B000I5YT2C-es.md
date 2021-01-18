@@ -26,9 +26,9 @@ Ahora mismo tienes [Baby Art My lovely Belly kit molde barriga  Yeso para molde 
 🔎:
 
 - Contenido del kit : 9 rollos de vendas de escayola, 1 bote de crema de gelatina y 1 par de guantes
-- 100% seguro para la madre y el bebé
 - Un recuerdo único
-- Es posible decorar la impresión con pintura acrílica o aplicar una capa de barniz
 - Fácil de realizar, sin cocción, no se requiere de ningún otro material, todo está incluido en este kit
+- Es posible decorar la impresión con pintura acrílica o aplicar una capa de barniz
+- 100% seguro para la madre y el bebé
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000I5YT2C/?tag=tolees-21)
