@@ -26,11 +26,11 @@ Ahora mismo tienes [Asalvo Convi Fix Silla de Coche Grupo 2/3  Gris](https://www
 
 🔎:
 
-- Reposacabezas ajustable en altura
-- Protección cervical y lateral contra impactos
 - Asiento ancho y cómodo
 - Respaldo desmontable
-- Sentido de la marcha con sistema Isofix
 - Grupo 2-3 desde los 15 kg hasta 36kg
+- Protección cervical y lateral contra impactos
+- Sentido de la marcha con sistema Isofix
+- Reposacabezas ajustable en altura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078H7WMDK/?tag=tolees-21)

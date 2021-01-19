@@ -26,9 +26,9 @@ Ahora mismo tienes [Ciao 11285.6-8 Enigma Original - Disfraz de Bebé  Talla 6-8
 
 🔎:
 
-- Talla 6-8 años
-- Ocasiones: Halloween, carnaval, cumpleaños, fiesta, fiestas temáticas, espectáculos, ensayos, actos, cosplay
 - Producto original disparado Superzings/SuperThings
 - Contenido: Mono, capa, sombrero, guantes, copristivali
+- Talla 6-8 años
+- Ocasiones: Halloween, carnaval, cumpleaños, fiesta, fiestas temáticas, espectáculos, ensayos, actos, cosplay
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F7WBSCN/?tag=tolees-21)
