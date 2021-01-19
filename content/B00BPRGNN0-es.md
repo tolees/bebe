@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BPRGNN0-es Medela 008.0483 Biberón con Tetina Calma 250 ml'
-tags: biberón, medela
+tags: tole.es, biberón, medela
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

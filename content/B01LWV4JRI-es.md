@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWV4JRI-es Chicco London - Silla de paseo 7.2 kg compacta y manejable...'
-tags: chicco
+tags: tole.es, chicco
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

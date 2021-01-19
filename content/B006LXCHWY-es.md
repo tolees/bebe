@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006LXCHWY-es Nenuco - Pañales de Colores Famosa 700009027'
-tags: nenuco, pañales
+tags: tole.es, nenuco, pañales
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3ZS4C6-es Xnuoyo Mochilas de Pañales Gran Capacidad Mochila de...'
-tags: bebé, pañales, bebé
+tags: tole.es, bebé, pañales, bebé
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

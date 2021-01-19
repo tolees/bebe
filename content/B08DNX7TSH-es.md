@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNX7TSH-es BTNEEU Luz Nocturna Infantil Recargable Lámpara Infantil...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

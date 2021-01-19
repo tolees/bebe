@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JOMPAFE-es Tommee Tippee - Kit de iniciación para recién nacido...'
-tags: tommee
+tags: tole.es, tommee
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

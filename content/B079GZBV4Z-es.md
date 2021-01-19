@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079GZBV4Z-es Philips Avent SCF334/31 - Sacaleches doble silencioso...'
-tags: avent, biberón, sacaleches
+tags: tole.es, avent, biberón, sacaleches
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCBGJ3G-es Chicco Open Box Parque de juegos infantil con alfombra...'
-tags: chicco
+tags: tole.es, chicco
 actualPrice: 98.36 EUR
 currency: EUR
 price: 98.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H6VPX6Q-es Eudora Harmony Ball Llamador de Angeles Embarazada...'
-tags: embarazada
+tags: tole.es, embarazada
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

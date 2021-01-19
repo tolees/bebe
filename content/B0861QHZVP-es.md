@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0861QHZVP-es Magicfun Flotado de Natación para Bebé con Asiento Anill...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

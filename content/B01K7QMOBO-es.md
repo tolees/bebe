@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7QMOBO-es Dodot Toallitas Básico de Recambio - 54 Unidades'
-tags: dodot
+tags: tole.es, dodot
 actualPrice: 0.87 EUR
 currency: EUR
 price: 0.87

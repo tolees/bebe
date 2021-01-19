@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B33GPPD-es Chicco NaturalFeeling - Set de regalo con 2 biberones para...'
-tags: biberones, chicco, chupete
+tags: tole.es, biberones, chicco, chupete
 actualPrice: 13.44 EUR
 currency: EUR
 price: 13.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8DSXPD-es Mono/Pelele de manga larga para bebé 3-6 Meses Azul'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

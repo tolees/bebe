@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJXRSPL-es Geox B Verred a Sandalias para Bebés White C1000 27 EU'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I1XECQU-es Ecus Kids El colchón de cuna Ecus Care con certificado...'
-tags: ecus, kids
+tags: tole.es, ecus, kids
 actualPrice: 165.18 EUR
 currency: EUR
 price: 165.18

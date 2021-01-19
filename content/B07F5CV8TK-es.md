@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F5CV8TK-es FREESOO Parasol de Coche Ventana Lateral Trasera y...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

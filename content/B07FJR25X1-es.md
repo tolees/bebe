@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FJR25X1-es Hauck Rapid 4X Silla de paseo ligera desde nacimiento...'
-tags: hauck
+tags: tole.es, hauck
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

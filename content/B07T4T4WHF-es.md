@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4T4WHF-es MCGMITT Toalla con Capucha de Playa para Niños con Capucha...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

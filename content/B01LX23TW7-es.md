@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX23TW7-es Air Wick Ambientador Freshmatic Recambio - Fragancia...'
-tags: nenuco
+tags: tole.es, nenuco
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YGZPPF-es Schiesser Puppy Love Baby Anzug 2-Teilig Conjuntos de...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

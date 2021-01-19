@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B60BME0-es Reebok Classic Leather Zapatillas de trail running Unisex...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

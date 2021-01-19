@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG3MZ1Y-es Geox B ALBEN Boy A Zapatillas para Bebés Azul Navy/Grey...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 30.85 EUR
 currency: EUR
 price: 30.85

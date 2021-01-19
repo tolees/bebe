@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KW4F8F6-es NUK 10255253 - Biberón con asas botella de acero...'
-tags: biberón, nuk
+tags: tole.es, biberón, nuk
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

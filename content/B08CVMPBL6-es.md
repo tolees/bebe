@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVMPBL6-es HOMCOM Coche para Bebés Mayores de 12 Meses Correpasillos...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

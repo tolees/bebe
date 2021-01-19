@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001TPS9XU-es Purelan 100 Medela - 37 gr.'
-tags: medela
+tags: tole.es, medela
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

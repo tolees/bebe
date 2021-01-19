@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCR1ZX9-es Avaspot Humidificador Ultrasónico Aromaterapia 250 ML...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D5PWJN-es Britax Römer FIRST CLASS PLUS - Silla de Coche Nacimiento...'
-tags: römer, silla, de, coche
+tags: tole.es, römer, silla, de, coche
 actualPrice: 170.24 EUR
 currency: EUR
 price: 170.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CNSQ8BQ-es royalfirst tablón brasileño Virgen Pelo Humano Pelucas De...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 99.89 EUR
 currency: EUR
 price: 99.89

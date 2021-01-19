@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CGY58T-es Protector de pezón de contacto de silicona con estuche de...'
-tags: lactancia
+tags: tole.es, lactancia
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

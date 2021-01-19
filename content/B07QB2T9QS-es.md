@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB2T9QS-es Cuna portátil Capazos Cuna de Viaje tela Oxford Plegable...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

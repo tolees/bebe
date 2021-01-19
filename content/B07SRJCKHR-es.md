@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJCKHR-es Geox B Kaytan A Sandalias de Punta Descubierta para Bebés...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 32.27 EUR
 currency: EUR
 price: 32.27

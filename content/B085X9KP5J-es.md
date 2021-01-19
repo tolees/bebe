@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085X9KP5J-es GYYFF Termómetro electrónico infrarrojo sin Contacto...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

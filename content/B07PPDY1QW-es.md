@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPDY1QW-es Felly Arnés de Seguridad para Caminar Ajustable Arnés de...'
-tags: bebe, bebé, bebé
+tags: tole.es, bebe, bebé, bebé
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

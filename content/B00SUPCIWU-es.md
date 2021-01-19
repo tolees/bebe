@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SUPCIWU-es NUK 10256396 - Juego de higiene dental para bebé pasta de...'
-tags: bebé, nuk, bebé
+tags: tole.es, bebé, nuk, bebé
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

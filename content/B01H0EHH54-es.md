@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0EHH54-es Foppapedretti Rolling Fix Silla de coche grupo 0+/1 Isofix...'
-tags: isofix, silla, de, coche
+tags: tole.es, isofix, silla, de, coche
 actualPrice: 215.18 EUR
 currency: EUR
 price: 215.18

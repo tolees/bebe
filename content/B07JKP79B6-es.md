@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKP79B6-es Amy&Benton Coches de Juguete Surtido 4PCS Figuras Coches...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

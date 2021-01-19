@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHKNL74-es besrey Tipi Infantil Tienda de Bebe Grande Tela Gruesa...'
-tags: bebe, bebé, bebé
+tags: tole.es, bebe, bebé, bebé
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

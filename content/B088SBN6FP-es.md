@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088SBN6FP-es NUK Perfect Start First Choice+ kit de biberones 0-6 meses...'
-tags: biberones, chupete, nuk
+tags: tole.es, biberones, chupete, nuk
 actualPrice: 30.65 EUR
 currency: EUR
 price: 30.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4WPXRS-es INTEY Aspirador Nasal Eléctrica 2 Boquillas de Silicona...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

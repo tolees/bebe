@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRJH2JM-es Tirol Nuevo Espejo ajustable para el asiento trasero del...'
-tags: bebé, bebés, bebé
+tags: tole.es, bebé, bebés, bebé
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

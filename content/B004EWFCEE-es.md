@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EWFCEE-es Tetina Calma para biberón Medela'
-tags: biberón, medela
+tags: tole.es, biberón, medela
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

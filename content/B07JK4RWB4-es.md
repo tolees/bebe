@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK4RWB4-es Luchild Trenza Protector de Cuna 300cm Parachoques...'
-tags: bebe
+tags: tole.es, bebe
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

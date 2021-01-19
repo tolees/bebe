@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFJPQ6M-es Homgrace Termómetro Infrarrojos Ain Contacto- Pistola...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 9.57 EUR
 currency: EUR
 price: 9.57

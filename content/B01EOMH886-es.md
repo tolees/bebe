@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EOMH886-es Parasol de Coche para Bebés Ventana 2 Pack PEMOTech®...'
-tags: bebé, bebés, bebé
+tags: tole.es, bebé, bebés, bebé
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

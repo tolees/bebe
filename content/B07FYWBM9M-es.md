@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYWBM9M-es Ergobaby Original - Mochila portabebés ergonómicas unisex...'
-tags: portabebés
+tags: tole.es, portabebés
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

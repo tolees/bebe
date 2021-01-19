@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRHR9JW-es Adidas Lite Racer Inf Zapatillas de Estar por casa Bebé...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

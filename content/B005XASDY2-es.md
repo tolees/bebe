@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XASDY2-es Cybex 512110004 Silver Pallas-Fix Silla de Coche Grupo...'
-tags: cybex, silla, de, coche
+tags: tole.es, cybex, silla, de, coche
 actualPrice: 178.99 EUR
 currency: EUR
 price: 178.99

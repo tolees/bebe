@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F8LRG-es Baby Jogger City Tour LUX DUO Cochecito de Bebé Desde...'
-tags: bebé, baby, jogger, bebé
+tags: tole.es, bebé, baby, jogger, bebé
 actualPrice: 211.41 EUR
 currency: EUR
 price: 211.41

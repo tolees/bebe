@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F5BEHA2-es LifeVit BT-125 Termómetro inteligente para Bebé conexión...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNSPSST-es Suavinex – Crema Reafirmante Corporal. Compatible con...'
-tags: suavinex, lactancia
+tags: tole.es, suavinex, lactancia
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

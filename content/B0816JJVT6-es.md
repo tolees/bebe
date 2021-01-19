@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816JJVT6-es DaMohony - Bebé Cuna Nido Portátil Recién Nacidos...'
-tags: bebé, bebés, bebé
+tags: tole.es, bebé, bebés, bebé
 actualPrice: 25.4 EUR
 currency: EUR
 price: 25.4

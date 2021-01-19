@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5CGC6Z-es Keten Alfombra Inflable con Agua Tapete de PVC a Prueba de...'
-tags: bebé, bebés, bebé
+tags: tole.es, bebé, bebés, bebé
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

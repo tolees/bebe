@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSEYUIC-es Philips Avent SCF169/25 - Set de 2 chupetes Gama Safari de...'
-tags: avent, chupetes
+tags: tole.es, avent, chupetes
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

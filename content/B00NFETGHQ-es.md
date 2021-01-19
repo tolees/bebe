@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NFETGHQ-es Fisher-Price Gimnasio crece conmigo manta de juego para...'
-tags: bebé, fisher-price, bebé
+tags: tole.es, bebé, fisher-price, bebé
 actualPrice: 45.67 EUR
 currency: EUR
 price: 45.67

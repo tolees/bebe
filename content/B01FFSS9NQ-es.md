@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFSS9NQ-es Suavinex – Gel-champú espumoso para bebés. No Pica en los...'
-tags: suavinex
+tags: tole.es, suavinex
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

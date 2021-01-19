@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKS9S66-es Termómetro Digital Bebé Termómetro de Frente y Oído...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

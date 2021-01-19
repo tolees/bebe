@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NRZL1DK-es Safety 1st 33110128 - Espejo trasero color negro'
-tags: safety, 1st
+tags: tole.es, safety, 1st
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

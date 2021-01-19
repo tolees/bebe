@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD27X4X-es Lictin Sacaleches Eléctrico - Extractor de Leche con...'
-tags: sacaleches, lactancia
+tags: tole.es, sacaleches, lactancia
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

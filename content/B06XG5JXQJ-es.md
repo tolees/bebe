@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG5JXQJ-es Chicco Physio Soft Pack de 2 Chupetes de Silicona 6-16...'
-tags: chicco, chupetes
+tags: tole.es, chicco, chupetes
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

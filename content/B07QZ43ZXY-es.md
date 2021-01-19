@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ43ZXY-es Dodot Activity Pañales Talla 5+ 96 Pañales - 12-17 kg'
-tags: dodot, pañales
+tags: tole.es, dodot, pañales
 actualPrice: 29.15 EUR
 currency: EUR
 price: 29.15

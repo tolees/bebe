@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FHDHNTP-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido...'
-tags: lactancia
+tags: tole.es, lactancia
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

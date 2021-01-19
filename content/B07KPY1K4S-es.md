@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPY1K4S-es dPois Vestidos de Princesa Diadema Niña Bebé Fiesta...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

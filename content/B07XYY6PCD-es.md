@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYY6PCD-es SaponinTree Humidificador Aromaterapia Ultrasónico 550ML...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

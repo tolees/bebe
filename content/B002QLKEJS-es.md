@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002QLKEJS-es Altabebe Active Line - Saco de invierno para silla de...'
-tags: silla, de, coche
+tags: tole.es, silla, de, coche
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

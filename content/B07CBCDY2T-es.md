@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBCDY2T-es Manta de Bebé Lactancia Alimentación Paños de Muselina...'
-tags: bebé, muselina, portabebé, bebé, lactancia, portabebé
+tags: tole.es, bebé, muselina, portabebé, bebé, lactancia, portabebé
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

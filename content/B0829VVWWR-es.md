@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829VVWWR-es Termómetro médico de Fieberthermometer por infrarrojos de...'
-tags: bebés
+tags: tole.es, bebés
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

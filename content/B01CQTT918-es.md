@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQTT918-es Chicco Wellbeing - Biberón con tetina de látex y flujo...'
-tags: bebé, biberón, chicco, bebé
+tags: tole.es, bebé, biberón, chicco, bebé
 actualPrice: 5.72 EUR
 currency: EUR
 price: 5.72

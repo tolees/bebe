@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1JV43G-es Bolsas de Transporte Bolsa Viaje para Asiento Bebé Acomon...'
-tags: bebé, bebé
+tags: tole.es, bebé, bebé
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
