@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BixgYDThL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFSS9NQ-es Suavinex – Gel-champú espumoso para bebés. No Pica en los Ojos. Textura Espumosa y Fragancia Baby cologne. 86% Ingredientes de Origen Natural. Gel-champú para piel y cabello  500ml'
+slug: 'B01FFSS9NQ-es Suavinex – Gel-champú espumoso para bebés. No Pica en los...'
+tags: suavinex
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

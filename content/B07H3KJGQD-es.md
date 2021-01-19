@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y7qLIo09L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3KJGQD-es Bromose - Lámpara de mesilla de noche regulable táctil  luz nocturna para bebé  portátil  mini lamparas de mesa  3 modos  de luz Recargable Uso Inalambrico'
+slug: 'B07H3KJGQD-es Bromose - Lámpara de mesilla de noche regulable táctil luz...'
+tags: bebé, bebé
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

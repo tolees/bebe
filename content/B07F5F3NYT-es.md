@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jLZx4mUEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5F3NYT-es Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en 1 con silla y el capazo  2020 estilo de vida F22 asiento de carro extra comprable - Hoja'
+slug: 'B07F5F3NYT-es Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en...'
+tags: bebe
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

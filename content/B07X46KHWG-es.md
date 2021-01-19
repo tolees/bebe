@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gE3f0Y0aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X46KHWG-es Camara Vigilancia WiFi Interior  NIYPS HD 1080P Camara Vigilancia Bebe con Vision Nocturna  Audio de 2 Vías  Sensor Movimiento y Cloud  Camara IP para Bebe/Ancianos/Mascota Monitoreo'
+slug: 'B07X46KHWG-es Camara Vigilancia WiFi Interior NIYPS HD 1080P Camara...'
+tags: bebe
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

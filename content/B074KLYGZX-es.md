@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sXL17swdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KLYGZX-es Huggies Ultra Comfort Pañal Braguita Talla 5  12-17 kg  -  Pack de 2 x 34 unidades  Total: 68 pañales braguita '
+slug: 'B074KLYGZX-es Huggies Ultra Comfort Pañal Braguita Talla 5 12-17 kg -...'
+tags: huggies, pañal, pañales
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

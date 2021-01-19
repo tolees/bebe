@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LVN2ffIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PMP5SR-es Philips Avent Scf169/46 - Pack con 2 Chupetes Jardín Encantado  de 0 A 6 Meses  Niña  color Rosa y Azul'
+slug: 'B077PMP5SR-es Philips Avent Scf169/46 - Pack con 2 Chupetes Jardín...'
+tags: avent, chupetes
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

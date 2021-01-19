@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CURPmPmhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNZL2F9-es Reductor WC  DALMO Adaptador WC ergonómico  Tapa WC con Reposabrazos  Deflector  Diseño Antideslizante  Orinal de Bebé con Compacto para Viajes  Ayuda para aprender a ir al baño  Azul'
+slug: 'B07ZNZL2F9-es Reductor WC DALMO Adaptador WC ergonómico Tapa WC con...'
+tags: bebé, bebé
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

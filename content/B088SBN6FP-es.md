@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ftfXuUPqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088SBN6FP-es NUK Perfect Start First Choice+ kit de biberones  0-6 meses  4 biberones con control de temperatura  chupete  cepillo de limpieza  etc  Sin BPA  Gris y blanco  10 unidades'
+slug: 'B088SBN6FP-es NUK Perfect Start First Choice+ kit de biberones 0-6 meses...'
+tags: biberones, chupete, nuk
 actualPrice: 30.65 EUR
 currency: EUR
 price: 30.65

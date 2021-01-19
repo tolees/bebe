@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z37irCSlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1CVX7M-es Safety 1st Crazy Peps Silla Paseo ligera  capota con diseño divertito  Plegable y compacta  Pesa 4 6 kg  Super Hero Rosa'
+slug: 'B07Q1CVX7M-es Safety 1st Crazy Peps Silla Paseo ligera capota con diseño...'
+tags: safety, 1st
 actualPrice: 36.75 EUR
 currency: EUR
 price: 36.75

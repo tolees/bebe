@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qPBJJawyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDG933Z-es Lámpara de Luna 3D 16 Colores RGB Luz Nocturna Luna LED Lampara Luna Grande 15cm Remoto Tactil Control USB Intensidad Elegir Luz de Noche Ambiente Lámparas para Niños Bebé Regalo de Fiesta Decoración'
+slug: 'B07MDG933Z-es Lámpara de Luna 3D 16 Colores RGB Luz Nocturna Luna LED...'
+tags: bebé, bebé
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

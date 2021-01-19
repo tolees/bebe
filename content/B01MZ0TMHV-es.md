@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MVpELyzbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ0TMHV-es Babybjörn Bliss Hamaca ergonómica con balanceo natural para Bebés  Azul Medianoche'
+slug: 'B01MZ0TMHV-es Babybjörn Bliss Hamaca ergonómica con balanceo natural...'
+tags: bebés
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

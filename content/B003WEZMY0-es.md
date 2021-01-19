@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tVumFCkIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WEZMY0-es Suavinex Crema del Pañal para Bebés para Pieles Sensibles  75ml'
+slug: 'B003WEZMY0-es Suavinex Crema del Pañal para Bebés para Pieles Sensibles...'
+tags: bebés, pañal, suavinex
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B-IwlbCGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNR99HM-es Levoit Humidificador Ultrasónico 4 5L Bebé de Vapor Frío  Difusor de Aroma  3 Niveles Ajustables y Luz Nocturna  Auto Apagado  Control Táctil  Para Oficina y Dormitorio hasta 40-50 m²  LV450CH'
+slug: 'B07CNR99HM-es Levoit Humidificador Ultrasónico 4 5L Bebé de Vapor Frío...'
+tags: bebé, bebé
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

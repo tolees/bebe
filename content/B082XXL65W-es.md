@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Oa-md48DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XXL65W-es Bonio Silla de Coche Giratoria 360º Grupo 0+/1/2/3  0~36kg  con UPF50+ Toldo Parasol  Rojo '
+slug: 'B082XXL65W-es Bonio Silla de Coche Giratoria 360º Grupo 0+/1/2/3 0~36kg...'
+tags: silla, de, coche
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PJsTueLoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0041MEZFO-es Laboratorios Babé - Gel de Baño Pediátrico 500 ml  Suavidad  Protección e Hidratación  Para Bebé  Niño y Niña  Recién Nacido  Refrescante  Piel Sensible  Uso Diario  Jabón Corporal'
+slug: 'B0041MEZFO-es Laboratorios Babé - Gel de Baño Pediátrico 500 ml Suavidad...'
+tags: bebé, bebé
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

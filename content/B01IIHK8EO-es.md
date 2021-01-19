@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YcrWmfOkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IIHK8EO-es Nenuco 700013300 - Merienditas  muñeca con accesorios'
+slug: 'B01IIHK8EO-es Nenuco 700013300 - Merienditas muñeca con accesorios'
+tags: nenuco
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

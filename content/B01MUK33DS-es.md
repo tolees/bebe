@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bfx7TTULL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUK33DS-es Philips Avent SCF212/20 - Pack de dos chupetes ultra suaves y flexibles  diseño liso  0-6 meses  niño  color azul/verde'
+slug: 'B01MUK33DS-es Philips Avent SCF212/20 - Pack de dos chupetes ultra...'
+tags: avent, chupetes
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

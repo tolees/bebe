@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OffFZkVqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2GNYHL-es Silla de Coche Grupo 1 2 3  Isofix con Escudo y Normativa ECE R44/04  Seguridad Máxima para tu Bebé de 9-36 kg  - Silla de Coche 1 2 3 con Elevador Coche Niño - Silla de Coche Bebes y Niños'
+slug: 'B07H2GNYHL-es Silla de Coche Grupo 1 2 3 Isofix con Escudo y Normativa...'
+tags: bebé, isofix, bebé, silla, de, coche
 actualPrice: 127.97 EUR
 currency: EUR
 price: 127.97

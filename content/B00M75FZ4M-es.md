@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5159C19qDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M75FZ4M-es Blevit Plus Superfibra 8 Cereales con Miel  1 unidad 600 gr. A  partir de los 5 meses.'
+slug: 'B00M75FZ4M-es Blevit Plus Superfibra 8 Cereales con Miel 1 unidad 600...'
+tags: blevit
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

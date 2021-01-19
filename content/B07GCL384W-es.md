@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419Mi7ItjyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCL384W-es Chicco Balloon - Hamaca interactiva con sistema balancín  de 0 a 18 kg  con luces y sonidos  diseño mapache color gris  Honey Bear '
+slug: 'B07GCL384W-es Chicco Balloon - Hamaca interactiva con sistema balancín...'
+tags: chicco
 actualPrice: 80 EUR
 currency: EUR
 price: 80

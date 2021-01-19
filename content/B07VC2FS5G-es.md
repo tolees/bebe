@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51fxp58YIHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC2FS5G-es Luchild Termómetro Digital Infrarrojos Bebé de Frente y Oído con 35 Memoria  Alarma de Fiebre  Lectura instantánea para Recién Nacido  Niños  Adultos  Objetos y Ambiente'
+slug: 'B07VC2FS5G-es Luchild Termómetro Digital Infrarrojos Bebé de Frente y...'
+tags: bebé, bebé
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

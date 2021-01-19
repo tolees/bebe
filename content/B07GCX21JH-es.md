@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XDKkkEjpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCX21JH-es Calcetines de Compresión para Hombres y Mujeres - Medias de Compresion para Deporte - Maratones - Enfermeras - Estrés tibial Interior - Durante Embarazo  S/M  35-42   Negro/Rojo '
+slug: 'B07GCX21JH-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
+tags: embarazo
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

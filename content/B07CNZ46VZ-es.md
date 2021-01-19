@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nI6eEcLjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNZ46VZ-es Levoit Humidificador Ultrasónico 5 5L Bebés de Vapor Caliente y Frío  Difusor de Aroma  5 Niveles Ajustables  Monitor de Humedad  Control Remoto y Temporizador  Auto Apagado  Boquilla 360°  LV550HH'
+slug: 'B07CNZ46VZ-es Levoit Humidificador Ultrasónico 5 5L Bebés de Vapor...'
+tags: bebés
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

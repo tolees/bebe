@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fxcnP1DOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GYQ6WJ5-es Hawiton Camisón para Mujer Algodón Invierno Manga Largo Pijamas para Mujer camisón de Lactancia Ropa de Dormir Negro Sexy Tallas Grandes con Cuello Redondo'
+slug: 'B08GYQ6WJ5-es Hawiton Camisón para Mujer Algodón Invierno Manga Largo...'
+tags: lactancia
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XBTilfh9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P19CJMK-es Sotech Columpio Eléctrico para Bebés  Columpio de bebé con vibración  Cuna Mecedora Automatica  Hamaca Bebe  Mecedora Bebe  80 x 76 x 54 cm'
+slug: 'B07P19CJMK-es Sotech Columpio Eléctrico para Bebés Columpio de bebé con...'
+tags: bebe, bebé, bebés, bebé
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

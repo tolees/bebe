@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kWAgPIn8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRG87L4-es Luxja Pañal de Natación para bebes Bañador Reutilizable de Nadar de Bebé Pañal lavable para Bebé  0-3 años   Ballenas + Peces'
+slug: 'B07BRG87L4-es Luxja Pañal de Natación para bebes Bañador Reutilizable de...'
+tags: bebé, pañal, bebé
 actualPrice: 11.46 EUR
 currency: EUR
 price: 11.46

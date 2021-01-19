@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NsCkVDnpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GZFXTG-es Philips Avent SCF343/22 - Pack con 2 chupetes Ultra Air decorados  de 6 a 18 meses  niña  color coral y rosa'
+slug: 'B079GZFXTG-es Philips Avent SCF343/22 - Pack con 2 chupetes Ultra Air...'
+tags: avent, chupetes
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

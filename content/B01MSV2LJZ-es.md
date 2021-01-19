@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YEblQ8NEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSV2LJZ-es Motorola MBP 140 - Vigilabebés audio con unidad para bebés "plug-n-go" y pequeña unidad para papás portátil  modo eco y luz nocturna  color blanco'
+slug: 'B01MSV2LJZ-es Motorola MBP 140 - Vigilabebés audio con unidad para bebés...'
+tags: bebés, vigilabebés
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

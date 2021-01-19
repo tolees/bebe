@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lfkIio4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRWYWM1-es Nuby - Bañera para bebé con asiento integrado y reposacabezas suave  color blanco y gris'
+slug: 'B07KRWYWM1-es Nuby - Bañera para bebé con asiento integrado y...'
+tags: bebé, nuby, bebé
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05

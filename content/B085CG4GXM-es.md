@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SbvnY8V0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CG4GXM-es Almohada linda encantadora del patrón de dibujos animados del oso Almohada del cojín del soporte del bebé recién nacido Prevenir la almohada de algodón de cabeza plana para el bebé - Rosa'
+slug: 'B085CG4GXM-es Almohada linda encantadora del patrón de dibujos animados...'
+tags: bebé, bebé
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

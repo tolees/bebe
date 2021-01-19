@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sJg9GI6pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CJVU41M-es Pampers 81665622 pañal desechable Niño/niña 1 22 pieza s  - Pañales desechables  Niño/niña  Tape diaper  2 kg  5 kg  Multicolor  Velcro '
+slug: 'B01CJVU41M-es Pampers 81665622 pañal desechable Niño/niña 1 22 pieza s -...'
+tags: pañal, pañales
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41sTmYyMquL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YGZPPF-es Schiesser Puppy Love Baby Anzug 2-Teilig  Conjuntos de Pijama para Bebés  Rojo  Rosa 503   56 cm'
+slug: 'B078YGZPPF-es Schiesser Puppy Love Baby Anzug 2-Teilig Conjuntos de...'
+tags: bebés
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

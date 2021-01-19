@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D03-b53sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HGVFLL-es Munchkin Vaso con asas y pajita abatible Tip & Sip con Click Lock  rosa'
+slug: 'B078HGVFLL-es Munchkin Vaso con asas y pajita abatible Tip & Sip con...'
+tags: munchkin
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

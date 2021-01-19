@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MQFl+96jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRFX573-es NUK Disney Magic Cup vaso antiderrame bebe  borde antiderrame de 360 °  8+ meses  sin-BPA  230 ml  Minnie Mouse  1 cuenta'
+slug: 'B07ZRFX573-es NUK Disney Magic Cup vaso antiderrame bebe borde...'
+tags: bebe, nuk
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

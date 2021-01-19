@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PvHltb4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C6ZWAQI-es Tommee Tippee 42361081 - Esterilizar con vapor en el microondas'
+slug: 'B01C6ZWAQI-es Tommee Tippee 42361081 - Esterilizar con vapor en el...'
+tags: tommee
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

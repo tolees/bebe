@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZnvEotBpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019FKF40G-es Béaba 912482 - Set de 6 potes de conservación comida para bebés'
+slug: 'B019FKF40G-es Béaba 912482 - Set de 6 potes de conservación comida para...'
+tags: bebés
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

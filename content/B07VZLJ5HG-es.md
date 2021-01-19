@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MUjmD-EeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZLJ5HG-es Levoit Humidificador Ultrasónico de Niebla Fría de 2.4L para Bebés  sin BPA   Funcionamiento Silencioso  Luz Nocturna y Apagado Automático  con 3 Niveles de Niebla  Dura hasta 24 Horas  Classic 100'
+slug: 'B07VZLJ5HG-es Levoit Humidificador Ultrasónico de Niebla Fría de 2.4L...'
+tags: bebés
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

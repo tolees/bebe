@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sS0QGHr8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TFGLRV-es Dookey Piscina Inflable para Bebés  Hinchable Infantil  Pequeña Pato Amarillo Splash Pool para Niños  Aspersor de Juego con Fondo de Burbuja Inflable de Doble Capa para Jardín/Piscina/Playa'
+slug: 'B083TFGLRV-es Dookey Piscina Inflable para Bebés Hinchable Infantil...'
+tags: bebés
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

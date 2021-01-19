@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NAzjuILgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C26KK0U-es Philips Avent SCF766/00  Vaso aislado con paja 260 ml azul pálido / rosa  colores surtidos'
+slug: 'B00C26KK0U-es Philips Avent SCF766/00 Vaso aislado con paja 260 ml azul...'
+tags: avent
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

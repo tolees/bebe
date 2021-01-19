@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+030DDwhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GHFGHBW-es Adidas Superstar Crib  Zapatillas Unisex Bebé  Multicolor  Blanco/Negro   17 EU'
+slug: 'B01GHFGHBW-es Adidas Superstar Crib Zapatillas Unisex Bebé Multicolor...'
+tags: bebé, bebé
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

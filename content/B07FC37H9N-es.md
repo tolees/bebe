@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fpN+sUHaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FC37H9N-es Koala Babycare® Almohada para Embarazadas para Dormir Cojin Lactancia –Soporte del cuerpo de la mama y del bebé – Para bebe que puede ser utilizado como cuna y reductor de cuna - KHUGS'
+slug: 'B07FC37H9N-es Koala Babycare® Almohada para Embarazadas para Dormir...'
+tags: bebe, bebé, bebé, lactancia
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

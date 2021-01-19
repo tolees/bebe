@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418VKt++kSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C2RJ5NQ-es HOMCOM Coche Correpasillos para Bebés Mayores de 1 Año Andador Infantil Función de Luz Música Bocina Experiencia Realista con Espacio de Almacenaje 66x33x47 7cm Rosa'
+slug: 'B08C2RJ5NQ-es HOMCOM Coche Correpasillos para Bebés Mayores de 1 Año...'
+tags: bebés
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

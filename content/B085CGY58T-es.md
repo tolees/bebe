@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ewNtTGmVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CGY58T-es Protector de pezón de contacto de silicona con estuche de transporte para masaje de lactancia Gránulos Madres Diseño de pétalo de triángulo - Transparente'
+slug: 'B085CGY58T-es Protector de pezón de contacto de silicona con estuche de...'
+tags: lactancia
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

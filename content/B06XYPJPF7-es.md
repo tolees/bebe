@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m9OGKLjLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYPJPF7-es NUK First Choice Plus Juego con 4 Anticólico  2 Biberones saugern de hidratación y silicona  incluye caja para botellas  1 pieza  2 x 150 ml/2 x 300 ml rosa rosa/pink'
+slug: 'B06XYPJPF7-es NUK First Choice Plus Juego con 4 Anticólico 2 Biberones...'
+tags: biberones, nuk
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

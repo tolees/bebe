@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Cje+QxBvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JK4RWB4-es Luchild Trenza Protector de Cuna  300cm Parachoques  Protector Cuna Chichonera para Proteger Bebe y Decorar la Cuna'
+slug: 'B07JK4RWB4-es Luchild Trenza Protector de Cuna 300cm Parachoques...'
+tags: bebe
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

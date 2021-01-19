@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BJ+gLvzjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NKRKZDJ-es Body bebé manga corta corona personalizado  Regalo único y original para niños y niñas  Unisex bodies Recién Nacido Algodón Ropa Set'
+slug: 'B07NKRKZDJ-es Body bebé manga corta corona personalizado Regalo único y...'
+tags: bebé, bebé
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

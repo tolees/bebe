@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FAl6CoPdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V6HKNX-es ELEGIANT  2 Piezas Termómetro Higrómetro Digital para Interior  Termohigrómetro Mini Medidor de Temperatura Medidor Profesional de Humedad para Casa  Habitación de Bebés  Sala  Oficina  Blanco'
+slug: 'B082V6HKNX-es ELEGIANT 2 Piezas Termómetro Higrómetro Digital para...'
+tags: bebés
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

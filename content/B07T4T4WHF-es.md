@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eBvg161wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4T4WHF-es MCGMITT Toalla con Capucha de Playa para Niños con Capucha para Bebés Niños Pequeños Niños Menores de 6 Años  60 x 61 cm Toallas de Baño con Capucha de Microfibra Suave para Piscina  Azul '
+slug: 'B07T4T4WHF-es MCGMITT Toalla con Capucha de Playa para Niños con Capucha...'
+tags: bebés
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

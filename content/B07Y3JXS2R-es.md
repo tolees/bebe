@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q3deq0qzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3JXS2R-es Chicco Hoopla - Hamaca con arco de juegos  sistema balancín y reductor  de 0 a 18 kg  color gris gris oscuro  Moon Grey   Hamaca  Gris Oscuro  Moon Grey   Talla Única  1'
+slug: 'B07Y3JXS2R-es Chicco Hoopla - Hamaca con arco de juegos sistema balancín...'
+tags: chicco
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

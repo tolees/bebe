@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CBALUhbQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLRNBL8-es Flopp - Detergente Ecológico en Cápsulas para la Ropa de Bebé  30 Capsulas  | Detergente Delicado. Detergente Ropa Bebé Eco Limpia sin Ensuciar el Planeta.'
+slug: 'B07YLRNBL8-es Flopp - Detergente Ecológico en Cápsulas para la Ropa de...'
+tags: bebé, bebé
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

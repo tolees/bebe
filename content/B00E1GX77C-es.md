@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512KqnCf8SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E1GX77C-es Béaba 915009 - Hamaca para bebé  regulable en altura'
+slug: 'B00E1GX77C-es Béaba 915009 - Hamaca para bebé regulable en altura'
+tags: bebé, bebé
 actualPrice: 116.46 EUR
 currency: EUR
 price: 116.46

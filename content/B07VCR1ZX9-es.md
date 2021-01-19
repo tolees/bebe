@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FR-phM9hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCR1ZX9-es Avaspot Humidificador Ultrasónico Aromaterapia  250 ML Difusor de Aceites Esenciales Aromaterapia con 7-Color LED  Auto-apagamiento para Hogar  Oficina  Bebé'
+slug: 'B07VCR1ZX9-es Avaspot Humidificador Ultrasónico Aromaterapia 250 ML...'
+tags: bebé, bebé
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P11Hrw9DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NHHRW4-es Spreadhoodie Niños Fuego Nadando Pantalones BañAdor De NatacióN Dibujos Animados para Bebé NiñOs 3D Rosa Cortos Deportes Correr Nadar Bermudas 8-10 Años'
+slug: 'B083NHHRW4-es Spreadhoodie Niños Fuego Nadando Pantalones BañAdor De...'
+tags: bebé, bebé
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

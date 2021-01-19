@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fugm1L0jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089Y1MTRL-es Bisoo - 70x160 cm Protector de Colchón Bebé + Sabana Bajera - 2en1 - Set de 2 Sabanas Protectoras Impermeables y Transpirables - Cama Infantil'
+slug: 'B089Y1MTRL-es Bisoo - 70x160 cm Protector de Colchón Bebé + Sabana...'
+tags: bebé, bebé
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

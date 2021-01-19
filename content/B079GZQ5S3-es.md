@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414AbHc1V-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GZQ5S3-es Philips Avent SCF342/22 - Pack con 2 chupetes Ultra Air decorados  de 6 a 18 meses  niño'
+slug: 'B079GZQ5S3-es Philips Avent SCF342/22 - Pack con 2 chupetes Ultra Air...'
+tags: avent, chupetes
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

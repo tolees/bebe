@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UVKDhgvVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QMC8D7-es Rubies - Disfraz infantil de Hipopótamo para bebé  1-2 años  510560-T '
+slug: 'B079QMC8D7-es Rubies - Disfraz infantil de Hipopótamo para bebé 1-2 años...'
+tags: bebé, bebé
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

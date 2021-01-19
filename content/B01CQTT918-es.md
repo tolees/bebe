@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gENJuJfrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CQTT918-es Chicco Wellbeing - Biberón con tetina de látex y flujo normal para bebé de 0m+  150 ml  color rosa'
+slug: 'B01CQTT918-es Chicco Wellbeing - Biberón con tetina de látex y flujo...'
+tags: bebé, biberón, chicco, bebé
 actualPrice: 5.72 EUR
 currency: EUR
 price: 5.72

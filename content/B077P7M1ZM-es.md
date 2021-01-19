@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41huWnFs0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077P7M1ZM-es Fisher-Price - Mi Primer Cubo Fidget  Juguete de Aprendizaje bebé  Mattel FWP34 '
+slug: 'B077P7M1ZM-es Fisher-Price - Mi Primer Cubo Fidget Juguete de...'
+tags: bebé, fisher-price, bebé
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

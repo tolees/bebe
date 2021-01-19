@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AEjsMcxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH5R5LP-es Blevit Plus Blevit Plus Papilla 8 Cereales Y Fruta Para Biberón 600 g'
+slug: 'B07ZH5R5LP-es Blevit Plus Blevit Plus Papilla 8 Cereales Y Fruta Para...'
+tags: biberón, blevit
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41I-j2H83TL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7W3V2J-es MAM Original 0+  2 unidades   Chupete de látex para recién nacido  chupete ortodóntico con escudo ventilado  chupete MAM autoesterilizable  0+ meses  rosa'
+slug: 'B07R7W3V2J-es MAM Original 0+ 2 unidades Chupete de látex para recién...'
+tags: chupete
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

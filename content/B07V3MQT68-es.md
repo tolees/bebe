@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+m59TfwRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3MQT68-es KiraKira Mini Ventilador Clip Ventilador USB Ventilador USB Portatil Recargable Bateria Ventilador 5200mA Portatil Recargable Bateria Ventilador Clip de Hogar Viajar  Cochecito de Bebé Acampar'
+slug: 'B07V3MQT68-es KiraKira Mini Ventilador Clip Ventilador USB Ventilador...'
+tags: bebé, bebé
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

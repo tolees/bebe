@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SmUCOOW1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCBGJ3G-es Chicco Open Box Parque de juegos infantil con alfombra extraíble  Naranja  Fancy Chicken '
+slug: 'B07GCBGJ3G-es Chicco Open Box Parque de juegos infantil con alfombra...'
+tags: chicco
 actualPrice: 98.36 EUR
 currency: EUR
 price: 98.36

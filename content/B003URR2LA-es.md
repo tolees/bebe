@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Dw4azZYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003URR2LA-es Suavinex - Pack 28 discos absorbentes Protegésenos Nature. Súper Transpirables y absorbentes. Imperceptibles en la Ropa'
+slug: 'B003URR2LA-es Suavinex - Pack 28 discos absorbentes Protegésenos Nature....'
+tags: suavinex
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

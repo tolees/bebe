@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yxBAwQyrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCSSJ8T-es La Seguridad del Bebe Metal TV Correas  DD Muebles Pesados Anti - Tip Correas Correa para TV de Pantalla Plana/Muebles  2 correas '
+slug: 'B01NCSSJ8T-es La Seguridad del Bebe Metal TV Correas DD Muebles Pesados...'
+tags: bebe
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

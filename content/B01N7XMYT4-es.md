@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7XMYT4-es Jané 070191C01 - Set de vajilla'
+tags: jané
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

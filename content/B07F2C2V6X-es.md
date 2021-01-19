@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TlodwQbsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2C2V6X-es Sacaleches Eléctrico  Extractor de leche eléctrico materna Pantalla táctil portátil recargable Smart LCD con 3 modos 9 niveles de succión de leche materna  masaje de mama'
+slug: 'B07F2C2V6X-es Sacaleches Eléctrico Extractor de leche eléctrico materna...'
+tags: sacaleches
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

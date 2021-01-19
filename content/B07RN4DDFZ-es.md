@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Du9ziAVIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN4DDFZ-es penobon Mini Ventilador USB Silencioso Portátil Recargable Mini Fan con Clip Rotación 360°Fan de Mesa para Oficina/Escritorio/Hogar/Dormitorio/Cama/Cochecito de Bebé  Negro '
+slug: 'B07RN4DDFZ-es penobon Mini Ventilador USB Silencioso Portátil Recargable...'
+tags: bebé, bebé
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

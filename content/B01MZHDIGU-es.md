@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RFXHXO1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZHDIGU-es Philips Avent SCF223/20 - Pack de dos chupetes ultra suaves y flexibles  decorados  0-6 meses  niña  color rosa durazno'
+slug: 'B01MZHDIGU-es Philips Avent SCF223/20 - Pack de dos chupetes ultra...'
+tags: avent, chupetes
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

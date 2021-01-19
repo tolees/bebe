@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+1-++kdJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088SJRZV4-es NUK 2 botellas de detergente  1 cepillo Twist para biberón y tetina 500 ml  adecuado para limpiar los biberones  las tetinas y los accesorios'
+slug: 'B088SJRZV4-es NUK 2 botellas de detergente 1 cepillo Twist para biberón...'
+tags: biberones, biberón, nuk, tetinas
 actualPrice: 17.43 EUR
 currency: EUR
 price: 17.43

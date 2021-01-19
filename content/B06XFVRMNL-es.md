@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dvALASdPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFVRMNL-es Aeromoov ASATC11060GR - Cuna de Viaje para bebé plegable e instantánea con colchón configurable a dos alturas y bolsa de transporte  color gris oscuro '
+slug: 'B06XFVRMNL-es Aeromoov ASATC11060GR - Cuna de Viaje para bebé plegable e...'
+tags: bebé, bebé
 actualPrice: 128.99 EUR
 currency: EUR
 price: 128.99

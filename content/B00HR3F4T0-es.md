@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HR3F4T0-es ISDIN Nutraisdin First Teeth Gel Gingival'
+tags: nutraisdin
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

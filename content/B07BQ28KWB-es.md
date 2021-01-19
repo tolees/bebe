@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hN2vbWTaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQ28KWB-es Dodot Pants Pañal-Braguita Talla 3  111 Pañales  Fácil De Cambiar Con Canales De Aire  6 a 11kg'
+slug: 'B07BQ28KWB-es Dodot Pants Pañal-Braguita Talla 3 111 Pañales Fácil De...'
+tags: dodot, pañales
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

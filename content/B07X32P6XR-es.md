@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gyCnx2R5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X32P6XR-es Trona para Bebe Evolutiva  Ajustable y Plegable - 7 Alturas Diferentes  Respaldo para Niño Reclinable 5 Posiciones  Bandeja Extraíble mediante Clip  Limpieza Sencilla   Cojín Bebé Confort'
+slug: 'B07X32P6XR-es Trona para Bebe Evolutiva Ajustable y Plegable - 7 Alturas...'
+tags: bebe, bebé, trona, bebé
 actualPrice: 139.97 EUR
 currency: EUR
 price: 139.97

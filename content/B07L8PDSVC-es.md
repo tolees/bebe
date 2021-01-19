@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415nyzowkFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8PDSVC-es HOMCOM Triciclo Bebé Plegable 4 en 1 Trolley Trike Bicicletas para Niños +18 Mes Evolutivo Asiento Giratorio Capota Barra Desmontable Control Parental Juguete Aprendizaje'
+slug: 'B07L8PDSVC-es HOMCOM Triciclo Bebé Plegable 4 en 1 Trolley Trike...'
+tags: bebé, bebé
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

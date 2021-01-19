@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QXcYa99AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B60BME0-es Reebok Classic Leather Zapatillas de trail running Unisex bebé  Blanco  White 000   25 EU'
+slug: 'B01B60BME0-es Reebok Classic Leather Zapatillas de trail running Unisex...'
+tags: bebé, bebé
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

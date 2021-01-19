@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51avGjvgKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R48TWPG-es Buabi bolsitas reutilizables comida bebe - Pack de 6 bolsas de papilla rellenables  Squeeze Food Pouch  150 ml'
+slug: 'B07R48TWPG-es Buabi bolsitas reutilizables comida bebe - Pack de 6...'
+tags: bebe
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-RSCDA2WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M6POLUM-es Philips Avent - Juego de recipientes para comida de bebé  20 recipientes + 1 cuchara + libro recetas '
+slug: 'B00M6POLUM-es Philips Avent - Juego de recipientes para comida de bebé...'
+tags: avent, bebé, bebé
 actualPrice: 23.38 EUR
 currency: EUR
 price: 23.38
@@ -25,10 +26,10 @@ Está [Philips Avent - Juego de recipientes para comida de bebé  20 recipientes
 
 ℹ️:
 
-- 180 ml y 240 ml
 - 1 cuchara
-- Incluye un libro de recetas
 - 20 tapas
+- 180 ml y 240 ml
 - 20 recipientes
+- Incluye un libro de recetas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00M6POLUM/?tag=tolees-21)

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417woVZr8-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07575QZPQ-es Chicco Echo - Silla de paseo  ligera y compacta  soporta hasta 22kg  color rojo  Scarlet '
+slug: 'B07575QZPQ-es Chicco Echo - Silla de paseo ligera y compacta soporta...'
+tags: chicco
 actualPrice: 94.48 EUR
 currency: EUR
 price: 94.48

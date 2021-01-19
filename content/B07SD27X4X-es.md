@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41feauj+wQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD27X4X-es Lictin Sacaleches Eléctrico - Extractor de Leche con Función de Masaje  Pantalla LED 2 Modos y 9 Niveles Ajustables con 2 Almohadillas de Lactancia  Super Silencioso y con Certificación CE'
+slug: 'B07SD27X4X-es Lictin Sacaleches Eléctrico - Extractor de Leche con...'
+tags: sacaleches, lactancia
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

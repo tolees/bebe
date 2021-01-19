@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41coK7t5ldL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNP5Z4T-es Safety 1st TEENY  Ribbon Red Chic  - Silla de paseo plegable y multifuncional  unisex  color rojo'
+slug: 'B07CNP5Z4T-es Safety 1st TEENY Ribbon Red Chic - Silla de paseo plegable...'
+tags: safety, 1st
 actualPrice: 118.1 EUR
 currency: EUR
 price: 118.1

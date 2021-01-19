@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4129DqkPHIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNX7TSH-es BTNEEU Luz Nocturna Infantil Recargable  Lámpara Infantil Led Silicona Multicolor 16 Colores con Remoto  Brillo Ajustable Luz de Noche para Niños Bebés Regalo de Cumpleaños y Fiestas'
+slug: 'B08DNX7TSH-es BTNEEU Luz Nocturna Infantil Recargable Lámpara Infantil...'
+tags: bebés
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

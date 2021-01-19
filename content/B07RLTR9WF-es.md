@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oxJMsQtDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLTR9WF-es Calcetines de Compresión para Hombres y Mujeres - Medias de Compresion para Deporte - Maratones - Enfermeras - Estrés tibial Interior - Durante Embarazo  S/M  35-42   Negro  sin logotipo  '
+slug: 'B07RLTR9WF-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
+tags: embarazo
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

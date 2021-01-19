@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FGQVMF7GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZBNWZF-es Hauck Rapid 4  Cochecito de 0 meses a 22 kg  plegable  compacto  con una mano  con posición para dormir  manija ajustable en altura  cesta grande  negro/gris'
+slug: 'B074ZBNWZF-es Hauck Rapid 4 Cochecito de 0 meses a 22 kg plegable...'
+tags: hauck
 actualPrice: 109.57 EUR
 currency: EUR
 price: 109.57

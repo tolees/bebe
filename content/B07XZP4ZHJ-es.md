@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wVAZRTiML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZP4ZHJ-es Hauck Dream N Play - Cuna de viaje 3 piezas 120 x 60cm  bebe  incluido colchóncito y bolsa de transporte  de 0+ meses hasta 15 kg  plegado y montaje fácil  ligera y estable  negro'
+slug: 'B07XZP4ZHJ-es Hauck Dream N Play - Cuna de viaje 3 piezas 120 x 60cm...'
+tags: bebe, hauck
 actualPrice: 54.09 EUR
 currency: EUR
 price: 54.09

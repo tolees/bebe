@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SRYBkQQUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVY5YP3-es Cybex Gold Sirona S I-Size  Silla De Coche Para Bebés Hasta 4 Años  Azul  Navy Blue   105 cm  1'
+slug: 'B07XVY5YP3-es Cybex Gold Sirona S I-Size Silla De Coche Para Bebés Hasta...'
+tags: bebés, cybex, silla, de, coche
 actualPrice: 398.95 EUR
 currency: EUR
 price: 398.95

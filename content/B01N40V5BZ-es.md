@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31g1fJZGMNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N40V5BZ-es Munchkin Miracle 360° - Vaso de entrenamiento antiderrames con asas  verde  207 ml'
+slug: 'B01N40V5BZ-es Munchkin Miracle 360° - Vaso de entrenamiento antiderrames...'
+tags: munchkin
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6
