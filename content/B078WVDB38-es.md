@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVDB38-es Maclaren Quest - Silla de paseo para bebé asiento...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 273.96 EUR
 currency: EUR
 price: 273.96

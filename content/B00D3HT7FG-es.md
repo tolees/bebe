@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D3HT7FG-es Tena - Pants - Pañales Talla L - 14 unidades'
-tags: [ tole.es, pañales ]
+tags: [ 'tole.es','pañales', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

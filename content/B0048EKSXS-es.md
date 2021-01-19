@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0048EKSXS-es Chicco Comfort Quick - Termómetro infrarrojos timpánico'
-tags: [ tole.es, chicco ]
+tags: [ 'tole.es','chicco', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

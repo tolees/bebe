@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FWBHH3-es Kiokids C/C - Porta chupetes esterilizador unisex color...'
-tags: [ tole.es, chupetes ]
+tags: [ 'tole.es','chupetes', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

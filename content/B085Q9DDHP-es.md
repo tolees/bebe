@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085Q9DDHP-es Aspirador Nasal Bebes Aspirador Nasal Aspirador Nasal Bebe...'
-tags: [ tole.es, bebe ]
+tags: [ 'tole.es','bebe', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

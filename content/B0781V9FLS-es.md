@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781V9FLS-es EZVIZ 720P FHD IP Cámara de Seguridad y Vigilancia 2.4 GHz...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

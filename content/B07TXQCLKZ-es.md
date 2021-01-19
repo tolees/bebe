@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXQCLKZ-es Rodilleras para gatear rodillera bebe gateo rodillera para...'
-tags: [ tole.es, bebe, bebé, bebés, bebé ]
+tags: [ 'tole.es','bebe','bebé','bebés','bebé', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

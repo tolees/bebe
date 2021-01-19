@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CYW9B7O-es Cuna para bebé modelo osito + Colchón Viscoelástico +...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDG933Z-es Lámpara de Luna 3D 16 Colores RGB Luz Nocturna Luna LED...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

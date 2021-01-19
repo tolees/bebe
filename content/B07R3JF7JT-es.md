@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3JF7JT-es Viedouce Mochila Portabebes Ergonómico Multifuncion...'
-tags: [ tole.es, portabebes, portabebés ]
+tags: [ 'tole.es','portabebes','portabebés', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P88K2PZ-es Tarjetas de Etapas del Bebé y Caja de Recuerdos 40...'
-tags: [ tole.es, bebé, embarazo, bebé ]
+tags: [ 'tole.es','bebé','embarazo','bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZGR43J-es Britax Römer Kidfix Silla de coche grupo 2/3 Isofix negro...'
-tags: [ tole.es, isofix, römer, silla, de, coche ]
+tags: [ 'tole.es','isofix','römer','silla','de','coche', ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

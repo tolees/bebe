@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4M7ARJ-es Auriculares para niños iClever Volumen Limitado Cascos...'
-tags: [ tole.es, bebés ]
+tags: [ 'tole.es','bebés', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

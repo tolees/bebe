@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCSSJ8T-es La Seguridad del Bebe Metal TV Correas DD Muebles Pesados...'
-tags: [ tole.es, bebe ]
+tags: [ 'tole.es','bebe', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

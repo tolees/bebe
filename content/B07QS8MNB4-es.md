@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QS8MNB4-es Meinkind Mochila Portabebe Ergonomica Multifunción para...'
-tags: [ tole.es, bebé, portabebe, bebé ]
+tags: [ 'tole.es','bebé','portabebe','bebé', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

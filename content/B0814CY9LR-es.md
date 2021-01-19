@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814CY9LR-es Cochecito de bebé Gancho para colgar Ganchos para...'
-tags: [ tole.es, bebé, pañales, bebé ]
+tags: [ 'tole.es','bebé','pañales','bebé', ]
 actualPrice: 3.03 EUR
 currency: EUR
 price: 3.03

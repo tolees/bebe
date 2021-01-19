@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFB4FVS-es Pablosky 64521 Botas para Bebés Azul 21 EU'
-tags: [ tole.es, bebés ]
+tags: [ 'tole.es','bebés', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

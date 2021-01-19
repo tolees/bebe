@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2LV1ZW-es adidas Continental 80 I Zapatillas de Estar por casa Bebé...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 29.77 EUR
 currency: EUR
 price: 29.77

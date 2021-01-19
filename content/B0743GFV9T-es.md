@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743GFV9T-es Tiny Love Meadow Days - Manta de juegos gigante para bebés...'
-tags: [ tole.es, bebés ]
+tags: [ 'tole.es','bebés', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

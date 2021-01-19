@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M68GLT0-es Dodo Pañales Talla 4 9-14 kg - 64 pañales'
-tags: [ tole.es, pañales ]
+tags: [ 'tole.es','pañales', ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

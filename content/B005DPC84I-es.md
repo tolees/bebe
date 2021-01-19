@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DPC84I-es Philips Avent SCF287/02 - Esterilizador a vapor eléctrico...'
-tags: [ tole.es, avent ]
+tags: [ 'tole.es','avent', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

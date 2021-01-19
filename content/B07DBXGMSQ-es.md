@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBXGMSQ-es Escurridor para secado de biberones Lawn Tendedero para...'
-tags: [ tole.es, biberones ]
+tags: [ 'tole.es','biberones', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

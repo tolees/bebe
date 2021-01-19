@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWKG7CL-es Juguetes Colgantes Carrito Bebe Cuna Cochecitos de...'
-tags: [ tole.es, bebe, bebés ]
+tags: [ 'tole.es','bebe','bebés', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

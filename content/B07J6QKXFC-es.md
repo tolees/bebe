@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6QKXFC-es PROACC Tapete para Piano Juguete para niños con Teclado y...'
-tags: [ tole.es, bebés ]
+tags: [ 'tole.es','bebés', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

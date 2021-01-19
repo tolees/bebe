@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BTT7CZ5-es Bebé Saco de dormir Con Cremallera Piernas Separadas...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

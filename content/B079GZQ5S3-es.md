@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079GZQ5S3-es Philips Avent SCF342/22 - Pack con 2 chupetes Ultra Air...'
-tags: [ tole.es, avent, chupetes ]
+tags: [ 'tole.es','avent','chupetes', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

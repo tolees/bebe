@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075TBP7QS-es Badger Protector solar para bebé SP30 | 1 x 87 ml'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

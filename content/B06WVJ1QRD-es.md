@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVJ1QRD-es Safety 1st Travel Booster Trona de viaje portátil Asiento...'
-tags: [ tole.es, bebés, trona, safety, 1st ]
+tags: [ 'tole.es','bebés','trona','safety','1st', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

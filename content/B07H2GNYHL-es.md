@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2GNYHL-es Silla de Coche Grupo 1 2 3 Isofix con Escudo y Normativa...'
-tags: [ tole.es, bebé, isofix, bebé, silla, de, coche ]
+tags: [ 'tole.es','bebé','isofix','bebé','silla','de','coche', ]
 actualPrice: 127.97 EUR
 currency: EUR
 price: 127.97

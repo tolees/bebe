@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GODPB6U-es Baby Jogger Deluxe - Capazo color negro'
-tags: [ tole.es, baby, jogger ]
+tags: [ 'tole.es','baby','jogger', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

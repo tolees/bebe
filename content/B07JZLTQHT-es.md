@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZLTQHT-es Tommy Hilfiger U Pop Over Chaqueta Naranja Russet Orange...'
-tags: [ tole.es, bebés ]
+tags: [ 'tole.es','bebés', ]
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

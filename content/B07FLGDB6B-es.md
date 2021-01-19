@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLGDB6B-es Philips Avent SCD287/24 - Set de regalo natural dragon 1...'
-tags: [ tole.es, avent, biberón, chupetes ]
+tags: [ 'tole.es','avent','biberón','chupetes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

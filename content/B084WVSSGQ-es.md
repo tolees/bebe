@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WVSSGQ-es YIMINYUER Alfombras Puzzle para Bebé Alfombrilla Suelo...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

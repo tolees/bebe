@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJFLKRX-es Chicco Next2me - Cuna de colecho con anclaje a cama y 6...'
-tags: [ tole.es, chicco ]
+tags: [ 'tole.es','chicco', ]
 actualPrice: 151.56 EUR
 currency: EUR
 price: 151.56

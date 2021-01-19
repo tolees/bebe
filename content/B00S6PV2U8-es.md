@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S6PV2U8-es HOMCOM Trona para Bebé 3 en 1 Convertible en Silla...'
-tags: [ tole.es, bebé, trona, bebé ]
+tags: [ 'tole.es','bebé','trona','bebé', ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

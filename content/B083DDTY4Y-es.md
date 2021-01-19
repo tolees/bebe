@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DDTY4Y-es Sacaleches Sacaleches Manual Extractor de leche manual...'
-tags: [ tole.es, sacaleches ]
+tags: [ 'tole.es','sacaleches', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

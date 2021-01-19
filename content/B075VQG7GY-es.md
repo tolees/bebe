@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075VQG7GY-es Vicloon Impermeable Manga Larga Bebé Babero Conjunto de 3...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

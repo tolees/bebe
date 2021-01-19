@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYPCCHS-es Espejo Retrovisor de Coche Irrompible Inastillable Patrón...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

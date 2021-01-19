@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ9VF6Y-es Lebze Muselina Manta Bebé | Mantas de Muselina de Bambú...'
-tags: [ tole.es, bebé, muselina, bebé ]
+tags: [ 'tole.es','bebé','muselina','bebé', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

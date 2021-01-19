@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QGQVQC-es Simple Joys by Carter s traje de baño de 2 piezas para...'
-tags: [ tole.es, bebés ]
+tags: [ 'tole.es','bebés', ]
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

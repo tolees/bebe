@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V31XDXF-es Béaba Babycook Neo Robot de cocina infantil: tritura...'
-tags: [ tole.es, babycook, bebés ]
+tags: [ 'tole.es','babycook','bebés', ]
 actualPrice: 145.61 EUR
 currency: EUR
 price: 145.61

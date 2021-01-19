@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS4RBRL-es Supportiback® Cojín ortopédico para ciática espalda...'
-tags: [ tole.es, embarazo ]
+tags: [ 'tole.es','embarazo', ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

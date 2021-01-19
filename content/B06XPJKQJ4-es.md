@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPJKQJ4-es IEFIEL Vestidos de Princesa Fiesta Bautizo Tutú con Braga...'
-tags: [ tole.es, bebés ]
+tags: [ 'tole.es','bebés', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

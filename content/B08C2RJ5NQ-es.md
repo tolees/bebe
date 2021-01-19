@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C2RJ5NQ-es HOMCOM Coche Correpasillos para Bebés Mayores de 1 Año...'
-tags: [ tole.es, bebés ]
+tags: [ 'tole.es','bebés', ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

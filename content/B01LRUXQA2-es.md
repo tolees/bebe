@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LRUXQA2-es Hauck Close N Stop - Puerta de Seguridad con Extensión de...'
-tags: [ tole.es, hauck ]
+tags: [ 'tole.es','hauck', ]
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

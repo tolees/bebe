@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NHHRW4-es Spreadhoodie Niños Fuego Nadando Pantalones BañAdor De...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

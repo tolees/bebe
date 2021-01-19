@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FH6T2S2-es Chicco Natural Sensation - Gel de baño sin lágrimas 750 ml'
-tags: [ tole.es, chicco, chicco, natural, sensation ]
+tags: [ 'tole.es','chicco','chicco','natural','sensation', ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

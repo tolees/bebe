@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKB3RCS-es LENBEST Cojín de Agua Inflable para Bebé Alfombra Inflable...'
-tags: [ tole.es, bebé, bebé ]
+tags: [ 'tole.es','bebé','bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

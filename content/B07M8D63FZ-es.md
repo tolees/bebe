@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8D63FZ-es NUK - Juego de vasos 3 en 1 vasos para aprender a beber...'
-tags: [ tole.es, nuk ]
+tags: [ 'tole.es','nuk', ]
 actualPrice: 18.71 EUR
 currency: EUR
 price: 18.71

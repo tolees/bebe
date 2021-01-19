@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPSNQW1-es Playgro Set de Regalo para jugar de Jerry la Jirafa...'
-tags: [ tole.es, bebé, playgro, bebé ]
+tags: [ 'tole.es','bebé','playgro','bebé', ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

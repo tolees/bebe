@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRWYWM1-es Nuby - Bañera para bebé con asiento integrado y...'
-tags: [ tole.es, bebé, nuby, bebé ]
+tags: [ 'tole.es','bebé','nuby','bebé', ]
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05
