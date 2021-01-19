@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009M4NKNO-es Suavinex - Perfume Niña La Petite Chic Vaporizador....'
-tags: [ 'tole.es','suavinex', ]
+tags: [ 'suavinex', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

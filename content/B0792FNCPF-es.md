@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792FNCPF-es Little Live Bizzy Babies- Bebé con cunita Gracie Famosa...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

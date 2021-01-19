@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E1GX77C-es Béaba 915009 - Hamaca para bebé regulable en altura'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 116.46 EUR
 currency: EUR
 price: 116.46

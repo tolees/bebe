@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNP5Z4T-es Safety 1st TEENY Ribbon Red Chic - Silla de paseo plegable...'
-tags: [ 'tole.es','safety','1st', ]
+tags: [ 'safety','1st', ]
 actualPrice: 118.1 EUR
 currency: EUR
 price: 118.1

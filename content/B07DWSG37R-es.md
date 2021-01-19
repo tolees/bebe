@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWSG37R-es DoMyfit Organizador de Asiento de Coche para bebé...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

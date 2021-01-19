@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2C2V6X-es Sacaleches Eléctrico Extractor de leche eléctrico materna...'
-tags: [ 'tole.es','sacaleches', ]
+tags: [ 'sacaleches', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

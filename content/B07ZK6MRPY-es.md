@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZK6MRPY-es HOMCOM Triciclo Bebé Plegable 4 en 1 Trolley Trike...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 79.89 EUR
 currency: EUR
 price: 79.89

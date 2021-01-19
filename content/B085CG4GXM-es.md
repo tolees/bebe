@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CG4GXM-es Almohada linda encantadora del patrón de dibujos animados...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

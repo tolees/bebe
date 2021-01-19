@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F9WTV9R-es Mochilas para Pañales Biberones Multifuncional Impermeable...'
-tags: [ 'tole.es','bebe','biberones','pañales', ]
+tags: [ 'bebe','biberones','pañales', ]
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

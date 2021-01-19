@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088QJM9TN-es Fiween Clips 4pcs Niños Chupete Chupete Titular de bebé...'
-tags: [ 'tole.es','bebé','chupete','bebé', ]
+tags: [ 'bebé','chupete','bebé', ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

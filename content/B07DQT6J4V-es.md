@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQT6J4V-es Dodot - Pañales desechables unisex'
-tags: [ 'tole.es','dodot','pañales', ]
+tags: [ 'dodot','pañales', ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

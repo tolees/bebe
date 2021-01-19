@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QK8LB1-es CYBEX Gold Mochila Portabebés MAIRA.tie desde el...'
-tags: [ 'tole.es','cybex','portabebés', ]
+tags: [ 'cybex','portabebés', ]
 actualPrice: 110.16 EUR
 currency: EUR
 price: 110.16

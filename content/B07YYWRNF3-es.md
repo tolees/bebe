@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYWRNF3-es Tommee Tippee Starter Pack Twist and Click Contenedor de...'
-tags: [ 'tole.es','pañales','tommee', ]
+tags: [ 'pañales','tommee', ]
 actualPrice: 62.96 EUR
 currency: EUR
 price: 62.96

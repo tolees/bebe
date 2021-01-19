@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P19CJMK-es Sotech Columpio Eléctrico para Bebés Columpio de bebé con...'
-tags: [ 'tole.es','bebe','bebé','bebés','bebé', ]
+tags: [ 'bebe','bebé','bebés','bebé', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

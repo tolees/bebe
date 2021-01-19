@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWMXPQQ-es Kinderkraft Carrito Bebé 2 en 1 JULI Silla de Paseo Capazo...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

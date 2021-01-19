@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WP9MDT-es FlowerDas Termometro Infrarrojo Termómetro De Frente...'
-tags: [ 'tole.es','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 46.29 EUR
 currency: EUR
 price: 46.29

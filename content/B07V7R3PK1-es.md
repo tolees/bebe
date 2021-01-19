@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7R3PK1-es Salt and Pepper mit Einhorn Applikation und Glitzerdruck...'
-tags: [ 'tole.es','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

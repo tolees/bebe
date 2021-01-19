@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YSQYPD-es GHB Vigilabebés Inalámbrico con Cámara Visión Nocturna...'
-tags: [ 'tole.es','bebé','vigilabebés','bebé', ]
+tags: [ 'bebé','vigilabebés','bebé', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

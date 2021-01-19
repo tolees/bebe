@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SN4FLKY-es Chicco Essential Digital - Baby monitor de video con...'
-tags: [ 'tole.es','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 157.31 EUR
 currency: EUR
 price: 157.31

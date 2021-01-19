@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CZBHVC-es Chicco Luces Musicales Buenas Coches Color Rosa'
-tags: [ 'tole.es','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

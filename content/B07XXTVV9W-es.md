@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXTVV9W-es CHICTRY Chaqueta de Princesa Fiesta Boda Danza para Niña...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

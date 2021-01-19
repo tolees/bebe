@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZVWC8Z-es SERAPHY Trajes de Calabaza encantadores de Halloween Bebés...'
-tags: [ 'tole.es','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

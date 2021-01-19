@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9NNY6W-es Philips Avent Vigilabebés con cámara SCD833/01 -...'
-tags: [ 'tole.es','avent','vigilabebés', ]
+tags: [ 'avent','vigilabebés', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

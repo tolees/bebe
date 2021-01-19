@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H8MW3V2-es Tigex Set de cepillos de dientes para bebé'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

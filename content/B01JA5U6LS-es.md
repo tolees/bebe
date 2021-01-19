@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JA5U6LS-es Fisher-Price Coche Monstruito verde juguete gateo bebé +9...'
-tags: [ 'tole.es','bebé','fisher-price','bebé', ]
+tags: [ 'bebé','fisher-price','bebé', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

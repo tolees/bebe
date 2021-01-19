@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWJ9PKJ-es Cozime Vigilabebés Inalámbrico Bebé Monitor Inteligente...'
-tags: [ 'tole.es','bebé','vigilabebés','bebé', ]
+tags: [ 'bebé','vigilabebés','bebé', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ARBQ1A0-es Chicco - Bandeja escurrebiberones hasta 6 biberones'
-tags: [ 'tole.es','biberones','chicco', ]
+tags: [ 'biberones','chicco', ]
 actualPrice: 14.93 EUR
 currency: EUR
 price: 14.93

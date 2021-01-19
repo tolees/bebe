@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YETFK6M-es Biomecanics 151157 Zapatos de primeros pasos Unisex Bebés...'
-tags: [ 'tole.es','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 41.34 EUR
 currency: EUR
 price: 41.34

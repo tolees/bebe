@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B01UB7K-es Suavinex - Escurre Biberones. Secar Biberones. Apto Para...'
-tags: [ 'tole.es','suavinex', ]
+tags: [ 'suavinex', ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00506KMRK-es Munchkin 12501 Cubo Desechable & Portátil para Pañales...'
-tags: [ 'tole.es','munchkin','pañales', ]
+tags: [ 'munchkin','pañales', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

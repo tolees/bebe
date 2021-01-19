@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WW2VF96-es Ballery Bolsa de Pañales Bolsa Mojado Lavable Mojado y...'
-tags: [ 'tole.es','bebe','pañales', ]
+tags: [ 'bebe','pañales', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

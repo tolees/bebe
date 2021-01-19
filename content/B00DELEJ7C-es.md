@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DELEJ7C-es Nenuco Pack Agua de Colonia Infantil Bebé Minnie con...'
-tags: [ 'tole.es','bebé','nenuco','bebé', ]
+tags: [ 'bebé','nenuco','bebé', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

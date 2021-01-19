@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQOIL3U-es Chicco Phisio Soft - Chupete todo goma de silicona para...'
-tags: [ 'tole.es','chicco','chupete', ]
+tags: [ 'chicco','chupete', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

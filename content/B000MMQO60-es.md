@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MMQO60-es Philips Avent SCF157/02 - 2 Conchas protectoras ventiladas...'
-tags: [ 'tole.es','avent', ]
+tags: [ 'avent', ]
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

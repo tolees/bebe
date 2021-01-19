@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFS5YZG-es Protectores de la cubierta del respaldo del asiento...'
-tags: [ 'tole.es','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

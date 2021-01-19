@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074KLYGZX-es Huggies Ultra Comfort Pañal Braguita Talla 5 12-17 kg -...'
-tags: [ 'tole.es','huggies','pañal','pañales', ]
+tags: [ 'huggies','pañal','pañales', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R9XFJ5-es Suavinex Chupete Physio Panda/Rama 2 piezas'
-tags: [ 'tole.es','chupete','suavinex', ]
+tags: [ 'chupete','suavinex', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

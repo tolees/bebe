@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OS823HI-es Motorola Baby MBP 33S - Vigilabebés vídeo con pantalla LCD...'
-tags: [ 'tole.es','vigilabebés', ]
+tags: [ 'vigilabebés', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

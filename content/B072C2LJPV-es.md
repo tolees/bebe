@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072C2LJPV-es VeloVendo® Alfombra Puzzle Infantiles con Certificado CE &...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

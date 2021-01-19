@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVY5YP3-es Cybex Gold Sirona S I-Size Silla De Coche Para Bebés Hasta...'
-tags: [ 'tole.es','bebés','cybex','silla','de','coche', ]
+tags: [ 'bebés','cybex','silla','de','coche', ]
 actualPrice: 398.95 EUR
 currency: EUR
 price: 398.95

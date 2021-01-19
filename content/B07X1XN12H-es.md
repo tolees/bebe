@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1XN12H-es Munchkin Set De Regalo Nibbles & Giggles Rosa 1 unidad 430 g'
-tags: [ 'tole.es','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

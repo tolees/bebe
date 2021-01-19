@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089Y1MTRL-es Bisoo - 70x160 cm Protector de Colchón Bebé + Sabana...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

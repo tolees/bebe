@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y3JXS2R-es Chicco Hoopla - Hamaca con arco de juegos sistema balancín...'
-tags: [ 'tole.es','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

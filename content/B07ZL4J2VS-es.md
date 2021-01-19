@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZL4J2VS-es Maxi-Cosi Axissfix Silla de coche giratoria 360° isofix...'
-tags: [ 'tole.es','bebés','isofix','maxi-cosi','silla','de','coche', ]
+tags: [ 'bebés','isofix','maxi-cosi','silla','de','coche', ]
 actualPrice: 288.19 EUR
 currency: EUR
 price: 288.19

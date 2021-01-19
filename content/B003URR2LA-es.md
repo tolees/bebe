@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003URR2LA-es Suavinex - Pack 28 discos absorbentes Protegésenos Nature....'
-tags: [ 'tole.es','suavinex', ]
+tags: [ 'suavinex', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

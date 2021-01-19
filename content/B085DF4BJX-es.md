@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DF4BJX-es ADOVEL Orinal Infantil Orinal Bebe WC Niños para Bebé...'
-tags: [ 'tole.es','bebe','bebé','bebé', ]
+tags: [ 'bebe','bebé','bebé', ]
 actualPrice: 35.85 EUR
 currency: EUR
 price: 35.85

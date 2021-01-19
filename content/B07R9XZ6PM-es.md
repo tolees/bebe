@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9XZ6PM-es laamei Mosquitera Bebé Antiinsectos Universal Mosquitera...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCWLN49-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
-tags: [ 'tole.es','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

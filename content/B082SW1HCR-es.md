@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SW1HCR-es Ventilador Portátil Versátil de Escritorio Personal...'
-tags: [ 'tole.es','bebé','bebé', ]
+tags: [ 'bebé','bebé', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

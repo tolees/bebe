@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNZKWLS-es Kinderkraft Silla de Coche Isofix SAFETY FIX Grupo 1/2/3...'
-tags: [ 'tole.es','isofix','silla','de','coche', ]
+tags: [ 'isofix','silla','de','coche', ]
 actualPrice: 90.5 EUR
 currency: EUR
 price: 90.5

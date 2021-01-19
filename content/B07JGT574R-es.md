@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGT574R-es Qshare - Utensilios para bebés cucharas con estuche de...'
-tags: [ 'tole.es','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
