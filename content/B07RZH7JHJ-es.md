@@ -25,10 +25,10 @@ Ahora mismo tienes [Maxi-Cosi Minla trona Evolutiva  reclinable y plegable  6 en
 
 🔎:
 
-- Trona convertible 6 in 1: hamaca para bebés con asiento reclinable, silla alta, silla sin bandeja para niños grandes, asiento elevador, taburete
 - Fácil de limpiar: tela repelente al agua, la superficie de la bandeja también se puede lavar en el lavavajillas, la tela se puede quitar y lavar a máquina
-- Trova Evolutiva que crece con el niño: altura ajustable en 9 posiciones, pierna y reposapiés también ajustables
+- Trona convertible 6 in 1: hamaca para bebés con asiento reclinable, silla alta, silla sin bandeja para niños grandes, asiento elevador, taburete
 - Trona con cierre compacto: cuando está cerrada, ocupa solo 31 cm de ancho, lo que le permite almacenarla en cualquier lugar y transportarla fácilmente gracias a las ruedas delanteras
 - Trona para bebés y niños que acompaña al niño desde el nacimiento hasta los 3 años (30 kg) función de cambio según su edad
+- Trova Evolutiva que crece con el niño: altura ajustable en 9 posiciones, pierna y reposapiés también ajustables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RZH7JHJ/?tag=tolees-21)
