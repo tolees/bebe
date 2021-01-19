@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AxXiZNPZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085Y8C9KT-es'
+slug: 'B085Y8C9KT-es FlowerDas Termómetro de Frente  lecturas precisas instantáneas  termómetro Digital infrarrojo Digital sin Contacto  para bebés  niños  Adultos'
 actualPrice: 44.19 EUR
 currency: EUR
 price: 44.19

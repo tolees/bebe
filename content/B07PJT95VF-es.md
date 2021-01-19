@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xyxTd4cNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJT95VF-es'
+slug: 'B07PJT95VF-es Biomecanics 191150  Botas para Bebés  Azul  Azul Marino  Nobuck Buf  Paprika   23 EU'
 actualPrice: 40.72 EUR
 currency: EUR
 price: 40.72

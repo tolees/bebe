@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410jjBQr8ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGK2QX6-es'
+slug: 'B07PGK2QX6-es Biomecanics 191152  Zapatillas de Estar por casa para Bebés  Gris Antracita  Kaiser B   19 EU'
 actualPrice: 40.51 EUR
 currency: EUR
 price: 40.51

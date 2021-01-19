@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31B-CXc8D3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DWKDVGY-es'
+slug: 'B01DWKDVGY-es Tommee Tippee 42269887 - Biberón decorado  340 ml  color rosa'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51z+rK8kviL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075LDWPKF-es'
+slug: 'B075LDWPKF-es Huggies Ultra Comfort'
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

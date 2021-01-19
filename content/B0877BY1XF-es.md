@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+WPzEipeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0877BY1XF-es'
+slug: 'B0877BY1XF-es Dodot Pants Pañal - Braguita Talla 7  92 Pañales  17 kg +  Pañal - Braguita Con Ajuste 360° Anti - fugas'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

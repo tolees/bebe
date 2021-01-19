@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DdoK0F2bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WHJ2S2-es'
+slug: 'B000WHJ2S2-es Medela- Protectores para Pezones Doloridos y Agrietados por la Lactancia   paqeute con 2 unidades'
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tcROWVbzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H0EHH54-es'
+slug: 'B01H0EHH54-es Foppapedretti Rolling Fix  Silla de coche grupo 0+/1 Isofix  Grafito'
 actualPrice: 215.18 EUR
 currency: EUR
 price: 215.18

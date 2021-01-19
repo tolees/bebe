@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T-DakMiFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P88K2PZ-es'
+slug: 'B07P88K2PZ-es Tarjetas de Etapas del Bebé y Caja de Recuerdos  40 Tarjetas de Fotos de Momentos Especiales Unisex  con los Logros de Edades Claves y Embarazo  el Regalo Ideal para la Futura Mamá  Español '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

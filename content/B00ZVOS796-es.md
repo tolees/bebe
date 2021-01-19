@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZigAkhQaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZVOS796-es'
+slug: 'B00ZVOS796-es Bambino Mio  pañal bañador  floral  pequeño  0-6 meses '
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

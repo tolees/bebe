@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zAbbUhT-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH9ZSVF-es'
+slug: 'B07ZH9ZSVF-es Blevit Plus Papilla Multicereales Quinoa Bio 1 Unidad 250 g   100% ecológicas. A partir de los 5 meses.'
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

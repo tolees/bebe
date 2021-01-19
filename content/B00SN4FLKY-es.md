@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dG11m5DGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SN4FLKY-es'
+slug: 'B00SN4FLKY-es Chicco Essential Digital - Baby monitor de video con visión nocturna'
 actualPrice: 157.31 EUR
 currency: EUR
 price: 157.31

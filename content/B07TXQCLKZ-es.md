@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oCd-soaNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXQCLKZ-es'
+slug: 'B07TXQCLKZ-es Rodilleras para gatear rodillera bebe gateo rodillera para bebés gatear protector ajustable para bebé pequeños  3 pares'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GfOp6lfFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I1XECQU-es'
+slug: 'B01I1XECQU-es Ecus Kids  El colchón de cuna Ecus Care con certificado farmacéutico que ayuda a prevenir la plagiocefalia - Colchon cuna 117x57'
 actualPrice: 165.18 EUR
 currency: EUR
 price: 165.18

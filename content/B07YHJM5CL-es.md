@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SvTd0gjeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YHJM5CL-es'
+slug: 'B07YHJM5CL-es Besrey Parque Infantil 14 Paneles Baby Playpen Centro de actividades para niños  Parque de bebé modulable plegable'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

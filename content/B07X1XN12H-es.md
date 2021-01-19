@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UjGAE8O9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1XN12H-es'
+slug: 'B07X1XN12H-es Munchkin Set De Regalo Nibbles & Giggles  Rosa 1 unidad 430 g'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FV4q6SJ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YSQYPD-es'
+slug: 'B084YSQYPD-es GHB Vigilabebés Inalámbrico con Cámara Visión Nocturna Monitor para Bebé Pantalla LCD de 3 2 pulgadas con Modo VOX  Sensor Temperatura y Canciones de cuna'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

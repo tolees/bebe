@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L5yEKrzsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V31XDXF-es'
+slug: 'B07V31XDXF-es Béaba Babycook Neo Robot de cocina infantil: tritura  cocina y cuece al vapor  Rápida en 15 minutos  Recipiente de vidrio y cubeta de acero inoxidable  Para Bebés y Niños  Gris/Blanco'
 actualPrice: 145.61 EUR
 currency: EUR
 price: 145.61

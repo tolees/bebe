@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XoWW7Y1LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JECIFHU-es'
+slug: 'B00JECIFHU-es Huggies Little Swimmers Pañal Bañador Desechable Talla 5-6  12-18 Kg  - 19 unidades'
 actualPrice: 8.46 EUR
 currency: EUR
 price: 8.46

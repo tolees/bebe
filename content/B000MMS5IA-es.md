@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2BHYq8qWL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B000MMS5IA-es'
+slug: 'B000MMS5IA-es Philips Avent SCF155/06 - Discos absorbentes lavables para cualquier momento  higiénicos  6 discos reutilizables'
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

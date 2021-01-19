@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zSc+Kr7uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNJCBQ1-es'
+slug: 'B07HNJCBQ1-es NUK Disney First Choice+ biberón | 6-18 meses | Tetina de silicona | Válvula anticólico | Sin BPA | 150 ml | Minnie Mouse'
 actualPrice: 10.03 EUR
 currency: EUR
 price: 10.03

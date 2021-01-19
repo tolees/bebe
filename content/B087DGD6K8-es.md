@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fQp1Dv0gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087DGD6K8-es'
+slug: 'B087DGD6K8-es Tommee Tippee Kit de Biberones Anti-Cólicos  Rosa'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vKeQSiNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0849CD9NR-es'
+slug: 'B0849CD9NR-es Maxi-Cosi Morion Silla auto Grupo 2/3 isofix I-Size  15 - 36 kg  crece con el niño en altura desde 100 hasta 150 cm  3.5 - 12 años   color negro'
 actualPrice: 143.2 EUR
 currency: EUR
 price: 143.2

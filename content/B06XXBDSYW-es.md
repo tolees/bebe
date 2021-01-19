@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gGwEfY7TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXBDSYW-es'
+slug: 'B06XXBDSYW-es Dr. Brown s Options - Biberón estándar  250 ml'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319lttky4AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EWFCEE-es'
+slug: 'B004EWFCEE-es Tetina Calma para biberón Medela'
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

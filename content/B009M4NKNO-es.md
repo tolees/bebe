@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HxzfqvkPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009M4NKNO-es'
+slug: 'B009M4NKNO-es Suavinex - Perfume Niña La Petite Chic Vaporizador. Perfume Infantil Para Ocasiones Especiales. No Mancha  100 ml'
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

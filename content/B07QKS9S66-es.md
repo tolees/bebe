@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EAI60owRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKS9S66-es'
+slug: 'B07QKS9S66-es Termómetro Digital Bebé  Termómetro de Frente y Oído Infrarrojos  Multifunción 5 en 1  Alarma de Fiebre  Lectura instantánea para Niños  Adultos  Objetos y Ambiente  Certifica CE/ROHS/FDA'
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

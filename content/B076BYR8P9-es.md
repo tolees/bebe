@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cIh-gEkTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BYR8P9-es'
+slug: 'B076BYR8P9-es Simple Joys by Carter s calcetines para bebé y niñas pequeñas con suela antideslizante  paquete de 12  Rosa / gris/ multicolor  2T/3T'
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CBe+B2VTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075D5PWJN-es'
+slug: 'B075D5PWJN-es Britax Römer FIRST CLASS PLUS - Silla de Coche Nacimiento - 4 Años  hasta 18 kg  Grupo 0+/1  color Moonlight Blue'
 actualPrice: 170.24 EUR
 currency: EUR
 price: 170.24

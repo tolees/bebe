@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JZVtYyoxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BPRGNN0-es'
+slug: 'B00BPRGNN0-es Medela 008.0483   Biberón con Tetina Calma  250 ml'
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zriNPQAUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHY3GQZ-es'
+slug: 'B07SHY3GQZ-es Tommee Tippee - Calentador de comida y biberón'
 actualPrice: 26.52 EUR
 currency: EUR
 price: 26.52

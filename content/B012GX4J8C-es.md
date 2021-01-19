@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41smoQEwxPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012GX4J8C-es'
+slug: 'B012GX4J8C-es MINILAND BABY - Vigilabebé'
 actualPrice: 148.75 EUR
 currency: EUR
 price: 148.75

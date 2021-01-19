@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417LyBbROQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FH6T2S2-es'
+slug: 'B01FH6T2S2-es Chicco Natural Sensation - Gel de baño sin lágrimas 750 ml'
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YEiUJUs7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF5RZ4B-es'
+slug: 'B07QF5RZ4B-es Set Bebé Dépor'
 actualPrice: 29.79 EUR
 currency: EUR
 price: 29.79

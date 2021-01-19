@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P5Bk8IHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Z5L1HX-es'
+slug: 'B077Z5L1HX-es Fascol 7 en 1 Triciclo Bebe con Asiento Giratorio y Ruedas de Gomas  Versión Mejorada Trike para Niños de 12 Meses a 5 Años   Gris'
 actualPrice: 102.53 EUR
 currency: EUR
 price: 102.53

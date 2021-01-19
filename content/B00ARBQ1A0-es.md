@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414JjLm3PDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ARBQ1A0-es'
+slug: 'B00ARBQ1A0-es Chicco - Bandeja escurrebiberones hasta 6 biberones'
 actualPrice: 14.93 EUR
 currency: EUR
 price: 14.93

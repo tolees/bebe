@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51np3oaDTzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4KQ91J-es'
+slug: 'B07D4KQ91J-es Marca Amazon- Mama Bear Pañal de aprendizaje maxi- Talla 4  8-15kg   88 pañales  2x44 '
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

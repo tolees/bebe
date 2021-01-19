@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MFrmGfr3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MRWJCB5-es'
+slug: 'B07MRWJCB5-es Nenuco Pack Cuidado Classic con 2 geles de ducha  1 colonia y 1 jabón de manos'
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

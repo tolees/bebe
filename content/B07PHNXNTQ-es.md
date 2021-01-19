@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+BdjRqvvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHNXNTQ-es'
+slug: 'B07PHNXNTQ-es Biomecanics 191166  Zapatillas de Estar por casa Bebé Unisex  Multicolor  Azul Marino Y Lila  Sauvage Y Serraje  Colores   22 EU'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

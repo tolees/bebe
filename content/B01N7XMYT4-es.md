@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TwVdsJq8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7XMYT4-es'
+slug: 'B01N7XMYT4-es Jané 070191C01 - Set de vajilla'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

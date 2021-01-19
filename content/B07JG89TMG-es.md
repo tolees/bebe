@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QgG1Fsj0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG89TMG-es'
+slug: 'B07JG89TMG-es Asalvo Mix Plus Capitán - Cuna de viaje  Color gris'
 actualPrice: 63.65 EUR
 currency: EUR
 price: 63.65

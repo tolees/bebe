@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Kg+sy-n+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CYBSDRZ-es'
+slug: 'B08CYBSDRZ-es Babify Homy - Cama Infantil - Cama para niños 200 x 90 cm - Cajones incluidos'
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

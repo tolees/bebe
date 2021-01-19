@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iP7yhEnsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SN4GKAE-es'
+slug: 'B00SN4GKAE-es Chicco - Calienta biberón de casa rápido y calentamiento gradual'
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

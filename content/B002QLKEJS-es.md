@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41enup-kkEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002QLKEJS-es'
+slug: 'B002QLKEJS-es Altabebe Active Line - Saco de invierno para silla de coche  0-12 meses  color negro'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y6Yc6fBcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O1TNK0S-es'
+slug: 'B00O1TNK0S-es Play Scout 30185 - Silla de coche  grupo 0+/1/2  0 - 25 kg   Negro y gris'
 actualPrice: 94.07 EUR
 currency: EUR
 price: 94.07

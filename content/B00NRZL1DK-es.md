@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41svt7DruZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NRZL1DK-es'
+slug: 'B00NRZL1DK-es Safety 1st 33110128 - Espejo trasero  color negro'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

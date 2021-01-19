@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21lJwpfT5gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007NZI3MW-es'
+slug: 'B007NZI3MW-es Suavinex - Set Cepillo Recién Nacido Fibras Muy Suaves + Peine Bebé Cantos Redondeados   Color Azul'
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

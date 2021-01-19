@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31i0rMHfqeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1K8TWE-es'
+slug: 'B01N1K8TWE-es Denenes Gel-Champú - 600 ml'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

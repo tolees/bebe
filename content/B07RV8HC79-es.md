@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ICh86Iu-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RV8HC79-es'
+slug: 'B07RV8HC79-es QUEEN ROSE Almohada de Embarazo con Funda de Plush  Almohada de Cuerpo Completo en Forma de L para Mujeres Embarazadas  Azul&Gris'
 actualPrice: 37.29 EUR
 currency: EUR
 price: 37.29

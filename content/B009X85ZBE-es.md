@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-L7m9TXPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009X85ZBE-es'
+slug: 'B009X85ZBE-es Playgro Juguete Colgante Ratón Clip Clop  Desde el Nacimiento  Dingly Dangly Mimsy  Naranja/Multicolor  40144'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

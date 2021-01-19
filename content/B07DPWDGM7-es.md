@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bkmq6%2BtmL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPWDGM7-es'
+slug: 'B07DPWDGM7-es Placa decorativa infantil de madera en forma de banderín personalizada con el nombre y datos de nacimiento bebé infantil  regalo recién nacido niño y niña para decoración habitación'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

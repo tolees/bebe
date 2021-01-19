@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z4Yj4csjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N323NWV-es'
+slug: 'B07N323NWV-es MINILAND - Robot de cocina para bebé 6 en 1 - Chefy 6'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

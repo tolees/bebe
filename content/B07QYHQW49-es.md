@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e1lIDz1DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYHQW49-es'
+slug: 'B07QYHQW49-es Lehoo Castle Coche del Dinosaurio del Juguete del bebé  Coche de Juguete Excavadora  Coche de Juguete Eléctrico  Carro de Juguete con Música y Luz  Regalo de cumpleaños para niños de 1 a 3 años'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41POyEij5KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9NNY6W-es'
+slug: 'B07L9NNY6W-es Philips Avent Vigilabebés con cámara SCD833/01 - Vigilabebés con vídeo digital con privacidad y seguridad  A-FHSS   pantalla a color de 2 7"  nanas relajantes e intercomunicador'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xrp0RRfYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SK66QW-es'
+slug: 'B078SK66QW-es Mum & You Toallitas Húmedas Para Bebés 100% Biodegradables  Paquete De 12   672 Toallitas En Total . 98% De Agua  0% De Plástico  Hipoalergénico Y Dermatológicamente Probado.'
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

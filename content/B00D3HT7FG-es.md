@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n60ynJmcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D3HT7FG-es'
+slug: 'B00D3HT7FG-es Tena - Pants - Pañales  Talla L - 14 unidades'
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

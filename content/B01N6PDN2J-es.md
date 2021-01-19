@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RJNHjD0PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6PDN2J-es'
+slug: 'B01N6PDN2J-es TETINA NUK NATURE SENSE 6-18 SILI M 2UDS'
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

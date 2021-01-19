@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314-CKkrbdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7R5S2W-es'
+slug: 'B07K7R5S2W-es Britax Römer Kidfix² R Cosmos Black'
 actualPrice: 167.0 EUR
 currency: EUR
 price: 167.0

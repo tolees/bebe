@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MydoeoJOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNZKWLS-es'
+slug: 'B07DNZKWLS-es Kinderkraft Silla de Coche Isofix SAFETY FIX  Grupo 1/2/3  9-36 kg  Gris'
 actualPrice: 90.5 EUR
 currency: EUR
 price: 90.5

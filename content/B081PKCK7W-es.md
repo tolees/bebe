@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o3Pnm8kAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081PKCK7W-es'
+slug: 'B081PKCK7W-es HelloBaby HB66 Vigilabebés Video Baby Monitor con Modo VOX Cámara Remota Pan-Tilt-Zoom 3.2 Pulgadas Pantalla LCD en color Infrarrojo Visión Nocturna Monitoreo de Temperatura'
 actualPrice: 68.79 EUR
 currency: EUR
 price: 68.79

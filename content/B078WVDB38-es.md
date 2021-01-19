@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SKpGs20JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WVDB38-es'
+slug: 'B078WVDB38-es Maclaren Quest - Silla de paseo para bebé  asiento multiposición  capota extensible con UPF 50+  suspensión en las 4 ruedas  hasta los 25kg  color denim indigo'
 actualPrice: 273.96 EUR
 currency: EUR
 price: 273.96

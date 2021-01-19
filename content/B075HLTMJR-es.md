@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411AQzd3rLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075HLTMJR-es'
+slug: 'B075HLTMJR-es Instituto Español Bebe Champú Extra Suave - 300 ml'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KAk2M9lIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4G83FL-es'
+slug: 'B07G4G83FL-es Reignet Calcetines de Compresión  para hombre y mujer  20-30 mmhg   deporte  rendimiento  varices  circulación sanguínea  recuperación  embarazo  enfermeras  calambres en las piernas L/XL'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

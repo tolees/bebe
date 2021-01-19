@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u8BrlqkYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0048EKSXS-es'
+slug: 'B0048EKSXS-es Chicco Comfort Quick - Termómetro infrarrojos timpánico'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

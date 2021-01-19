@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k1B0lcgsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZHDK5H-es'
+slug: 'B01MZHDK5H-es Philips Avent SCF222/22 - Pack de dos chupetes ultra suaves y flexibles  decorados  6-18 meses  niño  color azul cielo'
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

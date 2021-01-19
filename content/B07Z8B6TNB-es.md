@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dE6ffBNNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8B6TNB-es'
+slug: 'B07Z8B6TNB-es Nombres Decorativos Personalizados de madera para Decoración del Hogar  Comunión  Boda  Cumpleaños y Habitación de Bebe infantil de 25/35/45cm satinados'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

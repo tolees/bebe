@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rBrx3OmVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01591NZII-es'
+slug: 'B01591NZII-es Munchkin Miracle 360°- Vaso de Entrenamiento Antiderrames con Asas  rosa  207 ml'
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

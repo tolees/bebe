@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21r1IbXy-4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNBY1TX-es'
+slug: 'B07PNBY1TX-es Medela - Tubo para sacaleches doble Swing Maxi Flex'
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

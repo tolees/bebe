@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YESYmW27L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BR4LHFH-es'
+slug: 'B07BR4LHFH-es Dodot Splashers Pañales Bañadores Desechables  No se Hinchan y Fácil de Quitar  Talla 5  14+ kg  - 4x10 Unidades'
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

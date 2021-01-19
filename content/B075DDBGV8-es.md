@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wAve4GN6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DDBGV8-es'
+slug: 'B075DDBGV8-es meiqicool Exterior/Interior Protectora|Alfombrillas de Enclavamiento Suelo Estera para Suelos Ideal para Gimnasio  Zona de Juegos Ejercicio Yoga de bebé 20 Azulejos  16.5sqft  Play Alfombrillas 09G20'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

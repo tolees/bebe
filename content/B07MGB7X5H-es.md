@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cnFCf8Y9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGB7X5H-es'
+slug: 'B07MGB7X5H-es Niimo Cojin Lactancia Bebè Funda Cojin 100% Algodòn Extraíble y Lavable Almohada Multifuncional para Madre y Bebé Relleno de Fibra de Poliéster Blanco-Estrella Gris '
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

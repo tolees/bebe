@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mMx155f8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CQOIL3U-es'
+slug: 'B01CQOIL3U-es Chicco Phisio Soft - Chupete todo goma de silicona para 0-6 meses transparente'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

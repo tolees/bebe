@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417o7CuhByL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5W3LN8-es'
+slug: 'B07J5W3LN8-es Termómetro Digital Frente y Oído SVMUU   Termómetro Médico Infrarrojo para Bebés  Multifunción 4 en 1  Alarma de Fiebre  Lectura instantánea para niños  Adultos y Objetos  Certifica CE/ROHS/FDA'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

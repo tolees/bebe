@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QEWtjir-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9UOYM7-es'
+slug: 'B01N9UOYM7-es DECOWALL DLT-1615 Mapamundi Animales Vinilo Pegatinas Decorativas Adhesiva Pared Dormitorio Salón Guardería Habitación Infantiles Niños Bebés  Extra Grande   English Ver. '
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

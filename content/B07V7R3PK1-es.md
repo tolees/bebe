@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YB-1+louL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7R3PK1-es'
+slug: 'B07V7R3PK1-es Salt and Pepper mit Einhorn Applikation und Glitzerdruck Bañador  Azul  Ink Blue 472   68 cm para Bebés'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

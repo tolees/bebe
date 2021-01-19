@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GN6xs3GyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4M7ARJ-es'
+slug: 'B01N4M7ARJ-es Auriculares para niños  iClever Volumen Limitado Cascos para niños sobre el oído Auriculares para bebés con diseño estéreo Ajustable Cat para Tablets iPhone iPad PC MP3  púrpura '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QXcYa99AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6F0AI8-es'
+slug: 'B01N6F0AI8-es Reebok Classic Leather Zapatillas de trail running Unisex bebé  Marfil   White 1   20 EU'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

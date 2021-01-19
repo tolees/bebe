@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kzueQfClL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGV28N8-es'
+slug: 'B06XGV28N8-es Miracle Baby Mantas Bebe Algodón  Swaddle Blanket de Muselina 100% Algodón  Arrullo para Bebe Baño De Envolver Para Recién Nacido Dos Capas 110x150cm'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

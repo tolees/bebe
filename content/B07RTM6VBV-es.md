@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312hfM9nC7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTM6VBV-es'
+slug: 'B07RTM6VBV-es Munchkin  - Vaso de Transición con Boquilla Blanda  4oz / 118 ml  Morado  pack de 2'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

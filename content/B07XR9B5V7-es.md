@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wPCr8RKtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XR9B5V7-es'
+slug: 'B07XR9B5V7-es Luchild Parachoques de Cuna de Serpiente de Bebé - 100% Algodón Protector de Cabeza Parachoques Ropa de Cama de Guardería Parachoques Protección Interior para Cuna -3m'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

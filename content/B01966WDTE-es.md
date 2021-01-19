@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NOS+tmhkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01966WDTE-es'
+slug: 'B01966WDTE-es Jané 010496C01 - Termo para sólidos'
 actualPrice: 24.16 EUR
 currency: EUR
 price: 24.16

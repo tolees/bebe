@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pqpZ4T5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLCD1WT-es'
+slug: 'B07FLCD1WT-es Philips Avent SCF816/17 - Biberón Anti-colic de 330 ml  transparente'
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

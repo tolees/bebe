@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418bigx0eNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3FRJTF-es'
+slug: 'B07X3FRJTF-es HyAdierTech Almohadillas de Lactancia Bambú Orgánicos para Pérdida de Leche  Absorbentes Lactancia Almohadillas para Lactancia  Cubiertas de Pezón para Maternidad  con Bolsa'
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

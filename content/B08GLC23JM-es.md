@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u7aITseiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GLC23JM-es'
+slug: 'B08GLC23JM-es Besylo Almohada para Bebe  planas para la cabeza Forma bebé recién nacida almohada protectora para bebés  Cojín Recién nacido para Anti Plagiocefalia 0-12 Meses azul '
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

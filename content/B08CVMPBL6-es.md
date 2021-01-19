@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rDErAiGGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVMPBL6-es'
+slug: 'B08CVMPBL6-es HOMCOM Coche para Bebés Mayores de 12 Meses Correpasillos para Niños en Forma de Vehículo Vintage con Sonidos y Bocina Espacio de Almacenaje 70x28 5x37 cm Rojo'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BP+NaBI5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJFLKRX-es'
+slug: 'B07GJFLKRX-es Chicco Next2me - Cuna de colecho con anclaje a cama y 6 alturas  color azul  Ocean '
 actualPrice: 151.56 EUR
 currency: EUR
 price: 151.56

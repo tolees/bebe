@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U8lAdZ8ZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000MMQO60-es'
+slug: 'B000MMQO60-es Philips Avent SCF157/02 -  2 Conchas protectoras ventiladas para pezones  2 conchas para recoger el exceso de leche y 2 cojines de silicona ultra suaves'
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GnsQ9y7cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I2U9W1I-es'
+slug: 'B00I2U9W1I-es Bebé Due 80160 - Taza 4 en 1'
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

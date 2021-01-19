@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i-R0JMOeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGRRTZ9-es'
+slug: 'B07KGRRTZ9-es Safety 1st Calidoo Cuna Colecho e Cuna de viaje 2 in 1  regulable en altura y reclinable  plegado facil  colchon cuna incluido  color Warm grey'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

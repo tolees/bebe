@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xnr6UoO8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085X9KP5J-es'
+slug: 'B085X9KP5J-es GYYFF Termómetro electrónico infrarrojo sin Contacto Termómetro Digital Medición precisa y rápida de la Pistola de Temperatura para niños Bebé Adulto Cuidado de la Salud en el hogar  Verde'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

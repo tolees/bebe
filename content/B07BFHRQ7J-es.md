@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4169OOr2bIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFHRQ7J-es'
+slug: 'B07BFHRQ7J-es Bébé Confort LARA  Cochecito compacto plegable y multifuncional  del nacimiento hasta los 3.5 años  0-15 Kg  Nomad Grey  gris '
 actualPrice: 182.96 EUR
 currency: EUR
 price: 182.96

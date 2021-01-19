@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZRPY9k9mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CH78YM5-es'
+slug: 'B08CH78YM5-es Termómetro Infrarrojos  KKmier Termometro Digital Infrarrojo sin Contacto con Pantalla LCD Termómetro Infrarrojos médico para Bebé  Adulto  Hospital  Aeropuerto  Cuidado de la Salud en el Hogar'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

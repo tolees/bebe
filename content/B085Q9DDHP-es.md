@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iNHyIGMkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085Q9DDHP-es'
+slug: 'B085Q9DDHP-es Aspirador Nasal Bebes  Aspirador Nasal  Aspirador Nasal Bebe Electrico  Pantalla LCD de carga USB con 5 niveles de succión 4 tamaños Puntas de silicona  Portátil aspirador nasal para Recién Nacidos'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

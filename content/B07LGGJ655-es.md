@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lNh+n6BTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGGJ655-es'
+slug: 'B07LGGJ655-es Dodot Activity - Pañales Talla 3  68 Pañales  6-10 kg'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

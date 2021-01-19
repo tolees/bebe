@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JqEj04rFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O511WWA-es'
+slug: 'B00O511WWA-es Safety 1st Road Safe Silla de coche para Niños  Grupo 2/3   3-12 años  15-36 kg  Rojo  Full Red '
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

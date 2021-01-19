@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xD1LT6feL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FZXNU5Y-es'
+slug: 'B00FZXNU5Y-es Suavinex - Biberón Anatómico Flujo Denso Látex 360Ml 6M+  colores/modelos surtidos'
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

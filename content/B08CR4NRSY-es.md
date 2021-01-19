@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51M45McalEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CR4NRSY-es'
+slug: 'B08CR4NRSY-es Gorro de bebé para recién Nacido Diademas Bebe Unidades Diademas para bebé con Lazos Anchos Diademas Super elásticas Suaves y elásticas para el Pelo del bebé Accesorios para el Pel  4 Unidades '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

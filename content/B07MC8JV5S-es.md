@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GC5FCZaBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC8JV5S-es'
+slug: 'B07MC8JV5S-es KidoMe 1280 x 720P Vigilabebé Vídeo Inalambrico Cámara Vigilancia con Pantalla Digital LCD a Color de 5” Bebé Monitor Inteligente Audio Bidireccional Alarma Canciones de Cuna Visión Nocturna'
 actualPrice: 74.39 EUR
 currency: EUR
 price: 74.39

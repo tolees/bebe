@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+tOKtKbVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Q9H1NC-es'
+slug: 'B081Q9H1NC-es UBEGOOD Humidificador  Difusor de Aromaterapia Humidificador Ultrasónico Aroma Difusor Purificador de Aire con LED de 7 Colores de para luminoterapia en el Hogar  Oficina  SPA  Bebé  400ml '
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

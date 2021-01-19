@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AqwP0MzvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G1C6YBV-es'
+slug: 'B08G1C6YBV-es Luz Nocturna Niños LED Lámpara de Noche Bebé de Conejo con Brillo Ajustable/Interruptor Táctil/USB Regargable/Modo de cronometraje/Regalo de Cumpleaños y Fiestas'
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

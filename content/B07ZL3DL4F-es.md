@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZMLLwldPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL3DL4F-es'
+slug: 'B07ZL3DL4F-es Maxi-Cosi RodiFix AirProtect Silla coche grupo 2/3 isofix  15-36 kg  Silla auto reclinable  crece con el niño 3 5 - 12 años  color Authentic Graphite'
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

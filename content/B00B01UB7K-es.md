@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-vyTWEcTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B01UB7K-es'
+slug: 'B00B01UB7K-es Suavinex - Escurre Biberones. Secar Biberones. Apto Para Lavavajillas. Fácil Montaje y Desmontaje.'
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59
