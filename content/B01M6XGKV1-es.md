@@ -27,9 +27,9 @@ Está [Munchkin Asiento infantil elevador portátil  azul/gris](https://www.amaz
 ℹ️:
 
 - Arnés ajustable de 3 puntos de anclaje para niños de entre 6 y 36 meses aproximadamente (máx. 15 kg)
-- Las almohadillas antideslizantes xtra-grip aportan estabilidad para evitar que el asiento se resbale de la silla
-- Muy portátil, con armazón interno fuerte y estable, se pliega fácilmente y viene con un asa de transporte
 - Materiales duraderos y fáciles de limpiar
+- Muy portátil, con armazón interno fuerte y estable, se pliega fácilmente y viene con un asa de transporte
 - Con un compartimento para guardar biberones, pañales, etc.
+- Las almohadillas antideslizantes xtra-grip aportan estabilidad para evitar que el asiento se resbale de la silla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M6XGKV1/?tag=tolees-21)
