@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TFGLRV-es Dookey Piscina Inflable para Bebés Hinchable Infantil...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

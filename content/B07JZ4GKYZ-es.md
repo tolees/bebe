@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ4GKYZ-es Tommy Hilfiger Simon Skinny Glfbst Jeans Azul Glen Fresh...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZLMH17-es Kickers Jawa Zapatillas para Bebés Azul Marine 10 18 EU'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

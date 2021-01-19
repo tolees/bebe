@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRKSRSZ-es United Colors of Benetton Layette BB G2 Camiseta de Manga...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

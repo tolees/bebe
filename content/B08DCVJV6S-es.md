@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCVJV6S-es Luz Nocturna Infantil Glinrui Luz de Noche Bebé Lámpara de...'
-tags: tole.es, bebé, bebé
+tags: [ tole.es, bebé, bebé ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

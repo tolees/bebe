@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4G83FL-es Reignet Calcetines de Compresión para hombre y mujer 20-30...'
-tags: tole.es, embarazo
+tags: [ tole.es, embarazo ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

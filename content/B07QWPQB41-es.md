@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWPQB41-es Cubierta de lactancia para bebés y poncho de lactancia -...'
-tags: tole.es, bebés, lactancia
+tags: [ tole.es, bebés, lactancia ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

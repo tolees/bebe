@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKRKZDJ-es Body bebé manga corta corona personalizado Regalo único y...'
-tags: tole.es, bebé, bebé
+tags: [ tole.es, bebé, bebé ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

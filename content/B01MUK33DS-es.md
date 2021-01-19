@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUK33DS-es Philips Avent SCF212/20 - Pack de dos chupetes ultra...'
-tags: tole.es, avent, chupetes
+tags: [ tole.es, avent, chupetes ]
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

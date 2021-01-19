@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C26KK0U-es Philips Avent SCF766/00 Vaso aislado con paja 260 ml azul...'
-tags: tole.es, avent
+tags: [ tole.es, avent ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

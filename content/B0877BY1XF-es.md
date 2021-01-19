@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0877BY1XF-es Dodot Pants Pañal - Braguita Talla 7 92 Pañales 17 kg +...'
-tags: tole.es, dodot, pañal, pañales
+tags: [ tole.es, dodot, pañal, pañales ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

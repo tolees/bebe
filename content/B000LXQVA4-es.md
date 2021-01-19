@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LXQVA4-es Fisher-Price Saltador animalitos de la selva para bebé +1...'
-tags: tole.es, bebé, fisher-price, bebé
+tags: [ tole.es, bebé, fisher-price, bebé ]
 actualPrice: 121.89 EUR
 currency: EUR
 price: 121.89

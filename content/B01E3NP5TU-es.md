@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E3NP5TU-es Chicco Wellbeing - Set de regalo con biberón chupete y...'
-tags: tole.es, biberón, chicco, chupete
+tags: [ tole.es, biberón, chicco, chupete ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

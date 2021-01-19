@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK1CNG2-es Geox B Kaytan B Sandalias para Bebés Beige Caramel/Brown...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 31.94 EUR
 currency: EUR
 price: 31.94

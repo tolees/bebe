@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZG1G1F-es Manual del bebé Aspirador nasal de silicona Aspirador...'
-tags: tole.es, bebé, bebé
+tags: [ tole.es, bebé, bebé ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZQFG16-es WISHTIME Sonajeros Bebe para BebéS 12 Piezas De Juguetes...'
-tags: tole.es, bebe, bebés
+tags: [ tole.es, bebe, bebés ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

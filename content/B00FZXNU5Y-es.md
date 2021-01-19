@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FZXNU5Y-es Suavinex - Biberón Anatómico Flujo Denso Látex 360Ml 6M+...'
-tags: tole.es, biberón, suavinex
+tags: [ tole.es, biberón, suavinex ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

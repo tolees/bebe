@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQFLRZY-es Dodot Pants Pañal-Braguita Talla 6 84 Pañales Fácil De...'
-tags: tole.es, dodot, pañales
+tags: [ tole.es, dodot, pañales ]
 actualPrice: 20.36 EUR
 currency: EUR
 price: 20.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZVOS796-es Bambino Mio pañal bañador floral pequeño 0-6 meses'
-tags: tole.es, pañal
+tags: [ tole.es, pañal ]
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ77QP1-es DORRISO Lindo Niños Bebe Gorra Cómodo Calentar Pequeña...'
-tags: tole.es, bebe, bebé, bebé
+tags: [ tole.es, bebe, bebé, bebé ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

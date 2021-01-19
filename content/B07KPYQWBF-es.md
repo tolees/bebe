@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPYQWBF-es Medela cojín de embarazo y lactancia'
-tags: tole.es, embarazo, lactancia, medela
+tags: [ tole.es, embarazo, lactancia, medela ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

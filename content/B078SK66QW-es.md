@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SK66QW-es Mum & You Toallitas Húmedas Para Bebés 100% Biodegradables...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

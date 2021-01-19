@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PMP5SR-es Philips Avent Scf169/46 - Pack con 2 Chupetes Jardín...'
-tags: tole.es, avent, chupetes
+tags: [ tole.es, avent, chupetes ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

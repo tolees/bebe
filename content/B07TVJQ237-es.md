@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVJQ237-es Cepillo de pelo natural para bebés Pelo de cabra Cuidado...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

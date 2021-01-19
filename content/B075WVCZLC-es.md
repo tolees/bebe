@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WVCZLC-es Vigilabebes con Camara Bebé Monitor Inalambrico con 3 5"...'
-tags: tole.es, bebé, bebé
+tags: [ tole.es, bebé, bebé ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NZ9PRD-es HOMYBABY Muselinas Bebe Algodon 120x120 [1pc] | Muselina...'
-tags: tole.es, bebe, muselina
+tags: [ tole.es, bebe, muselina ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

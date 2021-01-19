@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC8JV5S-es KidoMe 1280 x 720P Vigilabebé Vídeo Inalambrico Cámara...'
-tags: tole.es, bebé, vigilabebé, bebé
+tags: [ tole.es, bebé, vigilabebé, bebé ]
 actualPrice: 74.39 EUR
 currency: EUR
 price: 74.39

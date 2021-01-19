@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZFXSDK-es Lebze Bebé Muselina Swaddle Manta -"Diseño de Dinosaurio"...'
-tags: tole.es, bebé, muselina, bebé
+tags: [ tole.es, bebé, muselina, bebé ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

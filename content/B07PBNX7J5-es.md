@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBNX7J5-es Luz Nocturna Infantil con Control Remoto y Táctil 9...'
-tags: tole.es, bebé, bebés, bebé
+tags: [ tole.es, bebé, bebés, bebé ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PCJN5C-es meiqicool - Alfombra puzzle infantil para bebés de Foam...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 45.88 EUR
 currency: EUR
 price: 45.88

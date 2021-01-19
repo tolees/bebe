@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG89TMG-es Asalvo Mix Plus Capitán - Cuna de viaje Color gris'
-tags: tole.es, asalvo
+tags: [ tole.es, asalvo ]
 actualPrice: 63.65 EUR
 currency: EUR
 price: 63.65

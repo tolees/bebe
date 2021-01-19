@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085Y8C9KT-es FlowerDas Termómetro de Frente lecturas precisas...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 44.19 EUR
 currency: EUR
 price: 44.19

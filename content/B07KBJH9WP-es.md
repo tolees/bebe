@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBJH9WP-es Tommee Tippee Sangenic Sistema avanzado para desechar...'
-tags: tole.es, pañales, tommee
+tags: [ tole.es, pañales, tommee ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

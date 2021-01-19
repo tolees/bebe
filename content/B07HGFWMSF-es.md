@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGFWMSF-es SPC Ángel - Cámara vigilabebé inteligente Wi-Fi visión...'
-tags: tole.es, vigilabebé
+tags: [ tole.es, vigilabebé ]
 actualPrice: 54.19 EUR
 currency: EUR
 price: 54.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JZF8LHK-es Medela - Sistema de nutrición suplementaria relactador'
-tags: tole.es, medela
+tags: [ tole.es, medela ]
 actualPrice: 32.85 EUR
 currency: EUR
 price: 32.85

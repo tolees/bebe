@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR8D1JG-es Nobleza - Pañales para Perros Desechables Macho Hembra...'
-tags: tole.es, pañales
+tags: [ tole.es, pañales ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

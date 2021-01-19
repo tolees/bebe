@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5W3LN8-es Termómetro Digital Frente y Oído SVMUU Termómetro Médico...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

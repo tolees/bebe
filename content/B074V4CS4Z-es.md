@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074V4CS4Z-es Lebze Muselina Manta Bebé -"Diente de Ballena" Bambú...'
-tags: tole.es, bebé, muselina, bebé
+tags: [ tole.es, bebé, muselina, bebé ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

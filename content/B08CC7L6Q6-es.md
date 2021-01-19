@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CC7L6Q6-es XINFULUK Multi-propósito de Moda Coreana Diseño de lechón...'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 1.72 EUR
 currency: EUR
 price: 1.72

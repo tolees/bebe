@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCL384W-es Chicco Balloon - Hamaca interactiva con sistema balancín...'
-tags: tole.es, chicco
+tags: [ tole.es, chicco ]
 actualPrice: 80 EUR
 currency: EUR
 price: 80

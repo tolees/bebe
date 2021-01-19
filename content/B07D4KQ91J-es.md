@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4KQ91J-es Marca Amazon- Mama Bear Pañal de aprendizaje maxi- Talla 4...'
-tags: tole.es, pañal, pañales, mama, bear
+tags: [ tole.es, pañal, pañales, mama, bear ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

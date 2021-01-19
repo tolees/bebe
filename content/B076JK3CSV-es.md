@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JK3CSV-es Asalvo 15570 - Columpio 3en1 color rosa'
-tags: tole.es, asalvo
+tags: [ tole.es, asalvo ]
 actualPrice: 98.95 EUR
 currency: EUR
 price: 98.95

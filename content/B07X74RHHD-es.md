@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X74RHHD-es Trona para Bebe Evolutiva Ajustable y Plegable - 7 Alturas...'
-tags: tole.es, bebe, bebé, trona, bebé
+tags: [ tole.es, bebe, bebé, trona, bebé ]
 actualPrice: 121.97 EUR
 currency: EUR
 price: 121.97

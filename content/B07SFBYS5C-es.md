@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFBYS5C-es Homvik Mosquitera Universal Antimosquitos para Bebé Red...'
-tags: tole.es, bebé, bebé
+tags: [ tole.es, bebé, bebé ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

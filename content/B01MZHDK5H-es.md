@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZHDK5H-es Philips Avent SCF222/22 - Pack de dos chupetes ultra...'
-tags: tole.es, avent, chupetes
+tags: [ tole.es, avent, chupetes ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

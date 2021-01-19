@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHMGP9S-es Chicco Good Night - Vigilabebés de audio con panel de cuna...'
-tags: tole.es, chicco, vigilabebés
+tags: [ tole.es, chicco, vigilabebés ]
 actualPrice: 57.01 EUR
 currency: EUR
 price: 57.01

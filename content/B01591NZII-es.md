@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01591NZII-es Munchkin Miracle 360°- Vaso de Entrenamiento Antiderrames...'
-tags: tole.es, munchkin
+tags: [ tole.es, munchkin ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG1KPHT-es Geox B Kaytan B Zapatillas para Bebés Azul Navy C4002 22 EU'
-tags: tole.es, bebés
+tags: [ tole.es, bebés ]
 actualPrice: 17.58 EUR
 currency: EUR
 price: 17.58

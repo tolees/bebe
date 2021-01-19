@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CR4NRSY-es Gorro de bebé para recién Nacido Diademas Bebe Unidades...'
-tags: tole.es, bebe, bebé, bebé
+tags: [ tole.es, bebe, bebé, bebé ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I2KYSPI-es Nuk - Detergente líquido especialmente para...'
-tags: tole.es, bebé, nuk, bebé
+tags: [ tole.es, bebé, nuk, bebé ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J4MDR8Y-es Difusor de Aceites Esenciales Avaspot 250ml Ultrasónico...'
-tags: tole.es, bebé, bebé
+tags: [ tole.es, bebé, bebé ]
 actualPrice: 16.24 EUR
 currency: EUR
 price: 16.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH2Q2P9-es Munchkin - Set de vajilla para niños rose'
-tags: tole.es, munchkin
+tags: [ tole.es, munchkin ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74
