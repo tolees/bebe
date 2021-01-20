@@ -26,9 +26,9 @@ Tienes [Baby Jogger City Tour LUX DUO Cochecito de bebé desde nacimiento hasta 
 
 🔎:
 
+- El nuevo City Tour LUX de Baby Jogger se pliega con el capazo en el chasis, (capazo incluido en la versión DUO y TRIO). Plegado con una sola mano.
 - Este cochecito para bebé es muy fácil de llevar gracias a la correa integrada y a la bolsa de transporte incluida.
 - Amplia capota de múltiples posiciones con protección UPF 50+
-- El nuevo City Tour LUX de Baby Jogger se pliega con el capazo en el chasis, (capazo incluido en la versión DUO y TRIO). Plegado con una sola mano.
 - La silla de paseo cuenta con asiento reversible. Puede colocarse en ambos sentidos de la marcha, ofrece múltiples posiciones de reclinado.
 - Gracias a su suspensión en las 4 ruedas, el cochecito ofrece una conducción suave y cómoda para el niño, muy manejable para los padres.
 
