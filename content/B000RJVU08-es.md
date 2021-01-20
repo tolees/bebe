@@ -26,10 +26,10 @@ En este momento está [Nûby - Libro de Baño para Bebé - 6 Meses](https://www.
 
 🔎:
 
-- Páginas blandas pero duraderas y fáciles de limpiar
 - El libro para baño no contiene vinilo
-- Una página sorpresa que “chilla”
 - El libro de baño es un juego educativo
+- Una página sorpresa que “chilla”
 - Libro para bebés a partir de 6 meses
+- Páginas blandas pero duraderas y fáciles de limpiar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000RJVU08/?tag=tolees-21)
