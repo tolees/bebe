@@ -26,10 +26,10 @@ En este momento está [Piku NI20.6445 Kanda - Silla de Coche Grupo  123 Isofix  
 
 🔎:
 
-- Estable y sólido, está provisto de protectores laterales especiales para amortiguar cualquier impacto.
-- Piku kanda es ideal para niños de 12 meses a 12 años: gracias al apoyo para la cabeza y a las correas de altura ajustable, se adapta a cada fase de su crecimiento.
+- En los coches equipados con sistema isofix y Top Tether, Piku kanda se puede instalar con 3 simples clics. En coches sin isofix, Piku kanda puede conectarse a los cinturones de seguridad.
 - Piku kanda es un asiento reclinable. Con un simple gesto, puedes cambiar la posición de tu hijo para adaptarse a cualquier necesidad de viaje.
 - Es seguro y confiable además de ligero y cómodo, adecuado para cualquier coche.
-- En los coches equipados con sistema isofix y Top Tether, Piku kanda se puede instalar con 3 simples clics. En coches sin isofix, Piku kanda puede conectarse a los cinturones de seguridad.
+- Estable y sólido, está provisto de protectores laterales especiales para amortiguar cualquier impacto.
+- Piku kanda es ideal para niños de 12 meses a 12 años: gracias al apoyo para la cabeza y a las correas de altura ajustable, se adapta a cada fase de su crecimiento.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N28DFBH/?tag=tolees-21)
