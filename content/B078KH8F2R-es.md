@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KH8F2R-es Suavinex Esterilizador De Chupetes Portátil De Luz Uv Rosa'
+sku: 'B078KH8F2R-es'
 tags: [ 'chupetes','suavinex', ]
 actualPrice: 19.7 EUR
 currency: EUR

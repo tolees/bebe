@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMS76S6-es IMC Toys Bebés Llorones - Wandy 93201'
+sku: 'B07VMS76S6-es'
 tags: [ 'bebés', ]
 actualPrice: 31.74 EUR
 currency: EUR

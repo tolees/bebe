@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X74RHHD-es Trona para Bebe Evolutiva Ajustable y Plegable - 7 Alturas...'
+sku: 'B07X74RHHD-es'
 tags: [ 'bebe','bebé','trona','bebé', ]
 actualPrice: 121.97 EUR
 currency: EUR

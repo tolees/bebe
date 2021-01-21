@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDFSLXP-es New Soul Protector de Asientos de Coche para Bebé...'
+sku: 'B07DDFSLXP-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 7.95 EUR
 currency: EUR

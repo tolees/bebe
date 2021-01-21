@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFVRMNL-es Aeromoov ASATC11060GR - Cuna de Viaje para bebé plegable e...'
+sku: 'B06XFVRMNL-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 128.99 EUR
 currency: EUR

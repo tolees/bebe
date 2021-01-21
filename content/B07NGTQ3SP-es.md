@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGTQ3SP-es Primigi Pbb 43604 Botas para Bebés Zaffiro 4360411 20 EU'
+sku: 'B07NGTQ3SP-es'
 tags: [ 'bebés', ]
 actualPrice: 10.74 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WR2QPSQ-es TENDOMI Humidificador Bebé Humidificador WiFi Inteligente...'
+sku: 'B07WR2QPSQ-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 45.58 EUR
 currency: EUR

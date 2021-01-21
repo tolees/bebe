@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DPWDGM7-es Placa decorativa infantil de madera en forma de banderín...'
+sku: 'B07DPWDGM7-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 19.95 EUR
 currency: EUR

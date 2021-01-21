@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EWFCEE-es Tetina Calma para biberón Medela'
+sku: 'B004EWFCEE-es'
 tags: [ 'biberón','medela', ]
 actualPrice: 11.58 EUR
 currency: EUR

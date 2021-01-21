@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K17DDKZ-es Adidas Altasport CF I Zapatillas Unisex bebé Blanco...'
+sku: 'B07K17DDKZ-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 14.97 EUR
 currency: EUR

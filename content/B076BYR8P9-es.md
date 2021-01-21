@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BYR8P9-es Simple Joys by Carter s calcetines para bebé y niñas...'
+sku: 'B076BYR8P9-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 7.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLCD1WT-es Philips Avent SCF816/17 - Biberón Anti-colic de 330 ml...'
+sku: 'B07FLCD1WT-es'
 tags: [ 'avent','biberón', ]
 actualPrice: 7.19 EUR
 currency: EUR

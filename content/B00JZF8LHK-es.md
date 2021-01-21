@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JZF8LHK-es Medela - Sistema de nutrición suplementaria relactador'
+sku: 'B00JZF8LHK-es'
 tags: [ 'medela', ]
 actualPrice: 32.85 EUR
 currency: EUR

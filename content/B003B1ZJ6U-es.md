@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003B1ZJ6U-es Lacor 61940 - Botella biberón 400 ml color blanco'
+sku: 'B003B1ZJ6U-es'
 tags: [ 'biberón', ]
 actualPrice: 4.8 EUR
 currency: EUR

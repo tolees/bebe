@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZVWC8Z-es SERAPHY Trajes de Calabaza encantadores de Halloween Bebés...'
+sku: 'B07WZVWC8Z-es'
 tags: [ 'bebés', ]
 actualPrice: 10.39 EUR
 currency: EUR

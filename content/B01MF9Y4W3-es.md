@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MF9Y4W3-es Motorola Smart Nursery Dream Machine - Vigilabebés audio...'
+sku: 'B01MF9Y4W3-es'
 tags: [ 'vigilabebés', ]
 actualPrice: 29.02 EUR
 currency: EUR

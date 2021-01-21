@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PKCK7W-es HelloBaby HB66 Vigilabebés Video Baby Monitor con Modo VOX...'
+sku: 'B081PKCK7W-es'
 tags: [ 'vigilabebés', ]
 actualPrice: 68.79 EUR
 currency: EUR

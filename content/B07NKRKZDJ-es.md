@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKRKZDJ-es Body bebé manga corta corona personalizado Regalo único y...'
+sku: 'B07NKRKZDJ-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 14.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCSSJ8T-es La Seguridad del Bebe Metal TV Correas DD Muebles Pesados...'
+sku: 'B01NCSSJ8T-es'
 tags: [ 'bebe', ]
 actualPrice: 9.99 EUR
 currency: EUR

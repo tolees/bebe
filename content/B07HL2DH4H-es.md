@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL2DH4H-es Ganchos Carrito Bebé WELAVILA Cochecito Ganchos Clip para...'
+sku: 'B07HL2DH4H-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 7.99 EUR
 currency: EUR

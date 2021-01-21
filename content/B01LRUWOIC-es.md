@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LRUWOIC-es Hauck Citi Neo II - Silla de paseo de 3 ruedas 0 meses -...'
+sku: 'B01LRUWOIC-es'
 tags: [ 'hauck', ]
 actualPrice: 84.17 EUR
 currency: EUR

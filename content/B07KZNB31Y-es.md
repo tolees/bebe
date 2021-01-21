@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZNB31Y-es Alargador de Cintura para Embarazadas. Adapta tu Ropa de...'
+sku: 'B07KZNB31Y-es'
 tags: [ 'embarazo', ]
 actualPrice: 10.95 EUR
 currency: EUR

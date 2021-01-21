@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074J61CFR-es DafenQ Lindo Animal La mochila de jardín de infantes...'
+sku: 'B074J61CFR-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 3.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGGJ655-es Dodot Activity - Pañales Talla 3 68 Pañales 6-10 kg'
+sku: 'B07LGGJ655-es'
 tags: [ 'dodot','pañales', ]
 actualPrice: 15.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFHRQ7J-es Bébé Confort LARA Cochecito compacto plegable y...'
+sku: 'B07BFHRQ7J-es'
 tags: [ 'bébé','confort', ]
 actualPrice: 182.96 EUR
 currency: EUR

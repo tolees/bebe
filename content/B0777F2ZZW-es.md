@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777F2ZZW-es Sillita plegable bebé negra Omnio - Desde los 6 meses...'
+sku: 'B0777F2ZZW-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 145.0 EUR
 currency: EUR

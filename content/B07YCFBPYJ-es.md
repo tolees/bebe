@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCFBPYJ-es LYSHION Mochilas para Pañales Biberones Pañal Bolso...'
+sku: 'B07YCFBPYJ-es'
 tags: [ 'biberones','pañal','pañales', ]
 actualPrice: 9.99 EUR
 currency: EUR

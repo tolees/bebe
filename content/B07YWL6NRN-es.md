@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YWL6NRN-es Nuk Sports Cup - Botella para aprender a beber antigoteo...'
+sku: 'B07YWL6NRN-es'
 tags: [ 'nuk', ]
 actualPrice: 9.73 EUR
 currency: EUR

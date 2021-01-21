@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZNBKF3-es Kickers BONKRO Botas para Bebés Azul Marine 10 18 EU'
+sku: 'B07MZNBKF3-es'
 tags: [ 'bebés', ]
 actualPrice: 13.26 EUR
 currency: EUR

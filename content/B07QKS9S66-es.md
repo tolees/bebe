@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKS9S66-es Termómetro Digital Bebé Termómetro de Frente y Oído...'
+sku: 'B07QKS9S66-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 16.19 EUR
 currency: EUR

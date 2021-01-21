@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMVZQ2H-es Liveinu - Red de insectos para bebés con cierre de...'
+sku: 'B07CMVZQ2H-es'
 tags: [ 'bebé','bebés','bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR

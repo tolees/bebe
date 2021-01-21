@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBGNTJY-es Value Pack Recién Nacido Bebé LANSKIRT 11PCS Bebé Niña...'
+sku: 'B07LBGNTJY-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 4.49 EUR
 currency: EUR

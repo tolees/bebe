@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPYQWBF-es Medela cojín de embarazo y lactancia'
+sku: 'B07KPYQWBF-es'
 tags: [ 'embarazo','lactancia','medela', ]
 actualPrice: 45.95 EUR
 currency: EUR

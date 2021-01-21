@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GHJDHG9-es Espejo retrovisor para coche de bebé para interior espejo...'
+sku: 'B07GHJDHG9-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR

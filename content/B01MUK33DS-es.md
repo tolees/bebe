@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUK33DS-es Philips Avent SCF212/20 - Pack de dos chupetes ultra...'
+sku: 'B01MUK33DS-es'
 tags: [ 'avent','chupetes', ]
 actualPrice: 7.31 EUR
 currency: EUR

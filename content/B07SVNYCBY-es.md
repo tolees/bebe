@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVNYCBY-es Geox B Waviness Boy A Zapatillas para Bebés Azul Navy/Sky...'
+sku: 'B07SVNYCBY-es'
 tags: [ 'bebés', ]
 actualPrice: 19.95 EUR
 currency: EUR

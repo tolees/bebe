@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DPC84I-es Philips Avent SCF287/02 - Esterilizador a vapor eléctrico...'
+sku: 'B005DPC84I-es'
 tags: [ 'avent', ]
 actualPrice: 69.99 EUR
 currency: EUR

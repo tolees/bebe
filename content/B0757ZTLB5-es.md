@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757ZTLB5-es Adidas Altarun CF I Zapatillas de Estar por casa Bebé...'
+sku: 'B0757ZTLB5-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 9.95 EUR
 currency: EUR

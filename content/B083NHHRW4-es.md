@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NHHRW4-es Spreadhoodie Niños Fuego Nadando Pantalones BañAdor De...'
+sku: 'B083NHHRW4-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 15.99 EUR
 currency: EUR

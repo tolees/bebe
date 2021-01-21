@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFTX7Y8-es i-baby Manta Bebé Grande Mantas Infantiles Para Cuna Cama...'
+sku: 'B07MFTX7Y8-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 17.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHNXNTQ-es Biomecanics 191166 Zapatillas de Estar por casa Bebé...'
+sku: 'B07PHNXNTQ-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 41.99 EUR
 currency: EUR

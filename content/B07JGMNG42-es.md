@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGMNG42-es HBselect 2 PCS Bolsa Pañales Impermeable Organizador...'
+sku: 'B07JGMNG42-es'
 tags: [ 'bebe','pañales', ]
 actualPrice: 9.99 EUR
 currency: EUR

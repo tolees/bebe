@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Z5L1HX-es Fascol 7 en 1 Triciclo Bebe con Asiento Giratorio y Ruedas...'
+sku: 'B077Z5L1HX-es'
 tags: [ 'bebe', ]
 actualPrice: 102.53 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0877BY1XF-es Dodot Pants Pañal - Braguita Talla 7 92 Pañales 17 kg +...'
+sku: 'B0877BY1XF-es'
 tags: [ 'dodot','pañal','pañales', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GYQ6WJ5-es Hawiton Camisón para Mujer Algodón Invierno Manga Largo...'
+sku: 'B08GYQ6WJ5-es'
 tags: [ 'lactancia', ]
 actualPrice: 18.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085Q9DDHP-es Aspirador Nasal Bebes Aspirador Nasal Aspirador Nasal Bebe...'
+sku: 'B085Q9DDHP-es'
 tags: [ 'bebe', ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3FRJTF-es HyAdierTech Almohadillas de Lactancia Bambú Orgánicos para...'
+sku: 'B07X3FRJTF-es'
 tags: [ 'lactancia', ]
 actualPrice: 8.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076DJCS1X-es Bébé Confort ZELIA Nomad Black - Cochecito urbano 2 en 1...'
+sku: 'B076DJCS1X-es'
 tags: [ 'bébé','confort', ]
 actualPrice: 234.61 EUR
 currency: EUR

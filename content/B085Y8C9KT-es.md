@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085Y8C9KT-es FlowerDas Termómetro de Frente lecturas precisas...'
+sku: 'B085Y8C9KT-es'
 tags: [ 'bebés', ]
 actualPrice: 44.19 EUR
 currency: EUR

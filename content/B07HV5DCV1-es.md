@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HV5DCV1-es Luchild Nido Bebé Recién Nacido Reductor de Cuna Nidos...'
+sku: 'B07HV5DCV1-es'
 tags: [ 'bebe','bebé','bebé', ]
 actualPrice: 38.99 EUR
 currency: EUR

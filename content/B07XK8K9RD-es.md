@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XK8K9RD-es Opret Kit de Protector para Esquinas y Bordes para Bebés y...'
+sku: 'B07XK8K9RD-es'
 tags: [ 'bebés', ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLP23XR-es HOMCOM Maleta Correpasillos Niños con Forma de Moto Bolso...'
+sku: 'B07WLP23XR-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 18.69 EUR
 currency: EUR

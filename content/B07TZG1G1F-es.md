@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZG1G1F-es Manual del bebé Aspirador nasal de silicona Aspirador...'
+sku: 'B07TZG1G1F-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 0.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BN97CVR-es MQIAOHAM área de juego para niños colchonetas de espuma de...'
+sku: 'B07BN97CVR-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 30.99 EUR
 currency: EUR

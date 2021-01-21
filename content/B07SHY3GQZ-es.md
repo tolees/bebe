@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHY3GQZ-es Tommee Tippee - Calentador de comida y biberón'
+sku: 'B07SHY3GQZ-es'
 tags: [ 'biberón','tommee', ]
 actualPrice: 26.52 EUR
 currency: EUR

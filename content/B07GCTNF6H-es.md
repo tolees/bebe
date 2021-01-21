@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCTNF6H-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
+sku: 'B07GCTNF6H-es'
 tags: [ 'embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V6HKNX-es ELEGIANT 2 Piezas Termómetro Higrómetro Digital para...'
+sku: 'B082V6HKNX-es'
 tags: [ 'bebés', ]
 actualPrice: 11.04 EUR
 currency: EUR

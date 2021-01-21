@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7R3PK1-es Salt and Pepper mit Einhorn Applikation und Glitzerdruck...'
+sku: 'B07V7R3PK1-es'
 tags: [ 'bebés', ]
 actualPrice: 9.95 EUR
 currency: EUR

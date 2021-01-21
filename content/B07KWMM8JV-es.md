@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWMM8JV-es Suavinex - Canastilla de regalo baby shower para recién...'
+sku: 'B07KWMM8JV-es'
 tags: [ 'biberón','chupete','pañal','suavinex', ]
 actualPrice: 39.99 EUR
 currency: EUR

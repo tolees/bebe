@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGRRTZ9-es Safety 1st Calidoo Cuna Colecho e Cuna de viaje 2 in 1...'
+sku: 'B07KGRRTZ9-es'
 tags: [ 'safety','1st', ]
 actualPrice: 99.0 EUR
 currency: EUR

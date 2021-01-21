@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K9YCXV3-es Niimo Cojin Lactancia Bebè Funda Cojin 100% Algodòn...'
+sku: 'B07K9YCXV3-es'
 tags: [ 'bebé','bebé','lactancia', ]
 actualPrice: 27.9 EUR
 currency: EUR

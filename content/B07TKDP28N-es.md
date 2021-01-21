@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDP28N-es FITFORT Ventilador USB Silencioso - Máx 43 Horas de...'
+sku: 'B07TKDP28N-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 10.99 EUR
 currency: EUR

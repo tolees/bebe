@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z8B6TNB-es Nombres Decorativos Personalizados de madera para...'
+sku: 'B07Z8B6TNB-es'
 tags: [ 'bebe', ]
 actualPrice: 13.95 EUR
 currency: EUR

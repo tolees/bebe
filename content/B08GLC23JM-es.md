@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLC23JM-es Besylo Almohada para Bebe planas para la cabeza Forma bebé...'
+sku: 'B08GLC23JM-es'
 tags: [ 'bebe','bebé','bebés','bebé', ]
 actualPrice: 11.85 EUR
 currency: EUR

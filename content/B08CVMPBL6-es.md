@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVMPBL6-es HOMCOM Coche para Bebés Mayores de 12 Meses Correpasillos...'
+sku: 'B08CVMPBL6-es'
 tags: [ 'bebés', ]
 actualPrice: 27.99 EUR
 currency: EUR

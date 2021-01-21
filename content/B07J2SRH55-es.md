@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2SRH55-es Suavinex Zero-Zero Biberón anticólicos +0 meses 180 ml -...'
+sku: 'B07J2SRH55-es'
 tags: [ 'biberón','suavinex','lactancia', ]
 actualPrice: 9.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRG87L4-es Luxja Pañal de Natación para bebes Bañador Reutilizable de...'
+sku: 'B07BRG87L4-es'
 tags: [ 'bebé','pañal','bebé', ]
 actualPrice: 11.46 EUR
 currency: EUR

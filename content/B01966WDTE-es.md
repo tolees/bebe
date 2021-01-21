@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01966WDTE-es Jané 010496C01 - Termo para sólidos'
+sku: 'B01966WDTE-es'
 tags: [ 'jané', ]
 actualPrice: 24.16 EUR
 currency: EUR

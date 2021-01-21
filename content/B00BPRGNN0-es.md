@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BPRGNN0-es Medela 008.0483 Biberón con Tetina Calma 250 ml'
+sku: 'B00BPRGNN0-es'
 tags: [ 'biberón','medela', ]
 actualPrice: 15.9 EUR
 currency: EUR

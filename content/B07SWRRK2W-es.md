@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWRRK2W-es Geox B Djrock Boy C Mocasines para Bebés Azul Navy/White...'
+sku: 'B07SWRRK2W-es'
 tags: [ 'bebés', ]
 actualPrice: 27.31 EUR
 currency: EUR

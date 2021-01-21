@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXTBDZ4-es Bolsa de Cochecito de Landau Impermeable Diseñado con...'
+sku: 'B07FXTBDZ4-es'
 tags: [ 'pañales', ]
 actualPrice: 10.68 EUR
 currency: EUR

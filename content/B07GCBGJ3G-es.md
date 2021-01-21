@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCBGJ3G-es Chicco Open Box Parque de juegos infantil con alfombra...'
+sku: 'B07GCBGJ3G-es'
 tags: [ 'chicco', ]
 actualPrice: 98.36 EUR
 currency: EUR

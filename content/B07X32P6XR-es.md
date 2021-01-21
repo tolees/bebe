@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X32P6XR-es Trona para Bebe Evolutiva Ajustable y Plegable - 7 Alturas...'
+sku: 'B07X32P6XR-es'
 tags: [ 'bebe','bebé','trona','bebé', ]
 actualPrice: 139.97 EUR
 currency: EUR

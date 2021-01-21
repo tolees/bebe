@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0RVTMB-es Babybjörn Bliss Hamaca ergonómica con balanceo natural...'
+sku: 'B01N0RVTMB-es'
 tags: [ 'bebés', ]
 actualPrice: 134.99 EUR
 currency: EUR

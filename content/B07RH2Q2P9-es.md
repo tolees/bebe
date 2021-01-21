@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH2Q2P9-es Munchkin - Set de vajilla para niños rose'
+sku: 'B07RH2Q2P9-es'
 tags: [ 'munchkin', ]
 actualPrice: 18.74 EUR
 currency: EUR

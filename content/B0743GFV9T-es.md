@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743GFV9T-es Tiny Love Meadow Days - Manta de juegos gigante para bebés...'
+sku: 'B0743GFV9T-es'
 tags: [ 'bebés', ]
 actualPrice: 39.99 EUR
 currency: EUR

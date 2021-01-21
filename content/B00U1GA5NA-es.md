@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U1GA5NA-es INJUSA - Triciclo City Max Blanco para Bebés +6 Meses con...'
+sku: 'B00U1GA5NA-es'
 tags: [ 'bebés', ]
 actualPrice: 107.97 EUR
 currency: EUR

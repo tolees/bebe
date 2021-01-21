@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL7N33P-es Philips Avent Biberón Natural SCF038/17 - Biberón de 330...'
+sku: 'B07FL7N33P-es'
 tags: [ 'avent','biberón', ]
 actualPrice: 8.79 EUR
 currency: EUR

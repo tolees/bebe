@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M1CL7Y-es Agger 2 Piezas de Asiento Ajustable posicionador del sueño...'
+sku: 'B087M1CL7Y-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 8.92 EUR
 currency: EUR

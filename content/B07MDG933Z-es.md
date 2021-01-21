@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDG933Z-es Lámpara de Luna 3D 16 Colores RGB Luz Nocturna Luna LED...'
+sku: 'B07MDG933Z-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 12.95 EUR
 currency: EUR

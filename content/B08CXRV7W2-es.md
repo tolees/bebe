@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CXRV7W2-es Homgrace Termómetro infrarrojo sin Contacto Digital...'
+sku: 'B08CXRV7W2-es'
 tags: [ 'bebés', ]
 actualPrice: 9.99 EUR
 currency: EUR

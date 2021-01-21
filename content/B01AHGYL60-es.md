@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AHGYL60-es Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en...'
+sku: 'B01AHGYL60-es'
 tags: [ 'bebe', ]
 actualPrice: 449.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JECIFHU-es Huggies Little Swimmers Pañal Bañador Desechable Talla 5-6...'
+sku: 'B00JECIFHU-es'
 tags: [ 'huggies','pañal', ]
 actualPrice: 8.46 EUR
 currency: EUR

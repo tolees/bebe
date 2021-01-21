@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HGVFLL-es Munchkin Vaso con asas y pajita abatible Tip & Sip con...'
+sku: 'B078HGVFLL-es'
 tags: [ 'munchkin', ]
 actualPrice: 6.99 EUR
 currency: EUR

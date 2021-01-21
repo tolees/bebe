@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNR99HM-es Levoit Humidificador Ultrasónico 4 5L Bebé de Vapor Frío...'
+sku: 'B07CNR99HM-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 49.99 EUR
 currency: EUR

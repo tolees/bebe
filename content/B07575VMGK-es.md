@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07575VMGK-es Chicco - Set de 2 sábanas bajeras ajustable para mini cuna...'
+sku: 'B07575VMGK-es'
 tags: [ 'chicco', ]
 actualPrice: 20.63 EUR
 currency: EUR

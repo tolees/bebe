@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8M8JN6-es SaponinTree Humidificador Aromaterapia Ultrasónico 100ml...'
+sku: 'B07V8M8JN6-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XR9B5V7-es Luchild Parachoques de Cuna de Serpiente de Bebé - 100%...'
+sku: 'B07XR9B5V7-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 35.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O511WWA-es Safety 1st Road Safe Silla de coche para Niños Grupo 2/3...'
+sku: 'B00O511WWA-es'
 tags: [ 'safety','1st','silla','de','coche', ]
 actualPrice: 32.0 EUR
 currency: EUR

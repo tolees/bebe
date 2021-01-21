@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O1TNK0S-es Play Scout 30185 - Silla de coche grupo 0+/1/2 0 - 25 kg...'
+sku: 'B00O1TNK0S-es'
 tags: [ 'silla','de','coche', ]
 actualPrice: 94.07 EUR
 currency: EUR

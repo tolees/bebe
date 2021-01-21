@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S48P5GG-es Viedouce Baberos Bebés con Mangas Impermeables Baberos...'
+sku: 'B07S48P5GG-es'
 tags: [ 'bebé','bebés','bebé', ]
 actualPrice: 13.99 EUR
 currency: EUR

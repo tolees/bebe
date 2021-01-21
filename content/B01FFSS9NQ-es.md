@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFSS9NQ-es Suavinex – Gel-champú espumoso para bebés. No Pica en los...'
+sku: 'B01FFSS9NQ-es'
 tags: [ 'suavinex', ]
 actualPrice: 7.25 EUR
 currency: EUR

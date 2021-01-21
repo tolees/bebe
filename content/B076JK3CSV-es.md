@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JK3CSV-es Asalvo 15570 - Columpio 3en1 color rosa'
+sku: 'B076JK3CSV-es'
 tags: [ 'asalvo', ]
 actualPrice: 98.95 EUR
 currency: EUR

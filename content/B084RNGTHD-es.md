@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RNGTHD-es Precioso lindo oso patrón de dibujos animados almohada...'
+sku: 'B084RNGTHD-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 1.66 EUR
 currency: EUR

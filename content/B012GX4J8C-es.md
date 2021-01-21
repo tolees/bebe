@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012GX4J8C-es MINILAND BABY - Vigilabebé'
+sku: 'B012GX4J8C-es'
 tags: [ 'vigilabebé', ]
 actualPrice: 148.75 EUR
 currency: EUR

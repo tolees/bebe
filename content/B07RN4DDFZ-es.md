@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RN4DDFZ-es penobon Mini Ventilador USB Silencioso Portátil Recargable...'
+sku: 'B07RN4DDFZ-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 18.69 EUR
 currency: EUR

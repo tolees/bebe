@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CY1Q8WG-es Zapatillas de Deporte para bebés Zapatos Ocasionales...'
+sku: 'B07CY1Q8WG-es'
 tags: [ 'bebé','bebés','bebé', ]
 actualPrice: 4.69 EUR
 currency: EUR

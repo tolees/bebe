@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8NRDZT-es NUK 10177124 Genius Color - Chupete de silicona forma...'
+sku: 'B07M8NRDZT-es'
 tags: [ 'chupete','nuk', ]
 actualPrice: 7.9 EUR
 currency: EUR

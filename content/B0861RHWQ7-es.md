@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0861RHWQ7-es GEREE Cámara de seguridad interior 1080P...'
+sku: 'B0861RHWQ7-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 24.44 EUR
 currency: EUR

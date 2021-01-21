@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZLMFMQ-es Kickers Jawa Zapatillas para Bebés Marron 9 18 EU'
+sku: 'B07MZLMFMQ-es'
 tags: [ 'bebés', ]
 actualPrice: 14.31 EUR
 currency: EUR

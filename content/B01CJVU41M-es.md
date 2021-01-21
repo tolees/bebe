@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CJVU41M-es Pampers 81665622 pañal desechable Niño/niña 1 22 pieza s -...'
+sku: 'B01CJVU41M-es'
 tags: [ 'pañal','pañales', ]
 actualPrice: 9.0 EUR
 currency: EUR

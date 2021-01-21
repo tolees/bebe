@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTM6VBV-es Munchkin - Vaso de Transición con Boquilla Blanda 4oz /...'
+sku: 'B07RTM6VBV-es'
 tags: [ 'munchkin', ]
 actualPrice: 12.0 EUR
 currency: EUR

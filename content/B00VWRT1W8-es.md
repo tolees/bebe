@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VWRT1W8-es Ecus Kids colchón cuna para bebé anti-plagiocefalia - Pigü...'
+sku: 'B00VWRT1W8-es'
 tags: [ 'bebé','bebé','ecus','kids', ]
 actualPrice: 110.62 EUR
 currency: EUR

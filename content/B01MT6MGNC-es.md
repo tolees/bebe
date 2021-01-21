@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT6MGNC-es Mega Bloks Bloquefante divertido. Jugete de construcción...'
+sku: 'B01MT6MGNC-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018KFSLZM-es Chicco Always with you - Baby Monitor de audio sencillo y...'
+sku: 'B018KFSLZM-es'
 tags: [ 'chicco', ]
 actualPrice: 53.07 EUR
 currency: EUR

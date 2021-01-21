@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LAW2LIU-es Tenswall Humidificador Ultrasónico 400ml Difusor de...'
+sku: 'B01LAW2LIU-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 19.99 EUR
 currency: EUR

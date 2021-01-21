@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQMJH1P-es LEMESO Universal Mosquitera Carrito Bebé Mosquitera para...'
+sku: 'B07CQMJH1P-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 6.99 EUR
 currency: EUR

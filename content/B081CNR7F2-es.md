@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CNR7F2-es Rolimate Bebé Juguete de Dibujos Animados Animales...'
+sku: 'B081CNR7F2-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR

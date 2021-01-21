@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6NMHBD-es Almohadilla De Cuna Impermeable Cama para Incontinencia...'
+sku: 'B07V6NMHBD-es'
 tags: [ 'bebé','bebés','pañales','bebé', ]
 actualPrice: 12.45 EUR
 currency: EUR

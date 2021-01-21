@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083STDVLY-es Maxi-Cosi Titan Plus Silla Coche bebé grupo 1/2/3 isofix 9...'
+sku: 'B083STDVLY-es'
 tags: [ 'bebé','isofix','maxi-cosi','bebé', ]
 actualPrice: 254.15 EUR
 currency: EUR

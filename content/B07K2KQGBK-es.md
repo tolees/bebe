@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2KQGBK-es Adidas Continental 80 I Zapatillas de Estar por casa Bebé...'
+sku: 'B07K2KQGBK-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 26.88 EUR
 currency: EUR

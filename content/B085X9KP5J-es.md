@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085X9KP5J-es GYYFF Termómetro electrónico infrarrojo sin Contacto...'
+sku: 'B085X9KP5J-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 8.99 EUR
 currency: EUR

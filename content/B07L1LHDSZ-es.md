@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1LHDSZ-es Vicloon Babero de Bebé del Silicona 2pcs Baberos...'
+sku: 'B07L1LHDSZ-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 8.59 EUR
 currency: EUR

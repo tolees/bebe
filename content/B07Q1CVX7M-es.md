@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1CVX7M-es Safety 1st Crazy Peps Silla Paseo ligera capota con diseño...'
+sku: 'B07Q1CVX7M-es'
 tags: [ 'safety','1st', ]
 actualPrice: 36.75 EUR
 currency: EUR

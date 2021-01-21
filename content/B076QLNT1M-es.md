@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QLNT1M-es Chicco Baby Hug 4en1 Sistema Multifunción: Moisés Hamaca...'
+sku: 'B076QLNT1M-es'
 tags: [ 'chicco','trona', ]
 actualPrice: 197.95 EUR
 currency: EUR

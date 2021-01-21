@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DT97RKW-es Philips Avent SCF053/17 - Biberón natural de cristal 240 ml'
+sku: 'B07DT97RKW-es'
 tags: [ 'avent','biberón', ]
 actualPrice: 10.72 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01591NZII-es Munchkin Miracle 360°- Vaso de Entrenamiento Antiderrames...'
+sku: 'B01591NZII-es'
 tags: [ 'munchkin', ]
 actualPrice: 7.6 EUR
 currency: EUR

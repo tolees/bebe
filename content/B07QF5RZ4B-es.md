@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF5RZ4B-es Set Bebé Dépor'
+sku: 'B07QF5RZ4B-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 29.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SN4FLKY-es Chicco Essential Digital - Baby monitor de video con...'
+sku: 'B00SN4FLKY-es'
 tags: [ 'chicco', ]
 actualPrice: 157.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG1HMSJ-es Geox B Kaytan A Zapatillas para Bebés Gris Dk Grey C9002...'
+sku: 'B07LG1HMSJ-es'
 tags: [ 'bebés', ]
 actualPrice: 34.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4KQ91J-es Marca Amazon- Mama Bear Pañal de aprendizaje maxi- Talla 4...'
+sku: 'B07D4KQ91J-es'
 tags: [ 'pañal','pañales','mama','bear', ]
 actualPrice: 20.29 EUR
 currency: EUR

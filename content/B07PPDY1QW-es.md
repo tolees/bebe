@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPDY1QW-es Felly Arnés de Seguridad para Caminar Ajustable Arnés de...'
+sku: 'B07PPDY1QW-es'
 tags: [ 'bebe','bebé','bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR

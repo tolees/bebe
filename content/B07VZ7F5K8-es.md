@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZ7F5K8-es HOTLIKE 3x Bolsa de Pañales Reutilizable Wetbag Bolsa con...'
+sku: 'B07VZ7F5K8-es'
 tags: [ 'bebé','pañales','bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR

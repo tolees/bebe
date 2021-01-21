@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C26KK0U-es Philips Avent SCF766/00 Vaso aislado con paja 260 ml azul...'
+sku: 'B00C26KK0U-es'
 tags: [ 'avent', ]
 actualPrice: 8.98 EUR
 currency: EUR

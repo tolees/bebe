@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CHJNHUC-es Philips Avent SCF695/17 - Biberón tetina suave y flexible...'
+sku: 'B00CHJNHUC-es'
 tags: [ 'avent','biberón', ]
 actualPrice: 8.5 EUR
 currency: EUR

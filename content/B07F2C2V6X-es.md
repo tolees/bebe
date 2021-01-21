@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2C2V6X-es Sacaleches Eléctrico Extractor de leche eléctrico materna...'
+sku: 'B07F2C2V6X-es'
 tags: [ 'sacaleches', ]
 actualPrice: 33.99 EUR
 currency: EUR

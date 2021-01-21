@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SN4GKAE-es Chicco - Calienta biberón de casa rápido y calentamiento...'
+sku: 'B00SN4GKAE-es'
 tags: [ 'biberón','chicco', ]
 actualPrice: 28.92 EUR
 currency: EUR

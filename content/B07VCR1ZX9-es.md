@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCR1ZX9-es Avaspot Humidificador Ultrasónico Aromaterapia 250 ML...'
+sku: 'B07VCR1ZX9-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 15.19 EUR
 currency: EUR

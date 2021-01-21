@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XXL65W-es Bonio Silla de Coche Giratoria 360º Grupo 0+/1/2/3 0~36kg...'
+sku: 'B082XXL65W-es'
 tags: [ 'silla','de','coche', ]
 actualPrice: 239.0 EUR
 currency: EUR

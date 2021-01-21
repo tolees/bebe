@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079QMC8D7-es Rubies - Disfraz infantil de Hipopótamo para bebé 1-2 años...'
+sku: 'B079QMC8D7-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 14.4 EUR
 currency: EUR

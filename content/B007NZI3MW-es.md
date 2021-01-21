@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007NZI3MW-es Suavinex - Set Cepillo Recién Nacido Fibras Muy Suaves +...'
+sku: 'B007NZI3MW-es'
 tags: [ 'bebé','suavinex','bebé', ]
 actualPrice: 6.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DZYP1B-es Fular Portabebe Newlemo Portabebes - Hecho de Tela Suave y...'
+sku: 'B089DZYP1B-es'
 tags: [ 'bebés','portabebe','portabebes', ]
 actualPrice: 13.99 EUR
 currency: EUR

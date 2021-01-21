@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8D63FZ-es NUK - Juego de vasos 3 en 1 vasos para aprender a beber...'
+sku: 'B07M8D63FZ-es'
 tags: [ 'nuk', ]
 actualPrice: 18.71 EUR
 currency: EUR

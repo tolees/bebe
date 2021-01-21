@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4W1MHW-es Viedouce Mochila Portabebes Ergonómico Multifuncion...'
+sku: 'B07R4W1MHW-es'
 tags: [ 'portabebes','portabebés', ]
 actualPrice: 39.99 EUR
 currency: EUR

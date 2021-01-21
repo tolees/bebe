@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNJCBQ1-es NUK Disney First Choice+ biberón | 6-18 meses | Tetina de...'
+sku: 'B07HNJCBQ1-es'
 tags: [ 'biberón','nuk', ]
 actualPrice: 10.03 EUR
 currency: EUR

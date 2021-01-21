@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H1F2RUS-es Flotador para Bebé Bestway Swim Safe Baby Seat'
+sku: 'B00H1F2RUS-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 4.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004H3XB7U-es Intex 56585EU - Flotador hinchable bebé 70 cm circular de...'
+sku: 'B004H3XB7U-es'
 tags: [ 'bebé','bebé', ]
 actualPrice: 4.95 EUR
 currency: EUR

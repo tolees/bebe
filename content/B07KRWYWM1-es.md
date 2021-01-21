@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRWYWM1-es Nuby - Bañera para bebé con asiento integrado y...'
+sku: 'B07KRWYWM1-es'
 tags: [ 'bebé','nuby','bebé', ]
 actualPrice: 24.05 EUR
 currency: EUR

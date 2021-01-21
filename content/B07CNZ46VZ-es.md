@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNZ46VZ-es Levoit Humidificador Ultrasónico 5 5L Bebés de Vapor...'
+sku: 'B07CNZ46VZ-es'
 tags: [ 'bebés', ]
 actualPrice: 90.99 EUR
 currency: EUR

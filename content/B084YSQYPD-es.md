@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YSQYPD-es GHB Vigilabebés Inalámbrico con Cámara Visión Nocturna...'
+sku: 'B084YSQYPD-es'
 tags: [ 'bebé','vigilabebés','bebé', ]
 actualPrice: 59.49 EUR
 currency: EUR

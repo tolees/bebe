@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CMVJKO2-es Philips Avent SCF676/01 - Funda para biberón de cristal...'
+sku: 'B00CMVJKO2-es'
 tags: [ 'avent','biberón', ]
 actualPrice: 4.9 EUR
 currency: EUR

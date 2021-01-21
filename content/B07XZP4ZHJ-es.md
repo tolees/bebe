@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZP4ZHJ-es Hauck Dream N Play - Cuna de viaje 3 piezas 120 x 60cm...'
+sku: 'B07XZP4ZHJ-es'
 tags: [ 'bebe','hauck', ]
 actualPrice: 54.09 EUR
 currency: EUR
