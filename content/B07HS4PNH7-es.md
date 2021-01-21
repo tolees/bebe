@@ -27,9 +27,9 @@ Ahora mismo tienes [Blevit Plus 5 Cereales para bebé  1 unidad 600 gr. A partir
 
 🔎:
 
+- Recomendado a partir de los 5 meses de edad
+- Elevado porcentaje de cereales
 - Presenta un sabor dulce y agradable de forma natural
 - Los cereales integrales son una importante fuente de fibra, que ayuda a regular el tránsito intestinal
-- Elevado porcentaje de cereales
-- Recomendado a partir de los 5 meses de edad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HS4PNH7/?tag=tolees-21)
