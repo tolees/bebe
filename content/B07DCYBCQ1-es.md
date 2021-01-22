@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - 5318 - Casa del árb al 21.15 % de descuento'
-date: 2021-01-21 06:29:46
+date: 2021-01-22 11:43:54
 image: 'https://m.media-amazon.com/images/I/51KcSpsWeHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCYBCQ1/?tag=tolees-21'
 descuento: '21.15'
-average: '15.22780701754386'
+average: '15.204956521739131'
 ---
 
 Está [Sylvanian Families - 5318 - Casa del árbol para bebés](https://www.amazon.es/dp/B07DCYBCQ1/?tag=tolees-21) con 21.15 de descuento por 12.6 EUR (original: 15.98 EUR) en el siguiente enlace!
