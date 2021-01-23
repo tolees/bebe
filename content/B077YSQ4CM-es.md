@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Jané Marco de Fotos para Huella de Mano  al 19.85 % de rebaja'
-date: 2021-01-15 18:27:59
+date: 2021-01-23 16:20:58
 image: 'https://m.media-amazon.com/images/I/31fyDAmZ4ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YSQ4CM-es'
+slug: 'B077YSQ4CM-es Jané Marco de Fotos para Huella de Mano Bebé y Fotografía...'
+sku: 'B077YSQ4CM-es'
+tags: [ 'bebé','jané','bebé', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -25,10 +27,10 @@ Tienes [Jané Marco de Fotos para Huella de Mano Bebé y Fotografía  Incluye Ar
 
 🔎:
 
-- La arcilla se seca en 24 horas
-- Incluye arcilla de modelado
-- En blanco
 - Para la huella de la mano y el pie
+- Incluye arcilla de modelado
 - Diseño moderno
+- La arcilla se seca en 24 horas
+- En blanco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077YSQ4CM/?tag=tolees-21)
