@@ -27,9 +27,9 @@ Ahora mismo tienes [Dyda6 - Pijama de bebé de gran calidad  suave  cómodo  con
 
 🔎:
 
+- El paquete incluye: 1 pijama.
 - Material: Poliéster y algodón. Este albornoz para niños es resistente, sin picazón ni arañazos, sin deformación, sin efectos secundarios en la delicada piel de tu hijo y tiene una excelente mano de obra.
 - Estampado: Ratón.
-- El paquete incluye: 1 pijama.
 - Albornoz unisex, no contiene ningún agente suavizante.
 - Longitud: 38 cm. Altura de la capucha: 20 cm. Pecho: 32 cm. Longitud de la manga: 24 cm.
 
