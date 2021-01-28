@@ -27,9 +27,9 @@ Está [Chicco Baby Hug 4 en 1 Mini Cuna para Bebés 0 Meses - 3 Años  15 kg   C
 
 ℹ️:
 
+- CON 4 RUEDAS: gracias a sus 4 ruedas giratorias y con freno, Baby Hug 4 en 1 puede moverse fácilmente y con seguridad dentro de casa; así, tu bebé puede ir contigo a todas partes
 - BARRA DE JUGUETES: divertida barra de juguetes electrónicos incluida para entretener y estimular la curiosidad de tu hijo; con 6 canciones de cuna, así como luces y juguetes de felpa colgantes Esta barra de juegos se puede colocar en la parte trasera del Baby Hug cuando el niño está comiendo
 - ALTURA AJUSTABLE: ajuste continuo de la altura en cada configuración gracias al cómodo pedal para mantener al niño constantemente a la altura deseada de los ojos según el lugar de la casa donde estés: sentados en el sofá, tumbados en la cama, de pie cocinando, etc
-- CON 4 RUEDAS: gracias a sus 4 ruedas giratorias y con freno, Baby Hug 4 en 1 puede moverse fácilmente y con seguridad dentro de casa; así, tu bebé puede ir contigo a todas partes
 - RESPALDO RECLINABLE: el respaldo se puede reclinar en 3 posiciones diferentes para asegurar la comodidad del bebé y ayudarle en caso de regurgitación, como sugieren muchos pediatras
 - 4 PRODUCTOS EN 1: Chicco Baby Hug es la solución 4 en 1 diseñada por Chicco para acompañar al niño en su crecimiento; 1 producto, 4 funciones evolutivas: cuna/moises, hamaca, trona y silla de mesa
 

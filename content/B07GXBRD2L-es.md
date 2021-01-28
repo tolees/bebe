@@ -27,10 +27,10 @@ Ahora mismo tienes [Chicco Polly Magic Relax - Trona/hamaca compacta con barra d
 
 🔎:
 
-- Ajustable en 8 alturas y reclinable en 4
-- Reductor de dos caras: verano e invierno.
-- Tejidos suaves y acabados arteciopelados
-- Cómoda y divertida trona/hamaca
 - Ultracompacta con 4 ruedas
+- Tejidos suaves y acabados arteciopelados
+- Reductor de dos caras: verano e invierno.
+- Cómoda y divertida trona/hamaca
+- Ajustable en 8 alturas y reclinable en 4
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GXBRD2L/?tag=tolees-21)
