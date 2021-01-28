@@ -27,10 +27,10 @@ Ahora mismo tienes [Chicco Next2Me Dream - Cuna de colecho con fácil apertura l
 
 🔎:
 
-- 4 ruedas con freno para desplazarla
 - Apertura con una sola mano
-- Compatible con casi todas las camas
-- Modo fija o balancín
 - Ajustable en 11 alturas y 4 posiciones de reclinación
+- Modo fija o balancín
+- Compatible con casi todas las camas
+- 4 ruedas con freno para desplazarla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GJGKMVR/?tag=tolees-21)
