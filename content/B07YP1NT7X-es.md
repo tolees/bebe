@@ -28,9 +28,9 @@ Ahora mismo tienes [Chicco Open Box - Parque de juegos infantil bebé con alfomb
 🔎:
 
 - Parque de juegos aolchado
-- Alfombra interior extraíble
-- Tejidos resistentes, ideal hasta 18 kg
 - Asas interiores para ayudar al niño a levantarse
+- Tejidos resistentes, ideal hasta 18 kg
+- Alfombra interior extraíble
 - Lateral de maya con cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YP1NT7X/?tag=tolees-21)
