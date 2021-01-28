@@ -27,10 +27,10 @@ Tienes [Jané Marco de Fotos para Huella de Mano Bebé y Fotografía  Incluye Ar
 
 🔎:
 
+- Para la huella de la mano y el pie
+- Diseño moderno
+- En blanco
 - La arcilla se seca en 24 horas
 - Incluye arcilla de modelado
-- Para la huella de la mano y el pie
-- En blanco
-- Diseño moderno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077YSQ4CM/?tag=tolees-21)
