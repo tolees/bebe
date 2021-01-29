@@ -27,10 +27,10 @@ En este momento está [Medela PersonalFit Flex - Embudo para sacaleches  S](http
 
 🔎:
 
-- Can be used with Medela bottles and Medela storage bags for storing and freezing breast milk
-- Flex Breast Shield Size L for Medela Breast Pump
-- Use Medela QuickClean cleaning bags to easily sterilize in the microwave and lanolin nipple cream (Purelan) and breast care nipple protectors
 - Medela has 4 different shield sizes available for use with your breast pump offering maximum comfort (S, M, L, XL)
+- Can be used with Medela bottles and Medela storage bags for storing and freezing breast milk
 - Support breastfeeding with Medela Flex Technology Milk Pumps that will make you feel comfortable while you pump your milk
+- Use Medela QuickClean cleaning bags to easily sterilize in the microwave and lanolin nipple cream (Purelan) and breast care nipple protectors
+- Flex Breast Shield Size L for Medela Breast Pump
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PFFD98W/?tag=tolees-21)
