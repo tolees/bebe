@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Dodot Pants Pañal - Braguita Talla 7  92 Pañales  17 kg +  Pañal - Braguita Con Ajuste 360° Anti - fugas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0877BY1XF/?tag=tolees-21'
 descuento: '18.92'
 average: '31.417142857142856'

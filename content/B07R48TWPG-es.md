@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Buabi bolsitas reutilizables comida bebe - Pack de 6 bolsas de papilla rellenables  Squeeze Food Pouch  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R48TWPG/?tag=tolees-21'
 descuento: '20.07'
 average: '12.616666666666665'

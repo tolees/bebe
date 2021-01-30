@@ -16,6 +16,7 @@ comparePrice: 15.38 EUR
 prodname: 'Munchkin Set De Regalo Nibbles & Giggles  Rosa 1 unidad 430 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1XN12H/?tag=tolees-21'
 descuento: '15.54'
 average: '12.99'

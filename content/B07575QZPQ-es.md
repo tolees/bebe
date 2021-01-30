@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Chicco Echo - Silla de paseo  ligera y compacta  soporta hasta 22kg  color rojo  Scarlet '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07575QZPQ/?tag=tolees-21'
 descuento: '20.61'
 average: '90.47666666666666'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Avaspot Humidificador Ultrasónico Aromaterapia  250 ML Difusor de Aceites Esenciales Aromaterapia con 7-Color LED  Auto-apagamiento para Hogar  Oficina  Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCR1ZX9/?tag=tolees-21'
 descuento: '20.01'
 average: '15.19'

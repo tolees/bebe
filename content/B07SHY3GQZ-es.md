@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Tommee Tippee - Calentador de comida y biberón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHY3GQZ/?tag=tolees-21'
 descuento: '24.21'
 average: '24.676666666666666'

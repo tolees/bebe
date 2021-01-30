@@ -16,6 +16,7 @@ comparePrice: 159.97 EUR
 prodname: 'Silla de Coche Grupo 1 2 3  Isofix con Escudo y Normativa ECE R44/04  Seguridad Máxima para tu Bebé de 9-36 kg  - Silla de Coche 1 2 3 con Elevador Coche Niño - Silla de Coche Bebes y Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2GNYHL/?tag=tolees-21'
 descuento: '20.00'
 average: '138.63666666666666'

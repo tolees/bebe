@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Luz Nocturna Niños LED Lámpara de Noche Bebé de Conejo con Brillo Ajustable/Interruptor Táctil/USB Regargable/Modo de cronometraje/Regalo de Cumpleaños y Fiestas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G1C6YBV/?tag=tolees-21'
 descuento: '21.26'
 average: '12.59'

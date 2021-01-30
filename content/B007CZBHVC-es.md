@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Chicco Luces Musicales Buenas Coches  Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007CZBHVC/?tag=tolees-21'
 descuento: '22.74'
 average: '11.256666666666666'

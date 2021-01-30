@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'Suavinex - Escurre Biberones. Secar Biberones. Apto Para Lavavajillas. Fácil Montaje y Desmontaje.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B01UB7K/?tag=tolees-21'
 descuento: '21.82'
 average: '16.29'

@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'Philips Avent SCF695/17 - Biberón  tetina suave y flexible  anticólicos  PP 0% BPA  260 ml  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CHJNHUC/?tag=tolees-21'
 descuento: '19.05'
 average: '8.5'

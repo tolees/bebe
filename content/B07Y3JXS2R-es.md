@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Chicco Hoopla - Hamaca con arco de juegos  sistema balancín y reductor  de 0 a 18 kg  color gris gris oscuro  Moon Grey   Hamaca  Gris Oscuro  Moon Grey   Talla Única  1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y3JXS2R/?tag=tolees-21'
 descuento: '24.97'
 average: '59.99'

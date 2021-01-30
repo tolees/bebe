@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Philips Avent SCF766/00  Vaso aislado con paja 260 ml azul pálido / rosa  colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C26KK0U/?tag=tolees-21'
 descuento: '21.91'
 average: '9.975000000000001'

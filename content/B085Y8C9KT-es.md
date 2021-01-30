@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'FlowerDas Termómetro de Frente  lecturas precisas instantáneas  termómetro Digital infrarrojo Digital sin Contacto  para bebés  niños  Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085Y8C9KT/?tag=tolees-21'
 descuento: '18.15'
 average: '44.19'

@@ -16,6 +16,7 @@ comparePrice: 7.6 EUR
 prodname: 'Suavinex - Set Cepillo Recién Nacido Fibras Muy Suaves + Peine Bebé Cantos Redondeados   Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007NZI3MW/?tag=tolees-21'
 descuento: '19.87'
 average: '6.09'

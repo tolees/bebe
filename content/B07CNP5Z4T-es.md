@@ -16,6 +16,7 @@ comparePrice: 149 EUR
 prodname: 'Safety 1st TEENY  Ribbon Red Chic  - Silla de paseo plegable y multifuncional  unisex  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNP5Z4T/?tag=tolees-21'
 descuento: '20.74'
 average: '118.205'

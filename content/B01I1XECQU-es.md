@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Ecus Kids  El colchón de cuna Ecus Care con certificado farmacéutico que ayuda a prevenir la plagiocefalia - Colchon cuna 117x57'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I1XECQU/?tag=tolees-21'
 descuento: '16.99'
 average: '176.45333333333335'

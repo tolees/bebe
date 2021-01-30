@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Luchild Termómetro Digital Infrarrojos Bebé de Frente y Oído con 35 Memoria  Alarma de Fiebre  Lectura instantánea para Recién Nacido  Niños  Adultos  Objetos y Ambiente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC2FS5G/?tag=tolees-21'
 descuento: '24.01'
 average: '18.99'

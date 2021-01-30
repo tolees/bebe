@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Hawiton Camisón para Mujer Algodón Invierno Manga Largo Pijamas para Mujer camisón de Lactancia Ropa de Dormir Negro Sexy Tallas Grandes con Cuello Redondo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GYQ6WJ5/?tag=tolees-21'
 descuento: '15.01'
 average: '18.69'

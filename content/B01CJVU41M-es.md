@@ -16,6 +16,7 @@ comparePrice: 11.87 EUR
 prodname: 'Pampers 81665622 pañal desechable Niño/niña 1 22 pieza s  - Pañales desechables  Niño/niña  Tape diaper  2 kg  5 kg  Multicolor  Velcro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CJVU41M/?tag=tolees-21'
 descuento: '24.18'
 average: '9.0'

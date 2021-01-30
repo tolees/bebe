@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'HOMCOM Coche para Bebés Mayores de 12 Meses Correpasillos para Niños en Forma de Vehículo Vintage con Sonidos y Bocina Espacio de Almacenaje 70x28 5x37 cm Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVMPBL6/?tag=tolees-21'
 descuento: '17.65'
 average: '27.99'

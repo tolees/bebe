@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Levoit Humidificador Ultrasónico 5 5L Bebés de Vapor Caliente y Frío  Difusor de Aroma  5 Niveles Ajustables  Monitor de Humedad  Control Remoto y Temporizador  Auto Apagado  Boquilla 360°  LV550HH'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNZ46VZ/?tag=tolees-21'
 descuento: '17.27'
 average: '78.65666666666668'

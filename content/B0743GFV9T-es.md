@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tiny Love Meadow Days - Manta de juegos gigante para bebés  8 actividades para el desarrollo  desde el nacimiento  150 x 100 x 4 cm  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0743GFV9T/?tag=tolees-21'
 descuento: '19.86'
 average: '40.99'

@@ -16,6 +16,7 @@ comparePrice: 11.54 EUR
 prodname: 'Pablosky 64521  Botas para Bebés  Azul  21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFB4FVS/?tag=tolees-21'
 descuento: '19.76'
 average: '9.26'

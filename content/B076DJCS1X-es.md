@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Bébé Confort ZELIA  Nomad Black  - Cochecito urbano 2 en 1  diseño compacto  sistema plegable  para bebes de 0 meses hasta 3 5 años  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DJCS1X/?tag=tolees-21'
 descuento: '21.54'
 average: '217.3'

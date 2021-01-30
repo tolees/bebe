@@ -16,6 +16,7 @@ comparePrice: 256.93 EUR
 prodname: 'Foppapedretti Rolling Fix  Silla de coche grupo 0+/1 Isofix  Grafito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0EHH54/?tag=tolees-21'
 descuento: '16.25'
 average: '227.56'

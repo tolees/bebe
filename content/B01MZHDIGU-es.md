@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Philips Avent SCF223/20 - Pack de dos chupetes ultra suaves y flexibles  decorados  0-6 meses  niña  color rosa durazno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZHDIGU/?tag=tolees-21'
 descuento: '17.47'
 average: '6.6475'

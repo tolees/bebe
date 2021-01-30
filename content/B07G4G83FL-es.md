@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Reignet Calcetines de Compresión  para hombre y mujer  20-30 mmhg   deporte  rendimiento  varices  circulación sanguínea  recuperación  embarazo  enfermeras  calambres en las piernas L/XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4G83FL/?tag=tolees-21'
 descuento: '18.20'
 average: '8.99'

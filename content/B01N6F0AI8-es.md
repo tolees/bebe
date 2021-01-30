@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Reebok Classic Leather Zapatillas de trail running Unisex bebé  Marfil   White 1   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6F0AI8/?tag=tolees-21'
 descuento: '24.93'
 average: '29.99'

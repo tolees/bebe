@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Philips Avent SCF816/17 - Biberón Anti-colic de 330 ml  transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLCD1WT/?tag=tolees-21'
 descuento: '20.02'
 average: '6.7540000000000004'

@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Suavinex – Gel-champú espumoso para bebés. No Pica en los Ojos. Textura Espumosa y Fragancia Baby cologne. 86% Ingredientes de Origen Natural. Gel-champú para piel y cabello  500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFSS9NQ/?tag=tolees-21'
 descuento: '23.68'
 average: '7.48'

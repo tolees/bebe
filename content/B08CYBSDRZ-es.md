@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Babify Homy - Cama Infantil - Cama para niños 200 x 90 cm - Cajones incluidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CYBSDRZ/?tag=tolees-21'
 descuento: '20.07'
 average: '235.0'

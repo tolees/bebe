@@ -16,6 +16,7 @@ comparePrice: 43.72 EUR
 prodname: 'Luchild Parachoques de Cuna de Serpiente de Bebé - 100% Algodón Protector de Cabeza Parachoques Ropa de Cama de Guardería Parachoques Protección Interior para Cuna -3m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XR9B5V7/?tag=tolees-21'
 descuento: '17.68'
 average: '35.99'

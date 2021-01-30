@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Chicco London - Silla de paseo  7.2 kg  compacta y manejable  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWV4JRI/?tag=tolees-21'
 descuento: '22.19'
 average: '70.0425'

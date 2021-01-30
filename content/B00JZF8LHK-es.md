@@ -16,6 +16,7 @@ comparePrice: 41.02 EUR
 prodname: 'Medela - Sistema de nutrición suplementaria  relactador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JZF8LHK/?tag=tolees-21'
 descuento: '19.92'
 average: '32.85'

@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Safety 1st 33110128 - Espejo trasero  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NRZL1DK/?tag=tolees-21'
 descuento: '18.75'
 average: '10.294'

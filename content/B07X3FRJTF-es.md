@@ -16,6 +16,7 @@ comparePrice: 10.59 EUR
 prodname: 'HyAdierTech Almohadillas de Lactancia Bambú Orgánicos para Pérdida de Leche  Absorbentes Lactancia Almohadillas para Lactancia  Cubiertas de Pezón para Maternidad  con Bolsa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3FRJTF/?tag=tolees-21'
 descuento: '18.89'
 average: '8.59'

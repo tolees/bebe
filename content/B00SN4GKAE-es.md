@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Chicco - Calienta biberón de casa rápido y calentamiento gradual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SN4GKAE/?tag=tolees-21'
 descuento: '17.25'
 average: '24.753333333333334'

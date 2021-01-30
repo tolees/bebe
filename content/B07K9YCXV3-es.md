@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Niimo Cojin Lactancia Bebè Funda Cojin 100% Algodòn Extraíble y Lavable Almohada Multifuncional para Madre y Bebé Relleno de Fibra de Poliéster  Gris-Lunares Blancos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9YCXV3/?tag=tolees-21'
 descuento: '20.29'
 average: '27.9'

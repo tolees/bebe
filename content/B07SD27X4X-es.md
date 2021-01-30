@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Lictin Sacaleches Eléctrico - Extractor de Leche con Función de Masaje  Pantalla LED 2 Modos y 9 Niveles Ajustables con 2 Almohadillas de Lactancia  Super Silencioso y con Certificación CE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD27X4X/?tag=tolees-21'
 descuento: '23.08'
 average: '29.99'

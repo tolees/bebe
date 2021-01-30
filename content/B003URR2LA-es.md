@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Suavinex - Pack 28 discos absorbentes Protegésenos Nature. Súper Transpirables y absorbentes. Imperceptibles en la Ropa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003URR2LA/?tag=tolees-21'
 descuento: '16.36'
 average: '4.55'

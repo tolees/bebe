@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Chicco - Bandeja escurrebiberones hasta 6 biberones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ARBQ1A0/?tag=tolees-21'
 descuento: '21.21'
 average: '14.93'

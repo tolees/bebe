@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Hauck Rapid 4  Cochecito de 0 meses a 22 kg  plegable  compacto  con una mano  con posición para dormir  manija ajustable en altura  cesta grande  negro/gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZBNWZF/?tag=tolees-21'
 descuento: '21.73'
 average: '109.57'

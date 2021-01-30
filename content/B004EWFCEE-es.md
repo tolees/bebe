@@ -16,6 +16,7 @@ comparePrice: 13.7 EUR
 prodname: 'Tetina Calma para biberón Medela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EWFCEE/?tag=tolees-21'
 descuento: '15.47'
 average: '11.58'

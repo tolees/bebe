@@ -16,6 +16,7 @@ comparePrice: 31.5 EUR
 prodname: 'Jané 010496C01 - Termo para sólidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01966WDTE/?tag=tolees-21'
 descuento: '23.30'
 average: '21.825'

@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Béaba 912482 - Set de 6 potes de conservación comida para bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019FKF40G/?tag=tolees-21'
 descuento: '19.55'
 average: '14.075'

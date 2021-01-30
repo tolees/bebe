@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Reductor WC  DALMO Adaptador WC ergonómico  Tapa WC con Reposabrazos  Deflector  Diseño Antideslizante  Orinal de Bebé con Compacto para Viajes  Ayuda para aprender a ir al baño  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNZL2F9/?tag=tolees-21'
 descuento: '22.00'
 average: '36.99'

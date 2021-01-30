@@ -16,6 +16,7 @@ comparePrice: 91.5 EUR
 prodname: 'Philips Avent SCF287/02 - Esterilizador a vapor eléctrico 4 en 1  ciclo de 6 minutos con desconexión automática  elimina un 99 9% de gérmenes dañinos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005DPC84I/?tag=tolees-21'
 descuento: '23.51'
 average: '70.12333333333333'

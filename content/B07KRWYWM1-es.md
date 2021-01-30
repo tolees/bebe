@@ -16,6 +16,7 @@ comparePrice: 28.71 EUR
 prodname: 'Nuby - Bañera para bebé con asiento integrado y reposacabezas suave  color blanco y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRWYWM1/?tag=tolees-21'
 descuento: '16.23'
 average: '25.939999999999998'

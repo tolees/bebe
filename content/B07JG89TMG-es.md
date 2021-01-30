@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Asalvo Mix Plus Capitán - Cuna de viaje  Color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG89TMG/?tag=tolees-21'
 descuento: '20.44'
 average: '63.65'

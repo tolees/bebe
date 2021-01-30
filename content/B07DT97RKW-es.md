@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Philips Avent SCF053/17 - Biberón natural de cristal  240 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DT97RKW/?tag=tolees-21'
 descuento: '20.59'
 average: '10.968571428571428'

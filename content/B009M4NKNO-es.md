@@ -16,6 +16,7 @@ comparePrice: 17.75 EUR
 prodname: 'Suavinex - Perfume Niña La Petite Chic Vaporizador. Perfume Infantil Para Ocasiones Especiales. No Mancha  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009M4NKNO/?tag=tolees-21'
 descuento: '18.76'
 average: '14.545'

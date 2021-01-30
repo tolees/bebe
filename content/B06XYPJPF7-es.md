@@ -16,6 +16,7 @@ comparePrice: 24.04 EUR
 prodname: 'NUK First Choice Plus Juego con 4 Anticólico  2 Biberones saugern de hidratación y silicona  incluye caja para botellas  1 pieza  2 x 150 ml/2 x 300 ml rosa rosa/pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYPJPF7/?tag=tolees-21'
 descuento: '24.54'
 average: '20.42'

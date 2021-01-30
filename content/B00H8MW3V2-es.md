@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Tigex Set de cepillos de dientes para bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H8MW3V2/?tag=tolees-21'
 descuento: '15.03'
 average: '4.24'

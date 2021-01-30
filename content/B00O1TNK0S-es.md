@@ -16,6 +16,7 @@ comparePrice: 112.7 EUR
 prodname: 'Play Scout 30185 - Silla de coche  grupo 0+/1/2  0 - 25 kg   Negro y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O1TNK0S/?tag=tolees-21'
 descuento: '16.53'
 average: '88.118'

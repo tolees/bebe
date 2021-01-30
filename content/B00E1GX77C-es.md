@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Béaba 915009 - Hamaca para bebé  regulable en altura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E1GX77C/?tag=tolees-21'
 descuento: '16.22'
 average: '116.46'

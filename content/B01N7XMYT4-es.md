@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Jané 070191C01 - Set de vajilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7XMYT4/?tag=tolees-21'
 descuento: '20.90'
 average: '14.99'

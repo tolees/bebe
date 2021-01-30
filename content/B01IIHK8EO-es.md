@@ -16,6 +16,7 @@ comparePrice: 36.95 EUR
 prodname: 'Nenuco 700013300 - Merienditas  muñeca con accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IIHK8EO/?tag=tolees-21'
 descuento: '18.81'
 average: '30.0'

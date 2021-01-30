@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'penobon Mini Ventilador USB Silencioso Portátil Recargable Mini Fan con Clip Rotación 360°Fan de Mesa para Oficina/Escritorio/Hogar/Dormitorio/Cama/Cochecito de Bebé  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RN4DDFZ/?tag=tolees-21'
 descuento: '15.01'
 average: '19.150000000000002'

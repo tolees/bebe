@@ -16,6 +16,7 @@ comparePrice: 489.95 EUR
 prodname: 'Cybex Gold Sirona S I-Size  Silla De Coche Para Bebés Hasta 4 Años  Azul  Navy Blue   105 cm  1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVY5YP3/?tag=tolees-21'
 descuento: '18.57'
 average: '398.95'

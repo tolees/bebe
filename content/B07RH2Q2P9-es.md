@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Munchkin - Set de vajilla para niños  rose'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH2Q2P9/?tag=tolees-21'
 descuento: '18.49'
 average: '18.74'

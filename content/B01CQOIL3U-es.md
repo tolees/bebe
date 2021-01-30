@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Chicco Phisio Soft - Chupete todo goma de silicona para 0-6 meses transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CQOIL3U/?tag=tolees-21'
 descuento: '20.20'
 average: '3.95'

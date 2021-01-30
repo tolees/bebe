@@ -16,6 +16,7 @@ comparePrice: 13.54 EUR
 prodname: 'Simple Joys by Carter s traje de baño de 2 piezas para bebés y niños pequeños  Orange Blue Ship  18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072QGQVQC/?tag=tolees-21'
 descuento: '17.28'
 average: '11.2'

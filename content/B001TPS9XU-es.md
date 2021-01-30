@@ -16,6 +16,7 @@ comparePrice: 14.88 EUR
 prodname: 'Purelan 100 Medela - 37 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001TPS9XU/?tag=tolees-21'
 descuento: '19.69'
 average: '12.0925'

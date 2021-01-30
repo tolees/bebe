@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Lehoo Castle Coche del Dinosaurio del Juguete del bebé  Coche de Juguete Excavadora  Coche de Juguete Eléctrico  Carro de Juguete con Música y Luz  Regalo de cumpleaños para niños de 1 a 3 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QYHQW49/?tag=tolees-21'
 descuento: '19.06'
 average: '16.99'

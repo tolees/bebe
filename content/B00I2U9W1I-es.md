@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Bebé Due 80160 - Taza 4 en 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I2U9W1I/?tag=tolees-21'
 descuento: '19.44'
 average: '12.85'

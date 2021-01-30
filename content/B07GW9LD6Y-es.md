@@ -16,6 +16,7 @@ comparePrice: 3.98 EUR
 prodname: 'Gankmachine Ángulo bebé recién Nacido ala de la Pluma y de la fotografía Venda de la Flor Prop Traje Ropa para bebé Traje Blanco como se Muestra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GW9LD6Y/?tag=tolees-21'
 descuento: '18.34'
 average: '3.3666666666666667'

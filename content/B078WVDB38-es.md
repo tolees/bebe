@@ -16,6 +16,7 @@ comparePrice: 325.0 EUR
 prodname: 'Maclaren Quest - Silla de paseo para bebé  asiento multiposición  capota extensible con UPF 50+  suspensión en las 4 ruedas  hasta los 25kg  color denim indigo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WVDB38/?tag=tolees-21'
 descuento: '15.70'
 average: '248.3025'

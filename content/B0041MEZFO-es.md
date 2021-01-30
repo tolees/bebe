@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Laboratorios Babé - Gel de Baño Pediátrico 500 ml  Suavidad  Protección e Hidratación  Para Bebé  Niño y Niña  Recién Nacido  Refrescante  Piel Sensible  Uso Diario  Jabón Corporal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0041MEZFO/?tag=tolees-21'
 descuento: '20.94'
 average: '6.72'

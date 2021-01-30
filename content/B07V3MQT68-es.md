@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'KiraKira Mini Ventilador Clip Ventilador USB Ventilador USB Portatil Recargable Bateria Ventilador 5200mA Portatil Recargable Bateria Ventilador Clip de Hogar Viajar  Cochecito de Bebé Acampar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3MQT68/?tag=tolees-21'
 descuento: '15.00'
 average: '16.15'

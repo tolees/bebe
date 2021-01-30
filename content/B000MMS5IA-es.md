@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'Philips Avent SCF155/06 - Discos absorbentes lavables para cualquier momento  higiénicos  6 discos reutilizables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MMS5IA/?tag=tolees-21'
 descuento: '17.33'
 average: '8.68'

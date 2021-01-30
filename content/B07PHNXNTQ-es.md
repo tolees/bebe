@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Biomecanics 191166  Zapatillas de Estar por casa Bebé Unisex  Multicolor  Azul Marino Y Lila  Sauvage Y Serraje  Colores   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHNXNTQ/?tag=tolees-21'
 descuento: '15.85'
 average: '41.99'

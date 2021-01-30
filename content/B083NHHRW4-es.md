@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Spreadhoodie Niños Fuego Nadando Pantalones BañAdor De NatacióN Dibujos Animados para Bebé NiñOs 3D Rosa Cortos Deportes Correr Nadar Bermudas 8-10 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NHHRW4/?tag=tolees-21'
 descuento: '23.82'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 10.35 EUR
 prodname: 'Chicco Natural Sensation - Gel de baño sin lágrimas 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FH6T2S2/?tag=tolees-21'
 descuento: '19.81'
 average: '8.3'

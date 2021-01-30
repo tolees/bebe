@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'MINILAND - Robot de cocina para bebé 6 en 1 - Chefy 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N323NWV/?tag=tolees-21'
 descuento: '19.94'
 average: '99.99'

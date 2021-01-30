@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Luchild Trenza Protector de Cuna  300cm Parachoques  Protector Cuna Chichonera para Proteger Bebe y Decorar la Cuna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JK4RWB4/?tag=tolees-21'
 descuento: '18.19'
 average: '35.99'

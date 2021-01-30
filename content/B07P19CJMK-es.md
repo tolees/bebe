@@ -16,6 +16,7 @@ comparePrice: 86.99 EUR
 prodname: 'Sotech Columpio Eléctrico para Bebés  Columpio de bebé con vibración  Cuna Mecedora Automatica  Hamaca Bebe  Mecedora Bebe  80 x 76 x 54 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P19CJMK/?tag=tolees-21'
 descuento: '22.99'
 average: '64.59'

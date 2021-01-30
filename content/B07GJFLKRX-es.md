@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Chicco Next2me - Cuna de colecho con anclaje a cama y 6 alturas  color azul  Ocean '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJFLKRX/?tag=tolees-21'
 descuento: '23.84'
 average: '139.85'

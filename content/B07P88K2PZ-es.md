@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Tarjetas de Etapas del Bebé y Caja de Recuerdos  40 Tarjetas de Fotos de Momentos Especiales Unisex  con los Logros de Edades Claves y Embarazo  el Regalo Ideal para la Futura Mamá  Español '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P88K2PZ/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

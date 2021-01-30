@@ -16,6 +16,7 @@ comparePrice: 7.3 EUR
 prodname: 'Blevit Plus Superfibra 8 Cereales con Miel  1 unidad 600 gr. A  partir de los 5 meses.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M75FZ4M/?tag=tolees-21'
 descuento: '18.36'
 average: '5.96'

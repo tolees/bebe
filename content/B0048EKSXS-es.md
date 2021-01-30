@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Chicco Comfort Quick - Termómetro infrarrojos timpánico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0048EKSXS/?tag=tolees-21'
 descuento: '23.92'
 average: '38.0'

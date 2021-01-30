@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'HOMCOM Coche Correpasillos para Bebés Mayores de 1 Año Andador Infantil Función de Luz Música Bocina Experiencia Realista con Espacio de Almacenaje 66x33x47 7cm Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C2RJ5NQ/?tag=tolees-21'
 descuento: '20.01'
 average: '30.39'

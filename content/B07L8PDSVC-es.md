@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'HOMCOM Triciclo Bebé Plegable 4 en 1 Trolley Trike Bicicletas para Niños +18 Mes Evolutivo Asiento Giratorio Capota Barra Desmontable Control Parental Juguete Aprendizaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8PDSVC/?tag=tolees-21'
 descuento: '15.00'
 average: '84.99'

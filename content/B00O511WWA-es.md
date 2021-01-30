@@ -16,6 +16,7 @@ comparePrice: 40.92 EUR
 prodname: 'Safety 1st Road Safe Silla de coche para Niños  Grupo 2/3   3-12 años  15-36 kg  Rojo  Full Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O511WWA/?tag=tolees-21'
 descuento: '21.80'
 average: '34.31333333333333'

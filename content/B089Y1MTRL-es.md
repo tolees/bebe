@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Bisoo - 70x160 cm Protector de Colchón Bebé + Sabana Bajera - 2en1 - Set de 2 Sabanas Protectoras Impermeables y Transpirables - Cama Infantil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089Y1MTRL/?tag=tolees-21'
 descuento: '17.54'
 average: '32.9'

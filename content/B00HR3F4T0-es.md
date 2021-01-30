@@ -16,6 +16,7 @@ comparePrice: 9.35 EUR
 prodname: 'ISDIN Nutraisdin First Teeth Gel Gingival'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HR3F4T0/?tag=tolees-21'
 descuento: '20.43'
 average: '7.876666666666667'

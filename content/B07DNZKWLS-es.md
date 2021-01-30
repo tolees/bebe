@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Kinderkraft Silla de Coche Isofix SAFETY FIX  Grupo 1/2/3  9-36 kg  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNZKWLS/?tag=tolees-21'
 descuento: '16.97'
 average: '90.5'

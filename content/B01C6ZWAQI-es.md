@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tommee Tippee 42361081 - Esterilizar con vapor en el microondas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C6ZWAQI/?tag=tolees-21'
 descuento: '15.04'
 average: '25.48'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Chicco Balloon - Hamaca interactiva con sistema balancín  de 0 a 18 kg  con luces y sonidos  diseño mapache color gris  Honey Bear '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCL384W/?tag=tolees-21'
 descuento: '19.96'
 average: '80'

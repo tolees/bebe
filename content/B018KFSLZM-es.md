@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Chicco Always with you - Baby Monitor de audio sencillo y pequeño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018KFSLZM/?tag=tolees-21'
 descuento: '18.29'
 average: '53.07'

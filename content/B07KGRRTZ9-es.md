@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Safety 1st Calidoo Cuna Colecho e Cuna de viaje 2 in 1  regulable en altura y reclinable  plegado facil  colchon cuna incluido  color Warm grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGRRTZ9/?tag=tolees-21'
 descuento: '23.85'
 average: '94.33'

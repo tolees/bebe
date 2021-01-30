@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Biomecanics 191152  Zapatillas de Estar por casa para Bebés  Gris Antracita  Kaiser B   19 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGK2QX6/?tag=tolees-21'
 descuento: '18.82'
 average: '40.51'

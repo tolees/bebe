@@ -16,6 +16,7 @@ comparePrice: 19.38 EUR
 prodname: 'Medela 008.0483   Biberón con Tetina Calma  250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BPRGNN0/?tag=tolees-21'
 descuento: '17.96'
 average: '15.645'

@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Chicco - Set de 2 sábanas bajeras ajustable para mini cuna 50 x 83 cm  color gris claro y estampado  Light Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07575VMGK/?tag=tolees-21'
 descuento: '17.15'
 average: '19.905'

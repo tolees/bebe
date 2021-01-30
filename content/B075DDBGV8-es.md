@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'meiqicool Exterior/Interior Protectora|Alfombrillas de Enclavamiento Suelo Estera para Suelos Ideal para Gimnasio  Zona de Juegos Ejercicio Yoga de bebé 20 Azulejos  16.5sqft  Play Alfombrillas 09G20'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DDBGV8/?tag=tolees-21'
 descuento: '24.40'
 average: '30.99'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Besylo Almohada para Bebe  planas para la cabeza Forma bebé recién nacida almohada protectora para bebés  Cojín Recién nacido para Anti Plagiocefalia 0-12 Meses azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GLC23JM/?tag=tolees-21'
 descuento: '15.30'
 average: '11.86'

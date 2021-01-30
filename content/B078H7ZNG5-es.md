@@ -16,6 +16,7 @@ comparePrice: 197.2 EUR
 prodname: 'Asalvo  Silla de coche grupo 0+/1/2 Isofix  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078H7ZNG5/?tag=tolees-21'
 descuento: '17.31'
 average: '163.06'

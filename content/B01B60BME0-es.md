@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Reebok Classic Leather Zapatillas de trail running Unisex bebé  Blanco  White 000   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B60BME0/?tag=tolees-21'
 descuento: '20.03'
 average: '31.95'

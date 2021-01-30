@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Philips Avent SCF212/20 - Pack de dos chupetes ultra suaves y flexibles  diseño liso  0-6 meses  niño  color azul/verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUK33DS/?tag=tolees-21'
 descuento: '23.05'
 average: '7.31'

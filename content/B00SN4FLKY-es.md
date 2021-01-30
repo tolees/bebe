@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Chicco Essential Digital - Baby monitor de video con visión nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SN4FLKY/?tag=tolees-21'
 descuento: '21.33'
 average: '127.18'

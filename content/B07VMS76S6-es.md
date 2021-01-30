@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'IMC Toys Bebés Llorones - Wandy  93201 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMS76S6/?tag=tolees-21'
 descuento: '16.45'
 average: '30.218'

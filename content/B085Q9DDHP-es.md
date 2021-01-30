@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aspirador Nasal Bebes  Aspirador Nasal  Aspirador Nasal Bebe Electrico  Pantalla LCD de carga USB con 5 niveles de succión 4 tamaños Puntas de silicona  Portátil aspirador nasal para Recién Nacidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085Q9DDHP/?tag=tolees-21'
 descuento: '15.00'
 average: '37.59'

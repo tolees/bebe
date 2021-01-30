@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Dookey Piscina Inflable para Bebés  Hinchable Infantil  Pequeña Pato Amarillo Splash Pool para Niños  Aspersor de Juego con Fondo de Burbuja Inflable de Doble Capa para Jardín/Piscina/Playa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TFGLRV/?tag=tolees-21'
 descuento: '22.59'
 average: '23.99'

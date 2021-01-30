@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Philips Avent SCF222/22 - Pack de dos chupetes ultra suaves y flexibles  decorados  6-18 meses  niño  color azul cielo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZHDK5H/?tag=tolees-21'
 descuento: '18.95'
 average: '7.7'

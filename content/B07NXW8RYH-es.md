@@ -16,6 +16,7 @@ comparePrice: 16.68 EUR
 prodname: 'Moon and Back de Hanna Andersson - Juego de 2 mantas de algodón orgánico para bebé  Rosado  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXW8RYH/?tag=tolees-21'
 descuento: '23.32'
 average: '12.79'

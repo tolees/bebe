@@ -16,6 +16,7 @@ comparePrice: 164.9 EUR
 prodname: 'Babybjörn Bliss Hamaca ergonómica con balanceo natural para Bebés  Azul Medianoche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ0TMHV/?tag=tolees-21'
 descuento: '20.56'
 average: '130.768'

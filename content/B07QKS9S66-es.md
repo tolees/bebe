@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Termómetro Digital Bebé  Termómetro de Frente y Oído Infrarrojos  Multifunción 5 en 1  Alarma de Fiebre  Lectura instantánea para Niños  Adultos  Objetos y Ambiente  Certifica CE/ROHS/FDA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKS9S66/?tag=tolees-21'
 descuento: '19.01'
 average: '16.19'

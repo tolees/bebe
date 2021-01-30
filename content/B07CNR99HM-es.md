@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Levoit Humidificador Ultrasónico 4 5L Bebé de Vapor Frío  Difusor de Aroma  3 Niveles Ajustables y Luz Nocturna  Auto Apagado  Control Táctil  Para Oficina y Dormitorio hasta 40-50 m²  LV450CH'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNR99HM/?tag=tolees-21'
 descuento: '16.67'
 average: '49.99'

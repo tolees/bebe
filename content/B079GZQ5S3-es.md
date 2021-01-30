@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Philips Avent SCF342/22 - Pack con 2 chupetes Ultra Air decorados  de 6 a 18 meses  niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079GZQ5S3/?tag=tolees-21'
 descuento: '20.00'
 average: '6.8'

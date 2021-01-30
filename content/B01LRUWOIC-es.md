@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Hauck Citi Neo II - Silla de paseo de 3 ruedas  0 meses - 15 kg  respaldo reclinable  plegado compacto  plegado con solo una mano  bandeja con botellero  negro/gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LRUWOIC/?tag=tolees-21'
 descuento: '15.82'
 average: '88.85333333333332'

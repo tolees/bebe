@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Chicco Open Box Parque de juegos infantil con alfombra extraíble  Naranja  Fancy Chicken '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCBGJ3G/?tag=tolees-21'
 descuento: '23.75'
 average: '89.175'

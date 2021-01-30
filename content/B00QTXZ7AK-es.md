@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Munchkin - Bols Termo sensibles White Hot 3 uds multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QTXZ7AK/?tag=tolees-21'
 descuento: '23.25'
 average: '7.498'

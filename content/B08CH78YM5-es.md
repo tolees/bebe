@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Termómetro Infrarrojos  KKmier Termometro Digital Infrarrojo sin Contacto con Pantalla LCD Termómetro Infrarrojos médico para Bebé  Adulto  Hospital  Aeropuerto  Cuidado de la Salud en el Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CH78YM5/?tag=tolees-21'
 descuento: '21.74'
 average: '40.89322580645161'

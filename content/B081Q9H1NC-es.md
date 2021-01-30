@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'UBEGOOD Humidificador  Difusor de Aromaterapia Humidificador Ultrasónico Aroma Difusor Purificador de Aire con LED de 7 Colores de para luminoterapia en el Hogar  Oficina  SPA  Bebé  400ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Q9H1NC/?tag=tolees-21'
 descuento: '20.01'
 average: '20.79'

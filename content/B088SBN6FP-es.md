@@ -16,6 +16,7 @@ comparePrice: 36.19 EUR
 prodname: 'NUK Perfect Start First Choice+ kit de biberones  0-6 meses  4 biberones con control de temperatura  chupete  cepillo de limpieza  etc  Sin BPA  Gris y blanco  10 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088SBN6FP/?tag=tolees-21'
 descuento: '15.31'
 average: '31.509999999999998'

@@ -16,6 +16,7 @@ comparePrice: 4.98 EUR
 prodname: 'Suavinex Chupete Physio Panda/Rama 2 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R9XFJ5/?tag=tolees-21'
 descuento: '20.08'
 average: '3.98'

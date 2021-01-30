@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'ELEGIANT  2 Piezas Termómetro Higrómetro Digital para Interior  Termohigrómetro Mini Medidor de Temperatura Medidor Profesional de Humedad para Casa  Habitación de Bebés  Sala  Oficina  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V6HKNX/?tag=tolees-21'
 descuento: '15.01'
 average: '12.015'

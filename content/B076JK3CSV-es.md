@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Asalvo 15570 - Columpio 3en1  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JK3CSV/?tag=tolees-21'
 descuento: '23.29'
 average: '98.95'

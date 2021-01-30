@@ -16,6 +16,7 @@ comparePrice: 11.03 EUR
 prodname: 'Dr. Brown s Options - Biberón estándar  250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XXBDSYW/?tag=tolees-21'
 descuento: '18.86'
 average: '9.989999999999998'

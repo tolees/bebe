@@ -16,6 +16,7 @@ comparePrice: 9.33 EUR
 prodname: 'Simple Joys by Carter s calcetines para bebé y niñas pequeñas con suela antideslizante  paquete de 12  Rosa / gris/ multicolor  2T/3T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BYR8P9/?tag=tolees-21'
 descuento: '17.47'
 average: '7.7'

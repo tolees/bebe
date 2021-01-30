@@ -16,6 +16,7 @@ comparePrice: 8.09 EUR
 prodname: 'Almohada linda encantadora del patrón de dibujos animados del oso Almohada del cojín del soporte del bebé recién nacido Prevenir la almohada de algodón de cabeza plana para el bebé - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CH3G6G/?tag=tolees-21'
 descuento: '24.72'
 average: '6.09'

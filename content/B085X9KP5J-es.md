@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'GYYFF Termómetro electrónico infrarrojo sin Contacto Termómetro Digital Medición precisa y rápida de la Pistola de Temperatura para niños Bebé Adulto Cuidado de la Salud en el hogar  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085X9KP5J/?tag=tolees-21'
 descuento: '18.27'
 average: '8.99'

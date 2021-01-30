@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Hauck Dream N Play - Cuna de viaje 3 piezas 120 x 60cm  bebe  incluido colchóncito y bolsa de transporte  de 0+ meses hasta 15 kg  plegado y montaje fácil  ligera y estable  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZP4ZHJ/?tag=tolees-21'
 descuento: '22.72'
 average: '52.25666666666667'

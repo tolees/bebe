@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Munchkin Miracle 360°- Vaso de Entrenamiento Antiderrames con Asas  rosa  207 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01591NZII/?tag=tolees-21'
 descuento: '15.46'
 average: '7.345882352941176'

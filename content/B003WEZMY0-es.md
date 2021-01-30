@@ -16,6 +16,7 @@ comparePrice: 7.25 EUR
 prodname: 'Suavinex Crema del Pañal para Bebés para Pieles Sensibles  75ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003WEZMY0/?tag=tolees-21'
 descuento: '20.00'
 average: '5.6875'

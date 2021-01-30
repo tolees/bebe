@@ -16,6 +16,7 @@ comparePrice: 35.76 EUR
 prodname: 'Hauck Close N Stop - Puerta de Seguridad con Extensión de 9 cm  para Puertas y Escaleras 84-89 cm  Sin Agujeros  Combinable con Y-Spindel Para Barandillas  Negro/Gris Marengo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LRUXQA2/?tag=tolees-21'
 descuento: '17.20'
 average: '29.61'

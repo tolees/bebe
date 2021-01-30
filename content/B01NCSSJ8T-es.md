@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'La Seguridad del Bebe Metal TV Correas  DD Muebles Pesados Anti - Tip Correas Correa para TV de Pantalla Plana/Muebles  2 correas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCSSJ8T/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 559.0 EUR
 prodname: 'Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en 1 con silla y el capazo  2020 estilo de vida F22 asiento de carro extra comprable - Hoja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F5F3NYT/?tag=tolees-21'
 descuento: '19.68'
 average: '449.0'

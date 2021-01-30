@@ -16,6 +16,7 @@ comparePrice: 13.15 EUR
 prodname: 'ISDIN NUTRAISDIN Loción Hidratante Corporal 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009SM7M6G/?tag=tolees-21'
 descuento: '18.56'
 average: '10.71'

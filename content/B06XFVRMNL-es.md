@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Aeromoov ASATC11060GR - Cuna de Viaje para bebé plegable e instantánea con colchón configurable a dos alturas y bolsa de transporte  color gris oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XFVRMNL/?tag=tolees-21'
 descuento: '19.33'
 average: '132.445'

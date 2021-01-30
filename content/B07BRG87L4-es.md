@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Luxja Pañal de Natación para bebes Bañador Reutilizable de Nadar de Bebé Pañal lavable para Bebé  0-3 años   Ballenas + Peces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRG87L4/?tag=tolees-21'
 descuento: '23.55'
 average: '12.225000000000001'

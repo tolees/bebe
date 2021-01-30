@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Philips Avent SCF343/22 - Pack con 2 chupetes Ultra Air decorados  de 6 a 18 meses  niña  color coral y rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079GZFXTG/?tag=tolees-21'
 descuento: '17.76'
 average: '7.949999999999999'

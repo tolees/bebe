@@ -16,6 +16,7 @@ comparePrice: 239 EUR
 prodname: 'Bébé Confort LARA  Nomad Sand  - Cochecito ultracompacto plegable y multifuncional  del nacimiento hasta los 3 5 años  0-15 Kg  color beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGDLTW2/?tag=tolees-21'
 descuento: '20.00'
 average: '191.2'

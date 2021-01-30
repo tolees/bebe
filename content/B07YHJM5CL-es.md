@@ -16,6 +16,7 @@ comparePrice: 158.67 EUR
 prodname: 'Besrey Parque Infantil 14 Paneles Baby Playpen Centro de actividades para niños  Parque de bebé modulable plegable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YHJM5CL/?tag=tolees-21'
 descuento: '24.38'
 average: '110.765'

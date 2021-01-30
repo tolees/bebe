@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Huggies Little Swimmers Pañal Bañador Desechable Talla 5-6  12-18 Kg  - 19 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JECIFHU/?tag=tolees-21'
 descuento: '15.32'
 average: '8.72'

@@ -16,6 +16,7 @@ comparePrice: 18.6 EUR
 prodname: 'Tena - Pants - Pañales  Talla L - 14 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D3HT7FG/?tag=tolees-21'
 descuento: '24.25'
 average: '14.09'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Termómetro Digital Frente y Oído SVMUU   Termómetro Médico Infrarrojo para Bebés  Multifunción 4 en 1  Alarma de Fiebre  Lectura instantánea para niños  Adultos y Objetos  Certifica CE/ROHS/FDA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5W3LN8/?tag=tolees-21'
 descuento: '18.00'
 average: '40.99'

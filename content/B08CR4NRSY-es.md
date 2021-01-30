@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Gorro de bebé para recién Nacido Diademas Bebe Unidades Diademas para bebé con Lazos Anchos Diademas Super elásticas Suaves y elásticas para el Pelo del bebé Accesorios para el Pel  4 Unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CR4NRSY/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

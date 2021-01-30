@@ -16,6 +16,7 @@ comparePrice: 15.4 EUR
 prodname: 'Medela - Tubo para sacaleches doble Swing Maxi Flex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNBY1TX/?tag=tolees-21'
 descuento: '19.81'
 average: '12.549999999999999'

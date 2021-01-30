@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Britax Römer Kidfix  Silla de coche grupo 2/3 Isofix  negro  Cosmos Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZGR43J/?tag=tolees-21'
 descuento: '19.98'
 average: '119.95'

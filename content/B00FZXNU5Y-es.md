@@ -16,6 +16,7 @@ comparePrice: 7.75 EUR
 prodname: 'Suavinex - Biberón Anatómico Flujo Denso Látex 360Ml 6M+  colores/modelos surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FZXNU5Y/?tag=tolees-21'
 descuento: '16.90'
 average: '6.44'

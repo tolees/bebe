@@ -16,6 +16,7 @@ comparePrice: 3.59 EUR
 prodname: 'Denenes Gel-Champú - 600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1K8TWE/?tag=tolees-21'
 descuento: '16.71'
 average: '2.99'

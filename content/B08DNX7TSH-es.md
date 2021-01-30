@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'BTNEEU Luz Nocturna Infantil Recargable  Lámpara Infantil Led Silicona Multicolor 16 Colores con Remoto  Brillo Ajustable Luz de Noche para Niños Bebés Regalo de Cumpleaños y Fiestas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNX7TSH/?tag=tolees-21'
 descuento: '18.19'
 average: '17.99'

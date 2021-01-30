@@ -16,6 +16,7 @@ comparePrice: 9.12 EUR
 prodname: 'Flopp - Detergente Ecológico en Cápsulas para la Ropa de Bebé  30 Capsulas  | Detergente Delicado. Detergente Ropa Bebé Eco Limpia sin Ensuciar el Planeta.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLRNBL8/?tag=tolees-21'
 descuento: '19.74'
 average: '7.32'

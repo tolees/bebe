@@ -16,6 +16,7 @@ comparePrice: 9.59 EUR
 prodname: 'NUK Disney Magic Cup vaso antiderrame bebe  borde antiderrame de 360 °  8+ meses  sin-BPA  230 ml  Minnie Mouse  1 cuenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRFX573/?tag=tolees-21'
 descuento: '15.02'
 average: '8.15'

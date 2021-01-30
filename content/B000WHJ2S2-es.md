@@ -16,6 +16,7 @@ comparePrice: 13.84 EUR
 prodname: 'Medela- Protectores para Pezones Doloridos y Agrietados por la Lactancia   paqeute con 2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WHJ2S2/?tag=tolees-21'
 descuento: '16.26'
 average: '11.59'

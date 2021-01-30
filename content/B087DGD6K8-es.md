@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Tommee Tippee Kit de Biberones Anti-Cólicos  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087DGD6K8/?tag=tolees-21'
 descuento: '17.50'
 average: '32.99'

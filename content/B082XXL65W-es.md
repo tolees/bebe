@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Bonio Silla de Coche Giratoria 360º Grupo 0+/1/2/3  0~36kg  con UPF50+ Toldo Parasol  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XXL65W/?tag=tolees-21'
 descuento: '20.07'
 average: '239.0'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Tommee Tippee Starter Pack Twist and Click Contenedor de Pañales + 12 Recambios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYWRNF3/?tag=tolees-21'
 descuento: '21.29'
 average: '62.96'

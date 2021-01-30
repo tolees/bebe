@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Philips Avent SCF157/02 -  2 Conchas protectoras ventiladas para pezones  2 conchas para recoger el exceso de leche y 2 cojines de silicona ultra suaves'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MMQO60/?tag=tolees-21'
 descuento: '20.97'
 average: '13.015'

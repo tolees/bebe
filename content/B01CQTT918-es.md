@@ -16,6 +16,7 @@ comparePrice: 7.15 EUR
 prodname: 'Chicco Wellbeing - Biberón con tetina de látex y flujo normal para bebé de 0m+  150 ml  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CQTT918/?tag=tolees-21'
 descuento: '20.00'
 average: '5.72'

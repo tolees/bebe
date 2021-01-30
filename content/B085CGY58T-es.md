@@ -16,6 +16,7 @@ comparePrice: 8.89 EUR
 prodname: 'Protector de pezón de contacto de silicona con estuche de transporte para masaje de lactancia Gránulos Madres Diseño de pétalo de triángulo - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CGY58T/?tag=tolees-21'
 descuento: '22.50'
 average: '6.89'

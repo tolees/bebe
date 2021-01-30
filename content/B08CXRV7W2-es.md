@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Homgrace Termómetro infrarrojo sin Contacto Digital Termometro de infrarrojos Frente Frontal Digitales para Personas Bebés  Niños  Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CXRV7W2/?tag=tolees-21'
 descuento: '23.09'
 average: '11.49'

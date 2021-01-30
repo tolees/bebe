@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Munchkin  - Vaso de Transición con Boquilla Blanda  4oz / 118 ml  Morado  pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTM6VBV/?tag=tolees-21'
 descuento: '19.95'
 average: '12.0'

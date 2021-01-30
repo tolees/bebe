@@ -16,6 +16,7 @@ comparePrice: 17.45 EUR
 prodname: 'Chicco NaturalFeeling - Set de regalo con 2 biberones para recién nacido + chupete 0 m+  rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B33GPPD/?tag=tolees-21'
 descuento: '22.98'
 average: '13.44'

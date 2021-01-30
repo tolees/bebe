@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Salt and Pepper mit Einhorn Applikation und Glitzerdruck Bañador  Azul  Ink Blue 472   68 cm para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7R3PK1/?tag=tolees-21'
 descuento: '23.17'
 average: '9.95'

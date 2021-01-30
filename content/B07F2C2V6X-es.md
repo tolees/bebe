@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Sacaleches Eléctrico  Extractor de leche eléctrico materna Pantalla táctil portátil recargable Smart LCD con 3 modos 9 niveles de succión de leche materna  masaje de mama'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2C2V6X/?tag=tolees-21'
 descuento: '20.94'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 16.19 EUR
 prodname: 'Lámpara de Luna 3D 16 Colores RGB Luz Nocturna Luna LED Lampara Luna Grande 15cm Remoto Tactil Control USB Intensidad Elegir Luz de Noche Ambiente Lámparas para Niños Bebé Regalo de Fiesta Decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDG933Z/?tag=tolees-21'
 descuento: '20.01'
 average: '14.629999999999999'

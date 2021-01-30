@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'MAM Original 0+  2 unidades   Chupete de látex para recién nacido  chupete ortodóntico con escudo ventilado  chupete MAM autoesterilizable  0+ meses  rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7W3V2J/?tag=tolees-21'
 descuento: '23.60'
 average: '6.8'

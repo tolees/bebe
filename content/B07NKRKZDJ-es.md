@@ -16,6 +16,7 @@ comparePrice: 18.7 EUR
 prodname: 'Body bebé manga corta corona personalizado  Regalo único y original para niños y niñas  Unisex bodies Recién Nacido Algodón Ropa Set'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NKRKZDJ/?tag=tolees-21'
 descuento: '20.05'
 average: '14.95'

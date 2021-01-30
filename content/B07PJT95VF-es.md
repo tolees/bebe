@@ -16,6 +16,7 @@ comparePrice: 50.9 EUR
 prodname: 'Biomecanics 191150  Botas para Bebés  Azul  Azul Marino  Nobuck Buf  Paprika   23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJT95VF/?tag=tolees-21'
 descuento: '20.00'
 average: '40.72'

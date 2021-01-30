@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Placa decorativa infantil de madera en forma de banderín personalizada con el nombre y datos de nacimiento bebé infantil  regalo recién nacido niño y niña para decoración habitación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPWDGM7/?tag=tolees-21'
 descuento: '20.20'
 average: '19.95'

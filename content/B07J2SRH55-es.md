@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Suavinex Zero-Zero Biberón anticólicos +0 meses  180 ml - Tetina Lactancia Materna  Flujo Adaptable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2SRH55/?tag=tolees-21'
 descuento: '20.08'
 average: '9.243333333333334'

@@ -16,6 +16,7 @@ comparePrice: 96.99 EUR
 prodname: 'KidoMe 1280 x 720P Vigilabebé Vídeo Inalambrico Cámara Vigilancia con Pantalla Digital LCD a Color de 5” Bebé Monitor Inteligente Audio Bidireccional Alarma Canciones de Cuna Visión Nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC8JV5S/?tag=tolees-21'
 descuento: '23.30'
 average: '92.19'

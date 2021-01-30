@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Parasol de Coche para Bebés Ventana  2 Pack   PEMOTech® Adecuado de Coche Parasol para bebé [Flexible] Parasoles Coche [De malla elástica] de la Ventana Trasera y Lateral del Coche  Protege al bebé y niños Mayores del Sol  se Adapta a los Coches y Vehículos Utilitarios Deportivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EOMH886/?tag=tolees-21'
 descuento: '20.65'
 average: '12.402'

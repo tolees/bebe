@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Luz Nocturna Infantil Glinrui Luz de Noche Bebé  Lámpara de Mesa lámpara de cabecera silicona 9 colores con control remoto lámpara LED recargable USB para Dormitorio/Regalo para niños - Mediano Búho'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DCVJV6S/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

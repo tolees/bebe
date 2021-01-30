@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Dodot Pants Pañal-Braguita Talla 3  111 Pañales  Fácil De Cambiar Con Canales De Aire  6 a 11kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQ28KWB/?tag=tolees-21'
 descuento: '22.37'
 average: '24.21944444444444'

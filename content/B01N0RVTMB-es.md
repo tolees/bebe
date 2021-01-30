@@ -16,6 +16,7 @@ comparePrice: 164.9 EUR
 prodname: 'Babybjörn Bliss Hamaca ergonómica con balanceo natural para Bebés  Rosa Palo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0RVTMB/?tag=tolees-21'
 descuento: '18.14'
 average: '124.33000000000001'

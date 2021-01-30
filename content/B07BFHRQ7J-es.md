@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Bébé Confort LARA  Cochecito compacto plegable y multifuncional  del nacimiento hasta los 3.5 años  0-15 Kg  Nomad Grey  gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFHRQ7J/?tag=tolees-21'
 descuento: '23.45'
 average: '170.48000000000002'

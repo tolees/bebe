@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Koala Babycare® Almohada para Embarazadas para Dormir Cojin Lactancia –Soporte del cuerpo de la mama y del bebé – Para bebe que puede ser utilizado como cuna y reductor de cuna - KHUGS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FC37H9N/?tag=tolees-21'
 descuento: '20.00'
 average: '28.758'

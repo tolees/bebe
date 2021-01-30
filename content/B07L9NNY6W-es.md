@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Philips Avent Vigilabebés con cámara SCD833/01 - Vigilabebés con vídeo digital con privacidad y seguridad  A-FHSS   pantalla a color de 2 7"  nanas relajantes e intercomunicador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9NNY6W/?tag=tolees-21'
 descuento: '22.77'
 average: '110.792'

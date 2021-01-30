@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'GHB Vigilabebés Inalámbrico con Cámara Visión Nocturna Monitor para Bebé Pantalla LCD de 3 2 pulgadas con Modo VOX  Sensor Temperatura y Canciones de cuna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084YSQYPD/?tag=tolees-21'
 descuento: '15.00'
 average: '59.49'

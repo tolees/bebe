@@ -16,6 +16,7 @@ comparePrice: 18.98 EUR
 prodname: 'Calcetines de Compresión para Hombres y Mujeres - Medias de Compresion para Deporte - Maratones - Enfermeras - Estrés tibial Interior - Durante Embarazo  S/M  35-42   Negro/Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCX21JH/?tag=tolees-21'
 descuento: '21.07'
 average: '14.98'

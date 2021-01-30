@@ -16,6 +16,7 @@ comparePrice: 24.2 EUR
 prodname: 'Altabebe Active Line - Saco de invierno para silla de coche  0-12 meses  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002QLKEJS/?tag=tolees-21'
 descuento: '17.36'
 average: '20.0'

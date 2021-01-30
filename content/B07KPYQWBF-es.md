@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Medela cojín de embarazo y lactancia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPYQWBF/?tag=tolees-21'
 descuento: '21.99'
 average: '45.95'

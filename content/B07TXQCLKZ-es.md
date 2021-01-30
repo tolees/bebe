@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Rodilleras para gatear rodillera bebe gateo rodillera para bebés gatear protector ajustable para bebé pequeños  3 pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXQCLKZ/?tag=tolees-21'
 descuento: '15.40'
 average: '10.57'

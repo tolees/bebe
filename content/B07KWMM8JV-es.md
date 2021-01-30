@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Suavinex - Canastilla de regalo baby shower para recién nacido con biberón  chupete  broche  gel-champú Syndet  crema pañal y toallitas  0-6 meses  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWMM8JV/?tag=tolees-21'
 descuento: '20.00'
 average: '43.29333333333334'

@@ -16,6 +16,7 @@ comparePrice: 36.2 EUR
 prodname: 'Set Bebé Dépor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF5RZ4B/?tag=tolees-21'
 descuento: '17.71'
 average: '29.79'

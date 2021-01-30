@@ -16,6 +16,7 @@ comparePrice: 24.14 EUR
 prodname: 'Marca Amazon- Mama Bear Pañal de aprendizaje maxi- Talla 4  8-15kg   88 pañales  2x44 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4KQ91J/?tag=tolees-21'
 descuento: '15.95'
 average: '20.29'

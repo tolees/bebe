@@ -16,6 +16,7 @@ comparePrice: 24.38 EUR
 prodname: 'NUK - Juego de vasos  3 en 1  vasos para aprender a beber  Trainer Cup  Magic Cup 360º y Action Cup  6+ meses  230 ml  sin BPA rosa rosa  neu '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8D63FZ/?tag=tolees-21'
 descuento: '23.26'
 average: '18.71'

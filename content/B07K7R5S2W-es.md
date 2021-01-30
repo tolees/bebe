@@ -16,6 +16,7 @@ comparePrice: 219.9 EUR
 prodname: 'Britax Römer Kidfix² R Cosmos Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7R5S2W/?tag=tolees-21'
 descuento: '24.06'
 average: '167.0'

@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Philips Avent Scf169/46 - Pack con 2 Chupetes Jardín Encantado  de 0 A 6 Meses  Niña  color Rosa y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PMP5SR/?tag=tolees-21'
 descuento: '22.00'
 average: '6.063333333333333'

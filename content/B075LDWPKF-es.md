@@ -16,6 +16,7 @@ comparePrice: 21.68 EUR
 prodname: 'Huggies Ultra Comfort'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075LDWPKF/?tag=tolees-21'
 descuento: '23.25'
 average: '17.373333333333335'

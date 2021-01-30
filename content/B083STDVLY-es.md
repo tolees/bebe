@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Maxi-Cosi Titan Plus Silla Coche bebé grupo 1/2/3 isofix  9 - 36 kg  silla auto bebé reclinable con reductor  Clima Flow para el control de la temperatura  crece con el niño 9 meses- 12 años  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083STDVLY/?tag=tolees-21'
 descuento: '15.00'
 average: '254.15'

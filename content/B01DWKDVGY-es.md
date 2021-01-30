@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Tommee Tippee 42269887 - Biberón decorado  340 ml  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWKDVGY/?tag=tolees-21'
 descuento: '22.25'
 average: '6.99'

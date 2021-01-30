@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Dodot Activity - Pañales Talla 3  68 Pañales  6-10 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGGJ655/?tag=tolees-21'
 descuento: '23.87'
 average: '15.95'

@@ -16,6 +16,7 @@ comparePrice: 15.49 EUR
 prodname: 'Bambino Mio  pañal bañador  floral  pequeño  0-6 meses '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZVOS796/?tag=tolees-21'
 descuento: '15.11'
 average: '13.15'

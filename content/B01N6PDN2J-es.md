@@ -16,6 +16,7 @@ comparePrice: 7.17 EUR
 prodname: 'TETINA NUK NATURE SENSE 6-18 SILI M 2UDS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6PDN2J/?tag=tolees-21'
 descuento: '15.34'
 average: '6.145'

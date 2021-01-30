@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Huggies Ultra Comfort Pañal Braguita Talla 5  12-17 kg  -  Pack de 2 x 34 unidades  Total: 68 pañales braguita '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KLYGZX/?tag=tolees-21'
 descuento: '16.01'
 average: '23.389999999999997'
