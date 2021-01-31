@@ -29,8 +29,8 @@ Tienes [Fisher-Price - Gimnasio Musical Animalitos De La Selva  Manta De Juego B
 ℹ️:
 
 - 5 Juguetes Que Pueden Colocarse En Varias Posiciones En Los Arcos O En La Mantita
-- Mantita de juego suave y lavable a máquina.
 - Gimnasio infantil musical de la selva para bebés a partir del nacimiento
+- Mantita de juego suave y lavable a máquina.
 - ¡El león portátil lo tiene todo! Música de duración corta o larga con sonidos divertidos.
 - Los dos arcos acolchados son plegables y portátiles.
 
