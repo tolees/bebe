@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuby - Nûby - Libro de Baño para Bebé -  con un 16.77 % de descuento'
-date: 2021-01-30 07:02:01
+date: 2021-01-31 07:17:23
 image: 'https://m.media-amazon.com/images/I/51LHTDahDYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 7.75 EUR
 prodname: 'Nuby - Nûby - Libro de Baño para Bebé - 6 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Nuby'
 buyurl: 'https://www.amazon.es/dp/B000RJVU08/?tag=tolees-21'
 descuento: '16.77'
-average: '6.804'
+average: '6.7984251968504'
 ---
 
 En este momento está [Nuby - Nûby - Libro de Baño para Bebé - 6 Meses](https://www.amazon.es/dp/B000RJVU08/?tag=tolees-21) a 6.45 EUR (original: 7.75 EUR) (16.77 %  de descuento) en el siguiente enlace!
