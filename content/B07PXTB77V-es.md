@@ -28,10 +28,10 @@ Ahora mismo tienes [kk KinderKraft - Kinderkraft Carrito Bebé 3 en 1 JULI  Sill
 
 🔎:
 
-- Sistema de plegado innovador, muy fácil y rápido, sin el uso de la fuerza
-- Silla de coche incluida
-- Solución moderna y funcional: el capazo se convierte en la silla de paseo
-- Posibilidad de fijar el asiento de la silla de paseo en tres posiciones: sentado, reclinado y tumbado
 - Se puede orientar en el sentido de la marcha o en sentido contrario a la marcha
+- Posibilidad de fijar el asiento de la silla de paseo en tres posiciones: sentado, reclinado y tumbado
+- Sistema de plegado innovador, muy fácil y rápido, sin el uso de la fuerza
+- Solución moderna y funcional: el capazo se convierte en la silla de paseo
+- Silla de coche incluida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PXTB77V/?tag=tolees-21)
