@@ -30,8 +30,8 @@ Ahora mismo tienes [deAO Conjunto 4en1 para Muñecas Bebé Incluye Carrito   Gim
 
 - MONTAJE: Estructura liviana y estable. Fácil de montar. Plegable. Este juego ha sido exclusivamente diseñado para que los peques jueguen sin peligro.
 - CONJUNTO 4EN1: Este conjunto de accesorios para muñecas bebé ¡es el regalo perfecto para que tu peque añada a su colección! Adecuado para muñecas que miden hasta 30cm.
-- RECOMENDACIONES y ADVERTENCIAS: Apto para a partir de 3 años de edad. Para ser utilizado bajo la supervisión directa de un adulto.
 - CONTENIDOS: El set consiste en un carrito, un gimnasio, trona, un bolso cambiador y 12 accesorios adicionales (muñeca bebé NO incluida).
 - BENEFICIO EDUCACIONAL: Permite a tu peque desarrollar su imaginación. Crear una comprensión temprana de la crianza y los cuidados que esto conlleva. Ayuda a tu peque a despertar su amor e intención de cuidar a los demás.
+- RECOMENDACIONES y ADVERTENCIAS: Apto para a partir de 3 años de edad. Para ser utilizado bajo la supervisión directa de un adulto.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0859K7ZTF/?tag=tolees-21)
