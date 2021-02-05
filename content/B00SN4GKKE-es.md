@@ -28,10 +28,10 @@ Tienes [Chicco 00007392000000 Steril Natural 2en1 - Esterilizador eléctrico de 
 
 🔎:
 
-- Capacidad de hasta 6 biberones
 - Rápido: 5 minutos
 - Elimina hasta un 99,9% de gérmenes
-- Protección 24 horas
+- Capacidad de hasta 6 biberones
 - 2 en 1: total y compacto
+- Protección 24 horas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00SN4GKKE/?tag=tolees-21)
