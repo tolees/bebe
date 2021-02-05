@@ -28,10 +28,10 @@ Está [Nenuco - Merienditas  Famosa 700014057 ](https://www.amazon.es/dp/B07BFN1
 
 ℹ️:
 
-- Dale de comer a Nenuco
-- Muñeco mecánico
-- Cámbiale el pañal cuando haya hecho caca
-- Prepara la comidita en la batidora
 - Cuida a tu Nenuco como un bebé de verdad
+- Muñeco mecánico
+- Prepara la comidita en la batidora
+- Dale de comer a Nenuco
+- Cámbiale el pañal cuando haya hecho caca
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BFN1VJZ/?tag=tolees-21)
