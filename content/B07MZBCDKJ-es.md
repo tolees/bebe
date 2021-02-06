@@ -28,10 +28,10 @@ Ahora mismo tienes [Britax Römer 2000030965 Silla de Paseo 6 meses - 3 años  h
 
 🔎:
 
-- Respaldo reclinable para una postura más cómoda
-- Práctica correa de transporte: para llevar la silla de paseo cómodamente
-- Plegado superrápido y facilísimo: con cierre de plegado automático
-- Ultraligero: solo 5,4 kg
 - Capota con visera desplegable y protección upf 50+
+- Ultraligero: solo 5,4 kg
+- Respaldo reclinable para una postura más cómoda
+- Plegado superrápido y facilísimo: con cierre de plegado automático
+- Práctica correa de transporte: para llevar la silla de paseo cómodamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MZBCDKJ/?tag=tolees-21)
