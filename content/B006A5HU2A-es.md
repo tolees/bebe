@@ -29,9 +29,9 @@ Ahora mismo tienes [Nenuco Agua Siempre Fresca con extractos naturales cítricos
 🔎:
 
 - Nenuco Siempre Fresca tiene pH neutro, respeta la suavidad de las pieles más delicadas
+- Su fórmula ha sido clínicamente testada bajo estricto control dermatológico; Nenuco ofrece la idoneidad de sus productos con estudios realizados en laboratorios independientes
 - Disfrutad de su frescura y suavidad, que estimularán los sentidos de vuestro bebé creando momentos únicos
 - Aportará frescor durante todo el dia a vuestro bebé y a toda la familia
 - Contiene una selección de ingredientes de extractos naturales florales y cítricos
-- Su fórmula ha sido clínicamente testada bajo estricto control dermatológico; Nenuco ofrece la idoneidad de sus productos con estudios realizados en laboratorios independientes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B006A5HU2A/?tag=tolees-21)
