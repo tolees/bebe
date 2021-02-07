@@ -29,8 +29,8 @@ En este momento está [HYLOGY Termómetro de Frente  Termómetro Digital Infrarr
 🔎:
 
 - [Modo Silencioso, Apagado Automáticamente]: También puede activar el modo de silencio. La función Modo silencioso puede garantizar que usted pueda Medida a su bebé enfermo sin despertarlo, y se apagará automáticamente en 30 segundos si no hay ninguna operación
-- [Contenido del Paquete]: Incluye termómetro para bebés HYLOGY, manual de usuario, bolsa de almacenamiento y 2 pilas AAA. Si tiene alguna pregunta, no dude en contactarnos y siempre le ayudaremos.
 - [ 4 en 1 Función]: Tiene modo de temperatura del oído (solo para niños mayores de tres meses), modo de frente (para todas las personas), modo de temperatura del objeto (botella de medición, agua de baño, alimentos, etc.), modo de temperatura ambiente (temperatura ambiente), las últimas 20 lecturas de memoria realizar un seguimiento de las variaciones de temperatura
+- [Contenido del Paquete]: Incluye termómetro para bebés HYLOGY, manual de usuario, bolsa de almacenamiento y 2 pilas AAA. Si tiene alguna pregunta, no dude en contactarnos y siempre le ayudaremos.
 - [Instantáneo y Confiable]: Nuestro termómetro de frente está equipado con un excepcional microchip y un sensor de alta sensibilidad para demostrar una lectura precisa y fiable en 1 segundo , una bolsa de almacenamiento para facilitar su transporte y almacenamiento, y para uso sanitario
 - [Pantalla LCD, Alarma de Fiebre]: La pantalla LCD de backbit permite que las lecturas de los valores medidos se muestren claramente Incluso en la noche, tiene luz de fondo de dos colores, se activará la alarma y la pantalla se volverá roja cuando se detecte alta temperatura
 
