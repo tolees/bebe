@@ -28,9 +28,9 @@ Está [Suavinex - Calienta Biberones Link 3 en 1  Leche Materna  Fórmula y Poti
 
 ℹ️:
 
-- Función de conservación del calor en el modo suave (leche materna) -mantiene la leche caliente hasta 20min después-
-- Con luz led que indica en qué proceso del ciclo te encuentras; se apaga automáticamente cuando el ciclo termina
 - Calienta/descongela el alimento a 34ºC (+-3º) conservando todos sus nutrientes
+- Con luz led que indica en qué proceso del ciclo te encuentras; se apaga automáticamente cuando el ciclo termina
 - Capacidad para 1 biberón, bolsa o tarrito (hasta 270ml)
+- Función de conservación del calor en el modo suave (leche materna) -mantiene la leche caliente hasta 20min después-
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072BNJ6DZ/?tag=tolees-21)
