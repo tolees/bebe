@@ -29,9 +29,9 @@ En este momento está [Biomecanics 151157-2  Zapatillas Bebé Unisex  Blanco  Sa
 🔎:
 
 - Cierre: Velcro
-- Revestimiento: Cuero
-- Composición: Piel
-- Material de la suela: Goma
 - Material exterior: Cuero
+- Revestimiento: Cuero
+- Material de la suela: Goma
+- Composición: Piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LBH5H8C/?tag=tolees-21)
