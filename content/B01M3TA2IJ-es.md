@@ -28,10 +28,10 @@ Ahora mismo tienes [Cincobebé - Cinturón para Embarazada de Seguridad en el Co
 
 🔎:
 
-- 🚗Evita los riesgos para el bebé y la mamá en trayectos en coche y posibles abortos
-- 🚗Probado y certificado para propiedades mecánicas y físicas(ECE R-16 / ECE R-14),Seguro&Legal
 - 🚗Diseñado para su uso con falda y pantalón.Reduce más del 50% el riesgo de daño al feto
-- 🚗Seguro,cómodo y fácil de usar en cualquier asiento del vehículo
 - 🚗Doble fijación a ambos lados para mayor seguridad del cinturón y comodidad
+- 🚗Evita los riesgos para el bebé y la mamá en trayectos en coche y posibles abortos
+- 🚗Seguro,cómodo y fácil de usar en cualquier asiento del vehículo
+- 🚗Probado y certificado para propiedades mecánicas y físicas(ECE R-16 / ECE R-14),Seguro&Legal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M3TA2IJ/?tag=tolees-21)
