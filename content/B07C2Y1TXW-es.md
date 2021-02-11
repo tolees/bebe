@@ -28,10 +28,10 @@ Está [Asalvo Cuna de Viaje  Multicolor](https://www.amazon.es/dp/B07C2Y1TXW/?ta
 
 ℹ️:
 
-- Plegado muy compacto
-- Diseño robusto
-- Doble cierre de seguridad
-- Base acolchada
 - Bolsa de transporte
+- Base acolchada
+- Diseño robusto
+- Plegado muy compacto
+- Doble cierre de seguridad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C2Y1TXW/?tag=tolees-21)
