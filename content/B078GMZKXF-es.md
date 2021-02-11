@@ -28,11 +28,11 @@ En este momento está [Asalvo  Silla de coche grupo 1/2/3 Isofix  rojo](https://
 
 🔎:
 
+- Asiento reclinable 5 posiciones
 - Uso Dual con cinturón y Isofix con top tether
-- Detalles en polipiel
 - Textil desenfundable y lavable
 - Reposacabezas ajustable en altura (10 posiciones)
-- Asiento reclinable 5 posiciones
+- Detalles en polipiel
 - Protección cervical
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078GMZKXF/?tag=tolees-21)
