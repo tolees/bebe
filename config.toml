@@ -5,6 +5,7 @@ languageCode = "es-es"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 paginate = 30
+disableKinds = ["RSS"]
 
 [sitemap]
   changefreq = "hourly"
