@@ -28,10 +28,10 @@ En este momento está [Motorola Baby - Motorola Smart Nursery Dream Machine - Vi
 
 🔎:
 
+- 5 canciones de cuna preprogramadas. Las canciones se pueden descargar desde la aplicación Hubble.
+- Conectividad Wi-Fi: funciones con la aplicación Hubble, control remoto a través de teléfonos inteligentes y tabletas
+- El Dream Machine es perfecto para su uso junto con el Smart Nursery Humidifier+
 - Proyector con 3 escenas animadas. Luz nocturna / luz ambiente con cambio de color Luz nocturna / de relajación con colores cambiantes
 - La vigilabebés con micrófono y altavoz, para poder escuchar y hablar con su bebé
-- El Dream Machine es perfecto para su uso junto con el Smart Nursery Humidifier+
-- Conectividad Wi-Fi: funciones con la aplicación Hubble, control remoto a través de teléfonos inteligentes y tabletas
-- 5 canciones de cuna preprogramadas. Las canciones se pueden descargar desde la aplicación Hubble.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MF9Y4W3/?tag=tolees-21)
