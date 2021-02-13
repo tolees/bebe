@@ -28,10 +28,10 @@ Ahora mismo tienes [Edge Entertainment - Munchkin Dungeon - ¡Echa la Puerta Aba
 
 🔎:
 
-- Recomendado a Partir de 14 Años de Edad
-- Juego de 2 a 5 Jugadores
-- Con una duración de 60-90 Minutos por partida
 - Juego de Mesa en Español
 - ¡ganará el Munchkin más famoso!
+- Juego de 2 a 5 Jugadores
+- Recomendado a Partir de 14 Años de Edad
+- Con una duración de 60-90 Minutos por partida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H2JJ7CB/?tag=tolees-21)
