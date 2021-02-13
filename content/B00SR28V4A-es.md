@@ -31,7 +31,7 @@ Tienes [Neewer 10083667 Pro Fondo fotográfico 1 8 x 2.8M  Plegable Telón de Fo
 - Varilla bolsillo en SOLO uno borde superior que permite ser cubierta o colgada
 - Hecho de 100% de algodón puro, buen sentido vertical y duradero.
 - Terminado a lo largo de todos los bordes para evitar las lágrimas.
-- Telón de fondo de 6 x 9 pies / 1,8 x 2.8M , perfecto para la televisión, producción de video y fotografía digital.
 - Si es necesario, por favor planchar la superficie posterior con plancha de vapor, pero no de hierro seco.
+- Telón de fondo de 6 x 9 pies / 1,8 x 2.8M , perfecto para la televisión, producción de video y fotografía digital.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00SR28V4A/?tag=tolees-21)
