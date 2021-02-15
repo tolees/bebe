@@ -29,9 +29,9 @@ Ahora mismo tienes [Britax Römer Silla de coche 3 5 años - 12 años  15 - 36 k
 🔎:
 
 - Elevador con respaldo alto para mayor protección en impacto lateral y un guiado del cinturón óptimo
-- Tapizado acolchado y reposacabezas para una mejor posición para dormir
-- Soportes para bebidas y aperitivos en ambos laterales
 - Fabricado en Gran Bretaña
+- Soportes para bebidas y aperitivos en ambos laterales
+- Tapizado acolchado y reposacabezas para una mejor posición para dormir
 - Ligero para trasladarlo fácilmente de un coche a otro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CL7YLTV/?tag=tolees-21)
