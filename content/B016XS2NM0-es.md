@@ -28,9 +28,9 @@ Tienes [Fisher-Price - Gimnasio Deluxe Animalitos de la Selva  Manta de Juego Be
 
 ℹ️:
 
-- En la opción de duración larga de este juguete para recién nacido, la música dura hasta 20 minutos
-- 3 opciones de juego en un gimnasio para bebé: boca arriba, boca abajo y de paseo
 - Regalo original para recién nacido
+- 3 opciones de juego en un gimnasio para bebé: boca arriba, boca abajo y de paseo
+- En la opción de duración larga de este juguete para recién nacido, la música dura hasta 20 minutos
 - Gimnasio con más de 10 juguetes para bebés y actividades, y un tucán extraíble que emite música y bailes de luces
 - Este gimnasio de actividades para bebé responde a los movimientos del niño con música y luces en la opción de duración corta
 
