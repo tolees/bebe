@@ -29,9 +29,9 @@ Tienes [Chicco - Buenas Noches Osito  Azul  9156200000 ](https://www.amazon.es/d
 🔎:
 
 - Volumen: 3 niveles
-- Peluche blando
-- Música de Chopín y Brahms
-- Luz antioscuridad con 2 combinaciones de colores
 - 3 modos: luz, música o ambos
+- Música de Chopín y Brahms
+- Peluche blando
+- Luz antioscuridad con 2 combinaciones de colores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079TZPKK4/?tag=tolees-21)
