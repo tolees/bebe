@@ -28,10 +28,10 @@ Tienes [Mega Bloks Carrito Encajabloques  juguete de construcción para bebé +1
 
 ℹ️:
 
-- regalo óptimo de mega bloks para que los niños aprendan mientras se divierten
-- carrito para bebés y niños pequeños con bandeja extraíble, asa desplegable y sección para construir, se puede cerrar para almacenar los bloques de construcción
 - bloques de construcción para bebés y niños hasta 3 años
+- carrito para bebés y niños pequeños con bandeja extraíble, asa desplegable y sección para construir, se puede cerrar para almacenar los bloques de construcción
 - juego de construcción óptimo para aprender las formas, incluye 25 bloques de construcción, de los cuales 6 tienen formas especiales
+- regalo óptimo de mega bloks para que los niños aprendan mientras se divierten
 - permite realizar juegos manuales, que estimulan el desarrollo desde la primera infancia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079QDZK5S/?tag=tolees-21)
