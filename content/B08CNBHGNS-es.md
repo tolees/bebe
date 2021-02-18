@@ -29,9 +29,9 @@ En este momento está [GOLDGE 21pz Limpiador de Oídos para Bebés  Removedor de
 🔎:
 
 - Recibirá: GOLDGE 21pz Limpiador de Oídos (9 juegos de ganzúas (plata) + 9 juegos de ganzúas (oro rosa) + removedor de orejas luminoso * 2 (2 accesorios para quitar orejas + 1 lupa) (Sin batería)
-- Múltiples accesorios para diferentes canales auditivos Los hisopos de algodón pueden empujar la cera más profundamente. ¡Este conjunto de cucharas multifuncionales puede satisfacer todas sus necesidades!
-- Luz LED incorporada, puede brillar, ver el canal auditivo, limpiar más a fondo, reducir la posibilidad de dolor de oído. Retire la batería después de usarla para mantener la vida útil de la batería (este producto no contiene baterías).
 - Nota: preste atención al tamaño antes de comprar. Desinfecte antes de usar. Menores por favor use bajo la supervisión de adultos.
 - Viene con una caja de almacenamiento de plástico * 2, fácil de transportar y a prueba de polvo. Desinfecte antes de usar.
+- Múltiples accesorios para diferentes canales auditivos Los hisopos de algodón pueden empujar la cera más profundamente. ¡Este conjunto de cucharas multifuncionales puede satisfacer todas sus necesidades!
+- Luz LED incorporada, puede brillar, ver el canal auditivo, limpiar más a fondo, reducir la posibilidad de dolor de oído. Retire la batería después de usarla para mantener la vida útil de la batería (este producto no contiene baterías).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CNBHGNS/?tag=tolees-21)
