@@ -28,10 +28,10 @@ Está [Eryplast Lutsine E45 - Pasta al Agua Crema Pañal Bebé - 2x75g](https://
 
 ℹ️:
 
-- Contiene dexpantenol y glicerina, conocidos por sus propiedades calmantes
-- Ayudarás a mantener el culito de tu bebé protegido de la irritación, enrojecimiento y escoceduras que puede producir el pañal
-- Acción anti-enzimática que ayuda a neutralizar los irritantes que pueden causar la dermatitis del pañal
-- Calma, cuida y ayuda a proteger frente las causas de la dermatitis del pañal
 - Forma una barrera transpirable sobre la piel del bebé que ayuda a absorber la orina y a mantener la zona seca y protegida
+- Contiene dexpantenol y glicerina, conocidos por sus propiedades calmantes
+- Acción anti-enzimática que ayuda a neutralizar los irritantes que pueden causar la dermatitis del pañal
+- Ayudarás a mantener el culito de tu bebé protegido de la irritación, enrojecimiento y escoceduras que puede producir el pañal
+- Calma, cuida y ayuda a proteger frente las causas de la dermatitis del pañal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LWJASNC/?tag=tolees-21)
