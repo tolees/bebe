@@ -28,12 +28,12 @@ Tienes [VTech - Móvil proyector cuenta ovejitas  juguete de cuna para bebé  m�
 
 🔎:
 
-- Móvil musical y luminoso con proyector y mando a distancia
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas o pilas recargables con carga completa de alta calidad para un mejor rendimiento
 - Proyector extraíble, se puede utilizar de luz de noche con varios colores que cambian aleatoriamente
-- Incluye mando a distancia para controlar el móvil y temporizador
-- Versión española
 - Tres tiernas ovejita de peluche giran suavemente al ritmo de las 40 melodías, 4 nanas y numerosos sonidos de la naturaleza para reconfortar al bebé
+- Versión española
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas o pilas recargables con carga completa de alta calidad para un mejor rendimiento
 - Sensor de sonido que activa melodías relajantes cuando detecta el llanto del bebé
+- Incluye mando a distancia para controlar el móvil y temporizador
+- Móvil musical y luminoso con proyector y mando a distancia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GX4MSPX/?tag=tolees-21)
