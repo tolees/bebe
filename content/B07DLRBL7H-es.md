@@ -28,10 +28,10 @@ Ahora mismo tienes [BÉABA Tarros de Conservación para Bebé  Tupper en Cristal
 
 🔎:
 
-- FÁCIL: Tapa flexible y fácil de cerrar, hermético para preservar los sabores y aromas
-- PRÁCTICO: Incluye un indicador de dosificación y es fácilmente lavable en un lavavajillas
-- RESISTANTE: Resistente al calor y a los cambios de temperatura, calentamiento, congelación, esterilización
 - ADECUADA CALIDAD: Tarros de conservación hechos en vidrio extrarresistente. No se deteriora con el tiempo, sin coloración, sin deformación
 - INCLUYE: 1 tarro de 250ml
+- FÁCIL: Tapa flexible y fácil de cerrar, hermético para preservar los sabores y aromas
+- RESISTANTE: Resistente al calor y a los cambios de temperatura, calentamiento, congelación, esterilización
+- PRÁCTICO: Incluye un indicador de dosificación y es fácilmente lavable en un lavavajillas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DLRBL7H/?tag=tolees-21)
