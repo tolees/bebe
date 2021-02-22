@@ -28,8 +28,8 @@ Tienes [Smash Up - Munchkin  juego de cartas  Edge Entertainment EDGSU07    colo
 
 ℹ️:
 
-- Las facciones de esta caja son las razas y clases de Munchkin: ¡Orcos, Guerreros, Medianos, Clérigos, Enanos, Elfos, Ladrones y Magos!
 - Smash Up es el juego en el que cada jugador une dos facciones realmente diferentes y trata de aplastar a los demás
+- Las facciones de esta caja son las razas y clases de Munchkin: ¡Orcos, Guerreros, Medianos, Clérigos, Enanos, Elfos, Ladrones y Magos!
 - Todas las facciones tienen sus propios poderes y, por supuesto, todas las combinaciones son realmente diferentes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06Y2C2B5Y/?tag=tolees-21)
