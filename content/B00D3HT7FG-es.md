@@ -2,7 +2,7 @@
 layout: post
 title: 'Tena - Pants - Pañales  Talla L - 14 uni al 24.25 % de descuento'
 date: 2020-05-31 14:35:16
-image: 'https://m.media-amazon.com/images/I/51n60ynJmcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51n60ynJmcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.09'
 
 Ahora mismo tienes [Tena - Pants - Pañales  Talla L - 14 unidades](https://www.amazon.es/dp/B00D3HT7FG/?tag=tolees-21) a 14.09 EUR (original: 18.6 EUR) (24.25 %  de descuento) en el siguiente enlace!
 
-[![Tena - Pants - Pañales  Talla L - 14 uni](https://m.media-amazon.com/images/I/51n60ynJmcL._SL200_.jpg)](https://www.amazon.es/dp/B00D3HT7FG/?tag=tolees-21)
+[![Tena - Pants - Pañales  Talla L - 14 uni](https://m.media-amazon.com/images/I/51n60ynJmcL._SL400_.jpg)](https://www.amazon.es/dp/B00D3HT7FG/?tag=tolees-21)
 
 🔎:
 

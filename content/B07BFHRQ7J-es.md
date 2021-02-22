@@ -2,7 +2,7 @@
 layout: post
 title: 'Bébé Confort LARA  Cochecito compacto pl al 23.45 % de descuento'
 date: 2020-03-30 09:48:50
-image: 'https://m.media-amazon.com/images/I/4169OOr2bIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4169OOr2bIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '170.48000000000002'
 
 Ahora mismo tienes [Bébé Confort LARA  Cochecito compacto plegable y multifuncional  del nacimiento hasta los 3.5 años  0-15 Kg  Nomad Grey  gris ](https://www.amazon.es/dp/B07BFHRQ7J/?tag=tolees-21) a 182.96 EUR (original: 239.0 EUR) (23.45 %  de descuento) en el siguiente enlace!
 
-[![Bébé Confort LARA  Cochecito compacto pl](https://m.media-amazon.com/images/I/4169OOr2bIL._SL200_.jpg)](https://www.amazon.es/dp/B07BFHRQ7J/?tag=tolees-21)
+[![Bébé Confort LARA  Cochecito compacto pl](https://m.media-amazon.com/images/I/4169OOr2bIL._SL400_.jpg)](https://www.amazon.es/dp/B07BFHRQ7J/?tag=tolees-21)
 
 🔎:
 

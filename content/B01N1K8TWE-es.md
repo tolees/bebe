@@ -2,7 +2,7 @@
 layout: post
 title: 'Denenes Gel-Champú - 600 ml con un 16.71 % de descuento'
 date: 2020-05-31 16:49:10
-image: 'https://m.media-amazon.com/images/I/31i0rMHfqeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31i0rMHfqeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 En este momento está [Denenes Gel-Champú - 600 ml](https://www.amazon.es/dp/B01N1K8TWE/?tag=tolees-21) a 2.99 EUR (original: 3.59 EUR) (16.71 %  de descuento) en el siguiente enlace!
 
-[![Denenes Gel-Champú - 600 ml](https://m.media-amazon.com/images/I/31i0rMHfqeL._SL200_.jpg)](https://www.amazon.es/dp/B01N1K8TWE/?tag=tolees-21)
+[![Denenes Gel-Champú - 600 ml](https://m.media-amazon.com/images/I/31i0rMHfqeL._SL400_.jpg)](https://www.amazon.es/dp/B01N1K8TWE/?tag=tolees-21)
 
 🔎:
 

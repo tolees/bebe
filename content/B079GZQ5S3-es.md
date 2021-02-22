@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Avent SCF342/22 - Pack con 2 chu con un 20.00 % de descuento'
 date: 2020-03-13 23:43:29
-image: 'https://m.media-amazon.com/images/I/414AbHc1V-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414AbHc1V-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.8'
 
 En este momento está [Philips Avent SCF342/22 - Pack con 2 chupetes Ultra Air decorados  de 6 a 18 meses  niño](https://www.amazon.es/dp/B079GZQ5S3/?tag=tolees-21) a 6.8 EUR (original: 8.5 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Philips Avent SCF342/22 - Pack con 2 chu](https://m.media-amazon.com/images/I/414AbHc1V-L._SL200_.jpg)](https://www.amazon.es/dp/B079GZQ5S3/?tag=tolees-21)
+[![Philips Avent SCF342/22 - Pack con 2 chu](https://m.media-amazon.com/images/I/414AbHc1V-L._SL400_.jpg)](https://www.amazon.es/dp/B079GZQ5S3/?tag=tolees-21)
 
 🔎:
 

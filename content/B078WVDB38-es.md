@@ -2,7 +2,7 @@
 layout: post
 title: 'Maclaren Quest - Silla de paseo para beb con un 15.70 % de descuento'
 date: 2020-03-11 12:32:14
-image: 'https://m.media-amazon.com/images/I/41SKpGs20JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SKpGs20JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '248.3025'
 
 En este momento está [Maclaren Quest - Silla de paseo para bebé  asiento multiposición  capota extensible con UPF 50+  suspensión en las 4 ruedas  hasta los 25kg  color denim indigo](https://www.amazon.es/dp/B078WVDB38/?tag=tolees-21) a 273.96 EUR (original: 325.0 EUR) (15.70 %  de descuento) en el siguiente enlace!
 
-[![Maclaren Quest - Silla de paseo para beb](https://m.media-amazon.com/images/I/41SKpGs20JL._SL200_.jpg)](https://www.amazon.es/dp/B078WVDB38/?tag=tolees-21)
+[![Maclaren Quest - Silla de paseo para beb](https://m.media-amazon.com/images/I/41SKpGs20JL._SL400_.jpg)](https://www.amazon.es/dp/B078WVDB38/?tag=tolees-21)
 
 🔎:
 

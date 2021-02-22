@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommee Tippee Kit de Biberones Anti-Cóli con un 17.50 % de descuento'
 date: 2020-10-09 13:55:49
-image: 'https://m.media-amazon.com/images/I/51fQp1Dv0gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fQp1Dv0gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 En este momento está [Tommee Tippee Kit de Biberones Anti-Cólicos  Rosa](https://www.amazon.es/dp/B087DGD6K8/?tag=tolees-21) a 32.99 EUR (original: 39.99 EUR) (17.50 %  de descuento) en el siguiente enlace!
 
-[![Tommee Tippee Kit de Biberones Anti-Cóli](https://m.media-amazon.com/images/I/51fQp1Dv0gL._SL200_.jpg)](https://www.amazon.es/dp/B087DGD6K8/?tag=tolees-21)
+[![Tommee Tippee Kit de Biberones Anti-Cóli](https://m.media-amazon.com/images/I/51fQp1Dv0gL._SL400_.jpg)](https://www.amazon.es/dp/B087DGD6K8/?tag=tolees-21)
 
 🔎:
 

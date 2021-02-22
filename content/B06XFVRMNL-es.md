@@ -2,7 +2,7 @@
 layout: post
 title: 'Aeromoov ASATC11060GR - Cuna de Viaje pa al 19.33 % de descuento'
 date: 2020-04-13 03:39:33
-image: 'https://m.media-amazon.com/images/I/41dvALASdPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dvALASdPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '132.445'
 
 Está [Aeromoov ASATC11060GR - Cuna de Viaje para bebé plegable e instantánea con colchón configurable a dos alturas y bolsa de transporte  color gris oscuro ](https://www.amazon.es/dp/B06XFVRMNL/?tag=tolees-21) con 19.33 de descuento por 128.99 EUR (original: 159.9 EUR) en el siguiente enlace!
 
-[![Aeromoov ASATC11060GR - Cuna de Viaje pa](https://m.media-amazon.com/images/I/41dvALASdPL._SL200_.jpg)](https://www.amazon.es/dp/B06XFVRMNL/?tag=tolees-21)
+[![Aeromoov ASATC11060GR - Cuna de Viaje pa](https://m.media-amazon.com/images/I/41dvALASdPL._SL400_.jpg)](https://www.amazon.es/dp/B06XFVRMNL/?tag=tolees-21)
 
 ℹ️:
 

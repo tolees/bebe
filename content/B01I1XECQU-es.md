@@ -2,7 +2,7 @@
 layout: post
 title: 'Ecus Kids  El colchón de cuna Ecus Care  al 16.99 % de descuento'
 date: 2020-10-01 09:50:25
-image: 'https://m.media-amazon.com/images/I/31GfOp6lfFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GfOp6lfFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '176.45333333333335'
 
 Está [Ecus Kids  El colchón de cuna Ecus Care con certificado farmacéutico que ayuda a prevenir la plagiocefalia - Colchon cuna 117x57](https://www.amazon.es/dp/B01I1XECQU/?tag=tolees-21) con 16.99 de descuento por 165.18 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Ecus Kids  El colchón de cuna Ecus Care ](https://m.media-amazon.com/images/I/31GfOp6lfFL._SL200_.jpg)](https://www.amazon.es/dp/B01I1XECQU/?tag=tolees-21)
+[![Ecus Kids  El colchón de cuna Ecus Care ](https://m.media-amazon.com/images/I/31GfOp6lfFL._SL400_.jpg)](https://www.amazon.es/dp/B01I1XECQU/?tag=tolees-21)
 
 ℹ️:
 

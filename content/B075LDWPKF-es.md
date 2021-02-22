@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 23.25 % en Huggies Ultra Comfort'
 date: 2020-04-01 18:04:33
-image: 'https://m.media-amazon.com/images/I/51z+rK8kviL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51z+rK8kviL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.373333333333335'
 
 Tienes [Huggies Ultra Comfort](https://www.amazon.es/dp/B075LDWPKF/?tag=tolees-21) con un 23.25 % de descuento con precio de oferta de 16.64 EUR (original: 21.68 EUR) en el siguiente enlace!
 
-[![Huggies Ultra Comfort](https://m.media-amazon.com/images/I/51z+rK8kviL._SL200_.jpg)](https://www.amazon.es/dp/B075LDWPKF/?tag=tolees-21)
+[![Huggies Ultra Comfort](https://m.media-amazon.com/images/I/51z+rK8kviL._SL400_.jpg)](https://www.amazon.es/dp/B075LDWPKF/?tag=tolees-21)
 
 ℹ️:
 

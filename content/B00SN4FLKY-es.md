@@ -2,7 +2,7 @@
 layout: post
 title: 'Chicco Essential Digital - Baby monitor  al 21.33 % de rebaja'
 date: 2020-04-18 02:28:15
-image: 'https://m.media-amazon.com/images/I/41dG11m5DGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dG11m5DGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '127.18'
 
 Tienes [Chicco Essential Digital - Baby monitor de video con visión nocturna](https://www.amazon.es/dp/B00SN4FLKY/?tag=tolees-21) con precio final de  157.31 EUR (original: 199.95 EUR) (21.33 %  de rebaja) aqui!
 
-[![Chicco Essential Digital - Baby monitor ](https://m.media-amazon.com/images/I/41dG11m5DGL._SL200_.jpg)](https://www.amazon.es/dp/B00SN4FLKY/?tag=tolees-21)
+[![Chicco Essential Digital - Baby monitor ](https://m.media-amazon.com/images/I/41dG11m5DGL._SL400_.jpg)](https://www.amazon.es/dp/B00SN4FLKY/?tag=tolees-21)
 
 🔎:
 

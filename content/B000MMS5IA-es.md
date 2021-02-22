@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 17.33 % en Philips Avent SCF155/06 - Discos absorbe'
 date: 2020-01-18 10:01:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2BHYq8qWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2BHYq8qWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.68'
 
 Tienes [Philips Avent SCF155/06 - Discos absorbentes lavables para cualquier momento  higiénicos  6 discos reutilizables](https://www.amazon.es/dp/B000MMS5IA/?tag=tolees-21) con un 17.33 % de descuento con precio de oferta de 8.68 EUR (original: 10.5 EUR) en el siguiente enlace!
 
-[![Philips Avent SCF155/06 - Discos absorbe](https://images-eu.ssl-images-amazon.com/images/I/41c%2BHYq8qWL._SL200_.jpg)](https://www.amazon.es/dp/B000MMS5IA/?tag=tolees-21)
+[![Philips Avent SCF155/06 - Discos absorbe](https://images-eu.ssl-images-amazon.com/images/I/41c%2BHYq8qWL._SL400_.jpg)](https://www.amazon.es/dp/B000MMS5IA/?tag=tolees-21)
 
 ℹ️:
 

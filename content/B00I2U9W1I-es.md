@@ -2,7 +2,7 @@
 layout: post
 title: 'Bebé Due 80160 - Taza 4 en 1 al 19.44 % de descuento'
 date: 2020-01-14 17:40:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GnsQ9y7cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GnsQ9y7cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.85'
 
 Está [Bebé Due 80160 - Taza 4 en 1](https://www.amazon.es/dp/B00I2U9W1I/?tag=tolees-21) con 19.44 de descuento por 12.85 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![Bebé Due 80160 - Taza 4 en 1](https://images-eu.ssl-images-amazon.com/images/I/41GnsQ9y7cL._SL200_.jpg)](https://www.amazon.es/dp/B00I2U9W1I/?tag=tolees-21)
+[![Bebé Due 80160 - Taza 4 en 1](https://images-eu.ssl-images-amazon.com/images/I/41GnsQ9y7cL._SL400_.jpg)](https://www.amazon.es/dp/B00I2U9W1I/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Chicco Natural Sensation - Gel de baño s al 19.81 % de descuento'
 date: 2020-02-03 21:48:53
-image: 'https://m.media-amazon.com/images/I/417LyBbROQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417LyBbROQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.3'
 
 Ahora mismo tienes [Chicco Natural Sensation - Gel de baño sin lágrimas 750 ml](https://www.amazon.es/dp/B01FH6T2S2/?tag=tolees-21) a 8.3 EUR (original: 10.35 EUR) (19.81 %  de descuento) en el siguiente enlace!
 
-[![Chicco Natural Sensation - Gel de baño s](https://m.media-amazon.com/images/I/417LyBbROQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01FH6T2S2/?tag=tolees-21)
+[![Chicco Natural Sensation - Gel de baño s](https://m.media-amazon.com/images/I/417LyBbROQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01FH6T2S2/?tag=tolees-21)
 
 🔎:
 

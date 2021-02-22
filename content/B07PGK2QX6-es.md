@@ -2,7 +2,7 @@
 layout: post
 title: 'Biomecanics 191152  Zapatillas de Estar  al 18.82 % de descuento'
 date: 2020-03-19 19:32:32
-image: 'https://m.media-amazon.com/images/I/410jjBQr8ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410jjBQr8ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.51'
 
 Está [Biomecanics 191152  Zapatillas de Estar por casa para Bebés  Gris Antracita  Kaiser B   19 EU](https://www.amazon.es/dp/B07PGK2QX6/?tag=tolees-21) con 18.82 de descuento por 40.51 EUR (original: 49.9 EUR) en el siguiente enlace!
 
-[![Biomecanics 191152  Zapatillas de Estar ](https://m.media-amazon.com/images/I/410jjBQr8ML._SL200_.jpg)](https://www.amazon.es/dp/B07PGK2QX6/?tag=tolees-21)
+[![Biomecanics 191152  Zapatillas de Estar ](https://m.media-amazon.com/images/I/410jjBQr8ML._SL400_.jpg)](https://www.amazon.es/dp/B07PGK2QX6/?tag=tolees-21)
 
 ℹ️:
 

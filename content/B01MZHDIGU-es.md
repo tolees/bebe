@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Avent SCF223/20 - Pack de dos ch al 17.47 % de descuento'
 date: 2020-05-21 09:02:30
-image: 'https://m.media-amazon.com/images/I/31RFXHXO1aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RFXHXO1aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.6475'
 
 Está [Philips Avent SCF223/20 - Pack de dos chupetes ultra suaves y flexibles  decorados  0-6 meses  niña  color rosa durazno](https://www.amazon.es/dp/B01MZHDIGU/?tag=tolees-21) con 17.47 de descuento por 7.84 EUR (original: 9.5 EUR) en el siguiente enlace!
 
-[![Philips Avent SCF223/20 - Pack de dos ch](https://m.media-amazon.com/images/I/31RFXHXO1aL._SL200_.jpg)](https://www.amazon.es/dp/B01MZHDIGU/?tag=tolees-21)
+[![Philips Avent SCF223/20 - Pack de dos ch](https://m.media-amazon.com/images/I/31RFXHXO1aL._SL400_.jpg)](https://www.amazon.es/dp/B01MZHDIGU/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rubies - Disfraz infantil de Hipopótamo  al 15.24 % de descuento'
 date: 2020-02-22 11:39:27
-image: 'https://m.media-amazon.com/images/I/41UVKDhgvVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UVKDhgvVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.4'
 
 Ahora mismo tienes [Rubies - Disfraz infantil de Hipopótamo para bebé  1-2 años  510560-T ](https://www.amazon.es/dp/B079QMC8D7/?tag=tolees-21) a 14.4 EUR (original: 16.99 EUR) (15.24 %  de descuento) en el siguiente enlace!
 
-[![Rubies - Disfraz infantil de Hipopótamo ](https://m.media-amazon.com/images/I/41UVKDhgvVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079QMC8D7/?tag=tolees-21)
+[![Rubies - Disfraz infantil de Hipopótamo ](https://m.media-amazon.com/images/I/41UVKDhgvVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B079QMC8D7/?tag=tolees-21)
 
 🔎:
 

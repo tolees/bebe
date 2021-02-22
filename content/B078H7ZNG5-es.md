@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 17.31 % en Asalvo  Silla de coche grupo 0+/1/2 Isof'
 date: 2020-02-26 11:44:37
-image: 'https://m.media-amazon.com/images/I/41+EXNToB8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+EXNToB8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '163.06'
 
 Tienes [Asalvo  Silla de coche grupo 0+/1/2 Isofix  azul](https://www.amazon.es/dp/B078H7ZNG5/?tag=tolees-21) con un 17.31 % de descuento con precio de oferta de 163.06 EUR (original: 197.2 EUR) en el siguiente enlace!
 
-[![Asalvo  Silla de coche grupo 0+/1/2 Isof](https://m.media-amazon.com/images/I/41+EXNToB8L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B078H7ZNG5/?tag=tolees-21)
+[![Asalvo  Silla de coche grupo 0+/1/2 Isof](https://m.media-amazon.com/images/I/41+EXNToB8L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B078H7ZNG5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'TETINA NUK NATURE SENSE 6-18 SILI M 2UDS al 15.34 % de descuento'
 date: 2020-01-30 10:02:33
-image: 'https://m.media-amazon.com/images/I/41RJNHjD0PL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RJNHjD0PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.145'
 
 Ahora mismo tienes [TETINA NUK NATURE SENSE 6-18 SILI M 2UDS](https://www.amazon.es/dp/B01N6PDN2J/?tag=tolees-21) a 6.07 EUR (original: 7.17 EUR) (15.34 %  de descuento) en el siguiente enlace!
 
-[![TETINA NUK NATURE SENSE 6-18 SILI M 2UDS](https://m.media-amazon.com/images/I/41RJNHjD0PL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N6PDN2J/?tag=tolees-21)
+[![TETINA NUK NATURE SENSE 6-18 SILI M 2UDS](https://m.media-amazon.com/images/I/41RJNHjD0PL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N6PDN2J/?tag=tolees-21)
 
 🔎:
 

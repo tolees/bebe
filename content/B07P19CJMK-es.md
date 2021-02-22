@@ -2,7 +2,7 @@
 layout: post
 title: 'Sotech Columpio Eléctrico para Bebés  Co al 22.99 % de rebaja'
 date: 2020-05-11 09:46:54
-image: 'https://m.media-amazon.com/images/I/41XBTilfh9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XBTilfh9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.59'
 
 Tienes [Sotech Columpio Eléctrico para Bebés  Columpio de bebé con vibración  Cuna Mecedora Automatica  Hamaca Bebe  Mecedora Bebe  80 x 76 x 54 cm](https://www.amazon.es/dp/B07P19CJMK/?tag=tolees-21) con precio final de  66.99 EUR (original: 86.99 EUR) (22.99 %  de rebaja) aqui!
 
-[![Sotech Columpio Eléctrico para Bebés  Co](https://m.media-amazon.com/images/I/41XBTilfh9L._SL200_.jpg)](https://www.amazon.es/dp/B07P19CJMK/?tag=tolees-21)
+[![Sotech Columpio Eléctrico para Bebés  Co](https://m.media-amazon.com/images/I/41XBTilfh9L._SL400_.jpg)](https://www.amazon.es/dp/B07P19CJMK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.61 % en Chicco Echo - Silla de paseo  ligera y c'
 date: 2020-03-02 09:35:55
-image: 'https://m.media-amazon.com/images/I/417woVZr8-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417woVZr8-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.47666666666666'
 
 Tienes [Chicco Echo - Silla de paseo  ligera y compacta  soporta hasta 22kg  color rojo  Scarlet ](https://www.amazon.es/dp/B07575QZPQ/?tag=tolees-21) con un 20.61 % de descuento con precio de oferta de 94.48 EUR (original: 119.0 EUR) en el siguiente enlace!
 
-[![Chicco Echo - Silla de paseo  ligera y c](https://m.media-amazon.com/images/I/417woVZr8-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07575QZPQ/?tag=tolees-21)
+[![Chicco Echo - Silla de paseo  ligera y c](https://m.media-amazon.com/images/I/417woVZr8-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07575QZPQ/?tag=tolees-21)
 
 ℹ️:
 

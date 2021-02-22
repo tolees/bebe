@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 19.55 % en Béaba 912482 - Set de 6 potes de conserv'
 date: 2020-05-30 09:57:55
-image: 'https://m.media-amazon.com/images/I/41ZnvEotBpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZnvEotBpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.075'
 
 Tienes [Béaba 912482 - Set de 6 potes de conservación comida para bebés](https://www.amazon.es/dp/B019FKF40G/?tag=tolees-21) con un 19.55 % de descuento con precio de oferta de 14.4 EUR (original: 17.9 EUR) en el siguiente enlace!
 
-[![Béaba 912482 - Set de 6 potes de conserv](https://m.media-amazon.com/images/I/41ZnvEotBpL._SL200_.jpg)](https://www.amazon.es/dp/B019FKF40G/?tag=tolees-21)
+[![Béaba 912482 - Set de 6 potes de conserv](https://m.media-amazon.com/images/I/41ZnvEotBpL._SL400_.jpg)](https://www.amazon.es/dp/B019FKF40G/?tag=tolees-21)
 
 ℹ️:
 

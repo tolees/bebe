@@ -2,7 +2,7 @@
 layout: post
 title: 'Medela - Sistema de nutrición suplementa con un 19.92 % de descuento'
 date: 2020-08-19 17:35:10
-image: 'https://m.media-amazon.com/images/I/21qI3tYPA1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21qI3tYPA1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.85'
 
 En este momento está [Medela - Sistema de nutrición suplementaria  relactador](https://www.amazon.es/dp/B00JZF8LHK/?tag=tolees-21) a 32.85 EUR (original: 41.02 EUR) (19.92 %  de descuento) en el siguiente enlace!
 
-[![Medela - Sistema de nutrición suplementa](https://m.media-amazon.com/images/I/21qI3tYPA1L._SL200_.jpg)](https://www.amazon.es/dp/B00JZF8LHK/?tag=tolees-21)
+[![Medela - Sistema de nutrición suplementa](https://m.media-amazon.com/images/I/21qI3tYPA1L._SL400_.jpg)](https://www.amazon.es/dp/B00JZF8LHK/?tag=tolees-21)
 
 🔎:
 

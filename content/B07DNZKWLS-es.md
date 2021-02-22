@@ -2,7 +2,7 @@
 layout: post
 title: 'Kinderkraft Silla de Coche Isofix SAFETY al 16.97 % de descuento'
 date: 2020-02-17 20:58:31
-image: 'https://m.media-amazon.com/images/I/41MydoeoJOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MydoeoJOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.5'
 
 Ahora mismo tienes [Kinderkraft Silla de Coche Isofix SAFETY FIX  Grupo 1/2/3  9-36 kg  Gris](https://www.amazon.es/dp/B07DNZKWLS/?tag=tolees-21) a 90.5 EUR (original: 109.0 EUR) (16.97 %  de descuento) en el siguiente enlace!
 
-[![Kinderkraft Silla de Coche Isofix SAFETY](https://m.media-amazon.com/images/I/41MydoeoJOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DNZKWLS/?tag=tolees-21)
+[![Kinderkraft Silla de Coche Isofix SAFETY](https://m.media-amazon.com/images/I/41MydoeoJOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DNZKWLS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.78 % en Britax Römer FIRST CLASS PLUS - Silla de'
 date: 2020-10-12 22:24:50
-image: 'https://m.media-amazon.com/images/I/51CBe+B2VTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CBe+B2VTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '170.24'
 
 Tienes [Britax Römer FIRST CLASS PLUS - Silla de Coche Nacimiento - 4 Años  hasta 18 kg  Grupo 0+/1  color Moonlight Blue](https://www.amazon.es/dp/B075D5PWJN/?tag=tolees-21) con un 20.78 % de descuento con precio de oferta de 170.24 EUR (original: 214.9 EUR) en el siguiente enlace!
 
-[![Britax Römer FIRST CLASS PLUS - Silla de](https://m.media-amazon.com/images/I/51CBe+B2VTL._SL200_.jpg)](https://www.amazon.es/dp/B075D5PWJN/?tag=tolees-21)
+[![Britax Römer FIRST CLASS PLUS - Silla de](https://m.media-amazon.com/images/I/51CBe+B2VTL._SL400_.jpg)](https://www.amazon.es/dp/B075D5PWJN/?tag=tolees-21)
 
 ℹ️:
 

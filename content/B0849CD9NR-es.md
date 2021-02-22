@@ -2,7 +2,7 @@
 layout: post
 title: 'Maxi-Cosi Morion Silla auto Grupo 2/3 is al 20.00 % de rebaja'
 date: 2020-08-12 11:57:37
-image: 'https://m.media-amazon.com/images/I/31vKeQSiNLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vKeQSiNLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '92.775'
 
 Tienes [Maxi-Cosi Morion Silla auto Grupo 2/3 isofix I-Size  15 - 36 kg  crece con el niño en altura desde 100 hasta 150 cm  3.5 - 12 años   color negro](https://www.amazon.es/dp/B0849CD9NR/?tag=tolees-21) con precio final de  143.2 EUR (original: 179.0 EUR) (20.00 %  de rebaja) aqui!
 
-[![Maxi-Cosi Morion Silla auto Grupo 2/3 is](https://m.media-amazon.com/images/I/31vKeQSiNLL._SL200_.jpg)](https://www.amazon.es/dp/B0849CD9NR/?tag=tolees-21)
+[![Maxi-Cosi Morion Silla auto Grupo 2/3 is](https://m.media-amazon.com/images/I/31vKeQSiNLL._SL400_.jpg)](https://www.amazon.es/dp/B0849CD9NR/?tag=tolees-21)
 
 🔎:
 

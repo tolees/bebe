@@ -2,7 +2,7 @@
 layout: post
 title: 'Blevit Plus Superfibra 8 Cereales con Mi al 18.36 % de rebaja'
 date: 2020-10-03 13:13:13
-image: 'https://m.media-amazon.com/images/I/5159C19qDoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5159C19qDoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.96'
 
 Tienes [Blevit Plus Superfibra 8 Cereales con Miel  1 unidad 600 gr. A  partir de los 5 meses.](https://www.amazon.es/dp/B00M75FZ4M/?tag=tolees-21) con precio final de  5.96 EUR (original: 7.3 EUR) (18.36 %  de rebaja) aqui!
 
-[![Blevit Plus Superfibra 8 Cereales con Mi](https://m.media-amazon.com/images/I/5159C19qDoL._SL200_.jpg)](https://www.amazon.es/dp/B00M75FZ4M/?tag=tolees-21)
+[![Blevit Plus Superfibra 8 Cereales con Mi](https://m.media-amazon.com/images/I/5159C19qDoL._SL400_.jpg)](https://www.amazon.es/dp/B00M75FZ4M/?tag=tolees-21)
 
 🔎:
 

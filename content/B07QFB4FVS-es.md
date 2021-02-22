@@ -2,7 +2,7 @@
 layout: post
 title: 'Pablosky 64521  Botas para Bebés  Azul   al 19.76 % de rebaja'
 date: 2020-04-13 13:19:33
-image: 'https://m.media-amazon.com/images/I/41mTeljgPgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mTeljgPgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.26'
 
 Tienes [Pablosky 64521  Botas para Bebés  Azul  21 EU](https://www.amazon.es/dp/B07QFB4FVS/?tag=tolees-21) con precio final de  9.26 EUR (original: 11.54 EUR) (19.76 %  de rebaja) aqui!
 
-[![Pablosky 64521  Botas para Bebés  Azul  ](https://m.media-amazon.com/images/I/41mTeljgPgL._SL200_.jpg)](https://www.amazon.es/dp/B07QFB4FVS/?tag=tolees-21)
+[![Pablosky 64521  Botas para Bebés  Azul  ](https://m.media-amazon.com/images/I/41mTeljgPgL._SL400_.jpg)](https://www.amazon.es/dp/B07QFB4FVS/?tag=tolees-21)
 
 🔎:
 
