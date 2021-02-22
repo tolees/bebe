@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Air Wick Freshmatic - Recambios de ambie al 30.02 % de rebaja'
-date: 2021-01-27 09:50:56
-image: 'https://m.media-amazon.com/images/I/51G3E65m8ZL._SL200_.jpg'
+date: 2021-02-22 10:55:47
+image: 'https://m.media-amazon.com/images/I/51G3E65m8ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -16,14 +16,15 @@ comparePrice: 19.99 EUR
 prodname: 'Air Wick Freshmatic - Recambios de ambientador spray automático  esencia para casa con aroma a nenuco - pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Air Wick'
 buyurl: 'https://www.amazon.es/dp/B07J5FJ9XZ/?tag=tolees-21'
 descuento: '30.02'
-average: '15.9202'
+average: '15.8459615384616'
 ---
 
 Tienes [Air Wick Freshmatic - Recambios de ambientador spray automático  esencia para casa con aroma a nenuco - pack de 6](https://www.amazon.es/dp/B07J5FJ9XZ/?tag=tolees-21) con precio final de  13.99 EUR (original: 19.99 EUR) (30.02 %  de rebaja) aqui!
 
-[![Air Wick Freshmatic - Recambios de ambie](https://m.media-amazon.com/images/I/51G3E65m8ZL._SL200_.jpg)](https://www.amazon.es/dp/B07J5FJ9XZ/?tag=tolees-21)
+[![Air Wick Freshmatic - Recambios de ambie](https://m.media-amazon.com/images/I/51G3E65m8ZL._SL400_.jpg)](https://www.amazon.es/dp/B07J5FJ9XZ/?tag=tolees-21)
 
 🔎:
 
