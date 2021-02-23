@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nuby - Nûby - Libro de Baño para Bebé -  con un 16.77 % de descuento'
-date: 2021-02-05 09:19:51
-image: 'https://m.media-amazon.com/images/I/51LHTDahDYL._SL200_.jpg'
+date: 2021-02-23 15:53:32
+image: 'https://m.media-amazon.com/images/I/51LHTDahDYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Nuby'
 buyurl: 'https://www.amazon.es/dp/B000RJVU08/?tag=tolees-21'
 descuento: '16.77'
-average: '6.77299270072993'
+average: '6.92801204819277'
 ---
 
 En este momento está [Nuby - Nûby - Libro de Baño para Bebé - 6 Meses](https://www.amazon.es/dp/B000RJVU08/?tag=tolees-21) a 6.45 EUR (original: 7.75 EUR) (16.77 %  de descuento) en el siguiente enlace!
 
-[![Nuby - Nûby - Libro de Baño para Bebé - ](https://m.media-amazon.com/images/I/51LHTDahDYL._SL200_.jpg)](https://www.amazon.es/dp/B000RJVU08/?tag=tolees-21)
+[![Nuby - Nûby - Libro de Baño para Bebé - ](https://m.media-amazon.com/images/I/51LHTDahDYL._SL400_.jpg)](https://www.amazon.es/dp/B000RJVU08/?tag=tolees-21)
 
 🔎:
 
 - El libro para baño no contiene vinilo
-- Libro para bebés a partir de 6 meses
-- Una página sorpresa que “chilla”
 - Páginas blandas pero duraderas y fáciles de limpiar
+- Una página sorpresa que “chilla”
 - El libro de baño es un juego educativo
+- Libro para bebés a partir de 6 meses
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000RJVU08/?tag=tolees-21)
