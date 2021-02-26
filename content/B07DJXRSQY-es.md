@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox B Kaytan a  Sandalias para Bebés  White/Silver C0007  
 
 🔎:
 
-- Material exterior: Cuero
 - Cierre: Velcro
-- Material de la suela: Sintético
 - Altura del tacón: 1.5 centímetros
 - Revestimiento: Cuero
+- Material de la suela: Sintético
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJXRSQY/?tag=tolees-21)
