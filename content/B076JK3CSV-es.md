@@ -28,10 +28,10 @@ En este momento está [Asalvo 15570 - Columpio 3en1  color rosa](https://www.ama
 
 🔎:
 
-- 15 melodías musicales y 5 sonidos de la naturaleza con volumen regulable
-- Carrusel con cromoterapia. (Luz relajante con diferentes tonos)
 - 5 velocidades de balanceo automático
-- Bandeja para uso como trona
+- Carrusel con cromoterapia. (Luz relajante con diferentes tonos)
 - Desenfundable
+- Bandeja para uso como trona
+- 15 melodías musicales y 5 sonidos de la naturaleza con volumen regulable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076JK3CSV/?tag=tolees-21)
