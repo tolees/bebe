@@ -28,10 +28,10 @@ Tienes [Chicco Chairy - Elevador asiento de silla regulable 4 posiciones  ligero
 
 🔎:
 
-- Bandeja extraíble
-- Correas de seguridad para la silla
 - Super compacto y transportable
+- Correas de seguridad para la silla
 - Asiento regulable en 4 alturas
+- Bandeja extraíble
 - Acolchado para máxima comodidad del niño
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y3K4KHJ/?tag=tolees-21)
