@@ -28,10 +28,10 @@ Está [Biomecanics 151157-2  Zapatillas  Bebé Unisex  Blanco  Sauvage  Colores 
 
 ℹ️:
 
-- Composición: Piel
 - Material exterior: Cuero
 - Material de la suela: Goma
 - Revestimiento: Cuero
 - Cierre: Velcro
+- Composición: Piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LBH7R76/?tag=tolees-21)
