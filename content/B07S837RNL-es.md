@@ -29,9 +29,9 @@ Ahora mismo tienes [Luz Nocturna Infantil  Deknei Lampara Nocturna Enchufe con S
 🔎:
 
 - ★【Luz de Noche Económica】Usando perlas de lámpara LED, funcionamiento de 80,000 horas con menos consumo de energía (aproximadamente 0.5 W) y más brillante. Sin necesidad de reemplazo, es económico y duradero.
-- ★【Luz Nocturna con Sensor de Luz】La luz del sensor se enciende automáticamente cuando la luz ambiental es débil. Adopta el sensor de fotocélula y luz de sensor blanca natural (Plug-und-Play).
-- ★【Luz Blanca y Suave】Ayuda a eliminar el miedo a la oscuridad, mientras que eso no afectará la calidad del sueño, por lo que son perfectos para dormir e iluminarse como una señal.
 - ★【Conveniencia y Seguridad】Conéctelo fácilmente a cualquier toma de corriente estándar (no se requieren baterías), sin ningún interruptor, fácil de usar. La luz nocturna LED está hecha de material especial para PC, resistente al fuego y resistente a impactos, duradero y seguro.
+- ★【Luz Blanca y Suave】Ayuda a eliminar el miedo a la oscuridad, mientras que eso no afectará la calidad del sueño, por lo que son perfectos para dormir e iluminarse como una señal.
 - ★【Aplicación Amplia】Ideal para habitaciones de niños o bebés, guarderías, sala de estar, baño, pasillo, escaleras, aterrizaje, cocina, garaje en el sótano y cualquier lugar en la noche para dar una luz.
+- ★【Luz Nocturna con Sensor de Luz】La luz del sensor se enciende automáticamente cuando la luz ambiental es débil. Adopta el sensor de fotocélula y luz de sensor blanca natural (Plug-und-Play).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S837RNL/?tag=tolees-21)
