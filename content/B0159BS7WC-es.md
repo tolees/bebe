@@ -28,11 +28,11 @@ Ahora mismo tienes [Suavinex – Canastilla de cosmética para bebé/Canastilla 
 
 🔎:
 
-- Línea cosmética pediátrica en envases provenientes de materias primas renovables.
-- Todo en una cuidada y bonita cesta perfecta para regalar.
-- Canastilla de cosmética regalo para recién nacido con los productos imprescindibles para el cuidado del bebé.
-- ¡Un regalo práctico y bonito a la vez!
-- Tu bebé siempre limpio y fresquito con nuestros productos de cosmética infantil.
 - Loción hidratante corporal 500ml + crema del pañal 75ml + fragancia baby Cologne 100ml + PACK de toallitas dermohidratantes 72 unidades.
+- Tu bebé siempre limpio y fresquito con nuestros productos de cosmética infantil.
+- Canastilla de cosmética regalo para recién nacido con los productos imprescindibles para el cuidado del bebé.
+- Todo en una cuidada y bonita cesta perfecta para regalar.
+- Línea cosmética pediátrica en envases provenientes de materias primas renovables.
+- ¡Un regalo práctico y bonito a la vez!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0159BS7WC/?tag=tolees-21)
