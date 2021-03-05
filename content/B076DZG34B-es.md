@@ -30,8 +30,8 @@ Tienes [Safety 1st Manga Safe Elevador  Silla de coche grupo 3  Alzador para ni�
 
 - Tiene una tapa removible
 - Fácil y rápida instalación, con guías de cinturón accesibles, hace que esta silla de coche sea óptima para viajes cortos
-- La cubierta puede lavarse a 30º
 - Silla de auto ligera; se puede guardar fácilmente en el maletero del coche gracias a su pequeño tamaño
+- La cubierta puede lavarse a 30º
 - Silla de coche con asiento totalmente acolchado que proporciona una óptima comodidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076DZG34B/?tag=tolees-21)
