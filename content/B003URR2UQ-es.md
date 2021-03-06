@@ -29,7 +29,7 @@ Ahora mismo tienes [Suavinex Esponja 100% Natural para Bebé con Materiales del 
 🔎:
 
 - Con materiales 100% naturales procedentes del fondo marino, su proceso de selección y preparación es artesanal y cuidadoso
-- Hay varios tamaños adecuados a cada necesidad
 - Por su suavidad, gran poder de absorción y tamaños disponibles, es la esponja ideal para el cuidado del bebé y de toda la familia
+- Hay varios tamaños adecuados a cada necesidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003URR2UQ/?tag=tolees-21)
