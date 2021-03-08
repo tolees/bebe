@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IEFIEL Vestidos Princesa de Fiesta Bebés con un 56.92 % de descuento'
-date: 2021-03-07 08:56:14
+date: 2021-03-08 10:42:38
 image: 'https://m.media-amazon.com/images/I/51Iwjrt02EL._SL400_.jpg'
 comments: true
 category: ofertas
