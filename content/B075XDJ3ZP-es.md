@@ -28,10 +28,10 @@ En este momento está [IEFIEL Vestidos Princesa de Fiesta Bebés Niñas Vestido 
 
 🔎:
 
-- Por favor, consulte el tamaño a continuación cuidadosamente antes de ordenar.
-- Perfecto para fiestas, cumpleaños, cosplay, fotografía etc.
 - Falda de 3 capas: la primera de organza con lunares, una de satén y la interior de forro
+- Por favor, consulte el tamaño a continuación cuidadosamente antes de ordenar.
 - Disfraz de princesa de fiesta para bebé niña,Vestido Tutú Lentejuelas
 - Cuello redondo, manga corta Gigote
+- Perfecto para fiestas, cumpleaños, cosplay, fotografía etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075XDJ3ZP/?tag=tolees-21)
