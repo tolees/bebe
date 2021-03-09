@@ -28,8 +28,8 @@ En este momento está [Amaryllo iBabi HD Wi-Fi 5m Rosa  Color blanco - Vigilabeb
 
 🔎:
 
-- También incluye reproductor mp3 con control remoto
 - Sensores de movimiento y audio
+- También incluye reproductor mp3 con control remoto
 - Imágenes de notificación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00K5NG53S/?tag=tolees-21)
