@@ -28,10 +28,10 @@ En este momento está [luosh Taza para Beber Taza de alimentación para niños  
 
 🔎:
 
+- No goteará si pone la taza boca abajo
 - Pico de pato, hay una válvula de silicona en el interior
 - Material: PP, Capacidad: 300 ml
-- Cómodo de llevar, perfecto para viajes o viajes cortos
-- No goteará si pone la taza boca abajo
 - Puede ayudar a su bebé a aprender a beber por sí mismo.
+- Cómodo de llevar, perfecto para viajes o viajes cortos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QJH3NDD/?tag=tolees-21)
