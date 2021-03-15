@@ -28,10 +28,10 @@ Tienes [Philips Avent SCF553/03 - Vaso con boquilla de silicona para niña  vál
 
 🔎:
 
-- Edad recomendada: 6 meses
-- Color del producto: rojo, violeta
-- Es un modelo apto para lavavajillas
-- Material de la tetina: silicona
 - Volumen: 200 ml
+- Edad recomendada: 6 meses
+- Es un modelo apto para lavavajillas
+- Color del producto: rojo, violeta
+- Material de la tetina: silicona
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00WJNJ4EO/?tag=tolees-21)
