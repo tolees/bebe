@@ -28,8 +28,8 @@ Está [Nenuco Agua de Colonia recomendado para bebés fragancia original - 600 m
 
 ℹ️:
 
-- Nenuco - unisex
-- Nenuco - Eau de Cologne
 - Contains : 600 ml
+- Nenuco - Eau de Cologne
+- Nenuco - unisex
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004XGQ1PU/?tag=tolees-21)
