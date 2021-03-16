@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YNSPSST-es Suavinex – Crema Reafirmante Corporal. Compatible con...'
 sku: 'B07YNSPSST-es'
-tags: [ 'suavinex','lactancia', ]
+tags: [ 'lactancia','suavinex', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

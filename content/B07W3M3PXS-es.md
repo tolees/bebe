@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07W3M3PXS-es Cámara vigilancia bebe Vigilabebés Inalambrico con cámara...'
 sku: 'B07W3M3PXS-es'
-tags: [ 'bebe','bebé','vigilabebés','bebé', ]
+tags: [ 'bebe','bebé','vigilabebés', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

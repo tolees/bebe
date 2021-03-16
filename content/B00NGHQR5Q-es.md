@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00NGHQR5Q-es GEMVIE Flotador de Bebé Piscina Inflable con Manija Anillo...'
 sku: 'B00NGHQR5Q-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

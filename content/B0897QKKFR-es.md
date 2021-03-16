@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0897QKKFR-es ZXYAN Wind Up mecánica Ballena de plástico con la Rueda...'
 sku: 'B0897QKKFR-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

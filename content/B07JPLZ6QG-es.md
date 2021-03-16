@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07JPLZ6QG-es Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet...'
 sku: 'B07JPLZ6QG-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01JYSQ2S2-es Chicco Easy Fit Mochila ergonómica portabebé hasta 9 kg...'
 sku: 'B01JYSQ2S2-es'
-tags: [ 'chicco','portabebé','portabebé', ]
+tags: [ 'chicco','portabebé', ]
 actualPrice: 38.35 EUR
 currency: EUR
 price: 38.35

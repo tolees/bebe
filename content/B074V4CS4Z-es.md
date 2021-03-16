@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B074V4CS4Z-es Lebze Muselina Manta Bebé -"Diente de Ballena" Bambú...'
 sku: 'B074V4CS4Z-es'
-tags: [ 'bebé','muselina','bebé', ]
+tags: [ 'bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

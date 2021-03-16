@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B074W7BXPD-es TONZE Juguetes Baño Bebe Juguetes Bebe Bañera Flotantes...'
 sku: 'B074W7BXPD-es'
-tags: [ 'bebe','bebé','bebé', ]
+tags: [ 'bebe','bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

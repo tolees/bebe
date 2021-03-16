@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07X3ZS4C6-es Xnuoyo Mochilas de Pañales Gran Capacidad Mochila de...'
 sku: 'B07X3ZS4C6-es'
-tags: [ 'bebé','pañales','bebé', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

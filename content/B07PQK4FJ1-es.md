@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07PQK4FJ1-es non-brand Muñeca Bebé Reborn con Bañera Azul y Accesorios...'
 sku: 'B07PQK4FJ1-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

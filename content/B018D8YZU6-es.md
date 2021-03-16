@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B018D8YZU6-es Vizaro - Cambiador Bebé Textil Acolchado - Portátil - Muy...'
 sku: 'B018D8YZU6-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

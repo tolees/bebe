@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B078H7ZNG5-es Asalvo Silla de coche grupo 0+/1/2 Isofix azul'
 sku: 'B078H7ZNG5-es'
-tags: [ 'asalvo','isofix','silla','de','coche', ]
+tags: [ 'asalvo','coche','de','isofix','silla', ]
 actualPrice: 163.06 EUR
 currency: EUR
 price: 163.06

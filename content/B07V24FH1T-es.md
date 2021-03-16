@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07V24FH1T-es Safta Sport Bag 40 Cm Superzings Bolsa de gimnasio Unisex...'
 sku: 'B07V24FH1T-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

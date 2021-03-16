@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08C4NLLN2-es Harxin Baby Travel Potty Asiento de Inodoro Portátil para...'
 sku: 'B08C4NLLN2-es'
-tags: [ 'bebé','bebés','bebé', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

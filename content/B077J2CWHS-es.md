@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B077J2CWHS-es Fisher-Price Cebra activity juguete colgante para bebé...'
 sku: 'B077J2CWHS-es'
-tags: [ 'bebé','fisher-price','bebé', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

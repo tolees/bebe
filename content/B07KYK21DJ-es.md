@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KYK21DJ-es Mallalah Chaqueta de bebé niña Abrigo Trench Coat Sudadera...'
 sku: 'B07KYK21DJ-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00DSKSEZC-es Cybex - Silla de coche grupo 1/2/3 Pallas silla de coche 2...'
 sku: 'B00DSKSEZC-es'
-tags: [ 'cybex','isofix','silla','de','coche', ]
+tags: [ 'coche','cybex','de','isofix','silla', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

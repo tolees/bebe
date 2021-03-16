@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07SJ9VF6Y-es Lebze Muselina Manta Bebé | Mantas de Muselina de Bambú...'
 sku: 'B07SJ9VF6Y-es'
-tags: [ 'bebé','muselina','bebé', ]
+tags: [ 'bebé','muselina', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

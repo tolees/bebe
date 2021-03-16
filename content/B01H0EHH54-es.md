@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01H0EHH54-es Foppapedretti Rolling Fix Silla de coche grupo 0+/1 Isofix...'
 sku: 'B01H0EHH54-es'
-tags: [ 'isofix','silla','de','coche', ]
+tags: [ 'coche','de','isofix','silla', ]
 actualPrice: 215.18 EUR
 currency: EUR
 price: 215.18

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07GRHR9JW-es Adidas Lite Racer Inf Zapatillas de Estar por casa Bebé...'
 sku: 'B07GRHR9JW-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B073C7F7HB-es Fisher-Price Monito gatea conmigo juguete gateo bebé +3...'
 sku: 'B073C7F7HB-es'
-tags: [ 'bebé','fisher-price','bebé', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

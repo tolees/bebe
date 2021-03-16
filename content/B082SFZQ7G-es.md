@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B082SFZQ7G-es Luchild Almohada Embarazada Multifuncional Cojín Lactancia...'
 sku: 'B082SFZQ7G-es'
-tags: [ 'bebé','embarazada','bebé','lactancia', ]
+tags: [ 'bebé','embarazada','lactancia', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

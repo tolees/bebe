@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08BZQZ8K3-es AMZTM Camiseta Cumpleaños Bebé Niña Flamenco 1er Cumpleaño...'
 sku: 'B08BZQZ8K3-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

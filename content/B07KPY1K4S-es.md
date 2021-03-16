@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KPY1K4S-es dPois Vestidos de Princesa Diadema Niña Bebé Fiesta...'
 sku: 'B07KPY1K4S-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

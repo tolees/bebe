@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B084D75NRV-es Bisoo - 70x140 cm Protector de Colchón Bebé + Sabana...'
 sku: 'B084D75NRV-es'
-tags: [ 'bebé','maxicuna','bebé', ]
+tags: [ 'bebé','maxicuna', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

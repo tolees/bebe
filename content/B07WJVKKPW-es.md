@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07WJVKKPW-es HOTLIKE Bolsa de Pañales 3PCS Bebé Reutilizable...'
 sku: 'B07WJVKKPW-es'
-tags: [ 'bebé','pañales','bebé', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

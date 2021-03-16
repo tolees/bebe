@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YZQK48X-es Maxi-Cosi Zelia Carrito bebé 2 en 1 hamaca se transforma...'
 sku: 'B07YZQK48X-es'
-tags: [ 'bebé','maxi-cosi','bebé', ]
+tags: [ 'bebé','maxi-cosi', ]
 actualPrice: 221.99 EUR
 currency: EUR
 price: 221.99

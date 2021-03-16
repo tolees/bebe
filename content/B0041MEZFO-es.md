@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0041MEZFO-es Laboratorios Babé - Gel de Baño Pediátrico 500 ml Suavidad...'
 sku: 'B0041MEZFO-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

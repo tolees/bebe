@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01FH6S3K0-es Chicco Natural Sensation - Gel de baño Oso 300 ml'
 sku: 'B01FH6S3K0-es'
-tags: [ 'chicco','chicco','natural','sensation', ]
+tags: [ 'chicco','natural','sensation', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

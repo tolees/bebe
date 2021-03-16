@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083FT2P2Z-es LQLQO Mini humidificador Personal USB portátil ultrasónico...'
 sku: 'B083FT2P2Z-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

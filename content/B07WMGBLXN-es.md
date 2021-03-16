@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07WMGBLXN-es inhzoy Mameluco de Princess Encaje para Bebé Niña Body...'
 sku: 'B07WMGBLXN-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

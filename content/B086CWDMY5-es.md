@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086CWDMY5-es Wangxyan Red de Viaje portátil para bebés Tapa de Paraguas...'
 sku: 'B086CWDMY5-es'
-tags: [ 'bebé','bebés','bebé', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TXQCLKZ-es Rodilleras para gatear rodillera bebe gateo rodillera para...'
 sku: 'B07TXQCLKZ-es'
-tags: [ 'bebe','bebé','bebés','bebé', ]
+tags: [ 'bebe','bebé','bebés', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

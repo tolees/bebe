@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DVXQ4SF-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
 sku: 'B07DVXQ4SF-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

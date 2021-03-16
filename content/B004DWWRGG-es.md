@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B004DWWRGG-es Ganchos para Sillas de Paseo GKONGU Pack de 2 Ganchos...'
 sku: 'B004DWWRGG-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B082SW1HCR-es Ventilador Portátil Versátil de Escritorio Personal...'
 sku: 'B082SW1HCR-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

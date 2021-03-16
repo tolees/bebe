@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B076RWLVJN-es Bebé Luz nocturna musical USB recargable 4 modos Proyector...'
 sku: 'B076RWLVJN-es'
-tags: [ 'bebé','bebés','bebé', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

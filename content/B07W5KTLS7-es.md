@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07W5KTLS7-es WERNNSAI Unicornio Manta de Hito Bebé - 150 x 100 cm Manta...'
 sku: 'B07W5KTLS7-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

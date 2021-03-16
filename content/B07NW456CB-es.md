@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07NW456CB-es T-Shirt para Bebé Pack de 3 Niños Niñas Manga Corta...'
 sku: 'B07NW456CB-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DXJTT97-es TOP BRIGHT Juguetes de Cocina de Madera Corte de Juguetes...'
 sku: 'B07DXJTT97-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

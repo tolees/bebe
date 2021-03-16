@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07ZVBFG46-es AMZTM Dinosaurio Camiseta de Cumpleaños - 1er Cumpleaños...'
 sku: 'B07ZVBFG46-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

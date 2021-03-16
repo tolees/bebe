@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01NC21BAH-es BabyMoments Cards by Mimuselina Bilingüe: Español-English...'
 sku: 'B01NC21BAH-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

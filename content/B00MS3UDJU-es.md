@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00MS3UDJU-es Maxi-Cosi CabrioFix Silla de auto reclinable y seguro para...'
 sku: 'B00MS3UDJU-es'
-tags: [ 'bebé','maxi-cosi','bebé', ]
+tags: [ 'bebé','maxi-cosi', ]
 actualPrice: 117.0 EUR
 currency: EUR
 price: 117.0

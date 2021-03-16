@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01N0TGW5L-es Fisher-Price Saltador activity de perrito juguete para...'
 sku: 'B01N0TGW5L-es'
-tags: [ 'bebé','fisher-price','bebé', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 103.49 EUR
 currency: EUR
 price: 103.49

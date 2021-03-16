@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LXXMILJ-es InnoBeta Fountain Humidificador Ultrasónica 3 0Litro Bebé...'
 sku: 'B01LXXMILJ-es'
-tags: [ 'bebé','bebés','bebé', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

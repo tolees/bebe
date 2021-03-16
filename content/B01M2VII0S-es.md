@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M2VII0S-es Silicona De Enfermería De Dentición Lactancia Materna...'
 sku: 'B01M2VII0S-es'
-tags: [ 'bebé','bebé','lactancia', ]
+tags: [ 'bebé','lactancia', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

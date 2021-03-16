@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Y9QGMKX-es DAYNEW 5 Pares de Calcetines Antideslizantes para bebé...'
 sku: 'B07Y9QGMKX-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

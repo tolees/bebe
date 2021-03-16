@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0722TTFD7-es Lebze Muselina Manta Bebé -"Diente de Plumas" Bambú...'
 sku: 'B0722TTFD7-es'
-tags: [ 'bebé','muselina','bebé', ]
+tags: [ 'bebé','muselina', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

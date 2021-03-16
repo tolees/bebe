@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01F5BEHA2-es LifeVit BT-125 Termómetro inteligente para Bebé conexión...'
 sku: 'B01F5BEHA2-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

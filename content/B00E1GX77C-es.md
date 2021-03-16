@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00E1GX77C-es Béaba 915009 - Hamaca para bebé regulable en altura'
 sku: 'B00E1GX77C-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 116.46 EUR
 currency: EUR
 price: 116.46

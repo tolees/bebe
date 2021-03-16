@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KL1DL2N-es Safety 1st Soft Dreams Cuna de viaje plegable y portatil...'
 sku: 'B07KL1DL2N-es'
-tags: [ 'bebés','safety','1st', ]
+tags: [ '1st','bebés','safety', ]
 actualPrice: 28.34 EUR
 currency: EUR
 price: 28.34

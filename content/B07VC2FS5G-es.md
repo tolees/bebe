@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VC2FS5G-es Luchild Termómetro Digital Infrarrojos Bebé de Frente y...'
 sku: 'B07VC2FS5G-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

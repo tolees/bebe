@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07RK13T6D-es Termómetro para Bebé Vigorun Termómetro de Frente y Oídos...'
 sku: 'B07RK13T6D-es'
-tags: [ 'bebé','bebés','bebé', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

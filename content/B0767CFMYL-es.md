@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0767CFMYL-es Fisher-Price - Cuna De Viaje 2 En 1 Para Bebé Multicolor...'
 sku: 'B0767CFMYL-es'
-tags: [ 'bebé','fisher-price','bebé', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

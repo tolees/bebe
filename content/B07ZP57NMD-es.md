@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07ZP57NMD-es TiaoBug Bolero Fiesta Bebé Niñas para Boda Chaqueta Manga...'
 sku: 'B07ZP57NMD-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

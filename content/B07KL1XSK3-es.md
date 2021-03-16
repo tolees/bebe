@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KL1XSK3-es Safety 1st TIMBA con Cojín Petrol Blue - Trona evolutiva...'
 sku: 'B07KL1XSK3-es'
-tags: [ 'trona','safety','1st', ]
+tags: [ '1st','safety','trona', ]
 actualPrice: 66.93 EUR
 currency: EUR
 price: 66.93

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0861QHZVP-es Magicfun Flotado de Natación para Bebé con Asiento Anill...'
 sku: 'B0861QHZVP-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

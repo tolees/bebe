@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0895WV3BQ-es Bebé Pantalones Cortos Niñas Niños Bombacho Estampado...'
 sku: 'B0895WV3BQ-es'
-tags: [ 'bebé','pañal','bebé', ]
+tags: [ 'bebé','pañal', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

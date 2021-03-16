@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07SWJ9PKJ-es Cozime Vigilabebés Inalámbrico Bebé Monitor Inteligente...'
 sku: 'B07SWJ9PKJ-es'
-tags: [ 'bebé','vigilabebés','bebé', ]
+tags: [ 'bebé','vigilabebés', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

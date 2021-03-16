@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07MZNXZPX-es Kickers Bonbon Botas Unisex bebé Violeta Violeta Oscuro...'
 sku: 'B07MZNXZPX-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

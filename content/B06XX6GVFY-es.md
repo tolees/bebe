@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XX6GVFY-es Skip Hop Zoo Unicorn - Termo contenedor'
 sku: 'B06XX6GVFY-es'
-tags: [ 'skip','hop', ]
+tags: [ 'hop','skip', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

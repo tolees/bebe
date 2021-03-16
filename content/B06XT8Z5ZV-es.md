@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XT8Z5ZV-es AngLink Mini Ventilador USB Portatil Recargable Bateria...'
 sku: 'B06XT8Z5ZV-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

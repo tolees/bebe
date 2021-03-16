@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07CBCDY2T-es Manta de Bebé Lactancia Alimentación Paños de Muselina...'
 sku: 'B07CBCDY2T-es'
-tags: [ 'bebé','muselina','portabebé','bebé','lactancia','portabebé', ]
+tags: [ 'bebé','lactancia','muselina','portabebé', ]
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

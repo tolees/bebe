@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07PMHZ6SJ-es Rolimate Wooden Toy 5 en 1 Laberinto con Abalorios de...'
 sku: 'B07PMHZ6SJ-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

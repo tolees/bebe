@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B079ZGR43J-es Britax Römer Kidfix Silla de coche grupo 2/3 Isofix negro...'
 sku: 'B079ZGR43J-es'
-tags: [ 'isofix','römer','silla','de','coche', ]
+tags: [ 'coche','de','isofix','römer','silla', ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

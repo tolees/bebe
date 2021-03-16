@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07HNZXDHR-es Alvivi Chaqueta de Piel Sintética Bebé Bolero Blanco Boda...'
 sku: 'B07HNZXDHR-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

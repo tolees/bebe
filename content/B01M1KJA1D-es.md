@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M1KJA1D-es FREESOO Set 5 kits Bolsa de Mama para Bebe Biberon...'
 sku: 'B01M1KJA1D-es'
-tags: [ 'bebe','bebé','biberon','biberón','pañales','bebé', ]
+tags: [ 'bebe','bebé','biberon','biberón','pañales', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

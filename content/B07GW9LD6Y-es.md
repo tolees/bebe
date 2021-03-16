@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07GW9LD6Y-es Gankmachine Ángulo bebé recién Nacido ala de la Pluma y de...'
 sku: 'B07GW9LD6Y-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

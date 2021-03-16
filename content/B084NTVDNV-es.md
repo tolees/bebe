@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B084NTVDNV-es Eléctrico Lima de uñas del bebé Lima de uñas Set de...'
 sku: 'B084NTVDNV-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

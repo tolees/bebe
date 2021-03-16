@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07SD27X4X-es Lictin Sacaleches Eléctrico - Extractor de Leche con...'
 sku: 'B07SD27X4X-es'
-tags: [ 'sacaleches','lactancia', ]
+tags: [ 'lactancia','sacaleches', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

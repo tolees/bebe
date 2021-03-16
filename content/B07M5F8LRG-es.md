@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07M5F8LRG-es Baby Jogger City Tour LUX DUO Cochecito de Bebé Desde...'
 sku: 'B07M5F8LRG-es'
-tags: [ 'bebé','baby','jogger','bebé', ]
+tags: [ 'baby','bebé','jogger', ]
 actualPrice: 211.41 EUR
 currency: EUR
 price: 211.41

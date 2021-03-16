@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07ZKD7JBG-es ZOZOSEP Decoración para el hogar Colgante Adorno-Nube...'
 sku: 'B07ZKD7JBG-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.31 EUR
 currency: EUR
 price: 4.31

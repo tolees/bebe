@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07CG4YJCY-es SOYAR® mordedor bebé - Pulpo juguete y el 100% BPA de...'
 sku: 'B07CG4YJCY-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

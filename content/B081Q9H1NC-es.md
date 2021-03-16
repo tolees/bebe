@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B081Q9H1NC-es UBEGOOD Humidificador Difusor de Aromaterapia...'
 sku: 'B081Q9H1NC-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

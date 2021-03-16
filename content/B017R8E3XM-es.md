@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B017R8E3XM-es LEORX Tabla protector parachoques tira bebé Protector de...'
 sku: 'B017R8E3XM-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

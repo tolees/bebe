@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086QMJ9FF-es Promini - Body para bebé con texto en inglés "My Aunt in...'
 sku: 'B086QMJ9FF-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KL23D3M-es Safety 1st Keeny Trona evolutiva Trona bebé compacta...'
 sku: 'B07KL23D3M-es'
-tags: [ 'bebé','trona','bebé','safety','1st', ]
+tags: [ '1st','bebé','safety','trona', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

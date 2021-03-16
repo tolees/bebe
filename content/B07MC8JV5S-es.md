@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07MC8JV5S-es KidoMe 1280 x 720P Vigilabebé Vídeo Inalambrico Cámara...'
 sku: 'B07MC8JV5S-es'
-tags: [ 'bebé','vigilabebé','bebé', ]
+tags: [ 'bebé','vigilabebé', ]
 actualPrice: 74.39 EUR
 currency: EUR
 price: 74.39

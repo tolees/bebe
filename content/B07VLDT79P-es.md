@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VLDT79P-es Felly Juguetes Bebes Puzzles de Madera Educativos para...'
 sku: 'B07VLDT79P-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

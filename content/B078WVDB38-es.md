@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B078WVDB38-es Maclaren Quest - Silla de paseo para bebé asiento...'
 sku: 'B078WVDB38-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 273.96 EUR
 currency: EUR
 price: 273.96

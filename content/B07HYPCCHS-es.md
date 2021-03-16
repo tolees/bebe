@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07HYPCCHS-es Espejo Retrovisor de Coche Irrompible Inastillable Patrón...'
 sku: 'B07HYPCCHS-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

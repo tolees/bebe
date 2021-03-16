@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08724KNXX-es Mono de bebé Promini para bebé con texto en inglés "My...'
 sku: 'B08724KNXX-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

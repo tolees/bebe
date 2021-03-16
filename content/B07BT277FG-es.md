@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07BT277FG-es Trona de Viaje para Bebé Silla alta Bebe Portatil Arnés de...'
 sku: 'B07BT277FG-es'
-tags: [ 'bebe','bebé','trona','bebé', ]
+tags: [ 'bebe','bebé','trona', ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

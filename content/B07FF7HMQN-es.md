@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07FF7HMQN-es Cybex Gold Sirona S i-Size 519000215 Silla de Coche Grupo...'
 sku: 'B07FF7HMQN-es'
-tags: [ 'cybex','isofix','silla','de','coche', ]
+tags: [ 'coche','cybex','de','isofix','silla', ]
 actualPrice: 373.5 EUR
 currency: EUR
 price: 373.5

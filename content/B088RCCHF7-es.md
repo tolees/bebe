@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B088RCCHF7-es MQIAOHAM juego de enclavamiento juego de bebé tapetes para...'
 sku: 'B088RCCHF7-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

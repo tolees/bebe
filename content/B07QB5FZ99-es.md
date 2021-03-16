@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07QB5FZ99-es Lebze Muselina Manta Bebé -"Diseño de Zorro" Muselinas...'
 sku: 'B07QB5FZ99-es'
-tags: [ 'bebé','muselina','bebé', ]
+tags: [ 'bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

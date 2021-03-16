@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VL29ZTH-es laamei Paño Muselinas Multifunción para Bebé de Algodón...'
 sku: 'B07VL29ZTH-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

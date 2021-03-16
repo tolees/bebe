@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B085RL5TYR-es Libershine Cubierta De La Lactancia Del Bebé Gran calidad...'
 sku: 'B085RL5TYR-es'
-tags: [ 'bebé','bebés','bebé','lactancia', ]
+tags: [ 'bebé','bebés','lactancia', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

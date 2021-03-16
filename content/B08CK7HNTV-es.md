@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08CK7HNTV-es Panamar Niños Bebé Cute Cartoon Ballena Flotante...'
 sku: 'B08CK7HNTV-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

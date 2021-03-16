@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B075DDBGV8-es meiqicool Exterior/Interior Protectora|Alfombrillas de...'
 sku: 'B075DDBGV8-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

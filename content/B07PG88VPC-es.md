@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07PG88VPC-es WISHTIME Combine Track Pathway Bath Toy 2019 DIY...'
 sku: 'B07PG88VPC-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 24.03 EUR
 currency: EUR
 price: 24.03

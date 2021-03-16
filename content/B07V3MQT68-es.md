@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07V3MQT68-es KiraKira Mini Ventilador Clip Ventilador USB Ventilador...'
 sku: 'B07V3MQT68-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

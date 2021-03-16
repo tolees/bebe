@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YG284RQ-es SONARIN Silla Asiento de mesa para bebé trona de mesa...'
 sku: 'B07YG284RQ-es'
-tags: [ 'bebé','trona','bebé', ]
+tags: [ 'bebé','trona', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

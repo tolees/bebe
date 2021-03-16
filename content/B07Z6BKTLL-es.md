@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Z6BKTLL-es Piccalilly Body de manga larga para bebé suave algodón...'
 sku: 'B07Z6BKTLL-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

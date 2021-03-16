@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B079ZJBYCQ-es Britax Römer silla de coche 15 - 36 kg ≈ 3 5 - 12 años...'
 sku: 'B079ZJBYCQ-es'
-tags: [ 'isofix','römer','silla','de','coche', ]
+tags: [ 'coche','de','isofix','römer','silla', ]
 actualPrice: 109.59 EUR
 currency: EUR
 price: 109.59

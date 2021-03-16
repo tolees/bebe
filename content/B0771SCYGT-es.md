@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0771SCYGT-es Kiwisac Trendy Pirámides Bolso para Carro de Bebé...'
 sku: 'B0771SCYGT-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

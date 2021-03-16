@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LN8SRVG-es Britax Römer Silla de coche 9 meses - 12 años 9 - 36 kg...'
 sku: 'B01LN8SRVG-es'
-tags: [ 'isofix','römer','silla','de','coche', ]
+tags: [ 'coche','de','isofix','römer','silla', ]
 actualPrice: 147.99 EUR
 currency: EUR
 price: 147.99

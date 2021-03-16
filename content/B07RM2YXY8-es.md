@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07RM2YXY8-es UPF50+ Sombrero de Sol con Cubrenuca para Bebé Niños Niñas...'
 sku: 'B07RM2YXY8-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

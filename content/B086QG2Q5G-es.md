@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086QG2Q5G-es Agger Transparente bebé de Silicona Mam Anillo Chupete...'
 sku: 'B086QG2Q5G-es'
-tags: [ 'bebé','chupete','bebé', ]
+tags: [ 'bebé','chupete', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

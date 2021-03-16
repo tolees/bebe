@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YLWMHZV-es VERTBAUDET Camiseta de Cuello Alto fantasía bebé niño Azul...'
 sku: 'B07YLWMHZV-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07H2GNYHL-es Silla de Coche Grupo 1 2 3 Isofix con Escudo y Normativa...'
 sku: 'B07H2GNYHL-es'
-tags: [ 'bebé','isofix','bebé','silla','de','coche', ]
+tags: [ 'bebé','coche','de','isofix','silla', ]
 actualPrice: 127.97 EUR
 currency: EUR
 price: 127.97

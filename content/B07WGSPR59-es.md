@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07WGSPR59-es YGJT Bicicletas sin Pedales para niños 1 Año 10-36 Meses...'
 sku: 'B07WGSPR59-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TZRYH4G-es Zapatos de bebé Sandalias Unisex Niños 0-6 Meses - 3-4...'
 sku: 'B07TZRYH4G-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

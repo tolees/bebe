@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01MY0UOQR-es Safety 1st Wall Fix Extending Barrera de seguridad...'
 sku: 'B01MY0UOQR-es'
-tags: [ 'safety','1st', ]
+tags: [ '1st','safety', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KK3BHQP-es Safety 1st RAINBOW Black Chic - Silla de paseo color negro'
 sku: 'B07KK3BHQP-es'
-tags: [ 'safety','1st', ]
+tags: [ '1st','safety', ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

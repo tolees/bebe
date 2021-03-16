@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086YNZP81-es Mono de bebé Promini para bebé – My First Eid Muslim...'
 sku: 'B086YNZP81-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

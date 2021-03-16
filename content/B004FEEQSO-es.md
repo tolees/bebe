@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B004FEEQSO-es Intex 56587EU - Flotador Hinchable bebé'
 sku: 'B004FEEQSO-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

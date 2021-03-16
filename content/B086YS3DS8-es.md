@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086YS3DS8-es Mono de bebé Promini para bebé de una sola pieza tías...'
 sku: 'B086YS3DS8-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

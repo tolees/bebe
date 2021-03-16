@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08DCVJV6S-es Luz Nocturna Infantil Glinrui Luz de Noche Bebé Lámpara de...'
 sku: 'B08DCVJV6S-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

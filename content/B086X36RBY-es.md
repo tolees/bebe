@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086X36RBY-es 5 Piezas Bebé Body Mono de Manga Corta Mameluco Algodón...'
 sku: 'B086X36RBY-es'
-tags: [ 'bebé','bebés','bebé', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

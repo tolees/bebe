@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M21ABJ6-es Ergobaby Mochila Portabebé Ergonomica para Recién Nacido...'
 sku: 'B01M21ABJ6-es'
-tags: [ 'portabebé','portabebé', ]
+tags: [ 'portabebé', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00FANJSSC-es Cybex Silver - Portabebé Aton en contra de la marcha...'
 sku: 'B00FANJSSC-es'
-tags: [ 'cybex','portabebé','portabebé', ]
+tags: [ 'cybex','portabebé', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0838S2WZZ-es AMZTM Dinosaurio Camiseta de Cumpleaños Bebé Cumpleaños...'
 sku: 'B0838S2WZZ-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

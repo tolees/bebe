@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B085CG4GXM-es Almohada linda encantadora del patrón de dibujos animados...'
 sku: 'B085CG4GXM-es'
-tags: [ 'bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09
