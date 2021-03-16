@@ -5,7 +5,7 @@ date: 2020-06-08 07:41:34
 image: 'https://m.media-amazon.com/images/I/51hk4sWZo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCWLN49-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
 sku: 'B07GCWLN49-es'
 tags: [ 'embarazo', ]

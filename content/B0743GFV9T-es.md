@@ -5,7 +5,7 @@ date: 2020-01-12 11:40:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41b8RczCRVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743GFV9T-es Tiny Love Meadow Days - Manta de juegos gigante para bebés...'
 sku: 'B0743GFV9T-es'
 tags: [ 'bebés', ]

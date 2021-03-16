@@ -5,7 +5,7 @@ date: 2020-07-05 21:25:07
 image: 'https://m.media-amazon.com/images/I/31pLITpQ4qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009SM7M6G-es ISDIN NUTRAISDIN Loción Hidratante Corporal 500 ml'
 sku: 'B009SM7M6G-es'
 tags: [ 'nutraisdin', ]

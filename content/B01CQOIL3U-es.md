@@ -5,7 +5,7 @@ date: 2020-05-30 13:24:29
 image: 'https://m.media-amazon.com/images/I/31mMx155f8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQOIL3U-es Chicco Phisio Soft - Chupete todo goma de silicona para...'
 sku: 'B01CQOIL3U-es'
 tags: [ 'chicco','chupete', ]

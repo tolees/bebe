@@ -5,7 +5,7 @@ date: 2020-08-25 08:25:54
 image: 'https://m.media-amazon.com/images/I/51avGjvgKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R48TWPG-es Buabi bolsitas reutilizables comida bebe - Pack de 6...'
 sku: 'B07R48TWPG-es'
 tags: [ 'bebe', ]

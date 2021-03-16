@@ -5,7 +5,7 @@ date: 2020-01-24 16:07:54
 image: 'https://m.media-amazon.com/images/I/319lttky4AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EWFCEE-es Tetina Calma para biberón Medela'
 sku: 'B004EWFCEE-es'
 tags: [ 'biberón','medela', ]

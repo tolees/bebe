@@ -5,7 +5,7 @@ date: 2020-09-18 13:32:41
 image: 'https://m.media-amazon.com/images/I/41kBFPrvFPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CZBHVC-es Chicco Luces Musicales Buenas Coches Color Rosa'
 sku: 'B007CZBHVC-es'
 tags: [ 'chicco', ]

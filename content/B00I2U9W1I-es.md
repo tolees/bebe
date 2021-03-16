@@ -5,7 +5,7 @@ date: 2020-01-14 17:40:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GnsQ9y7cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I2U9W1I-es Bebé Due 80160 - Taza 4 en 1'
 sku: 'B00I2U9W1I-es'
 tags: [ 'bebé', ]

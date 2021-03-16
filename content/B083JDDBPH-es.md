@@ -5,7 +5,7 @@ date: 2020-06-08 07:42:02
 image: 'https://m.media-amazon.com/images/I/41+tiYM7+uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JDDBPH-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
 sku: 'B083JDDBPH-es'
 tags: [ 'embarazo', ]

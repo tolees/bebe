@@ -5,7 +5,7 @@ date: 2020-09-10 21:06:53
 image: 'https://m.media-amazon.com/images/I/41AqwP0MzvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G1C6YBV-es Luz Nocturna Niños LED Lámpara de Noche Bebé de Conejo con...'
 sku: 'B08G1C6YBV-es'
 tags: [ 'bebé', ]

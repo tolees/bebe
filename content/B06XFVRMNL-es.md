@@ -5,7 +5,7 @@ date: 2020-04-13 03:39:33
 image: 'https://m.media-amazon.com/images/I/41dvALASdPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XFVRMNL-es Aeromoov ASATC11060GR - Cuna de Viaje para bebé plegable e...'
 sku: 'B06XFVRMNL-es'
 tags: [ 'bebé', ]

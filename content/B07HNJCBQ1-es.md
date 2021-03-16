@@ -5,7 +5,7 @@ date: 2020-09-15 17:57:19
 image: 'https://m.media-amazon.com/images/I/41zSc+Kr7uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNJCBQ1-es NUK Disney First Choice+ biberón | 6-18 meses | Tetina de...'
 sku: 'B07HNJCBQ1-es'
 tags: [ 'biberón','nuk', ]

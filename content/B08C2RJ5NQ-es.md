@@ -5,7 +5,7 @@ date: 2020-09-21 11:52:25
 image: 'https://m.media-amazon.com/images/I/418VKt++kSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C2RJ5NQ-es HOMCOM Coche Correpasillos para Bebés Mayores de 1 Año...'
 sku: 'B08C2RJ5NQ-es'
 tags: [ 'bebés', ]

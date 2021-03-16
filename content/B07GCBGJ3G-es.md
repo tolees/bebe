@@ -5,7 +5,7 @@ date: 2020-02-18 14:07:33
 image: 'https://m.media-amazon.com/images/I/41SmUCOOW1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCBGJ3G-es Chicco Open Box Parque de juegos infantil con alfombra...'
 sku: 'B07GCBGJ3G-es'
 tags: [ 'chicco', ]

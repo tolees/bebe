@@ -5,7 +5,7 @@ date: 2020-09-02 19:53:51
 image: 'https://m.media-amazon.com/images/I/51lNh+n6BTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGGJ655-es Dodot Activity - Pañales Talla 3 68 Pañales 6-10 kg'
 sku: 'B07LGGJ655-es'
 tags: [ 'dodot','pañales', ]

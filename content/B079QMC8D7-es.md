@@ -5,7 +5,7 @@ date: 2020-02-22 11:39:27
 image: 'https://m.media-amazon.com/images/I/41UVKDhgvVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QMC8D7-es Rubies - Disfraz infantil de Hipopótamo para bebé 1-2 años...'
 sku: 'B079QMC8D7-es'
 tags: [ 'bebé', ]

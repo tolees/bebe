@@ -5,7 +5,7 @@ date: 2020-05-31 16:42:53
 image: 'https://m.media-amazon.com/images/I/41pqpZ4T5wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLCD1WT-es Philips Avent SCF816/17 - Biberón Anti-colic de 330 ml...'
 sku: 'B07FLCD1WT-es'
 tags: [ 'avent','biberón', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 10:04:03
 image: 'https://m.media-amazon.com/images/I/51SbvnY8V0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CG4GXM-es Almohada linda encantadora del patrón de dibujos animados...'
 sku: 'B085CG4GXM-es'
 tags: [ 'bebé', ]

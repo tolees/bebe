@@ -5,7 +5,7 @@ date: 2020-10-01 09:50:25
 image: 'https://m.media-amazon.com/images/I/31GfOp6lfFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I1XECQU-es Ecus Kids El colchón de cuna Ecus Care con certificado...'
 sku: 'B01I1XECQU-es'
 tags: [ 'ecus','kids', ]

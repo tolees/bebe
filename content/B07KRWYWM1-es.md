@@ -5,7 +5,7 @@ date: 2020-03-18 22:18:13
 image: 'https://m.media-amazon.com/images/I/51lfkIio4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRWYWM1-es Nuby - Bañera para bebé con asiento integrado y...'
 sku: 'B07KRWYWM1-es'
 tags: [ 'bebé','nuby', ]

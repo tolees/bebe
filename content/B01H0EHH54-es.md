@@ -5,7 +5,7 @@ date: 2020-06-28 18:59:48
 image: 'https://m.media-amazon.com/images/I/41tcROWVbzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0EHH54-es Foppapedretti Rolling Fix Silla de coche grupo 0+/1 Isofix...'
 sku: 'B01H0EHH54-es'
 tags: [ 'coche','de','isofix','silla', ]

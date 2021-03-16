@@ -5,7 +5,7 @@ date: 2020-02-11 11:10:41
 image: 'https://m.media-amazon.com/images/I/31JqEj04rFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O511WWA-es Safety 1st Road Safe Silla de coche para Niños Grupo 2/3...'
 sku: 'B00O511WWA-es'
 tags: [ '1st','coche','de','safety','silla', ]

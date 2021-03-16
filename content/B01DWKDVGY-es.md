@@ -5,7 +5,7 @@ date: 2020-02-13 07:54:21
 image: 'https://m.media-amazon.com/images/I/31B-CXc8D3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWKDVGY-es Tommee Tippee 42269887 - Biberón decorado 340 ml color rosa'
 sku: 'B01DWKDVGY-es'
 tags: [ 'biberón','tommee', ]

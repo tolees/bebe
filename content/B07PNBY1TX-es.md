@@ -5,7 +5,7 @@ date: 2020-08-21 22:51:17
 image: 'https://m.media-amazon.com/images/I/21r1IbXy-4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNBY1TX-es Medela - Tubo para sacaleches doble Swing Maxi Flex'
 sku: 'B07PNBY1TX-es'
 tags: [ 'medela','sacaleches', ]

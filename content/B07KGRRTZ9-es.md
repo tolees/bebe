@@ -5,7 +5,7 @@ date: 2020-04-21 02:18:16
 image: 'https://m.media-amazon.com/images/I/41i-R0JMOeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGRRTZ9-es Safety 1st Calidoo Cuna Colecho e Cuna de viaje 2 in 1...'
 sku: 'B07KGRRTZ9-es'
 tags: [ '1st','safety', ]

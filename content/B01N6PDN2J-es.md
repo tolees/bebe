@@ -5,7 +5,7 @@ date: 2020-01-30 10:02:33
 image: 'https://m.media-amazon.com/images/I/41RJNHjD0PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6PDN2J-es TETINA NUK NATURE SENSE 6-18 SILI M 2UDS'
 sku: 'B01N6PDN2J-es'
 tags: [ 'nuk', ]

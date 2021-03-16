@@ -5,7 +5,7 @@ date: 2020-02-10 19:18:21
 image: 'https://m.media-amazon.com/images/I/41xD1LT6feL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FZXNU5Y-es Suavinex - Biberón Anatómico Flujo Denso Látex 360Ml 6M+...'
 sku: 'B00FZXNU5Y-es'
 tags: [ 'biberón','suavinex', ]

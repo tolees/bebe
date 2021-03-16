@@ -5,7 +5,7 @@ date: 2020-05-30 09:34:46
 image: 'https://m.media-amazon.com/images/I/31PJsTueLoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0041MEZFO-es Laboratorios Babé - Gel de Baño Pediátrico 500 ml Suavidad...'
 sku: 'B0041MEZFO-es'
 tags: [ 'bebé', ]

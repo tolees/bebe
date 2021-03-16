@@ -5,7 +5,7 @@ date: 2020-09-04 15:23:18
 image: 'https://m.media-amazon.com/images/I/41BIenqEEPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LRUXQA2-es Hauck Close N Stop - Puerta de Seguridad con Extensión de...'
 sku: 'B01LRUXQA2-es'
 tags: [ 'hauck', ]

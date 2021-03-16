@@ -5,7 +5,7 @@ date: 2020-06-25 17:01:52
 image: 'https://m.media-amazon.com/images/I/51YESYmW27L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR4LHFH-es Dodot Splashers Pañales Bañadores Desechables No se...'
 sku: 'B07BR4LHFH-es'
 tags: [ 'dodot','pañales', ]

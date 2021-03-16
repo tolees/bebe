@@ -5,7 +5,7 @@ date: 2020-04-22 08:46:32
 image: 'https://m.media-amazon.com/images/I/41smoQEwxPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012GX4J8C-es MINILAND BABY - Vigilabebé'
 sku: 'B012GX4J8C-es'
 tags: [ 'vigilabebé', ]

@@ -5,7 +5,7 @@ date: 2020-03-26 18:01:20
 image: 'https://m.media-amazon.com/images/I/51QEWtjir-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9UOYM7-es DECOWALL DLT-1615 Mapamundi Animales Vinilo Pegatinas...'
 sku: 'B01N9UOYM7-es'
 tags: [ 'bebés', ]

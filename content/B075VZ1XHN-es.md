@@ -5,7 +5,7 @@ date: 2020-02-14 08:40:18
 image: 'https://m.media-amazon.com/images/I/31Z3pKxkXCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075VZ1XHN-es BabyBjörn Babero de Manga Larga Lila'
 sku: 'B075VZ1XHN-es'
 tags: [ 'babero', ]

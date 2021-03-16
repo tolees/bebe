@@ -5,7 +5,7 @@ date: 2020-08-28 12:45:55
 image: 'https://m.media-amazon.com/images/I/51sS0QGHr8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TFGLRV-es Dookey Piscina Inflable para Bebés Hinchable Infantil...'
 sku: 'B083TFGLRV-es'
 tags: [ 'bebés', ]

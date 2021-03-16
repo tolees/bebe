@@ -5,7 +5,7 @@ date: 2020-02-18 21:18:36
 image: 'https://m.media-amazon.com/images/I/51e1lIDz1DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYHQW49-es Lehoo Castle Coche del Dinosaurio del Juguete del bebé...'
 sku: 'B07QYHQW49-es'
 tags: [ 'bebé', ]

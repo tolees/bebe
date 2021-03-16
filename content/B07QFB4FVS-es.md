@@ -5,7 +5,7 @@ date: 2020-04-13 13:19:33
 image: 'https://m.media-amazon.com/images/I/41mTeljgPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFB4FVS-es Pablosky 64521 Botas para Bebés Azul 21 EU'
 sku: 'B07QFB4FVS-es'
 tags: [ 'bebés', ]

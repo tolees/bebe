@@ -5,7 +5,7 @@ date: 2020-10-02 12:21:36
 image: 'https://m.media-amazon.com/images/I/41ftfXuUPqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088SBN6FP-es NUK Perfect Start First Choice+ kit de biberones 0-6 meses...'
 sku: 'B088SBN6FP-es'
 tags: [ 'biberones','chupete','nuk', ]

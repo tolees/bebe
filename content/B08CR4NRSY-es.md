@@ -5,7 +5,7 @@ date: 2020-09-27 13:23:31
 image: 'https://m.media-amazon.com/images/I/51M45McalEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CR4NRSY-es Gorro de bebé para recién Nacido Diademas Bebe Unidades...'
 sku: 'B08CR4NRSY-es'
 tags: [ 'bebe','bebé', ]

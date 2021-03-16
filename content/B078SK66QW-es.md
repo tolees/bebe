@@ -5,7 +5,7 @@ date: 2020-03-06 11:14:10
 image: 'https://m.media-amazon.com/images/I/51xrp0RRfYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SK66QW-es Mum & You Toallitas Húmedas Para Bebés 100% Biodegradables...'
 sku: 'B078SK66QW-es'
 tags: [ 'bebés', ]

@@ -5,7 +5,7 @@ date: 2020-03-11 12:32:14
 image: 'https://m.media-amazon.com/images/I/41SKpGs20JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WVDB38-es Maclaren Quest - Silla de paseo para bebé asiento...'
 sku: 'B078WVDB38-es'
 tags: [ 'bebé', ]

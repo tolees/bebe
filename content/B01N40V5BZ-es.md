@@ -5,7 +5,7 @@ date: 2020-07-08 02:31:02
 image: 'https://m.media-amazon.com/images/I/31g1fJZGMNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N40V5BZ-es Munchkin Miracle 360° - Vaso de entrenamiento antiderrames...'
 sku: 'B01N40V5BZ-es'
 tags: [ 'munchkin', ]

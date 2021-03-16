@@ -5,7 +5,7 @@ date: 2020-07-04 11:26:48
 image: 'https://m.media-amazon.com/images/I/41lya8AvBHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWMM8JV-es Suavinex - Canastilla de regalo baby shower para recién...'
 sku: 'B07KWMM8JV-es'
 tags: [ 'biberón','chupete','pañal','suavinex', ]

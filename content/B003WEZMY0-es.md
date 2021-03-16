@@ -5,7 +5,7 @@ date: 2020-10-02 10:58:16
 image: 'https://m.media-amazon.com/images/I/41tVumFCkIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WEZMY0-es Suavinex Crema del Pañal para Bebés para Pieles Sensibles...'
 sku: 'B003WEZMY0-es'
 tags: [ 'bebés','pañal','suavinex', ]

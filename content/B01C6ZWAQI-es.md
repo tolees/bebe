@@ -5,7 +5,7 @@ date: 2020-06-19 14:36:45
 image: 'https://m.media-amazon.com/images/I/31PvHltb4oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C6ZWAQI-es Tommee Tippee 42361081 - Esterilizar con vapor en el...'
 sku: 'B01C6ZWAQI-es'
 tags: [ 'tommee', ]

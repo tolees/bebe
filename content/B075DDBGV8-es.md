@@ -5,7 +5,7 @@ date: 2020-08-07 11:50:07
 image: 'https://m.media-amazon.com/images/I/51wAve4GN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DDBGV8-es meiqicool Exterior/Interior Protectora|Alfombrillas de...'
 sku: 'B075DDBGV8-es'
 tags: [ 'bebé', ]

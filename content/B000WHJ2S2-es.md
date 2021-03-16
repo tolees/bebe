@@ -5,7 +5,7 @@ date: 2020-04-06 15:31:43
 image: 'https://m.media-amazon.com/images/I/31DdoK0F2bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WHJ2S2-es Medela- Protectores para Pezones Doloridos y Agrietados...'
 sku: 'B000WHJ2S2-es'
 tags: [ 'lactancia', ]

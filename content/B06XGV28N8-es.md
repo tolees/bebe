@@ -5,7 +5,7 @@ date: 2020-09-07 15:30:39
 image: 'https://m.media-amazon.com/images/I/41kzueQfClL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGV28N8-es Miracle Baby Mantas Bebe Algodón Swaddle Blanket de...'
 sku: 'B06XGV28N8-es'
 tags: [ 'bebe','muselina', ]

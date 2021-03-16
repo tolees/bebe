@@ -5,7 +5,7 @@ date: 2020-02-03 21:48:53
 image: 'https://m.media-amazon.com/images/I/417LyBbROQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FH6T2S2-es Chicco Natural Sensation - Gel de baño sin lágrimas 750 ml'
 sku: 'B01FH6T2S2-es'
 tags: [ 'chicco','natural','sensation', ]

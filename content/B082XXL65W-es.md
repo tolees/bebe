@@ -5,7 +5,7 @@ date: 2020-06-01 11:39:16
 image: 'https://m.media-amazon.com/images/I/41Oa-md48DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XXL65W-es Bonio Silla de Coche Giratoria 360º Grupo 0+/1/2/3 0~36kg...'
 sku: 'B082XXL65W-es'
 tags: [ 'coche','de','silla', ]

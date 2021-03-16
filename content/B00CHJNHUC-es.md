@@ -5,7 +5,7 @@ date: 2020-01-06 16:40:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MKrVMv34L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CHJNHUC-es Philips Avent SCF695/17 - Biberón tetina suave y flexible...'
 sku: 'B00CHJNHUC-es'
 tags: [ 'avent','biberón', ]

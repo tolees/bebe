@@ -5,7 +5,7 @@ date: 2020-03-30 09:48:40
 image: 'https://m.media-amazon.com/images/I/41aurVycA2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076DJCS1X-es Bébé Confort ZELIA Nomad Black - Cochecito urbano 2 en 1...'
 sku: 'B076DJCS1X-es'
 tags: [ 'bébé','confort', ]

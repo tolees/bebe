@@ -5,7 +5,7 @@ date: 2020-01-18 10:01:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2BHYq8qWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MMS5IA-es Philips Avent SCF155/06 - Discos absorbentes lavables para...'
 sku: 'B000MMS5IA-es'
 tags: [ 'avent', ]

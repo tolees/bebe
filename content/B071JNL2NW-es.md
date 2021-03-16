@@ -5,7 +5,7 @@ date: 2020-06-04 23:59:13
 image: 'https://m.media-amazon.com/images/I/51Ki3jXifGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JNL2NW-es Simple Joys by Carter s traje de baño de 2 piezas para...'
 sku: 'B071JNL2NW-es'
 tags: [ 'bebés', ]

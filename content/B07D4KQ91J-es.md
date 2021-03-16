@@ -5,7 +5,7 @@ date: 2020-08-30 16:11:06
 image: 'https://m.media-amazon.com/images/I/51np3oaDTzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4KQ91J-es Marca Amazon- Mama Bear Pañal de aprendizaje maxi- Talla 4...'
 sku: 'B07D4KQ91J-es'
 tags: [ 'bear','mama','pañal','pañales', ]

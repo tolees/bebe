@@ -5,7 +5,7 @@ date: 2020-07-07 13:25:37
 image: 'https://m.media-amazon.com/images/I/41Ur7DzatoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYWRNF3-es Tommee Tippee Starter Pack Twist and Click Contenedor de...'
 sku: 'B07YYWRNF3-es'
 tags: [ 'pañales','tommee', ]

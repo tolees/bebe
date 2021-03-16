@@ -5,7 +5,7 @@ date: 2020-01-31 00:05:05
 image: 'https://m.media-amazon.com/images/I/51U8lAdZ8ZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MMQO60-es Philips Avent SCF157/02 - 2 Conchas protectoras ventiladas...'
 sku: 'B000MMQO60-es'
 tags: [ 'avent', ]

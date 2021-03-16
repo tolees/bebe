@@ -5,7 +5,7 @@ date: 2020-03-04 12:32:23
 image: 'https://m.media-amazon.com/images/I/41NAzjuILgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C26KK0U-es Philips Avent SCF766/00 Vaso aislado con paja 260 ml azul...'
 sku: 'B00C26KK0U-es'
 tags: [ 'avent', ]

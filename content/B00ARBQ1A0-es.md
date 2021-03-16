@@ -5,7 +5,7 @@ date: 2020-04-01 16:07:47
 image: 'https://m.media-amazon.com/images/I/414JjLm3PDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ARBQ1A0-es Chicco - Bandeja escurrebiberones hasta 6 biberones'
 sku: 'B00ARBQ1A0-es'
 tags: [ 'biberones','chicco', ]

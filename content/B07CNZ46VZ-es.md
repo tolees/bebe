@@ -5,7 +5,7 @@ date: 2020-09-27 11:57:18
 image: 'https://m.media-amazon.com/images/I/41nI6eEcLjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNZ46VZ-es Levoit Humidificador Ultrasónico 5 5L Bebés de Vapor...'
 sku: 'B07CNZ46VZ-es'
 tags: [ 'bebés', ]

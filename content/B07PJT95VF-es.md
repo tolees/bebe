@@ -5,7 +5,7 @@ date: 2020-03-27 06:27:46
 image: 'https://m.media-amazon.com/images/I/41xyxTd4cNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJT95VF-es Biomecanics 191150 Botas para Bebés Azul Azul Marino...'
 sku: 'B07PJT95VF-es'
 tags: [ 'bebés', ]

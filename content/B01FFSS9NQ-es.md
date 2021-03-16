@@ -5,7 +5,7 @@ date: 2020-07-14 16:39:47
 image: 'https://m.media-amazon.com/images/I/31BixgYDThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFSS9NQ-es Suavinex – Gel-champú espumoso para bebés. No Pica en los...'
 sku: 'B01FFSS9NQ-es'
 tags: [ 'suavinex', ]

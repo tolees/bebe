@@ -5,7 +5,7 @@ date: 2020-09-27 12:26:56
 image: 'https://m.media-amazon.com/images/I/41YEiUJUs7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF5RZ4B-es Set Bebé Dépor'
 sku: 'B07QF5RZ4B-es'
 tags: [ 'bebé', ]

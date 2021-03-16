@@ -5,7 +5,7 @@ date: 2020-08-19 12:56:08
 image: 'https://m.media-amazon.com/images/I/41wPCr8RKtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XR9B5V7-es Luchild Parachoques de Cuna de Serpiente de Bebé - 100%...'
 sku: 'B07XR9B5V7-es'
 tags: [ 'bebé', ]

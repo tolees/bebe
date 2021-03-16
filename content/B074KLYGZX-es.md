@@ -5,7 +5,7 @@ date: 2020-07-01 12:55:58
 image: 'https://m.media-amazon.com/images/I/41sXL17swdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KLYGZX-es Huggies Ultra Comfort Pañal Braguita Talla 5 12-17 kg -...'
 sku: 'B074KLYGZX-es'
 tags: [ 'huggies','pañal','pañales', ]

@@ -5,7 +5,7 @@ date: 2020-08-12 11:57:37
 image: 'https://m.media-amazon.com/images/I/31vKeQSiNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0849CD9NR-es Maxi-Cosi Morion Silla auto Grupo 2/3 isofix I-Size 15 -...'
 sku: 'B0849CD9NR-es'
 tags: [ 'isofix','maxi-cosi', ]

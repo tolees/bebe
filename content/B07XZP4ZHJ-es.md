@@ -5,7 +5,7 @@ date: 2020-09-24 10:09:15
 image: 'https://m.media-amazon.com/images/I/41wVAZRTiML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZP4ZHJ-es Hauck Dream N Play - Cuna de viaje 3 piezas 120 x 60cm...'
 sku: 'B07XZP4ZHJ-es'
 tags: [ 'bebe','hauck', ]

@@ -5,7 +5,7 @@ date: 2020-08-21 22:51:25
 image: 'https://m.media-amazon.com/images/I/41BpT5yv5OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPYQWBF-es Medela cojín de embarazo y lactancia'
 sku: 'B07KPYQWBF-es'
 tags: [ 'embarazo','lactancia','medela', ]

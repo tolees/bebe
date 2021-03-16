@@ -5,7 +5,7 @@ date: 2020-02-24 10:56:52
 image: 'https://m.media-amazon.com/images/I/31NOS+tmhkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01966WDTE-es Jané 010496C01 - Termo para sólidos'
 sku: 'B01966WDTE-es'
 tags: [ 'jané', ]

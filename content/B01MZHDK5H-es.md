@@ -5,7 +5,7 @@ date: 2020-03-04 12:10:46
 image: 'https://m.media-amazon.com/images/I/41k1B0lcgsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZHDK5H-es Philips Avent SCF222/22 - Pack de dos chupetes ultra...'
 sku: 'B01MZHDK5H-es'
 tags: [ 'avent','chupetes', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 16:21:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31wnBgWrmrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZGR43J-es Britax Römer Kidfix Silla de coche grupo 2/3 Isofix negro...'
 sku: 'B079ZGR43J-es'
 tags: [ 'coche','de','isofix','römer','silla', ]

@@ -5,7 +5,7 @@ date: 2020-07-24 16:05:45
 image: 'https://m.media-amazon.com/images/I/51kWAgPIn8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRG87L4-es Luxja Pañal de Natación para bebes Bañador Reutilizable de...'
 sku: 'B07BRG87L4-es'
 tags: [ 'bebé','pañal', ]

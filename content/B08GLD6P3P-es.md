@@ -5,7 +5,7 @@ date: 2020-09-23 00:20:39
 image: 'https://m.media-amazon.com/images/I/41HYBgVtmvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLD6P3P-es Besylo Almohada para Bebe planas para la cabeza Forma bebé...'
 sku: 'B08GLD6P3P-es'
 tags: [ 'bebe','bebé','bebés', ]

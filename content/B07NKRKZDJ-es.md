@@ -5,7 +5,7 @@ date: 2020-01-25 10:23:00
 image: 'https://m.media-amazon.com/images/I/31BJ+gLvzjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NKRKZDJ-es Body bebé manga corta corona personalizado Regalo único y...'
 sku: 'B07NKRKZDJ-es'
 tags: [ 'bebé', ]

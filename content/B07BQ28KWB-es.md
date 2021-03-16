@@ -5,7 +5,7 @@ date: 2020-07-07 10:35:51
 image: 'https://m.media-amazon.com/images/I/51hN2vbWTaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQ28KWB-es Dodot Pants Pañal-Braguita Talla 3 111 Pañales Fácil De...'
 sku: 'B07BQ28KWB-es'
 tags: [ 'dodot','pañales', ]

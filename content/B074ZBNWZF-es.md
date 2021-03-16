@@ -5,7 +5,7 @@ date: 2020-07-30 08:39:21
 image: 'https://m.media-amazon.com/images/I/41FGQVMF7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZBNWZF-es Hauck Rapid 4 Cochecito de 0 meses a 22 kg plegable...'
 sku: 'B074ZBNWZF-es'
 tags: [ 'hauck', ]

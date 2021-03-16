@@ -5,7 +5,7 @@ date: 2020-05-21 09:02:30
 image: 'https://m.media-amazon.com/images/I/31RFXHXO1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZHDIGU-es Philips Avent SCF223/20 - Pack de dos chupetes ultra...'
 sku: 'B01MZHDIGU-es'
 tags: [ 'avent','chupetes', ]

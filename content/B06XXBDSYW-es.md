@@ -5,7 +5,7 @@ date: 2020-02-18 09:40:20
 image: 'https://m.media-amazon.com/images/I/31gGwEfY7TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXBDSYW-es Dr. Brown s Options - Biberón estándar 250 ml'
 sku: 'B06XXBDSYW-es'
 tags: [ 'biberón', ]

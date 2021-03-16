@@ -5,7 +5,7 @@ date: 2020-08-21 22:51:33
 image: 'https://m.media-amazon.com/images/I/31JyjnjjVCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001TPS9XU-es Purelan 100 Medela - 37 gr.'
 sku: 'B001TPS9XU-es'
 tags: [ 'medela', ]

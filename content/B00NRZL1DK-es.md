@@ -5,7 +5,7 @@ date: 2020-05-22 09:03:45
 image: 'https://m.media-amazon.com/images/I/41svt7DruZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NRZL1DK-es Safety 1st 33110128 - Espejo trasero color negro'
 sku: 'B00NRZL1DK-es'
 tags: [ '1st','safety', ]

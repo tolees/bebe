@@ -5,7 +5,7 @@ date: 2020-04-22 10:37:12
 image: 'https://m.media-amazon.com/images/I/41uwPyNlkzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LRUWOIC-es Hauck Citi Neo II - Silla de paseo de 3 ruedas 0 meses -...'
 sku: 'B01LRUWOIC-es'
 tags: [ 'hauck', ]

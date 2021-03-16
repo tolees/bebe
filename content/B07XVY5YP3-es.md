@@ -5,7 +5,7 @@ date: 2020-02-13 16:20:43
 image: 'https://m.media-amazon.com/images/I/31SRYBkQQUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVY5YP3-es Cybex Gold Sirona S I-Size Silla De Coche Para Bebés Hasta...'
 sku: 'B07XVY5YP3-es'
 tags: [ 'bebés','coche','cybex','de','silla', ]

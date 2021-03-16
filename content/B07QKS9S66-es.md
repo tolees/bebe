@@ -5,7 +5,7 @@ date: 2020-01-27 16:19:05
 image: 'https://m.media-amazon.com/images/I/51EAI60owRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKS9S66-es Termómetro Digital Bebé Termómetro de Frente y Oído...'
 sku: 'B07QKS9S66-es'
 tags: [ 'bebé', ]

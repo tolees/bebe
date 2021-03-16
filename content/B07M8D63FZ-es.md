@@ -5,7 +5,7 @@ date: 2020-04-26 17:03:26
 image: 'https://m.media-amazon.com/images/I/413mcXDkR0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8D63FZ-es NUK - Juego de vasos 3 en 1 vasos para aprender a beber...'
 sku: 'B07M8D63FZ-es'
 tags: [ 'nuk', ]

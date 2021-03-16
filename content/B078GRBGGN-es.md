@@ -5,7 +5,7 @@ date: 2021-01-19 20:55:17
 image: 'https://m.media-amazon.com/images/I/41seq5N9fSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GRBGGN-es Asalvo Silla de coche grupo 2/3 Isofix'
 sku: 'B078GRBGGN-es'
 tags: [ 'asalvo','coche','de','isofix','silla', ]
@@ -28,11 +28,11 @@ En este momento está [Asalvo  Silla de coche grupo 2/3 Isofix](https://www.amaz
 
 🔎:
 
-- Sentido de la marcha con sistema Isofix
-- Protección cervical y lateral contra impactos
 - Respaldo desmontable
+- Reposacabezas ajustable en altura
+- Protección cervical y lateral contra impactos
 - Grupo 2-3 desde los 15 kg hasta 36kg
 - Asiento ancho y cómodo
-- Reposacabezas ajustable en altura
+- Sentido de la marcha con sistema Isofix
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078GRBGGN/?tag=tolees-21)

@@ -5,7 +5,7 @@ date: 2020-05-10 10:15:29
 image: 'https://m.media-amazon.com/images/I/51SvTd0gjeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YHJM5CL-es Besrey Parque Infantil 14 Paneles Baby Playpen Centro de...'
 sku: 'B07YHJM5CL-es'
 tags: [ 'bebé', ]

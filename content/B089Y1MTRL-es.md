@@ -5,7 +5,7 @@ date: 2020-08-20 16:13:54
 image: 'https://m.media-amazon.com/images/I/41fugm1L0jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089Y1MTRL-es Bisoo - 70x160 cm Protector de Colchón Bebé + Sabana...'
 sku: 'B089Y1MTRL-es'
 tags: [ 'bebé', ]

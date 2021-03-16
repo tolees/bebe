@@ -5,7 +5,7 @@ date: 2020-09-15 14:16:40
 image: 'https://m.media-amazon.com/images/I/41Z37irCSlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1CVX7M-es Safety 1st Crazy Peps Silla Paseo ligera capota con diseño...'
 sku: 'B07Q1CVX7M-es'
 tags: [ '1st','safety', ]

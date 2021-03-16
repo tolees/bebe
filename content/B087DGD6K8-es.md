@@ -5,7 +5,7 @@ date: 2020-10-09 13:55:49
 image: 'https://m.media-amazon.com/images/I/51fQp1Dv0gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087DGD6K8-es Tommee Tippee Kit de Biberones Anti-Cólicos Rosa'
 sku: 'B087DGD6K8-es'
 tags: [ 'biberones','tommee', ]

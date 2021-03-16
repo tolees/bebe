@@ -5,7 +5,7 @@ date: 2020-02-21 11:03:19
 image: 'https://m.media-amazon.com/images/I/418bigx0eNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3FRJTF-es HyAdierTech Almohadillas de Lactancia Bambú Orgánicos para...'
 sku: 'B07X3FRJTF-es'
 tags: [ 'lactancia', ]

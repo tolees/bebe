@@ -5,7 +5,7 @@ date: 2020-08-17 00:59:20
 image: 'https://m.media-amazon.com/images/I/51Du9ziAVIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN4DDFZ-es penobon Mini Ventilador USB Silencioso Portátil Recargable...'
 sku: 'B07RN4DDFZ-es'
 tags: [ 'bebé', ]

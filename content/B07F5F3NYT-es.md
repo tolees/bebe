@@ -5,7 +5,7 @@ date: 2020-03-16 14:19:38
 image: 'https://m.media-amazon.com/images/I/51jLZx4mUEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F5F3NYT-es Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en...'
 sku: 'B07F5F3NYT-es'
 tags: [ 'bebe', ]

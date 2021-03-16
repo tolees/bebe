@@ -5,7 +5,7 @@ date: 2020-07-21 12:39:27
 image: 'https://m.media-amazon.com/images/I/41NsCkVDnpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079GZFXTG-es Philips Avent SCF343/22 - Pack con 2 chupetes Ultra Air...'
 sku: 'B079GZFXTG-es'
 tags: [ 'avent','chupetes', ]

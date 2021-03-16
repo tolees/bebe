@@ -5,7 +5,7 @@ date: 2020-08-11 10:52:37
 image: 'https://m.media-amazon.com/images/I/51fpN+sUHaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FC37H9N-es Koala Babycare® Almohada para Embarazadas para Dormir...'
 sku: 'B07FC37H9N-es'
 tags: [ 'bebe','bebé','lactancia', ]

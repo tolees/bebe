@@ -5,7 +5,7 @@ date: 2020-09-11 09:44:13
 image: 'https://m.media-amazon.com/images/I/41o3Pnm8kAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081PKCK7W-es HelloBaby HB66 Vigilabebés Video Baby Monitor con Modo VOX...'
 sku: 'B081PKCK7W-es'
 tags: [ 'vigilabebés', ]

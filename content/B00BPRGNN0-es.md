@@ -5,7 +5,7 @@ date: 2020-07-05 13:25:22
 image: 'https://m.media-amazon.com/images/I/31JZVtYyoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BPRGNN0-es Medela 008.0483 Biberón con Tetina Calma 250 ml'
 sku: 'B00BPRGNN0-es'
 tags: [ 'biberón','medela', ]

@@ -5,7 +5,7 @@ date: 2020-05-12 12:05:25
 image: 'https://m.media-amazon.com/images/I/41MUjmD-EeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZLJ5HG-es Levoit Humidificador Ultrasónico de Niebla Fría de 2.4L...'
 sku: 'B07VZLJ5HG-es'
 tags: [ 'bebés', ]

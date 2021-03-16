@@ -5,7 +5,7 @@ date: 2020-08-23 23:59:18
 image: 'https://m.media-amazon.com/images/I/51+m59TfwRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3MQT68-es KiraKira Mini Ventilador Clip Ventilador USB Ventilador...'
 sku: 'B07V3MQT68-es'
 tags: [ 'bebé', ]

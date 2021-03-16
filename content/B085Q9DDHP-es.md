@@ -5,7 +5,7 @@ date: 2020-08-08 08:15:07
 image: 'https://m.media-amazon.com/images/I/41iNHyIGMkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085Q9DDHP-es Aspirador Nasal Bebes Aspirador Nasal Aspirador Nasal Bebe...'
 sku: 'B085Q9DDHP-es'
 tags: [ 'bebe', ]

@@ -5,7 +5,7 @@ date: 2020-06-19 12:19:13
 image: 'https://m.media-amazon.com/images/I/31CURPmPmhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNZL2F9-es Reductor WC DALMO Adaptador WC ergonómico Tapa WC con...'
 sku: 'B07ZNZL2F9-es'
 tags: [ 'bebé', ]

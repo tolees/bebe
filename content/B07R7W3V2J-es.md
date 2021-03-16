@@ -5,7 +5,7 @@ date: 2020-01-07 16:01:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41I-j2H83TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7W3V2J-es MAM Original 0+ 2 unidades Chupete de látex para recién...'
 sku: 'B07R7W3V2J-es'
 tags: [ 'chupete', ]

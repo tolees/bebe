@@ -5,7 +5,7 @@ date: 2020-09-22 09:31:36
 image: 'https://m.media-amazon.com/images/I/31qK8OPz5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DR3F6BX-es Termómetro Infrarrojos Digital KKmier Termometro...'
 sku: 'B08DR3F6BX-es'
 tags: [ 'bebé', ]

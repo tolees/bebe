@@ -5,7 +5,7 @@ date: 2020-03-19 19:32:32
 image: 'https://m.media-amazon.com/images/I/410jjBQr8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGK2QX6-es Biomecanics 191152 Zapatillas de Estar por casa para Bebés...'
 sku: 'B07PGK2QX6-es'
 tags: [ 'bebés', ]

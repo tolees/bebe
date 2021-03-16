@@ -5,7 +5,7 @@ date: 2020-03-18 03:40:57
 image: 'https://m.media-amazon.com/images/I/51+tOKtKbVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Q9H1NC-es UBEGOOD Humidificador Difusor de Aromaterapia...'
 sku: 'B081Q9H1NC-es'
 tags: [ 'bebé', ]

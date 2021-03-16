@@ -5,7 +5,7 @@ date: 2020-08-07 09:01:41
 image: 'https://m.media-amazon.com/images/I/31YB-1+louL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7R3PK1-es Salt and Pepper mit Einhorn Applikation und Glitzerdruck...'
 sku: 'B07V7R3PK1-es'
 tags: [ 'bebés', ]

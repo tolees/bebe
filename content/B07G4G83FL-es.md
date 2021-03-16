@@ -5,7 +5,7 @@ date: 2020-07-06 11:32:09
 image: 'https://m.media-amazon.com/images/I/41KAk2M9lIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4G83FL-es Reignet Calcetines de Compresión para hombre y mujer 20-30...'
 sku: 'B07G4G83FL-es'
 tags: [ 'embarazo', ]

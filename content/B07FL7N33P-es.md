@@ -5,7 +5,7 @@ date: 2020-05-17 18:08:53
 image: 'https://m.media-amazon.com/images/I/31e2IPA8ElL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL7N33P-es Philips Avent Biberón Natural SCF038/17 - Biberón de 330...'
 sku: 'B07FL7N33P-es'
 tags: [ 'avent','biberón', ]

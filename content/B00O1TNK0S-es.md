@@ -5,7 +5,7 @@ date: 2020-06-28 18:54:07
 image: 'https://m.media-amazon.com/images/I/41y6Yc6fBcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O1TNK0S-es Play Scout 30185 - Silla de coche grupo 0+/1/2 0 - 25 kg...'
 sku: 'B00O1TNK0S-es'
 tags: [ 'coche','de','silla', ]

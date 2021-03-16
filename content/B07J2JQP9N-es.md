@@ -5,7 +5,7 @@ date: 2020-04-01 17:31:27
 image: 'https://m.media-amazon.com/images/I/31LFW2u6r4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2JQP9N-es Suavinex Zero-Zero Biberón anticólicos +0 meses 180 ml -...'
 sku: 'B07J2JQP9N-es'
 tags: [ 'biberón','lactancia','suavinex', ]

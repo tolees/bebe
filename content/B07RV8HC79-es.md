@@ -5,7 +5,7 @@ date: 2020-05-24 17:11:24
 image: 'https://m.media-amazon.com/images/I/41ICh86Iu-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RV8HC79-es QUEEN ROSE Almohada de Embarazo con Funda de Plush...'
 sku: 'B07RV8HC79-es'
 tags: [ 'embarazo', ]

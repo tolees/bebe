@@ -5,7 +5,7 @@ date: 2020-09-21 17:33:55
 image: 'https://m.media-amazon.com/images/I/41fxcnP1DOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GYQ6WJ5-es Hawiton Camisón para Mujer Algodón Invierno Manga Largo...'
 sku: 'B08GYQ6WJ5-es'
 tags: [ 'lactancia', ]

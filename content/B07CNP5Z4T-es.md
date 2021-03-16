@@ -5,7 +5,7 @@ date: 2020-01-27 18:53:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41coK7t5ldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNP5Z4T-es Safety 1st TEENY Ribbon Red Chic - Silla de paseo plegable...'
 sku: 'B07CNP5Z4T-es'
 tags: [ '1st','safety', ]

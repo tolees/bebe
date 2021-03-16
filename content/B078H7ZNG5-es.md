@@ -5,7 +5,7 @@ date: 2020-02-26 11:44:37
 image: 'https://m.media-amazon.com/images/I/41+EXNToB8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078H7ZNG5-es Asalvo Silla de coche grupo 0+/1/2 Isofix azul'
 sku: 'B078H7ZNG5-es'
 tags: [ 'asalvo','coche','de','isofix','silla', ]

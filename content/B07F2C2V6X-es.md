@@ -5,7 +5,7 @@ date: 2020-08-05 05:12:32
 image: 'https://m.media-amazon.com/images/I/41TlodwQbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2C2V6X-es Sacaleches Eléctrico Extractor de leche eléctrico materna...'
 sku: 'B07F2C2V6X-es'
 tags: [ 'sacaleches', ]

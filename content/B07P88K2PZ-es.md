@@ -5,7 +5,7 @@ date: 2020-03-13 18:02:18
 image: 'https://m.media-amazon.com/images/I/41T-DakMiFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P88K2PZ-es Tarjetas de Etapas del Bebé y Caja de Recuerdos 40...'
 sku: 'B07P88K2PZ-es'
 tags: [ 'bebé','embarazo', ]

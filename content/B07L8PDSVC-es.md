@@ -5,7 +5,7 @@ date: 2020-08-21 09:32:42
 image: 'https://m.media-amazon.com/images/I/415nyzowkFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8PDSVC-es HOMCOM Triciclo Bebé Plegable 4 en 1 Trolley Trike...'
 sku: 'B07L8PDSVC-es'
 tags: [ 'bebé', ]

@@ -5,7 +5,7 @@ date: 2020-07-02 12:14:16
 image: 'https://m.media-amazon.com/images/I/41LVN2ffIQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PMP5SR-es Philips Avent Scf169/46 - Pack con 2 Chupetes Jardín...'
 sku: 'B077PMP5SR-es'
 tags: [ 'avent','chupetes', ]

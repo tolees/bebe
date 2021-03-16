@@ -5,7 +5,7 @@ date: 2020-02-18 12:54:38
 image: 'https://m.media-amazon.com/images/I/41UjGAE8O9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1XN12H-es Munchkin Set De Regalo Nibbles & Giggles Rosa 1 unidad 430 g'
 sku: 'B07X1XN12H-es'
 tags: [ 'munchkin', ]

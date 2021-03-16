@@ -5,7 +5,7 @@ date: 2020-02-11 09:26:40
 image: 'https://m.media-amazon.com/images/I/41QXcYa99AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6F0AI8-es Reebok Classic Leather Zapatillas de trail running Unisex...'
 sku: 'B01N6F0AI8-es'
 tags: [ 'bebé', ]

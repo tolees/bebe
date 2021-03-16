@@ -5,7 +5,7 @@ date: 2020-02-08 11:04:35
 image: 'https://m.media-amazon.com/images/I/41va3YewfEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07575VMGK-es Chicco - Set de 2 sábanas bajeras ajustable para mini cuna...'
 sku: 'B07575VMGK-es'
 tags: [ 'chicco', ]

@@ -5,7 +5,7 @@ date: 2020-09-08 06:29:13
 image: 'https://m.media-amazon.com/images/I/51BrvKiGreL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCFBPYJ-es LYSHION Mochilas para Pañales Biberones Pañal Bolso...'
 sku: 'B07YCFBPYJ-es'
 tags: [ 'biberones','pañal','pañales', ]

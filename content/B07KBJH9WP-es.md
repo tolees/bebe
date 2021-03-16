@@ -5,7 +5,7 @@ date: 2020-09-23 08:50:17
 image: 'https://m.media-amazon.com/images/I/31UBARMHpPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBJH9WP-es Tommee Tippee Sangenic Sistema avanzado para desechar...'
 sku: 'B07KBJH9WP-es'
 tags: [ 'pañales','tommee', ]

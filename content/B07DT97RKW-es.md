@@ -5,7 +5,7 @@ date: 2020-09-16 14:50:21
 image: 'https://m.media-amazon.com/images/I/31tAt8R9QPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DT97RKW-es Philips Avent SCF053/17 - Biberón natural de cristal 240 ml'
 sku: 'B07DT97RKW-es'
 tags: [ 'avent','biberón', ]

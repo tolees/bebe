@@ -5,7 +5,7 @@ date: 2020-06-18 14:40:42
 image: 'https://m.media-amazon.com/images/I/51P11Hrw9DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NHHRW4-es Spreadhoodie Niños Fuego Nadando Pantalones BañAdor De...'
 sku: 'B083NHHRW4-es'
 tags: [ 'bebé', ]

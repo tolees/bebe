@@ -5,7 +5,7 @@ date: 2020-04-22 20:06:30
 image: 'https://m.media-amazon.com/images/I/41enup-kkEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002QLKEJS-es Altabebe Active Line - Saco de invierno para silla de...'
 sku: 'B002QLKEJS-es'
 tags: [ 'coche','de','silla', ]

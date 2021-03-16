@@ -5,7 +5,7 @@ date: 2020-04-18 02:27:52
 image: 'https://m.media-amazon.com/images/I/41yxBAwQyrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCSSJ8T-es La Seguridad del Bebe Metal TV Correas DD Muebles Pesados...'
 sku: 'B01NCSSJ8T-es'
 tags: [ 'bebe', ]

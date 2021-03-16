@@ -5,7 +5,7 @@ date: 2020-10-03 13:13:13
 image: 'https://m.media-amazon.com/images/I/5159C19qDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M75FZ4M-es Blevit Plus Superfibra 8 Cereales con Miel 1 unidad 600...'
 sku: 'B00M75FZ4M-es'
 tags: [ 'blevit', ]

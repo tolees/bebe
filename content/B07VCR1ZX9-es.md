@@ -5,7 +5,7 @@ date: 2020-08-26 19:19:52
 image: 'https://m.media-amazon.com/images/I/41FR-phM9hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCR1ZX9-es Avaspot Humidificador Ultrasónico Aromaterapia 250 ML...'
 sku: 'B07VCR1ZX9-es'
 tags: [ 'bebé', ]

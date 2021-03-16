@@ -5,7 +5,7 @@ date: 2020-08-19 17:35:10
 image: 'https://m.media-amazon.com/images/I/21qI3tYPA1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JZF8LHK-es Medela - Sistema de nutrición suplementaria relactador'
 sku: 'B00JZF8LHK-es'
 tags: [ 'medela', ]

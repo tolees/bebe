@@ -5,7 +5,7 @@ date: 2020-02-09 20:40:45
 image: 'https://m.media-amazon.com/images/I/41-vyTWEcTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B01UB7K-es Suavinex - Escurre Biberones. Secar Biberones. Apto Para...'
 sku: 'B00B01UB7K-es'
 tags: [ 'suavinex', ]

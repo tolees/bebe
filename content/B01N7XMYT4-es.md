@@ -5,7 +5,7 @@ date: 2020-04-07 15:31:53
 image: 'https://m.media-amazon.com/images/I/41TwVdsJq8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7XMYT4-es Jané 070191C01 - Set de vajilla'
 sku: 'B01N7XMYT4-es'
 tags: [ 'jané', ]

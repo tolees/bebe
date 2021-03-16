@@ -5,7 +5,7 @@ date: 2020-02-17 20:58:31
 image: 'https://m.media-amazon.com/images/I/41MydoeoJOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNZKWLS-es Kinderkraft Silla de Coche Isofix SAFETY FIX Grupo 1/2/3...'
 sku: 'B07DNZKWLS-es'
 tags: [ 'coche','de','isofix','silla', ]

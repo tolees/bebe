@@ -5,7 +5,7 @@ date: 2020-09-10 22:31:43
 image: 'https://m.media-amazon.com/images/I/31SeH6XpGGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QTXZ7AK-es Munchkin - Bols Termo sensibles White Hot 3 uds multicolor'
 sku: 'B00QTXZ7AK-es'
 tags: [ 'munchkin', ]

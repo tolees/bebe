@@ -5,7 +5,7 @@ date: 2020-06-18 01:38:27
 image: 'https://m.media-amazon.com/images/I/41OffFZkVqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2GNYHL-es Silla de Coche Grupo 1 2 3 Isofix con Escudo y Normativa...'
 sku: 'B07H2GNYHL-es'
 tags: [ 'bebé','coche','de','isofix','silla', ]

@@ -5,7 +5,7 @@ date: 2020-05-28 18:13:50
 image: 'https://m.media-amazon.com/images/I/51ZigAkhQaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZVOS796-es Bambino Mio pañal bañador floral pequeño 0-6 meses'
 sku: 'B00ZVOS796-es'
 tags: [ 'pañal', ]

@@ -5,7 +5,7 @@ date: 2020-06-24 11:40:24
 image: 'https://m.media-amazon.com/images/I/51V7+LVzShL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B32MLB6-es Chicco NaturalFeeling - Set de regalo con 2 biberones...'
 sku: 'B07B32MLB6-es'
 tags: [ 'biberones','chicco','chupete', ]

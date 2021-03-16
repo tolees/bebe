@@ -5,7 +5,7 @@ date: 2020-10-01 12:34:51
 image: 'https://m.media-amazon.com/images/I/41L5yEKrzsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V31XDXF-es Béaba Babycook Neo Robot de cocina infantil: tritura...'
 sku: 'B07V31XDXF-es'
 tags: [ 'babycook','bebés', ]

@@ -5,7 +5,7 @@ date: 2020-05-10 12:40:20
 image: 'https://m.media-amazon.com/images/I/415KRh28+sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018KFSLZM-es Chicco Always with you - Baby Monitor de audio sencillo y...'
 sku: 'B018KFSLZM-es'
 tags: [ 'chicco', ]

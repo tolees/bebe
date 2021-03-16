@@ -5,7 +5,7 @@ date: 2020-09-29 12:24:52
 image: 'https://m.media-amazon.com/images/I/41ZRPY9k9mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CH78YM5-es Termómetro Infrarrojos KKmier Termometro Digital...'
 sku: 'B08CH78YM5-es'
 tags: [ 'bebé', ]

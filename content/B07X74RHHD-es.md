@@ -5,7 +5,7 @@ date: 2020-02-13 17:06:21
 image: 'https://m.media-amazon.com/images/I/313XZReC2HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X74RHHD-es Trona para Bebe Evolutiva Ajustable y Plegable - 7 Alturas...'
 sku: 'B07X74RHHD-es'
 tags: [ 'bebe','bebé','trona', ]

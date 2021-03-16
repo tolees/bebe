@@ -5,7 +5,7 @@ date: 2020-10-12 22:24:50
 image: 'https://m.media-amazon.com/images/I/51CBe+B2VTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D5PWJN-es Britax Römer FIRST CLASS PLUS - Silla de Coche Nacimiento...'
 sku: 'B075D5PWJN-es'
 tags: [ 'coche','de','römer','silla', ]

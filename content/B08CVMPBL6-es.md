@@ -5,7 +5,7 @@ date: 2020-10-10 20:55:41
 image: 'https://m.media-amazon.com/images/I/41rDErAiGGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVMPBL6-es HOMCOM Coche para Bebés Mayores de 12 Meses Correpasillos...'
 sku: 'B08CVMPBL6-es'
 tags: [ 'bebés', ]

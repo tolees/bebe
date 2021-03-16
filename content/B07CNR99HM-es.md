@@ -5,7 +5,7 @@ date: 2020-02-17 08:03:39
 image: 'https://m.media-amazon.com/images/I/41B-IwlbCGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNR99HM-es Levoit Humidificador Ultrasónico 4 5L Bebé de Vapor Frío...'
 sku: 'B07CNR99HM-es'
 tags: [ 'bebé', ]

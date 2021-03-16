@@ -5,7 +5,7 @@ date: 2020-02-25 18:08:49
 image: 'https://m.media-amazon.com/images/I/314-CKkrbdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7R5S2W-es Britax Römer Kidfix² R Cosmos Black'
 sku: 'B07K7R5S2W-es'
 tags: [ 'römer', ]

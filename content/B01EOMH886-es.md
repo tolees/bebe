@@ -5,7 +5,7 @@ date: 2020-07-17 03:45:10
 image: 'https://m.media-amazon.com/images/I/51f4jgXTIhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EOMH886-es Parasol de Coche para Bebés Ventana 2 Pack PEMOTech®...'
 sku: 'B01EOMH886-es'
 tags: [ 'bebé','bebés', ]

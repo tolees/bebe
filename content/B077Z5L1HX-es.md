@@ -5,7 +5,7 @@ date: 2020-08-14 12:10:03
 image: 'https://m.media-amazon.com/images/I/41P5Bk8IHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Z5L1HX-es Fascol 7 en 1 Triciclo Bebe con Asiento Giratorio y Ruedas...'
 sku: 'B077Z5L1HX-es'
 tags: [ 'bebe', ]

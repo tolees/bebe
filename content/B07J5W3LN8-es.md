@@ -5,7 +5,7 @@ date: 2020-03-02 09:47:19
 image: 'https://m.media-amazon.com/images/I/417o7CuhByL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5W3LN8-es Termómetro Digital Frente y Oído SVMUU Termómetro Médico...'
 sku: 'B07J5W3LN8-es'
 tags: [ 'bebés', ]

@@ -5,7 +5,7 @@ date: 2020-05-29 08:39:38
 image: 'https://m.media-amazon.com/images/I/21lJwpfT5gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007NZI3MW-es Suavinex - Set Cepillo Recién Nacido Fibras Muy Suaves +...'
 sku: 'B007NZI3MW-es'
 tags: [ 'bebé','suavinex', ]

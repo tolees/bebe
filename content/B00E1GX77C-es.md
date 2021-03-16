@@ -5,7 +5,7 @@ date: 2020-02-24 14:08:16
 image: 'https://m.media-amazon.com/images/I/512KqnCf8SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E1GX77C-es Béaba 915009 - Hamaca para bebé regulable en altura'
 sku: 'B00E1GX77C-es'
 tags: [ 'bebé', ]

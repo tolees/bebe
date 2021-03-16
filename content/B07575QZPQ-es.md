@@ -5,7 +5,7 @@ date: 2020-03-02 09:35:55
 image: 'https://m.media-amazon.com/images/I/417woVZr8-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07575QZPQ-es Chicco Echo - Silla de paseo ligera y compacta soporta...'
 sku: 'B07575QZPQ-es'
 tags: [ 'chicco', ]

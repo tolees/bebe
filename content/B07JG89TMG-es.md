@@ -5,7 +5,7 @@ date: 2020-08-12 07:19:51
 image: 'https://m.media-amazon.com/images/I/41QgG1Fsj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG89TMG-es Asalvo Mix Plus Capitán - Cuna de viaje Color gris'
 sku: 'B07JG89TMG-es'
 tags: [ 'asalvo', ]

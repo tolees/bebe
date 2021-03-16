@@ -5,7 +5,7 @@ date: 2020-01-07 11:10:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fxp58YIHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC2FS5G-es Luchild Termómetro Digital Infrarrojos Bebé de Frente y...'
 sku: 'B07VC2FS5G-es'
 tags: [ 'bebé', ]

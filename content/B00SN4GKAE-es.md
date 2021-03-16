@@ -5,7 +5,7 @@ date: 2020-03-07 14:20:35
 image: 'https://m.media-amazon.com/images/I/31iP7yhEnsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SN4GKAE-es Chicco - Calienta biberón de casa rápido y calentamiento...'
 sku: 'B00SN4GKAE-es'
 tags: [ 'biberón','chicco', ]

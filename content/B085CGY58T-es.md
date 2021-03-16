@@ -5,7 +5,7 @@ date: 2020-04-16 09:33:32
 image: 'https://m.media-amazon.com/images/I/31ewNtTGmVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CGY58T-es Protector de pezón de contacto de silicona con estuche de...'
 sku: 'B085CGY58T-es'
 tags: [ 'lactancia', ]

@@ -5,7 +5,7 @@ date: 2020-06-01 16:13:08
 image: 'https://m.media-amazon.com/images/I/41feauj+wQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD27X4X-es Lictin Sacaleches Eléctrico - Extractor de Leche con...'
 sku: 'B07SD27X4X-es'
 tags: [ 'lactancia','sacaleches', ]

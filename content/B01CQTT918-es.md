@@ -5,7 +5,7 @@ date: 2020-01-21 15:53:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gENJuJfrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQTT918-es Chicco Wellbeing - Biberón con tetina de látex y flujo...'
 sku: 'B01CQTT918-es'
 tags: [ 'bebé','biberón','chicco', ]

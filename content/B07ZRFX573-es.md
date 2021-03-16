@@ -5,7 +5,7 @@ date: 2020-07-13 12:11:50
 image: 'https://m.media-amazon.com/images/I/41MQFl+96jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRFX573-es NUK Disney Magic Cup vaso antiderrame bebe borde...'
 sku: 'B07ZRFX573-es'
 tags: [ 'bebe','nuk', ]

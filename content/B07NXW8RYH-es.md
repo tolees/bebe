@@ -5,7 +5,7 @@ date: 2020-06-22 09:44:10
 image: 'https://m.media-amazon.com/images/I/41jSBGlJuDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXW8RYH-es Moon and Back de Hanna Andersson - Juego de 2 mantas de...'
 sku: 'B07NXW8RYH-es'
 tags: [ 'bebé', ]

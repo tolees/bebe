@@ -5,7 +5,7 @@ date: 2020-08-12 23:24:58
 image: 'https://m.media-amazon.com/images/I/51BuEO6i64L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ43ZXY-es Dodot Activity Pañales Talla 5+ 96 Pañales - 12-17 kg'
 sku: 'B07QZ43ZXY-es'
 tags: [ 'dodot','pañales', ]

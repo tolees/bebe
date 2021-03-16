@@ -5,7 +5,7 @@ date: 2020-03-18 19:29:32
 image: 'https://m.media-amazon.com/images/I/51XoWW7Y1LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JECIFHU-es Huggies Little Swimmers Pañal Bañador Desechable Talla 5-6...'
 sku: 'B00JECIFHU-es'
 tags: [ 'huggies','pañal', ]

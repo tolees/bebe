@@ -5,7 +5,7 @@ date: 2020-10-12 13:15:41
 image: 'https://m.media-amazon.com/images/I/41MVpELyzbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ0TMHV-es Babybjörn Bliss Hamaca ergonómica con balanceo natural...'
 sku: 'B01MZ0TMHV-es'
 tags: [ 'bebés', ]

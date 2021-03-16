@@ -5,7 +5,7 @@ date: 2020-08-11 20:21:17
 image: 'https://m.media-amazon.com/images/I/41F5+FeVv6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXRV7W2-es Homgrace Termómetro infrarrojo sin Contacto Digital...'
 sku: 'B08CXRV7W2-es'
 tags: [ 'bebés', ]

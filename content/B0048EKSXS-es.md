@@ -5,7 +5,7 @@ date: 2020-03-10 08:16:19
 image: 'https://m.media-amazon.com/images/I/31u8BrlqkYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0048EKSXS-es Chicco Comfort Quick - Termómetro infrarrojos timpánico'
 sku: 'B0048EKSXS-es'
 tags: [ 'chicco', ]

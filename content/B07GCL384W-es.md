@@ -5,7 +5,7 @@ date: 2020-01-12 13:23:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419Mi7ItjyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCL384W-es Chicco Balloon - Hamaca interactiva con sistema balancín...'
 sku: 'B07GCL384W-es'
 tags: [ 'chicco', ]

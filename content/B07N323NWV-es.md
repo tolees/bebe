@@ -5,7 +5,7 @@ date: 2020-06-19 12:01:30
 image: 'https://m.media-amazon.com/images/I/31z4Yj4csjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N323NWV-es MINILAND - Robot de cocina para bebé 6 en 1 - Chefy 6'
 sku: 'B07N323NWV-es'
 tags: [ 'bebé', ]

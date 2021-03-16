@@ -5,7 +5,7 @@ date: 2020-08-26 16:34:52
 image: 'https://m.media-amazon.com/images/I/4129DqkPHIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNX7TSH-es BTNEEU Luz Nocturna Infantil Recargable Lámpara Infantil...'
 sku: 'B08DNX7TSH-es'
 tags: [ 'bebés', ]

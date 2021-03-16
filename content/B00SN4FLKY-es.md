@@ -5,7 +5,7 @@ date: 2020-04-18 02:28:15
 image: 'https://m.media-amazon.com/images/I/41dG11m5DGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SN4FLKY-es Chicco Essential Digital - Baby monitor de video con...'
 sku: 'B00SN4FLKY-es'
 tags: [ 'chicco', ]

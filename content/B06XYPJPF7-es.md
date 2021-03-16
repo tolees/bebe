@@ -5,7 +5,7 @@ date: 2020-04-27 08:15:56
 image: 'https://m.media-amazon.com/images/I/41m9OGKLjLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYPJPF7-es NUK First Choice Plus Juego con 4 Anticólico 2 Biberones...'
 sku: 'B06XYPJPF7-es'
 tags: [ 'biberones','nuk', ]

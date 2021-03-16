@@ -5,7 +5,7 @@ date: 2020-05-11 09:46:54
 image: 'https://m.media-amazon.com/images/I/41XBTilfh9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P19CJMK-es Sotech Columpio Eléctrico para Bebés Columpio de bebé con...'
 sku: 'B07P19CJMK-es'
 tags: [ 'bebe','bebé','bebés', ]

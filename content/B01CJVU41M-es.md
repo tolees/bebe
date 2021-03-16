@@ -5,7 +5,7 @@ date: 2020-09-08 20:18:10
 image: 'https://m.media-amazon.com/images/I/51sJg9GI6pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CJVU41M-es Pampers 81665622 pañal desechable Niño/niña 1 22 pieza s -...'
 sku: 'B01CJVU41M-es'
 tags: [ 'pañal','pañales', ]

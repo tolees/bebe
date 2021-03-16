@@ -5,7 +5,7 @@ date: 2020-03-16 02:16:14
 image: 'https://m.media-amazon.com/images/I/41GC5FCZaBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC8JV5S-es KidoMe 1280 x 720P Vigilabebé Vídeo Inalambrico Cámara...'
 sku: 'B07MC8JV5S-es'
 tags: [ 'bebé','vigilabebé', ]

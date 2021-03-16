@@ -5,7 +5,7 @@ date: 2020-07-01 11:37:51
 image: 'https://m.media-amazon.com/images/I/41VPGW-avbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083STDVLY-es Maxi-Cosi Titan Plus Silla Coche bebé grupo 1/2/3 isofix 9...'
 sku: 'B083STDVLY-es'
 tags: [ 'bebé','isofix','maxi-cosi', ]

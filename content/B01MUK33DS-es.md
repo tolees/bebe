@@ -5,7 +5,7 @@ date: 2020-02-26 21:01:13
 image: 'https://m.media-amazon.com/images/I/31Bfx7TTULL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUK33DS-es Philips Avent SCF212/20 - Pack de dos chupetes ultra...'
 sku: 'B01MUK33DS-es'
 tags: [ 'avent','chupetes', ]
