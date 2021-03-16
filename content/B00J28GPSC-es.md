@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Philips Avent SCH400/30  Set Para Cuidad con un 32.26 % de descuento'
-date: 2021-03-15 10:41:56
+date: 2021-03-16 15:50:14
 image: 'https://m.media-amazon.com/images/I/51zEgrZxUdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00J28GPSC-es Philips Avent SCH400/30 Set Para Cuidado Del Bebé Amarillo...'
 sku: 'B00J28GPSC-es'
-tags: [ 'avent','bebé','bebé', ]
+tags: [ 'avent','bebé','philips avent', ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips Avent'
 buyurl: 'https://www.amazon.es/dp/B00J28GPSC/?tag=tolees-21'
 descuento: '32.26'
-average: '19.2066329966332'
+average: '19.2163545150504'
 ---
 
 En este momento está [Philips Avent SCH400/30  Set Para Cuidado Del Bebé  Amarillo  Estándar  Pack de 1](https://www.amazon.es/dp/B00J28GPSC/?tag=tolees-21) a 20.66 EUR (original: 30.5 EUR) (32.26 %  de descuento) en el siguiente enlace!
