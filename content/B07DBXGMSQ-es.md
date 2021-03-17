@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBXGMSQ-es Escurridor para secado de biberones Lawn Tendedero para...'
 sku: 'B07DBXGMSQ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberones', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberones', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

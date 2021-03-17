@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRQNDF-es Motorola Baby Comfort C35 - Vigilabebés vídeo con pantalla...'
 sku: 'B07LFRQNDF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','vigilabebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','vigilabebés', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

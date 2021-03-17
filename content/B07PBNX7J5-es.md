@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBNX7J5-es Luz Nocturna Infantil con Control Remoto y Táctil 9...'
 sku: 'B07PBNX7J5-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

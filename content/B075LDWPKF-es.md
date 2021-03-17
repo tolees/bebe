@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075LDWPKF-es Huggies Ultra Comfort'
 sku: 'B075LDWPKF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','huggies', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','huggies', ]
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

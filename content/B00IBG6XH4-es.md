@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IBG6XH4-es NUK 10750796 – detergente en espuma para biberón con...'
 sku: 'B00IBG6XH4-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberón','nuk', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberón','nuk', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

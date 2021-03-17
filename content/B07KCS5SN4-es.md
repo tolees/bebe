@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCS5SN4-es CYBEX - Silla de Paseo Eezy S Plegable con una Mano...'
 sku: 'B07KCS5SN4-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','cybex', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','cybex', ]
 actualPrice: 190.46 EUR
 currency: EUR
 price: 190.46

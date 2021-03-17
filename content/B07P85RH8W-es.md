@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P85RH8W-es Bammax Almohada Plagiocefalia Bebe Almohada Bebe para...'
 sku: 'B07P85RH8W-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

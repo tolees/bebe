@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BPRGNN0-es Medela 008.0483 Biberón con Tetina Calma 250 ml'
 sku: 'B00BPRGNN0-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberón','medela', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberón','medela', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

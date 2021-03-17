@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCX21JH-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
 sku: 'B07GCX21JH-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazo', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

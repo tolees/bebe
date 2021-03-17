@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GHFGHBW-es Adidas Superstar Crib Zapatillas Unisex Bebé Multicolor...'
 sku: 'B01GHFGHBW-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

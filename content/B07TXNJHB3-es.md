@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXNJHB3-es NEWSTYLE Set Para El Cuidado Del Bebé 12 Unids Bebé Kit de...'
 sku: 'B07TXNJHB3-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

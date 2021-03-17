@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRJC3DS-es Geox B Djrock Girl A Zapatillas para Bebés Plateado...'
 sku: 'B07SRJC3DS-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 15.61 EUR
 currency: EUR
 price: 15.61

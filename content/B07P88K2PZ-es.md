@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P88K2PZ-es Tarjetas de Etapas del Bebé y Caja de Recuerdos 40...'
 sku: 'B07P88K2PZ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','embarazo', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','embarazo', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

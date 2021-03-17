@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R4W1MHW-es Viedouce Mochila Portabebes Ergonómico Multifuncion...'
 sku: 'B07R4W1MHW-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','portabebes','portabebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','portabebes','portabebés', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

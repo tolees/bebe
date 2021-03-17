@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009X85ZBE-es Playgro Juguete Colgante Ratón Clip Clop Desde el...'
 sku: 'B009X85ZBE-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','playgro', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','playgro', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

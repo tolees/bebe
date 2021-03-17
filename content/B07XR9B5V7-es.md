@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XR9B5V7-es Luchild Parachoques de Cuna de Serpiente de Bebé - 100%...'
 sku: 'B07XR9B5V7-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

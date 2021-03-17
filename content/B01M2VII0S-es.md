@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M2VII0S-es Silicona De Enfermería De Dentición Lactancia Materna...'
 sku: 'B01M2VII0S-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','lactancia', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

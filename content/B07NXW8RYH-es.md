@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXW8RYH-es Moon and Back de Hanna Andersson - Juego de 2 mantas de...'
 sku: 'B07NXW8RYH-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

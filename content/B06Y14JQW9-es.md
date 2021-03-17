@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y14JQW9-es Baby Jogger BJ2012299 - Kit de capazo'
 sku: 'B06Y14JQW9-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','baby','jogger', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','baby','jogger', ]
 actualPrice: 107.51 EUR
 currency: EUR
 price: 107.51

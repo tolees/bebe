@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H6VPX6Q-es Eudora Harmony Ball Llamador de Angeles Embarazada...'
 sku: 'B01H6VPX6Q-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazada', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazada', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

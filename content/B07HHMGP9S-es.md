@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHMGP9S-es Chicco Good Night - Vigilabebés de audio con panel de cuna...'
 sku: 'B07HHMGP9S-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chicco','vigilabebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco','vigilabebés', ]
 actualPrice: 57.01 EUR
 currency: EUR
 price: 57.01

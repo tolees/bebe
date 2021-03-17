@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H8MW3V2-es Tigex Set de cepillos de dientes para bebé'
 sku: 'B00H8MW3V2-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

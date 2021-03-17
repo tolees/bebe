@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088RCHV8R-es MQIAOHAM juego de enclavamiento juego de bebé tapetes para...'
 sku: 'B088RCHV8R-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

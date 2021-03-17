@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074M7HRSJ-es Bandeja de Hielo Diamante Moldes para Cubitos de Hielo...'
 sku: 'B074M7HRSJ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

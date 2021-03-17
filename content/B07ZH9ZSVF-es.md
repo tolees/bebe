@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZH9ZSVF-es Blevit Plus Papilla Multicereales Quinoa Bio 1 Unidad 250...'
 sku: 'B07ZH9ZSVF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','blevit', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','blevit', ]
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

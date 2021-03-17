@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DDTY4Y-es Sacaleches Sacaleches Manual Extractor de leche manual...'
 sku: 'B083DDTY4Y-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','sacaleches', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','sacaleches', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

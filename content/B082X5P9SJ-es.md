@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082X5P9SJ-es 2 piezas Protecciones para bordes y esquinas Protecciones...'
 sku: 'B082X5P9SJ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YZ5XMT-es DeoMeat Cadenas Chupete Clips de Chupete de bebé para...'
 sku: 'B086YZ5XMT-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','chupete', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','chupete', ]
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

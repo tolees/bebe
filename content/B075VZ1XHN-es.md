@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075VZ1XHN-es BabyBjörn Babero de Manga Larga Lila'
 sku: 'B075VZ1XHN-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','babero', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','babero', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

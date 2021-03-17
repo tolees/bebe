@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPSNQW1-es Playgro Set de Regalo para jugar de Jerry la Jirafa...'
 sku: 'B07WPSNQW1-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','playgro', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','playgro', ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

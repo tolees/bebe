@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JA5U6LS-es Fisher-Price Coche Monstruito verde juguete gateo bebé +9...'
 sku: 'B01JA5U6LS-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','fisher-price', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','fisher-price', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

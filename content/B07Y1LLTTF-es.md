@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1LLTTF-es Cámara Bebé 1080P Cámara IP JUMPER Cámara de Seguridad...'
 sku: 'B07Y1LLTTF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

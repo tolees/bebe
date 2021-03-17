@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FH6S3K0-es Chicco Natural Sensation - Gel de baño Oso 300 ml'
 sku: 'B01FH6S3K0-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chicco','natural','sensation', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco','natural','sensation', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

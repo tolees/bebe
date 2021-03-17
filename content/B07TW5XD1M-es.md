@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TW5XD1M-es KATOOM Guantes Bebé Algodón 6 pares Guantes Antiarañazos...'
 sku: 'B07TW5XD1M-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

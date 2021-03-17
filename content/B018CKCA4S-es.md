@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018CKCA4S-es Cambiador Portátil de Pañales para Bebé - Kit Cambiador de...'
 sku: 'B018CKCA4S-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','pañales', ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNPBQH5-es HBselect Sostén De Lactancia Sin Costuras Set 3 pcs...'
 sku: 'B07RNPBQH5-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazada','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazada','lactancia', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

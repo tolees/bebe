@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCSSJ8T-es La Seguridad del Bebe Metal TV Correas DD Muebles Pesados...'
 sku: 'B01NCSSJ8T-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

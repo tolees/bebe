@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002B8IMT0-es Tommee Tippee Biberones Closer to Nature 150 ml 1 Unidad...'
 sku: 'B002B8IMT0-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberones','tommee', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberones','tommee', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

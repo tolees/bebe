@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823M6DCS-es SERAPHY Chándales de Terciopelo Unisex Cálido 2PCS...'
 sku: 'B0823M6DCS-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

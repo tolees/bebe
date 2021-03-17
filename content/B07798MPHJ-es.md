@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07798MPHJ-es COMVIP Bebé niña Resbalón Anti del algodón elástico de...'
 sku: 'B07798MPHJ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

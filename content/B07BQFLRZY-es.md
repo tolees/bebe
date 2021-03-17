@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQFLRZY-es Dodot Pants Pañal-Braguita Talla 6 84 Pañales Fácil De...'
 sku: 'B07BQFLRZY-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','dodot','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','dodot','pañales', ]
 actualPrice: 20.36 EUR
 currency: EUR
 price: 20.36

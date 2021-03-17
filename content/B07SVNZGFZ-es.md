@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVNZGFZ-es Geox B Waviness Boy A Zapatillas para Bebés Azul Navy/Sky...'
 sku: 'B07SVNZGFZ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

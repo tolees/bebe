@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFB9GQB-es 15 unids/rollo bolsas de pañales para bebés desechables...'
 sku: 'B07LFB9GQB-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','bebés','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés','pañales', ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

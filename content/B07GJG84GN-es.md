@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJG84GN-es Mochila de Pañales para Bebé LOORI Mochilas de Pañales y...'
 sku: 'B07GJG84GN-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','biberones','pañal','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','biberones','pañal','pañales', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

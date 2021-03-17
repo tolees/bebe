@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD27X4X-es Lictin Sacaleches Eléctrico - Extractor de Leche con...'
 sku: 'B07SD27X4X-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','lactancia','sacaleches', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','lactancia','sacaleches', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

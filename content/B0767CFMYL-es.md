@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767CFMYL-es Fisher-Price - Cuna De Viaje 2 En 1 Para Bebé Multicolor...'
 sku: 'B0767CFMYL-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','fisher-price', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','fisher-price', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZGR43J-es Britax Römer Kidfix Silla de coche grupo 2/3 Isofix negro...'
 sku: 'B079ZGR43J-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','de','isofix','römer','silla', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','de','isofix','römer','silla', ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBWPBTB-es Baby Jogger City Tour LUX color berenjena. Silla de paseo...'
 sku: 'B07LBWPBTB-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','baby','jogger', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','baby','jogger', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

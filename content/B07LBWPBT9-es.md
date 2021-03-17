@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBWPBT9-es Baby Jogger City Tour LUX color granito. Silla de paseo de...'
 sku: 'B07LBWPBT9-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','baby','jogger', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','baby','jogger', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

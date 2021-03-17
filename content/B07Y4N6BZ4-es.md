@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y4N6BZ4-es Luchild Protector de Cuna 180cm Parachoques Protector Cuna...'
 sku: 'B07Y4N6BZ4-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

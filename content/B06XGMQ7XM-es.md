@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGMQ7XM-es Elifexir Baby Care Crema Protectora del Pañal Culito 10...'
 sku: 'B06XGMQ7XM-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','pañal', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','pañal', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

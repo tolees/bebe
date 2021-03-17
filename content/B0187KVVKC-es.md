@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0187KVVKC-es Vizaro - SÁBANA BAJERA para Colchón de Capazo de Carrito...'
 sku: 'B0187KVVKC-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

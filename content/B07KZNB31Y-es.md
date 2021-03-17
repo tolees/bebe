@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZNB31Y-es Alargador de Cintura para Embarazadas. Adapta tu Ropa de...'
 sku: 'B07KZNB31Y-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazo', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

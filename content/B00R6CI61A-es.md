@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R6CI61A-es Fisher-Price - Gimnasio musical animalitos - gimnasios...'
 sku: 'B00R6CI61A-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','fisher-price', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','fisher-price', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

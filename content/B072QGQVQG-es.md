@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QGQVQG-es Simple Joys by Carter s traje de baño de 2 piezas para...'
 sku: 'B072QGQVQG-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

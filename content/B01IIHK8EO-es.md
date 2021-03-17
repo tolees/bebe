@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IIHK8EO-es Nenuco 700013300 - Merienditas muñeca con accesorios'
 sku: 'B01IIHK8EO-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','nenuco', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nenuco', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

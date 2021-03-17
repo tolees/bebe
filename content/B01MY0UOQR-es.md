@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY0UOQR-es Safety 1st Wall Fix Extending Barrera de seguridad...'
 sku: 'B01MY0UOQR-es'
-tags: [ '1st','Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','safety', ]
+tags: [ '1st','Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','safety', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3BOFSO-es Dodot Toallitas Para Bebé 1 Paquetes 64 Toallitas'
 sku: 'B00A3BOFSO-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','dodot', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','dodot', ]
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

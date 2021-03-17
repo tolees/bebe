@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JZF8LHK-es Medela - Sistema de nutrición suplementaria relactador'
 sku: 'B00JZF8LHK-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','medela', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','medela', ]
 actualPrice: 32.85 EUR
 currency: EUR
 price: 32.85

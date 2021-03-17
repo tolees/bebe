@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJP3KFB-es Surplex 2 pza Soporte Seguridad de la Cabeza para Bebe en...'
 sku: 'B07FJP3KFB-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé', ]
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

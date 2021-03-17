@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TMRWS8-es AnamSafdarButt59 Estante de Secado portátil Desmontable...'
 sku: 'B088TMRWS8-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberones', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberones', ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYR8TWH-es Chicco - Barra de alivio post picaduras mosquito para...'
 sku: 'B07BYR8TWH-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','chicco', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','chicco', ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

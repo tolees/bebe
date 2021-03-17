@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FG12H6Z-es Voova Mochila de Pañales para Mamá Papá con Cambiar de Mat...'
 sku: 'B08FG12H6Z-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','pañales', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X74RHHD-es Trona para Bebe Evolutiva Ajustable y Plegable - 7 Alturas...'
 sku: 'B07X74RHHD-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','bebé','trona', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé','trona', ]
 actualPrice: 121.97 EUR
 currency: EUR
 price: 121.97

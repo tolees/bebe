@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AI5NZDG-es WELEDA Gel Dentífrico para Niños 1x 50 ml'
 sku: 'B00AI5NZDG-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','weleda', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','weleda', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

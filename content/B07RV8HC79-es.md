@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RV8HC79-es QUEEN ROSE Almohada de Embarazo con Funda de Plush...'
 sku: 'B07RV8HC79-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazo', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo', ]
 actualPrice: 37.29 EUR
 currency: EUR
 price: 37.29

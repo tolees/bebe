@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBGNTJY-es Value Pack Recién Nacido Bebé LANSKIRT 11PCS Bebé Niña...'
 sku: 'B07LBGNTJY-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','babero','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','babero','bebé', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

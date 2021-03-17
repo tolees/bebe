@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08724KNXX-es Mono de bebé Promini para bebé con texto en inglés "My...'
 sku: 'B08724KNXX-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

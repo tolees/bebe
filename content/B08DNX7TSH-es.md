@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNX7TSH-es BTNEEU Luz Nocturna Infantil Recargable Lámpara Infantil...'
 sku: 'B08DNX7TSH-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

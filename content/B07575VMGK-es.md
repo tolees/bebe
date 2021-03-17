@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07575VMGK-es Chicco - Set de 2 sábanas bajeras ajustable para mini cuna...'
 sku: 'B07575VMGK-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chicco', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

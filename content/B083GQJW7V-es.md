@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GQJW7V-es 2 piezas de Cubierta de Cinturón de Seguridad para Bebé...'
 sku: 'B083GQJW7V-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

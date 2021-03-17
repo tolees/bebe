@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AUXVFU0-es Suavinex Biberon 302.845 Bipack'
 sku: 'B01AUXVFU0-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberon','suavinex', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberon','suavinex', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

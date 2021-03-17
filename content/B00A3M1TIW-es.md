@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3M1TIW-es WELEDA Skin Food Original 75 Ml 1x 75 ml'
 sku: 'B00A3M1TIW-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','weleda', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','weleda', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

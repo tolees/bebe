@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DJCS1X-es Bébé Confort ZELIA Nomad Black - Cochecito urbano 2 en 1...'
 sku: 'B076DJCS1X-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bébé','confort', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bébé','confort', ]
 actualPrice: 234.61 EUR
 currency: EUR
 price: 234.61

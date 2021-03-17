@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMYTB4J-es Dodot Activity Pants Pañal-Braguita Talla 6 111 Pañales...'
 sku: 'B07RMYTB4J-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','dodot','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','dodot','pañales', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

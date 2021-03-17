@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UFS2J06-es WELEDA Leche Corporal de Malva Blanca 1x 200 ml'
 sku: 'B00UFS2J06-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','weleda', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','weleda', ]
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

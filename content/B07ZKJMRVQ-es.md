@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKJMRVQ-es Bolsa de pañales de tela portátil reutilizable a prueba de...'
 sku: 'B07ZKJMRVQ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','pañales', ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WVDB38-es Maclaren Quest - Silla de paseo para bebé asiento...'
 sku: 'B078WVDB38-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 273.96 EUR
 currency: EUR
 price: 273.96

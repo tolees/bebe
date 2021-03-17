@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1XN12H-es Munchkin Set De Regalo Nibbles & Giggles Rosa 1 unidad 430 g'
 sku: 'B07X1XN12H-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','munchkin', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','munchkin', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

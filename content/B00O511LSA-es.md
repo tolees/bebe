@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O511LSA-es Bébé Confort Rodi AirProtect - Silla de coche para niños...'
 sku: 'B00O511LSA-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bébé','coche','confort','de','silla', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bébé','coche','confort','de','silla', ]
 actualPrice: 84.92 EUR
 currency: EUR
 price: 84.92

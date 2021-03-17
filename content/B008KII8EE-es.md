@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008KII8EE-es Medela Top sujetador extración de leche manos libres talla L'
 sku: 'B008KII8EE-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','medela', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','medela', ]
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

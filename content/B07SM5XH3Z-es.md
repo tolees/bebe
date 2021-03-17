@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SM5XH3Z-es mysunny Juguetes de Cocina de Madera para niños Juguete...'
 sku: 'B07SM5XH3Z-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

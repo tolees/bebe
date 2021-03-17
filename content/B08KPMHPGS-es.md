@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KPMHPGS-es Bisoo - Toalla Bebe con Capucha - Set de Baño 4 Piezas con...'
 sku: 'B08KPMHPGS-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','embarazada', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','embarazada', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

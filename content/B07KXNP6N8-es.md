@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXNP6N8-es Mochila Portabebés Ergonómico Hommie Mochilas para Bebes...'
 sku: 'B07KXNP6N8-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','portabebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','portabebés', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

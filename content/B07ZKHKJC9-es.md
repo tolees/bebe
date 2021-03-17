@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKHKJC9-es 120x120cm Manta de muselina para bebé manta para bebé...'
 sku: 'B07ZKHKJC9-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','muselina', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','muselina', ]
 actualPrice: 4.14 EUR
 currency: EUR
 price: 4.14

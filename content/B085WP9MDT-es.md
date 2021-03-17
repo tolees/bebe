@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WP9MDT-es FlowerDas Termometro Infrarrojo Termómetro De Frente...'
 sku: 'B085WP9MDT-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 46.29 EUR
 currency: EUR
 price: 46.29

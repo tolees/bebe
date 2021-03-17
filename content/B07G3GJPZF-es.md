@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3GJPZF-es Fanvans Premamá Algodón Briefs Ropa Interior Bragas De...'
 sku: 'B07G3GJPZF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazada', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazada', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

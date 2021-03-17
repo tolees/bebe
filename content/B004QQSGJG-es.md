@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QQSGJG-es Huggies Pull-Ups - Calzoncillos de aprendizaje para niños...'
 sku: 'B004QQSGJG-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','huggies', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','huggies', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

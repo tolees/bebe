@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GZBV4Z-es Philips Avent SCF334/31 - Sacaleches doble silencioso...'
 sku: 'B079GZBV4Z-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent','biberón','sacaleches', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','biberón','sacaleches', ]
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

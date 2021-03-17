@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK3BHQP-es Safety 1st RAINBOW Black Chic - Silla de paseo color negro'
 sku: 'B07KK3BHQP-es'
-tags: [ '1st','Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','safety', ]
+tags: [ '1st','Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','safety', ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YS4MSFP-es ZoneYan Gorras Bebé Recién Nacido Sombreros Bebé Invierno...'
 sku: 'B07YS4MSFP-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

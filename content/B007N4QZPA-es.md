@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007N4QZPA-es Tommee Tippee Biberones Closer to Nature 340 ml 2 Unidades...'
 sku: 'B007N4QZPA-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberones','tommee', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberones','tommee', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

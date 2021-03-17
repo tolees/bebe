@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FAO6HIA-es Cybex - Silla de coche grupo 1/2/3 Pallas silla de coche 2...'
 sku: 'B00FAO6HIA-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','cybex','de','isofix','silla', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','cybex','de','isofix','silla', ]
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

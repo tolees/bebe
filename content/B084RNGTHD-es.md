@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RNGTHD-es Precioso lindo oso patrón de dibujos animados almohada...'
 sku: 'B084RNGTHD-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

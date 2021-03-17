@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVLS9HJ-es Brunoko Plato para bebe con babero Azul - Plato Silicona...'
 sku: 'B07CVLS9HJ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','babero','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','babero','bebe', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

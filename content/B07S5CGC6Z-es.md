@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5CGC6Z-es Keten Alfombra Inflable con Agua Tapete de PVC a Prueba de...'
 sku: 'B07S5CGC6Z-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

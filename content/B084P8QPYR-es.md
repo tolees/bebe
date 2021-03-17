@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084P8QPYR-es LoveOlvido Orffworld Cocodrilo Forma Castañuela de Madera...'
 sku: 'B084P8QPYR-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

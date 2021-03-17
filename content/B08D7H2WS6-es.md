@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D7H2WS6-es Luckywing Termómetro de Frente，Termómetro Infrarrojos...'
 sku: 'B08D7H2WS6-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

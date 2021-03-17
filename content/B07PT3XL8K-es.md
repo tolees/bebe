@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT3XL8K-es Muñeco Peluche Unicornio con Manta Bebé Estrellas...'
 sku: 'B07PT3XL8K-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

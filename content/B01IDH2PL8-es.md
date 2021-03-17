@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IDH2PL8-es WandSticker4U - Adhesivo decorativo para pared o ventana...'
 sku: 'B01IDH2PL8-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

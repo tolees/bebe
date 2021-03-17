@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXBDSYW-es Dr. Brown s Options - Biberón estándar 250 ml'
 sku: 'B06XXBDSYW-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberón', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberón', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

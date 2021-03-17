@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXVXC51-es Ballery Toalla Facial Infantil 10 Piezas Toallas de...'
 sku: 'B07YXVXC51-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','muselina', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','muselina', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

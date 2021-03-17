@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPJKQJ4-es IEFIEL Vestidos de Princesa Fiesta Bautizo Tutú con Braga...'
 sku: 'B06XPJKQJ4-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

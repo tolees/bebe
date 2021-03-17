@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WPS2KN-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
 sku: 'B075WPS2KN-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

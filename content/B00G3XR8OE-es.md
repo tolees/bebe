@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G3XR8OE-es Baby Jogger City Mini Gemelar - Silla de paseo color...'
 sku: 'B00G3XR8OE-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','baby','jogger', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','baby','jogger', ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

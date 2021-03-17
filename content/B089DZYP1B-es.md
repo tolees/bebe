@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DZYP1B-es Fular Portabebe Newlemo Portabebes - Hecho de Tela Suave y...'
 sku: 'B089DZYP1B-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','portabebe','portabebes', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','portabebe','portabebes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

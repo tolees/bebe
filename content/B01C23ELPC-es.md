@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C23ELPC-es Chicco Physio Air - Pack de 2 chupetes de látex/caucho...'
 sku: 'B01C23ELPC-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chicco','chupetes', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco','chupetes', ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

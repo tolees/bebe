@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FKEZ7E-es BÉABA Babycook Duo Robot de cocina para bebés 4 en 1...'
 sku: 'B019FKEZ7E-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','babycook','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','babycook','bebés', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

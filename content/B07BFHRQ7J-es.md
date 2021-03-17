@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFHRQ7J-es Bébé Confort LARA Cochecito compacto plegable y...'
 sku: 'B07BFHRQ7J-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bébé','confort', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bébé','confort', ]
 actualPrice: 182.96 EUR
 currency: EUR
 price: 182.96

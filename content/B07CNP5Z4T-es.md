@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNP5Z4T-es Safety 1st TEENY Ribbon Red Chic - Silla de paseo plegable...'
 sku: 'B07CNP5Z4T-es'
-tags: [ '1st','Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','safety', ]
+tags: [ '1st','Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','safety', ]
 actualPrice: 118.1 EUR
 currency: EUR
 price: 118.1

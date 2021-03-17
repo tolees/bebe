@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3FRJTF-es HyAdierTech Almohadillas de Lactancia Bambú Orgánicos para...'
 sku: 'B07X3FRJTF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','lactancia', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

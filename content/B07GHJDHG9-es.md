@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GHJDHG9-es Espejo retrovisor para coche de bebé para interior espejo...'
 sku: 'B07GHJDHG9-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

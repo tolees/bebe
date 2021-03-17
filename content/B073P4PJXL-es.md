@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073P4PJXL-es LifeTree Cubiertas De Enfermería | Poncho de Enfermería |...'
 sku: 'B073P4PJXL-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','lactancia', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

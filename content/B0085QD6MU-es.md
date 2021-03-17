@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0085QD6MU-es Tommee Tippee 42302241 - Bolsas para conservar la leche'
 sku: 'B0085QD6MU-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','tommee', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','tommee', ]
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

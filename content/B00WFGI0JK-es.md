@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WFGI0JK-es Babymoov procesador de alimentos para bebés Nutribaby...'
 sku: 'B00WFGI0JK-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

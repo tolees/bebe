@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1LHDSZ-es Vicloon Babero de Bebé del Silicona 2pcs Baberos...'
 sku: 'B07L1LHDSZ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','babero','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','babero','bebé', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

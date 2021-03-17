@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722TTFD7-es Lebze Muselina Manta Bebé -"Diente de Plumas" Bambú...'
 sku: 'B0722TTFD7-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','muselina', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','muselina', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

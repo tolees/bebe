@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CMVJKO2-es Philips Avent SCF676/01 - Funda para biberón de cristal...'
 sku: 'B00CMVJKO2-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent','biberón', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','biberón', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086CWDMY5-es Wangxyan Red de Viaje portátil para bebés Tapa de Paraguas...'
 sku: 'B086CWDMY5-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

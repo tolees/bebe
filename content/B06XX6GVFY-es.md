@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX6GVFY-es Skip Hop Zoo Unicorn - Termo contenedor'
 sku: 'B06XX6GVFY-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','hop','skip', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','hop','skip', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895WV3BQ-es Bebé Pantalones Cortos Niñas Niños Bombacho Estampado...'
 sku: 'B0895WV3BQ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','pañal', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','pañal', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074VFP9ZG-es Cuddle Club Mono Polar Bebé para Recién Nacidos a Niños 4...'
 sku: 'B074VFP9ZG-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

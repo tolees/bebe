@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VX98Z5L-es TOYANDONA Cuatro juegos de protección para bebés con...'
 sku: 'B07VX98Z5L-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

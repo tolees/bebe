@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088QJM9TN-es Fiween Clips 4pcs Niños Chupete Chupete Titular de bebé...'
 sku: 'B088QJM9TN-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','chupete', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','chupete', ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

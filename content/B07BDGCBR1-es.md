@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDGCBR1-es i-baby Protector Cuna Chichonera de Cuna y Cama para Bebé...'
 sku: 'B07BDGCBR1-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

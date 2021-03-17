@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGWQ8FJ-es Primigi Gore-Tex Pfz 43820 Botas para Bebés Azu/Jeans...'
 sku: 'B07NGWQ8FJ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86

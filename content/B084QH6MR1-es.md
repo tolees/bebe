@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084QH6MR1-es 1 unid Etiqueta engomada de la Historieta del termómetro...'
 sku: 'B084QH6MR1-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 1.21 EUR
 currency: EUR
 price: 1.21

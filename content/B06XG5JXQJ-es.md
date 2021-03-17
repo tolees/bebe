@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG5JXQJ-es Chicco Physio Soft Pack de 2 Chupetes de Silicona 6-16...'
 sku: 'B06XG5JXQJ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chicco','chupetes', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco','chupetes', ]
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JG89TMG-es Asalvo Mix Plus Capitán - Cuna de viaje Color gris'
 sku: 'B07JG89TMG-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','asalvo', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','asalvo', ]
 actualPrice: 63.65 EUR
 currency: EUR
 price: 63.65

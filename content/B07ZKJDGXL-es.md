@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKJDGXL-es JK-2 Cómoda Manta Tejida de Tela Baby Stretch Wrap Cerca...'
 sku: 'B07ZKJDGXL-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

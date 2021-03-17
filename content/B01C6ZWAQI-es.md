@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C6ZWAQI-es Tommee Tippee 42361081 - Esterilizar con vapor en el...'
 sku: 'B01C6ZWAQI-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','tommee', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','tommee', ]
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

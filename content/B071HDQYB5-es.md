@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HDQYB5-es Lebze Muselina Manta Bebé -"Diseño de Conejo" Bambú...'
 sku: 'B071HDQYB5-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','bebés','muselina', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

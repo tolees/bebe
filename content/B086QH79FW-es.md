@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QH79FW-es Agger Transparente bebé de Silicona Mam Anillo Chupete...'
 sku: 'B086QH79FW-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','chupete', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','chupete', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

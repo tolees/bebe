@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZYVJ7K-es 2 Pares Calcetines/Medias de Compresión para Hombres y...'
 sku: 'B07PZYVJ7K-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazo', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo', ]
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

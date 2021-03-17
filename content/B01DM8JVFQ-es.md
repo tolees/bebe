@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DM8JVFQ-es Close Parent Bambú Pañales De Tela Tamaño Único Pack de 10'
 sku: 'B01DM8JVFQ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','pañales', ]
 actualPrice: 136.8 EUR
 currency: EUR
 price: 136.8

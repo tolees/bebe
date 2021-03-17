@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0051POZ8W-es Johnson s Baby Crema Protectora de Pañal ideal para la...'
 sku: 'B0051POZ8W-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','pañal', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','pañal', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

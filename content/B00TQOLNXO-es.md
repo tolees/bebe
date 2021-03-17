@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TQOLNXO-es Nuby ID5397AQUA - Alimentador antiahogo con redecilla...'
 sku: 'B00TQOLNXO-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','nuby', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nuby', ]
 actualPrice: 4.02 EUR
 currency: EUR
 price: 4.02

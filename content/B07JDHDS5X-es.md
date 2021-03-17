@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JDHDS5X-es Konesky Bebé cinturón de Seguridad Clip Asiento de Coche...'
 sku: 'B07JDHDS5X-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

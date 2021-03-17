@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC2FS5G-es Luchild Termómetro Digital Infrarrojos Bebé de Frente y...'
 sku: 'B07VC2FS5G-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

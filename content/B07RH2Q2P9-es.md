@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH2Q2P9-es Munchkin - Set de vajilla para niños rose'
 sku: 'B07RH2Q2P9-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','munchkin', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','munchkin', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DM1KTCV-es Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet...'
 sku: 'B07DM1KTCV-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

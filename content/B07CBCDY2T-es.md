@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBCDY2T-es Manta de Bebé Lactancia Alimentación Paños de Muselina...'
 sku: 'B07CBCDY2T-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','lactancia','muselina','portabebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','lactancia','muselina','portabebé', ]
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

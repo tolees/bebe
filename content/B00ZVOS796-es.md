@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZVOS796-es Bambino Mio pañal bañador floral pequeño 0-6 meses'
 sku: 'B00ZVOS796-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','pañal', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','pañal', ]
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

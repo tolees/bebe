@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9X9BK2-es Adoric Termometro Digital Termometro Bebe Niños y Adultos...'
 sku: 'B07G9X9BK2-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HY171SF-es Fisher-Price Wonder Makers Centro de reciclaje juguetes...'
 sku: 'B07HY171SF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','fisher-price', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','fisher-price', ]
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JS134UA-es Nenuco - Nenuco y su hermanito van al cole Famosa...'
 sku: 'B00JS134UA-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','nenuco', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nenuco', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

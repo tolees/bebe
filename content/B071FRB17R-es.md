@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FRB17R-es Herzmutter Pijama de Maternidad - Pijama de Lactancia -...'
 sku: 'B071FRB17R-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','lactancia', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

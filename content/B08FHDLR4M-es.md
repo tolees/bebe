@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FHDLR4M-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido...'
 sku: 'B08FHDLR4M-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','lactancia', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

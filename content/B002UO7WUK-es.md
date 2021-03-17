@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002UO7WUK-es Playgro Set de Animales Rociadores Azul/Verde 8 figuras...'
 sku: 'B002UO7WUK-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','playgro', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','playgro', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

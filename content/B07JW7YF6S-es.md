@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW7YF6S-es O³ Guante Dentición Bebé Lola Kids + 1 Gasas Bebe Algodon...'
 sku: 'B07JW7YF6S-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','bebé','chupete','muselina', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé','chupete','muselina', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

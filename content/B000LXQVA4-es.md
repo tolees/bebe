@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LXQVA4-es Fisher-Price Saltador animalitos de la selva para bebé +1...'
 sku: 'B000LXQVA4-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','fisher-price', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','fisher-price', ]
 actualPrice: 121.89 EUR
 currency: EUR
 price: 121.89

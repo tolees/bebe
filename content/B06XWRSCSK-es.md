@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWRSCSK-es Philips Avent SCF798/02 - Vaso con pajita flexible 300 ml...'
 sku: 'B06XWRSCSK-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent', ]
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XC92F2X-es Hauck Stop N Safe 2 puerta de seguridad incluido extensión...'
 sku: 'B07XC92F2X-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','hauck', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','hauck', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

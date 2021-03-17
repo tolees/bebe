@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HWNTC7-es Luchild Trenza Protector de Cuna 200cm Parachoques...'
 sku: 'B083HWNTC7-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

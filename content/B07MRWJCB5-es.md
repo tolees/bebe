@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MRWJCB5-es Nenuco Pack Cuidado Classic con 2 geles de ducha 1 colonia...'
 sku: 'B07MRWJCB5-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','nenuco', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nenuco', ]
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

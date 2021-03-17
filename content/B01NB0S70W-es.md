@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NB0S70W-es Philips Avent SCF169/28 - Set de 2 chupetes Gama Safari de...'
 sku: 'B01NB0S70W-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent','chupetes', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','chupetes', ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

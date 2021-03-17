@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D3HT7FG-es Tena - Pants - Pañales Talla L - 14 unidades'
 sku: 'B00D3HT7FG-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','pañales', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

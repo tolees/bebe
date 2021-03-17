@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB4WJYJ-es Parasol Coche Bebe Infantil Lateral cortinilla Accesorio...'
 sku: 'B07SB4WJYJ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

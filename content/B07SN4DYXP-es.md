@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SN4DYXP-es Umi. Essentials - Auriculares de botón inalámbricos TWS W9...'
 sku: 'B07SN4DYXP-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FF7HMQN-es Cybex Gold Sirona S i-Size 519000215 Silla de Coche Grupo...'
 sku: 'B07FF7HMQN-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','cybex','de','isofix','silla', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','cybex','de','isofix','silla', ]
 actualPrice: 373.5 EUR
 currency: EUR
 price: 373.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QH2Y7S-es Ergobaby Mochila Portabebés Ergonomicas Coleccion Original...'
 sku: 'B077QH2Y7S-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','portabebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','portabebés', ]
 actualPrice: 80.67 EUR
 currency: EUR
 price: 80.67

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPQCR29-es Philips Avent SCF349/21 - Pack de 2 chupetes Ultra Air...'
 sku: 'B07TPQCR29-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent','chupetes', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','chupetes', ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

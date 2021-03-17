@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXKBQXB-es Batidora de Vaso Deik Batidora 3 en 1 con Molinillo y...'
 sku: 'B07BXKBQXB-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

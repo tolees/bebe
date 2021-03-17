@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SFTJCR-es Luchild Almohada Embarazada Multifuncional Cojín Lactancia...'
 sku: 'B082SFTJCR-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','embarazada','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','embarazada','lactancia', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

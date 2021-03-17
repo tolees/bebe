@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DQV11SO-es Twins Looney Tunes 1 127 67-Camiseta Bebé Bebé unisex Weiß...'
 sku: 'B01DQV11SO-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

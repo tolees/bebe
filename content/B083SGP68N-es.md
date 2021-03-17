@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SGP68N-es IceUnicorn - Escarpines de baño para niña zapatos de playa...'
 sku: 'B083SGP68N-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 14.83 EUR
 currency: EUR
 price: 14.83

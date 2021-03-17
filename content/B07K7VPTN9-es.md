@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7VPTN9-es Britax Römer Silla de coche 3 5 años - 12 años 15 - 36 kg...'
 sku: 'B07K7VPTN9-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','de','isofix','römer','silla', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','de','isofix','römer','silla', ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

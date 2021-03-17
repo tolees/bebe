@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDCYPP4-es Hauck Stop N Safe 2 puerta de seguridad incluido extensión...'
 sku: 'B07XDCYPP4-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','hauck', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','hauck', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

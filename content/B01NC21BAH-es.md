@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NC21BAH-es BabyMoments Cards by Mimuselina Bilingüe: Español-English...'
 sku: 'B01NC21BAH-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

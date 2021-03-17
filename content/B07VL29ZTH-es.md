@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VL29ZTH-es laamei Paño Muselinas Multifunción para Bebé de Algodón...'
 sku: 'B07VL29ZTH-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AHGYL60-es Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en...'
 sku: 'B01AHGYL60-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

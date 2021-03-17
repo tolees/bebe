@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJZ196S-es Dodot Splashers - 12 Pañales Bañadores Desechables 6 a 11...'
 sku: 'B07FJZ196S-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','dodot','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','dodot','pañales', ]
 actualPrice: 2.43 EUR
 currency: EUR
 price: 2.43

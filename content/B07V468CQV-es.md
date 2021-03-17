@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V468CQV-es CARAMAZ Parasol Coche con protección UV Extra Oscura -...'
 sku: 'B07V468CQV-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

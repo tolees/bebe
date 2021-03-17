@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722YDZF5-es Tiny Love Dynamic Gymini Gimnasio musical de actividades...'
 sku: 'B0722YDZF5-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

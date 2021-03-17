@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8RX9TW-es Hawiton Camisón Lactancia Manga Larga Pijama Embarazada...'
 sku: 'B07X8RX9TW-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazada','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazada','lactancia', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

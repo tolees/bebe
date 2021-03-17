@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B01UB7K-es Suavinex - Escurre Biberones. Secar Biberones. Apto Para...'
 sku: 'B00B01UB7K-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','suavinex', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','suavinex', ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

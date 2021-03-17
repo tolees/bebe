@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WJNIZTY-es Philips Avent SCF551/05 - Vaso con boquilla de silicona...'
 sku: 'B00WJNIZTY-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

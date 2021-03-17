@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFC3B8L-es Luz Nocturna Infantil Tekemai Luz de Noche Bebé Lámpara de...'
 sku: 'B07ZFC3B8L-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

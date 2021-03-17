@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ4GKYZ-es Tommy Hilfiger Simon Skinny Glfbst Jeans Azul Glen Fresh...'
 sku: 'B07JZ4GKYZ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

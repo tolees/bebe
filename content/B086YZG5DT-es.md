@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YZG5DT-es Fifet Chupete Chupete Clips Cadenas x 4 para Bebés y Niños'
 sku: 'B086YZG5DT-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','chupete', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','chupete', ]
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

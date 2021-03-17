@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJGJDND-es Chicco Next 2 me - Cuna de colecho con anclaje a cama y 6...'
 sku: 'B07GJGJDND-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chicco', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

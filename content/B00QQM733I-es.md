@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QQM733I-es Munchkin - Espejo musical con luz Day & Night'
 sku: 'B00QQM733I-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','munchkin', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','munchkin', ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

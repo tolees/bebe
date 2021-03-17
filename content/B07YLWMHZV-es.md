@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YLWMHZV-es VERTBAUDET Camiseta de Cuello Alto fantasía bebé niño Azul...'
 sku: 'B07YLWMHZV-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

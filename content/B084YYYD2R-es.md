@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YYYD2R-es Baby Teething Toys Silicona suave Mordedor de frutas sin...'
 sku: 'B084YYYD2R-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','chupete', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','chupete', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

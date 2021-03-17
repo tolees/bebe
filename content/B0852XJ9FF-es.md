@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0852XJ9FF-es Panamami Tamaño portátil Niños Niños Bebé Estudio Cámara...'
 sku: 'B0852XJ9FF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

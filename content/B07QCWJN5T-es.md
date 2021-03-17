@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QCWJN5T-es Bebé Pijama Niños Pelele de Algodón Body Manga Corta...'
 sku: 'B07QCWJN5T-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

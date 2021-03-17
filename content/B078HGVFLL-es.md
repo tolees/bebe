@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HGVFLL-es Munchkin Vaso con asas y pajita abatible Tip & Sip con...'
 sku: 'B078HGVFLL-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','munchkin', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','munchkin', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

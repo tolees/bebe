@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ANYAQTI-es WELEDA Acondicionador Reparador con Avena 1x 200 ml'
 sku: 'B00ANYAQTI-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','weleda', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','weleda', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

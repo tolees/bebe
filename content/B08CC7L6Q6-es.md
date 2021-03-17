@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CC7L6Q6-es XINFULUK Multi-propósito de Moda Coreana Diseño de lechón...'
 sku: 'B08CC7L6Q6-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 1.72 EUR
 currency: EUR
 price: 1.72

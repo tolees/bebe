@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP57NMD-es TiaoBug Bolero Fiesta Bebé Niñas para Boda Chaqueta Manga...'
 sku: 'B07ZP57NMD-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

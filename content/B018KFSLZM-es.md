@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018KFSLZM-es Chicco Always with you - Baby Monitor de audio sencillo y...'
 sku: 'B018KFSLZM-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chicco', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
 actualPrice: 53.07 EUR
 currency: EUR
 price: 53.07

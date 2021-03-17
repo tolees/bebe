@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQFYY5V-es Geox B Shaax A Zapatillas para Bebés Rosa Pink C8004 25 EU'
 sku: 'B07SQFYY5V-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGDLTW2-es Bébé Confort LARA Nomad Sand - Cochecito ultracompacto...'
 sku: 'B07HGDLTW2-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bébé','confort', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bébé','confort', ]
 actualPrice: 191.2 EUR
 currency: EUR
 price: 191.2

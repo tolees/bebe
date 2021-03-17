@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0041MEZFO-es Laboratorios Babé - Gel de Baño Pediátrico 500 ml Suavidad...'
 sku: 'B0041MEZFO-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

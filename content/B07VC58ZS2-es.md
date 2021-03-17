@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC58ZS2-es Mosquitera Mosquitera Carro Bebe Universal Mosquitera...'
 sku: 'B07VC58ZS2-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

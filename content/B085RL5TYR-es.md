@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RL5TYR-es Libershine Cubierta De La Lactancia Del Bebé Gran calidad...'
 sku: 'B085RL5TYR-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','bebés','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés','lactancia', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

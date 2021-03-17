@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDT9KSG-es MAM - Conjunto de 2 chupetes que brillan en la oscuridad...'
 sku: 'B00PDT9KSG-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chupetes', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chupetes', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

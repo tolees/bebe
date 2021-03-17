@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FJFQTRT-es Hoylson Gavena Calcetines Antideslizantes para Bebé Niños...'
 sku: 'B08FJFQTRT-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

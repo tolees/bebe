@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGRCT6W-es Dcasa DC-2430192 - Cubos de basura para pañales y...'
 sku: 'B06WGRCT6W-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','pañales', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

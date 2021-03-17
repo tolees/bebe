@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006OP3K7K-es Puma 205203001 Calcetines Para Bebés Multicolor Powder...'
 sku: 'B006OP3K7K-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

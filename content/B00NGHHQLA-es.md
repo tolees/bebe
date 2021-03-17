@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGHHQLA-es GEMVIE Flotador de Bebidas para Bebé Fiesta Piscina Playa...'
 sku: 'B00NGHHQLA-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

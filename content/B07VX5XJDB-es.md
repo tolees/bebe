@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VX5XJDB-es Bonio Silla de coche grupo 1/2/3 9-36 kg ISOFIX Reclinable...'
 sku: 'B07VX5XJDB-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','de','isofix','silla', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','de','isofix','silla', ]
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

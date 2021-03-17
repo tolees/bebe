@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GCKKYBW-es MioRico Saco Dormir Bebe 1 TOG Saquito de Dormir 100%...'
 sku: 'B08GCKKYBW-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

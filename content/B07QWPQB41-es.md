@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWPQB41-es Cubierta de lactancia para bebés y poncho de lactancia -...'
 sku: 'B07QWPQB41-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','lactancia', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

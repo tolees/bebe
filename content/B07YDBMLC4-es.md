@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDBMLC4-es Luchild Almohada para lactancia Almohada multifuncional...'
 sku: 'B07YDBMLC4-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','lactancia', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M75FZ4M-es Blevit Plus Superfibra 8 Cereales con Miel 1 unidad 600...'
 sku: 'B00M75FZ4M-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','blevit', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','blevit', ]
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

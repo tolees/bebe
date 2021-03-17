@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1K8TWE-es Denenes Gel-Champú - 600 ml'
 sku: 'B01N1K8TWE-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','denenes', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','denenes', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

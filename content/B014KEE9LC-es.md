@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014KEE9LC-es Mattel Fisher-Price-Xilófono de Arrastre Juguete Musical...'
 sku: 'B014KEE9LC-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

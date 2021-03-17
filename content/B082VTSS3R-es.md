@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VTSS3R-es Dodot Splashers Pañales Bañadores Desechables No se...'
 sku: 'B082VTSS3R-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','dodot','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','dodot','pañales', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

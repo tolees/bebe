@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I2KYSPI-es Nuk - Detergente líquido especialmente para...'
 sku: 'B00I2KYSPI-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','nuk', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','nuk', ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

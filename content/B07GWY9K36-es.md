@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWY9K36-es Philips Avent SCF045/27-2 - Tetinas natural flujo variable...'
 sku: 'B07GWY9K36-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent','tetinas', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','tetinas', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

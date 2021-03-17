@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082J5XFBC-es HOMYBABY Reductor WC Niños | Adaptador WC Niños para...'
 sku: 'B082J5XFBC-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

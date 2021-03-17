@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003URR2LA-es Suavinex - Pack 28 discos absorbentes Protegésenos Nature....'
 sku: 'B003URR2LA-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','suavinex', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','suavinex', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0861QHZVP-es Magicfun Flotado de Natación para Bebé con Asiento Anill...'
 sku: 'B0861QHZVP-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

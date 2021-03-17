@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCNFDQS-es Tommee Tippee Juguete transpirable Jiggy la Jirafa'
 sku: 'B07GCNFDQS-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','tommee', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','tommee', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNJCBQ1-es NUK Disney First Choice+ biberón | 6-18 meses | Tetina de...'
 sku: 'B07HNJCBQ1-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberón','nuk', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberón','nuk', ]
 actualPrice: 10.03 EUR
 currency: EUR
 price: 10.03

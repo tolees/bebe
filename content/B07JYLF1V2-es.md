@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYLF1V2-es Tommy Hilfiger 1985 Straight Mmst Jeans Azul Denim 911 95...'
 sku: 'B07JYLF1V2-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

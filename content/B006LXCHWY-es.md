@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006LXCHWY-es Nenuco - Pañales de Colores Famosa 700009027'
 sku: 'B006LXCHWY-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','nenuco','pañales', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nenuco','pañales', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

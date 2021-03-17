@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854H8VMT-es Mamá Lactancia materna Con una sola mano Extractor de...'
 sku: 'B0854H8VMT-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberón','lactancia', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberón','lactancia', ]
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

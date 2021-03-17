@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YGZPPF-es Schiesser Puppy Love Baby Anzug 2-Teilig Conjuntos de...'
 sku: 'B078YGZPPF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

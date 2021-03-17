@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01966WDTE-es Jané 010496C01 - Termo para sólidos'
 sku: 'B01966WDTE-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','jané', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','jané', ]
 actualPrice: 24.16 EUR
 currency: EUR
 price: 24.16

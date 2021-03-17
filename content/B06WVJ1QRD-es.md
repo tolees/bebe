@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVJ1QRD-es Safety 1st Travel Booster Trona de viaje portátil Asiento...'
 sku: 'B06WVJ1QRD-es'
-tags: [ '1st','Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés','safety','trona', ]
+tags: [ '1st','Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','safety','trona', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

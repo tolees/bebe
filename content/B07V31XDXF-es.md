@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V31XDXF-es Béaba Babycook Neo Robot de cocina infantil: tritura...'
 sku: 'B07V31XDXF-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','babycook','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','babycook','bebés', ]
 actualPrice: 145.61 EUR
 currency: EUR
 price: 145.61

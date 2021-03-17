@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZHDK5H-es Philips Avent SCF222/22 - Pack de dos chupetes ultra...'
 sku: 'B01MZHDK5H-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent','chupetes', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','chupetes', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCWLSML-es CYBEX Gold - Silla de Paseo Eezy S Twist Asiento Giratorio...'
 sku: 'B07KCWLSML-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','cybex', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','cybex', ]
 actualPrice: 191.95 EUR
 currency: EUR
 price: 191.95

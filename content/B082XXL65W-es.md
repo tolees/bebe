@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XXL65W-es Bonio Silla de Coche Giratoria 360º Grupo 0+/1/2/3 0~36kg...'
 sku: 'B082XXL65W-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','de','silla', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','de','silla', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

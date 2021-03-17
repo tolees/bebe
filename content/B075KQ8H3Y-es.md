@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KQ8H3Y-es Star Ibaby Oxford Cloth - Parque de bebés ultraligero'
 sku: 'B075KQ8H3Y-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

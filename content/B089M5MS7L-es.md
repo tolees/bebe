@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089M5MS7L-es Juguetes Montessori Bebes Educativos de Madera Laberinto...'
 sku: 'B089M5MS7L-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FFCCJJ-es Maxi-Cosi CabrioFix Silla de auto reclinable y seguro para...'
 sku: 'B075FFCCJJ-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','maxi-cosi', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','maxi-cosi', ]
 actualPrice: 109.65 EUR
 currency: EUR
 price: 109.65

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X46KHWG-es Camara Vigilancia WiFi Interior NIYPS HD 1080P Camara...'
 sku: 'B07X46KHWG-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

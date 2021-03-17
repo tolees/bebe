@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX23TW7-es Air Wick Ambientador Freshmatic Recambio - Fragancia...'
 sku: 'B01LX23TW7-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','nenuco', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nenuco', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

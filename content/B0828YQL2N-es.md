@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0828YQL2N-es VEELU Manta Personalizada Mantas de Lana de Collage de...'
 sku: 'B0828YQL2N-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

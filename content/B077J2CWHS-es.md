@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077J2CWHS-es Fisher-Price Cebra activity juguete colgante para bebé...'
 sku: 'B077J2CWHS-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','fisher-price', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','fisher-price', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

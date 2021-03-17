@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKNVSQK-es Miracle Baby Mantas de Muselina Suave 70% Bambú 30%...'
 sku: 'B07CKNVSQK-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','muselina', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','muselina', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WM7LGW-es Philips Avent SCF152/01 - Pezonera para curar pezones...'
 sku: 'B000WM7LGW-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent','embarazo', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','embarazo', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

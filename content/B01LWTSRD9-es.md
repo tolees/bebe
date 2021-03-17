@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWTSRD9-es Cybex Silver Juno 2-Fix 517000961 Silla de Coche Grupo 1...'
 sku: 'B01LWTSRD9-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','cybex','de','isofix','silla', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','cybex','de','isofix','silla', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ML5H3X3-es Gratlin Cinturón de Maternidad Embarazada y Extensor de...'
 sku: 'B07ML5H3X3-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazada', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazada', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

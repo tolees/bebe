@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009M4NKNO-es Suavinex - Perfume Niña La Petite Chic Vaporizador....'
 sku: 'B009M4NKNO-es'
-tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','suavinex', ]
+tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','suavinex', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42
