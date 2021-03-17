@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076F4P3KK-es Safety 1st TIMBA con cojín White/Red Line - Trona de...'
 sku: 'B076F4P3KK-es'
-tags: [ '1st','Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','safety','trona', ]
+tags: [ '1st','Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','safety','trona', ]
 actualPrice: 61.48 EUR
 currency: EUR
 price: 61.48

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TQC3H1-es Cybex Gold Pallas S-Fix - Silla de coche 2 en 1 para...'
 sku: 'B077TQC3H1-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','cybex','de','isofix','silla', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','cybex','de','isofix','silla', ]
 actualPrice: 192.9 EUR
 currency: EUR
 price: 192.9

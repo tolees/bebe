@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MB4F7K-es MagiDeal 30 Piezas Kit de Resaca Bolso Fiesta de Soltería...'
 sku: 'B079MB4F7K-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','muselina', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','muselina', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

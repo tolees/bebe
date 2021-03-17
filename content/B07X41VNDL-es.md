@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X41VNDL-es Munchkin Set De Alimentación Para Niños Grandes Food...'
 sku: 'B07X41VNDL-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','munchkin', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','munchkin', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

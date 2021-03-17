@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ARBQ1A0-es Chicco - Bandeja escurrebiberones hasta 6 biberones'
 sku: 'B00ARBQ1A0-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberones','chicco', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberones','chicco', ]
 actualPrice: 14.93 EUR
 currency: EUR
 price: 14.93

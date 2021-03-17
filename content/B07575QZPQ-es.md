@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07575QZPQ-es Chicco Echo - Silla de paseo ligera y compacta soporta...'
 sku: 'B07575QZPQ-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chicco', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chicco', ]
 actualPrice: 94.48 EUR
 currency: EUR
 price: 94.48

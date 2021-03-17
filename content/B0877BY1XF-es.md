@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0877BY1XF-es Dodot Pants Pañal - Braguita Talla 7 92 Pañales 17 kg +...'
 sku: 'B0877BY1XF-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','dodot','pañal','pañales', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','dodot','pañal','pañales', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CGY58T-es Protector de pezón de contacto de silicona con estuche de...'
 sku: 'B085CGY58T-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','lactancia', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','lactancia', ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

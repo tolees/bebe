@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V24FH1T-es Safta Sport Bag 40 Cm Superzings Bolsa de gimnasio Unisex...'
 sku: 'B07V24FH1T-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JDDBPH-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
 sku: 'B083JDDBPH-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazo', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

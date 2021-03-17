@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086MQ3MVT-es YO-HAPPY Chupete Adulto Personalizado de Gran tamaño...'
 sku: 'B086MQ3MVT-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chupete', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chupete', ]
 actualPrice: 6.04 EUR
 currency: EUR
 price: 6.04

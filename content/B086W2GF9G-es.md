@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086W2GF9G-es LANDWIND FT118 Termómetro Digital Bebé Termómetro...'
 sku: 'B086W2GF9G-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
+tags: [ 'Bebé','Hogar y cocina','Moldes y bandejas para hielo','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99
