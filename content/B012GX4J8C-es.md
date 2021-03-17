@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012GX4J8C-es MINILAND BABY - Vigilabebé'
 sku: 'B012GX4J8C-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','vigilabebé', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','vigilabebé', ]
 actualPrice: 148.75 EUR
 currency: EUR
 price: 148.75

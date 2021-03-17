@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJN837K-es HyAdierTech Protector de Asiento de Coche Premium Cubierta...'
 sku: 'B07RJN837K-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','isofix', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','isofix', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

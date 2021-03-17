@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TMRWS8-es AnamSafdarButt59 Estante de Secado portátil Desmontable...'
 sku: 'B088TMRWS8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberones', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberones', ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

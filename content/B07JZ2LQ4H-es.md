@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ2LQ4H-es Bable Calienta Biberones 丨 Esterilizador Biberon 丨...'
 sku: 'B07JZ2LQ4H-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberon','biberones', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberon','biberones', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

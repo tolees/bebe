@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JXMM5R-es Baby Jogger City Mini 4 - Silla de paseo color azulón/gris'
 sku: 'B073JXMM5R-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','baby','jogger', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','baby','jogger', ]
 actualPrice: 281.76 EUR
 currency: EUR
 price: 281.76

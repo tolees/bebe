@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFB9GQB-es 15 unids/rollo bolsas de pañales para bebés desechables...'
 sku: 'B07LFB9GQB-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés','pañales', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','bebés','pañales', ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

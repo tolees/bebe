@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL1XSK3-es Safety 1st TIMBA con Cojín Petrol Blue - Trona evolutiva...'
 sku: 'B07KL1XSK3-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','safety','trona', ]
+tags: [ '1st','Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','safety','trona', ]
 actualPrice: 66.93 EUR
 currency: EUR
 price: 66.93

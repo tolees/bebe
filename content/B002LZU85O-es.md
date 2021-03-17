@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LZU85O-es Pack de 3 botellas biberón para leche materna Medela 150ml'
 sku: 'B002LZU85O-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','medela', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','biberón','medela', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

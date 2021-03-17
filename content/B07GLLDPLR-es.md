@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLLDPLR-es Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size desde...'
 sku: 'B07GLLDPLR-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','cybex','de','silla', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','cybex','de','silla', ]
 actualPrice: 270.48 EUR
 currency: EUR
 price: 270.48

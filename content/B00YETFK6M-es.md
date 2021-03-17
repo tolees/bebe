@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YETFK6M-es Biomecanics 151157 Zapatos de primeros pasos Unisex Bebés...'
 sku: 'B00YETFK6M-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
 actualPrice: 41.34 EUR
 currency: EUR
 price: 41.34

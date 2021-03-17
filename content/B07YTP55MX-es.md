@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YTP55MX-es Safety 1st Ever Safe Plus Silla Coche grupo 1 2 3 crece...'
 sku: 'B07YTP55MX-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','grupo','safety','silla', ]
+tags: [ '1st','Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','grupo','safety','silla', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

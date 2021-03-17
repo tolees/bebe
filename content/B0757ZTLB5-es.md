@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757ZTLB5-es Adidas Altarun CF I Zapatillas de Estar por casa Bebé...'
 sku: 'B0757ZTLB5-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

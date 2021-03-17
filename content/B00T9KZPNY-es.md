@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T9KZPNY-es NUK Botella de 360 ml de silicona Chupete Tamaño 2 M Drilling'
 sku: 'B00T9KZPNY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chupete','nuk', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chupete','nuk', ]
 actualPrice: 10.72 EUR
 currency: EUR
 price: 10.72

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDT9KSG-es MAM - Conjunto de 2 chupetes que brillan en la oscuridad...'
 sku: 'B00PDT9KSG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chupetes', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','chupetes', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

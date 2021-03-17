@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MS3UDJU-es Maxi-Cosi CabrioFix Silla de auto reclinable y seguro para...'
 sku: 'B00MS3UDJU-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','maxi-cosi', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','maxi-cosi', ]
 actualPrice: 117.0 EUR
 currency: EUR
 price: 117.0

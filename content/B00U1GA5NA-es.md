@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U1GA5NA-es INJUSA - Triciclo City Max Blanco para Bebés +6 Meses con...'
 sku: 'B00U1GA5NA-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebés', ]
 actualPrice: 107.97 EUR
 currency: EUR
 price: 107.97

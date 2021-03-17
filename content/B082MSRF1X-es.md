@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MSRF1X-es Muselina Bebe Six4Up 100% Made In Italy Algodón Orgánico...'
 sku: 'B082MSRF1X-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','muselina', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe','muselina', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

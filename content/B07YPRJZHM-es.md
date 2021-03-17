@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YPRJZHM-es Safety 1st Looky Trona para bebé evolutiva y reclinable en...'
 sku: 'B07YPRJZHM-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','safety','trona', ]
+tags: [ '1st','Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','safety','trona', ]
 actualPrice: 69.67 EUR
 currency: EUR
 price: 69.67

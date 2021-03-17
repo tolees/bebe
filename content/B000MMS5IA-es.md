@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MMS5IA-es Philips Avent SCF155/06 - Discos absorbentes lavables para...'
 sku: 'B000MMS5IA-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent', ]
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

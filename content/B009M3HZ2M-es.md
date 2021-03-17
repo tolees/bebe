@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009M3HZ2M-es Hauck Freerider Silla de paseo gemelar para 1 o 2 niños de...'
 sku: 'B009M3HZ2M-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hauck', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','hauck', ]
 actualPrice: 163.86 EUR
 currency: EUR
 price: 163.86

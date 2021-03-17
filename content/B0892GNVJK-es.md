@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892GNVJK-es EKKONG Flotador Bebé Flotador Inflable para Bebé Anillo de...'
 sku: 'B0892GNVJK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','bebés', ]
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

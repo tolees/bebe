@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZ7F5K8-es HOTLIKE 3x Bolsa de Pañales Reutilizable Wetbag Bolsa con...'
 sku: 'B07VZ7F5K8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','pañales', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','pañales', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

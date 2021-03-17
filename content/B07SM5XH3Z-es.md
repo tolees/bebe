@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SM5XH3Z-es mysunny Juguetes de Cocina de Madera para niños Juguete...'
 sku: 'B07SM5XH3Z-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebe', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVW66WJ-es CYBEX Gold Silla de coche para niños Sirona M2 i-Size Para...'
 sku: 'B07XVW66WJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','cybex','de','silla', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','coche','cybex','de','silla', ]
 actualPrice: 159.53 EUR
 currency: EUR
 price: 159.53

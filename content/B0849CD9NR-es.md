@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0849CD9NR-es Maxi-Cosi Morion Silla auto Grupo 2/3 isofix I-Size 15 -...'
 sku: 'B0849CD9NR-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','isofix','maxi-cosi', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','isofix','maxi-cosi', ]
 actualPrice: 143.2 EUR
 currency: EUR
 price: 143.2

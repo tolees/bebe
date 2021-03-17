@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMHY5Q9-es Philips AVENT SCF746/01 vaso de aprendizaje con boquilla -...'
 sku: 'B07TMHY5Q9-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent', ]
+tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent', ]
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53
