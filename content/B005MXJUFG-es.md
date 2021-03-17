@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005MXJUFG-es Hauck Sit N Relax - Hamaquita balancin y trona para recién...'
 sku: 'B005MXJUFG-es'
-tags: [ 'Bebé','Biberones y accesorios','Cambio de pañales','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Pañales desechables','Pañales desechables para bebés','Pañales para bebé','Productos para la lavandería','Salud y cuidado personal','hauck','trona', ]
+tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','hauck','trona', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

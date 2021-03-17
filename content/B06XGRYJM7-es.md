@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGRYJM7-es Little Sprouts - Cadena de chupete 2 en 1 - Moderna y Moda...'
 sku: 'B06XGRYJM7-es'
-tags: [ 'Bebé','Biberones y accesorios','Cambio de pañales','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Pañales desechables','Pañales desechables para bebés','Pañales para bebé','Productos para la lavandería','Salud y cuidado personal','bebés','chupete', ]
+tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','bebés','chupete', ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

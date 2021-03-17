@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IBG6XH4-es NUK 10750796 – detergente en espuma para biberón con...'
 sku: 'B00IBG6XH4-es'
-tags: [ 'Bebé','Biberones y accesorios','Cambio de pañales','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Pañales desechables','Pañales desechables para bebés','Pañales para bebé','Productos para la lavandería','Salud y cuidado personal','biberón','nuk', ]
+tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','biberón','nuk', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55
