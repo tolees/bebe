@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMVZQ2H-es Liveinu - Red de insectos para bebés con cierre de...'
 sku: 'B07CMVZQ2H-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

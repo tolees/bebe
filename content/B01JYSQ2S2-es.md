@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JYSQ2S2-es Chicco Easy Fit Mochila ergonómica portabebé hasta 9 kg...'
 sku: 'B01JYSQ2S2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco','portabebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco','portabebé', ]
 actualPrice: 38.35 EUR
 currency: EUR
 price: 38.35

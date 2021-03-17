@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0769QDFTX-es Kalokelvin Picadora Manual de Verdura Cortador de Verduras...'
 sku: 'B0769QDFTX-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 10.11 EUR
 currency: EUR
 price: 10.11

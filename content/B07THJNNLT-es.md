@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THJNNLT-es 2 toallas blancas suaves de Elli y Raff Baby con capucha...'
 sku: 'B07THJNNLT-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

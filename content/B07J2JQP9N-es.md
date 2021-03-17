@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J2JQP9N-es Suavinex Zero-Zero Biberón anticólicos +0 meses 180 ml -...'
 sku: 'B07J2JQP9N-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','lactancia','suavinex', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','lactancia','suavinex', ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

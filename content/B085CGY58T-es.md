@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CGY58T-es Protector de pezón de contacto de silicona con estuche de...'
 sku: 'B085CGY58T-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','lactancia', ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

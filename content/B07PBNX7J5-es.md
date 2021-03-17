@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBNX7J5-es Luz Nocturna Infantil con Control Remoto y Táctil 9...'
 sku: 'B07PBNX7J5-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

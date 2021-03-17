@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073C7F7HB-es Fisher-Price Monito gatea conmigo juguete gateo bebé +3...'
 sku: 'B073C7F7HB-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','fisher-price', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

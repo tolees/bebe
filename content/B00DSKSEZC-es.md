@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DSKSEZC-es Cybex - Silla de coche grupo 1/2/3 Pallas silla de coche 2...'
 sku: 'B00DSKSEZC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','cybex','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','cybex','de','isofix','silla', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

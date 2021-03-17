@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DY3TSBT-es Unknow 16 sq ft rojoParque Juegos Bebe con Malla...'
 sku: 'B08DY3TSBT-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 87.39 EUR
 currency: EUR
 price: 87.39

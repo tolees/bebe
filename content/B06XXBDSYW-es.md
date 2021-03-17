@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXBDSYW-es Dr. Brown s Options - Biberón estándar 250 ml'
 sku: 'B06XXBDSYW-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

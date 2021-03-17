@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007ZSTYQQ-es VTech - Pequepatitas Juguete para bebé Color Rojo 80-111222'
 sku: 'B007ZSTYQQ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

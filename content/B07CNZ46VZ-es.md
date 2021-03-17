@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNZ46VZ-es Levoit Humidificador Ultrasónico 5 5L Bebés de Vapor...'
 sku: 'B07CNZ46VZ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

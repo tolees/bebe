@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2YPM8J-es Ganchos para cochecito Venoka multiusos 2 piezas universal...'
 sku: 'B01N2YPM8J-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','pañales', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

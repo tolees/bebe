@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TW77GG2-es Tikea Mochila de Mamá Grande Mochila para Pañales...'
 sku: 'B07TW77GG2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','pañales', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

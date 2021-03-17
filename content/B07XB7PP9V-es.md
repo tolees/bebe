@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XB7PP9V-es ViVidLife Bolsa de Pañales 2 PCS Bolsa Pañales Impermeable...'
 sku: 'B07XB7PP9V-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','pañales', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

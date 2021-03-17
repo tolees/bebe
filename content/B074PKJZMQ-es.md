@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PKJZMQ-es TYRY.HU dentición collar para mamá para usar silicona...'
 sku: 'B074PKJZMQ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','lactancia', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

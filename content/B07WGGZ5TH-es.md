@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGGZ5TH-es Manta Dragón Bebe Personalizada con Nombre. Regalo Bebé...'
 sku: 'B07WGGZ5TH-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

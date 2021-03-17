@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G3XR8OE-es Baby Jogger City Mini Gemelar - Silla de paseo color...'
 sku: 'B00G3XR8OE-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','baby','jogger', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','baby','jogger', ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

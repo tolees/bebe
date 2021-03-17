@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZYVJ7K-es 2 Pares Calcetines/Medias de Compresión para Hombres y...'
 sku: 'B07PZYVJ7K-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazo', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazo', ]
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

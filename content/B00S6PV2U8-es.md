@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S6PV2U8-es HOMCOM Trona para Bebé 3 en 1 Convertible en Silla...'
 sku: 'B00S6PV2U8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','trona', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','trona', ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

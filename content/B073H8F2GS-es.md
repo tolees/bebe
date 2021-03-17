@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073H8F2GS-es Cybex Silla de coche grupo 2/3 Solution M-Fix SL Para...'
 sku: 'B073H8F2GS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','cybex','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','cybex','de','isofix','silla', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

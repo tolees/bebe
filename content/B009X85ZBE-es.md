@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009X85ZBE-es Playgro Juguete Colgante Ratón Clip Clop Desde el...'
 sku: 'B009X85ZBE-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','playgro', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','playgro', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

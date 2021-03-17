@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZNBKF3-es Kickers BONKRO Botas para Bebés Azul Marine 10 18 EU'
 sku: 'B07MZNBKF3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

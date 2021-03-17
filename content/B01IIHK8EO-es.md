@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IIHK8EO-es Nenuco 700013300 - Merienditas muñeca con accesorios'
 sku: 'B01IIHK8EO-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nenuco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nenuco', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

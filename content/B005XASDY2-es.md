@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XASDY2-es Cybex 512110004 Silver Pallas-Fix Silla de Coche Grupo...'
 sku: 'B005XASDY2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','cybex','de','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','cybex','de','silla', ]
 actualPrice: 178.99 EUR
 currency: EUR
 price: 178.99

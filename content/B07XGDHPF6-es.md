@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGDHPF6-es Hauck Autoclose N Stop 2 puerta de segurida 75-80 cm...'
 sku: 'B07XGDHPF6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hauck', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hauck', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

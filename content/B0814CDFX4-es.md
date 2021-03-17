@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814CDFX4-es Ganchos para silla de ruedas Cochecito para silla de...'
 sku: 'B0814CDFX4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

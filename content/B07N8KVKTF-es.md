@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8KVKTF-es HOMYBABY Ganchos Carrito Bebé 2 pcs | Diseño...'
 sku: 'B07N8KVKTF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

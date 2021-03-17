@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GZFXTG-es Philips Avent SCF343/22 - Pack con 2 chupetes Ultra Air...'
 sku: 'B079GZFXTG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','chupetes', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

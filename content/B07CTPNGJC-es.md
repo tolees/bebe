@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTPNGJC-es Alminatur Papilla de Multicereales con Plátano a Partir de...'
 sku: 'B07CTPNGJC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','alminatur', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','alminatur', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

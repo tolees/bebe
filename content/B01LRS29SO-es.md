@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LRS29SO-es Bébé Confort MILOFIX - Silla de auto de 0 a 4 años R44/04...'
 sku: 'B01LRS29SO-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bébé','confort', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bébé','confort', ]
 actualPrice: 175.56 EUR
 currency: EUR
 price: 175.56

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LN8SS1A-es Britax Römer Evolva 123 SL SICT - Silla de coche grupo...'
 sku: 'B01LN8SS1A-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','römer','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','de','römer','silla', ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

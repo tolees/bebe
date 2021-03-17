@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DDBGV8-es meiqicool Exterior/Interior Protectora|Alfombrillas de...'
 sku: 'B075DDBGV8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

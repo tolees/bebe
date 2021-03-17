@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HR3F4T0-es ISDIN Nutraisdin First Teeth Gel Gingival'
 sku: 'B00HR3F4T0-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nutraisdin', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nutraisdin', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZP4ZHJ-es Hauck Dream N Play - Cuna de viaje 3 piezas 120 x 60cm...'
 sku: 'B07XZP4ZHJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','hauck', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','hauck', ]
 actualPrice: 54.09 EUR
 currency: EUR
 price: 54.09

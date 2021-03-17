@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR7ZX99-es Cadena Chupetes Personalizado con Nombre Koala Mordedor...'
 sku: 'B07SR7ZX99-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chupete','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chupete','chupetes', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

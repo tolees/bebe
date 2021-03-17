@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749J6CBG-es TedGem Bebé Espejo Retrovisor Universal de Coche Asiento...'
 sku: 'B0749J6CBG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

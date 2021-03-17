@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GX4DG81-es Philips Avent SCD301/03 - Set de recién nacido gama...'
 sku: 'B07GX4DG81-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','biberones','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','biberones','chupete', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

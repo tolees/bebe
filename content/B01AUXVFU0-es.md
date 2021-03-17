@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AUXVFU0-es Suavinex Biberon 302.845 Bipack'
 sku: 'B01AUXVFU0-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberon','suavinex', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberon','suavinex', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

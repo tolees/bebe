@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QCWVFR3-es Gupamiga Tienda de Juguetes para niños Tienda de teepe...'
 sku: 'B07QCWVFR3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

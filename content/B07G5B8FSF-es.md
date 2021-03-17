@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5B8FSF-es Ronda Impermeable Bebé Niños Baño Libro Early Educational...'
 sku: 'B07G5B8FSF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés', ]
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

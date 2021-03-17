@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFNKQ79-es HBselect Sujetador Lactancia Sostén De Maternidad con...'
 sku: 'B07XFNKQ79-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','lactancia', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

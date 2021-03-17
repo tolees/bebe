@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ77QP1-es DORRISO Lindo Niños Bebe Gorra Cómodo Calentar Pequeña...'
 sku: 'B07JZ77QP1-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

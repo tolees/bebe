@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074M7HRSJ-es Bandeja de Hielo Diamante Moldes para Cubitos de Hielo...'
 sku: 'B074M7HRSJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

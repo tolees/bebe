@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018HAV95O-es Tommee Tippee - Kit de iniciación para recién nacido...'
 sku: 'B018HAV95O-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','tommee', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','tommee', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

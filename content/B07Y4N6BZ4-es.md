@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y4N6BZ4-es Luchild Protector de Cuna 180cm Parachoques Protector Cuna...'
 sku: 'B07Y4N6BZ4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

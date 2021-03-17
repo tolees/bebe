@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0816R8MQF-es CERDÁ LIFE S LITTLE MOMENTS 2200005545 Conjunto Polaina y...'
 sku: 'B0816R8MQF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

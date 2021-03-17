@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084Z1GDTY-es Creative Fruit Design Baby Teether Teeth Nursing Toy BPA...'
 sku: 'B084Z1GDTY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chupete', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

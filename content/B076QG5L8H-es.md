@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QG5L8H-es Chicco Baby Hug 4en1 Sistema multifunción: moisés hamaca...'
 sku: 'B076QG5L8H-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco','trona', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco','trona', ]
 actualPrice: 179 EUR
 currency: EUR
 price: 179

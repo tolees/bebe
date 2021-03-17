@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0896YCC4Y-es TRUUA 10pcs Silicona para bebés Mam Anillo simulado...'
 sku: 'B0896YCC4Y-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','chupete', ]
 actualPrice: 4.43 EUR
 currency: EUR
 price: 4.43

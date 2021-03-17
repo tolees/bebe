@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNP5Z4T-es Safety 1st TEENY Ribbon Red Chic - Silla de paseo plegable...'
 sku: 'B07CNP5Z4T-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','safety', ]
+tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','safety', ]
 actualPrice: 118.1 EUR
 currency: EUR
 price: 118.1

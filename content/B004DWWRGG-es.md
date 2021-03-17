@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004DWWRGG-es Ganchos para Sillas de Paseo GKONGU Pack de 2 Ganchos...'
 sku: 'B004DWWRGG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

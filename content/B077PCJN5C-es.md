@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PCJN5C-es meiqicool - Alfombra puzzle infantil para bebés de Foam...'
 sku: 'B077PCJN5C-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 45.88 EUR
 currency: EUR
 price: 45.88

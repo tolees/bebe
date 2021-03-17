@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076ZLRF4W-es Lictin 3 Pack baberos suave de silicona impermeables para...'
 sku: 'B076ZLRF4W-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

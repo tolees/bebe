@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DR2PLGQ-es WERNNSAI Manta de Hito de la Jungla - 150 x 100 cm Franela...'
 sku: 'B08DR2PLGQ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

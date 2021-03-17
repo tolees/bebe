@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VWRT1W8-es Ecus Kids colchón cuna para bebé anti-plagiocefalia - Pigü...'
 sku: 'B00VWRT1W8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','ecus','kids', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','ecus','kids', ]
 actualPrice: 110.62 EUR
 currency: EUR
 price: 110.62

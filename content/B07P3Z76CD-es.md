@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P3Z76CD-es Cámara IP HD IP66 Impermeable Cámara Bullet con IR Vision...'
 sku: 'B07P3Z76CD-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

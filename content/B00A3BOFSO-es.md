@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3BOFSO-es Dodot Toallitas Para Bebé 1 Paquetes 64 Toallitas'
 sku: 'B00A3BOFSO-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','dodot', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','dodot', ]
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

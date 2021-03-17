@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T69BPVY-es Chicco TP-8058664042913 Vendor Dispositivo Anti Mosquitos...'
 sku: 'B00T69BPVY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

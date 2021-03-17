@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O511WWA-es Safety 1st Road Safe Silla de coche para Niños Grupo 2/3...'
 sku: 'B00O511WWA-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','safety','silla', ]
+tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','de','safety','silla', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KLYGZX-es Huggies Ultra Comfort Pañal Braguita Talla 5 12-17 kg -...'
 sku: 'B074KLYGZX-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','huggies','pañal','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','huggies','pañal','pañales', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

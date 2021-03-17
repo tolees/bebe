@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M75FZ4M-es Blevit Plus Superfibra 8 Cereales con Miel 1 unidad 600...'
 sku: 'B00M75FZ4M-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','blevit', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','blevit', ]
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

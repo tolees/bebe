@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMT7HB6-es Kickers 584348-10 Botas Unisex bebé Azul Marine Foncé Perm...'
 sku: 'B07FMT7HB6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 24.12 EUR
 currency: EUR
 price: 24.12

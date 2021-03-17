@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBJH9WP-es Tommee Tippee Sangenic Sistema avanzado para desechar...'
 sku: 'B07KBJH9WP-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañales','tommee', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','pañales','tommee', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

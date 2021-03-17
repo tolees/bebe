@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBNP5VG-es Meinkind Silla de Coche Niños Grupo 1 2 3 Isofix 9-36 kg...'
 sku: 'B07RBNP5VG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','de','isofix','silla', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

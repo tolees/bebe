@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMQVDTV-es besrey 7 en 1 Triciclos Bebes reclinable con Asiento...'
 sku: 'B07CMQVDTV-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

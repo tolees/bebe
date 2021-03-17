@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DXJCXY-es Bébé Confort CAPAZO BLANDO LAIKA Nomad Blue - Capazo...'
 sku: 'B076DXJCXY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bébé','confort', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bébé','confort', ]
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

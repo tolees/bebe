@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7T6QV2-es Bolsa Maternal de Pañales RUVALINO Gran Bolso de Viaje...'
 sku: 'B07V7T6QV2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','pañales', ]
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQ28KWB-es Dodot Pants Pañal-Braguita Talla 3 111 Pañales Fácil De...'
 sku: 'B07BQ28KWB-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','dodot','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','dodot','pañales', ]
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

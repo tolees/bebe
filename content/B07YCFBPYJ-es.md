@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCFBPYJ-es LYSHION Mochilas para Pañales Biberones Pañal Bolso...'
 sku: 'B07YCFBPYJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberones','pañal','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberones','pañal','pañales', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

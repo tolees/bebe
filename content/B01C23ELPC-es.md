@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C23ELPC-es Chicco Physio Air - Pack de 2 chupetes de látex/caucho...'
 sku: 'B01C23ELPC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco','chupetes', ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

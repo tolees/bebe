@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGFRFD3-es Medela Freestyle Flex - Sacaleches Eléctrico Doble'
 sku: 'B07YGFRFD3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','medela','sacaleches', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','medela','sacaleches', ]
 actualPrice: 274.51 EUR
 currency: EUR
 price: 274.51

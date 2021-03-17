@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3M1TIW-es WELEDA Skin Food Original 75 Ml 1x 75 ml'
 sku: 'B00A3M1TIW-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','weleda', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','weleda', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

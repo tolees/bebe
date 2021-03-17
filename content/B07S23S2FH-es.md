@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S23S2FH-es Viedouce Baberos Bebe Bandanas con 2 Ajustables Botón a...'
 sku: 'B07S23S2FH-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

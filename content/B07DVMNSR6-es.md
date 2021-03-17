@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVMNSR6-es PEKITAS Pack 3 Muselinas Extra Grandes Mantas de Muselina...'
 sku: 'B07DVMNSR6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','muselina', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTBD6KS-es HAMSWAN Termómetro de Frente Sin Contacto Termómetro...'
 sku: 'B01HTBD6KS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

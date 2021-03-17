@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YS4MSFP-es ZoneYan Gorras Bebé Recién Nacido Sombreros Bebé Invierno...'
 sku: 'B07YS4MSFP-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

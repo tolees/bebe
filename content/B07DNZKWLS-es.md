@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNZKWLS-es Kinderkraft Silla de Coche Isofix SAFETY FIX Grupo 1/2/3...'
 sku: 'B07DNZKWLS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','de','isofix','silla', ]
 actualPrice: 90.5 EUR
 currency: EUR
 price: 90.5

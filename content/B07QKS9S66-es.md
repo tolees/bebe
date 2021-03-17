@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKS9S66-es Termómetro Digital Bebé Termómetro de Frente y Oído...'
 sku: 'B07QKS9S66-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

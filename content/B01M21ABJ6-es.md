@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M21ABJ6-es Ergobaby Mochila Portabebé Ergonomica para Recién Nacido...'
 sku: 'B01M21ABJ6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','portabebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','portabebé', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

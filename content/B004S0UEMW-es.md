@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004S0UEMW-es Chicco Happy Hand - Set de cuidado de uñas para bebés:...'
 sku: 'B004S0UEMW-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco', ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

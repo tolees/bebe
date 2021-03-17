@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2GNYHL-es Silla de Coche Grupo 1 2 3 Isofix con Escudo y Normativa...'
 sku: 'B07H2GNYHL-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','coche','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','coche','de','isofix','silla', ]
 actualPrice: 127.97 EUR
 currency: EUR
 price: 127.97

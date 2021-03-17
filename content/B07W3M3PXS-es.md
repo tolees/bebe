@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W3M3PXS-es Cámara vigilancia bebe Vigilabebés Inalambrico con cámara...'
 sku: 'B07W3M3PXS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé','vigilabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé','vigilabebés', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

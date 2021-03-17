@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPNL4CH-es Besrey Mochilas Senderismo Mochilas Portabebés Portador de...'
 sku: 'B07NPNL4CH-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','portabebé','portabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','portabebé','portabebés', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

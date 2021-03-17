@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FH6S3K0-es Chicco Natural Sensation - Gel de baño Oso 300 ml'
 sku: 'B01FH6S3K0-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco','natural','sensation', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco','natural','sensation', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

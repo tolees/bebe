@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M68GLT0-es Dodo Pañales Talla 4 9-14 kg - 64 pañales'
 sku: 'B01M68GLT0-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','pañales', ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

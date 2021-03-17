@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01591NZII-es Munchkin Miracle 360°- Vaso de Entrenamiento Antiderrames...'
 sku: 'B01591NZII-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','munchkin', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','munchkin', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

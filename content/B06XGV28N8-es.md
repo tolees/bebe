@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGV28N8-es Miracle Baby Mantas Bebe Algodón Swaddle Blanket de...'
 sku: 'B06XGV28N8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','muselina', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

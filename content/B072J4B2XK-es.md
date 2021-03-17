@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072J4B2XK-es LifeTree Cubiertas De Enfermería | Poncho de Enfermería |...'
 sku: 'B072J4B2XK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','lactancia', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

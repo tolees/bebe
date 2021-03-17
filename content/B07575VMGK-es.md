@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07575VMGK-es Chicco - Set de 2 sábanas bajeras ajustable para mini cuna...'
 sku: 'B07575VMGK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco', ]
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

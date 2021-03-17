@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G3XR9P2-es Baby Jogger City Mini GT - Silla de paseo Turquesa / Gris'
 sku: 'B00G3XR9P2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','baby','jogger', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','baby','jogger', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

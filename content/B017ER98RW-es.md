@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017ER98RW-es Vizaro - Relleno Nórdico - Edredón 300g de MaxiCuna y...'
 sku: 'B017ER98RW-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','maxicuna', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','maxicuna', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

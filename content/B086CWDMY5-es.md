@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086CWDMY5-es Wangxyan Red de Viaje portátil para bebés Tapa de Paraguas...'
 sku: 'B086CWDMY5-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

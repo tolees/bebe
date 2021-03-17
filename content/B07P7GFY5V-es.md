@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7GFY5V-es SONARIN Rayas Premium Cubiertas de lactancia 4 en 1...'
 sku: 'B07P7GFY5V-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','lactancia', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

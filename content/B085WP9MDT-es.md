@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WP9MDT-es FlowerDas Termometro Infrarrojo Termómetro De Frente...'
 sku: 'B085WP9MDT-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 46.29 EUR
 currency: EUR
 price: 46.29

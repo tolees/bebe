@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZV4G9B-es HyAdierTech Almohadilla De Cuna Impermeable para Bebé...'
 sku: 'B07QZV4G9B-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé','bebés','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé','bebés','pañales', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

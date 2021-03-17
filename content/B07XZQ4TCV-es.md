@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZQ4TCV-es Hauck carro Shopper SLX trioset coche de bebes 3 piezas de...'
 sku: 'B07XZQ4TCV-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hauck', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hauck', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

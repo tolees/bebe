@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RV8HC79-es QUEEN ROSE Almohada de Embarazo con Funda de Plush...'
 sku: 'B07RV8HC79-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazo', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazo', ]
 actualPrice: 37.29 EUR
 currency: EUR
 price: 37.29

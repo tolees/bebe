@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00506KMRK-es Munchkin 12501 Cubo Desechable & Portátil para Pañales...'
 sku: 'B00506KMRK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','munchkin','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','munchkin','pañales', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

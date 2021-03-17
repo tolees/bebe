@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XC92F2X-es Hauck Stop N Safe 2 puerta de seguridad incluido extensión...'
 sku: 'B07XC92F2X-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hauck', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hauck', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

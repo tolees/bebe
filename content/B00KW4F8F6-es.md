@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KW4F8F6-es NUK 10255253 - Biberón con asas botella de acero...'
 sku: 'B00KW4F8F6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','nuk', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','nuk', ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H31T8BV-es Marco huellas bebe tu regalo original para el recien...'
 sku: 'B07H31T8BV-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

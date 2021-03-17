@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DM8JVFQ-es Close Parent Bambú Pañales De Tela Tamaño Único Pack de 10'
 sku: 'B01DM8JVFQ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','pañales', ]
 actualPrice: 136.8 EUR
 currency: EUR
 price: 136.8

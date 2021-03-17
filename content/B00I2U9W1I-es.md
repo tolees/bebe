@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I2U9W1I-es Bebé Due 80160 - Taza 4 en 1'
 sku: 'B00I2U9W1I-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

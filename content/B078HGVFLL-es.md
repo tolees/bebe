@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HGVFLL-es Munchkin Vaso con asas y pajita abatible Tip & Sip con...'
 sku: 'B078HGVFLL-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','munchkin', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','munchkin', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

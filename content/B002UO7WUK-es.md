@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002UO7WUK-es Playgro Set de Animales Rociadores Azul/Verde 8 figuras...'
 sku: 'B002UO7WUK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','playgro', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','playgro', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

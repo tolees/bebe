@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SGP68N-es IceUnicorn - Escarpines de baño para niña zapatos de playa...'
 sku: 'B083SGP68N-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 14.83 EUR
 currency: EUR
 price: 14.83

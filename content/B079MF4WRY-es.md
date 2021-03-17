@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MF4WRY-es Pinypon-700014032 Niños y Bebés Pack C Multicolor Famosa...'
 sku: 'B079MF4WRY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

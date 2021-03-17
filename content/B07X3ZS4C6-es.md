@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3ZS4C6-es Xnuoyo Mochilas de Pañales Gran Capacidad Mochila de...'
 sku: 'B07X3ZS4C6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','pañales', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

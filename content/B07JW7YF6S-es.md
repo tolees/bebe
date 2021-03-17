@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW7YF6S-es O³ Guante Dentición Bebé Lola Kids + 1 Gasas Bebe Algodon...'
 sku: 'B07JW7YF6S-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé','chupete','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé','chupete','muselina', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

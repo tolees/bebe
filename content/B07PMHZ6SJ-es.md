@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMHZ6SJ-es Rolimate Wooden Toy 5 en 1 Laberinto con Abalorios de...'
 sku: 'B07PMHZ6SJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

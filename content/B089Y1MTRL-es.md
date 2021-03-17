@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089Y1MTRL-es Bisoo - 70x160 cm Protector de Colchón Bebé + Sabana...'
 sku: 'B089Y1MTRL-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

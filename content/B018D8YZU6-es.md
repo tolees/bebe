@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018D8YZU6-es Vizaro - Cambiador Bebé Textil Acolchado - Portátil - Muy...'
 sku: 'B018D8YZU6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

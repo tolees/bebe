@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F34NNZJ-es Recién nacido Bebé Pijama de Algodón Mameluco Niños Pelele...'
 sku: 'B07F34NNZJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GCKKYBW-es MioRico Saco Dormir Bebe 1 TOG Saquito de Dormir 100%...'
 sku: 'B08GCKKYBW-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

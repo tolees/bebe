@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077P7M1ZM-es Fisher-Price - Mi Primer Cubo Fidget Juguete de...'
 sku: 'B077P7M1ZM-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','fisher-price', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

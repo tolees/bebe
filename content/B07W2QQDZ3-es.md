@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W2QQDZ3-es Philips Avent SCF376/12 - Pack de 2 chupetes Ultra Air...'
 sku: 'B07W2QQDZ3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','chupetes', ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

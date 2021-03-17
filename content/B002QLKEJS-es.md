@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002QLKEJS-es Altabebe Active Line - Saco de invierno para silla de...'
 sku: 'B002QLKEJS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','de','silla', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

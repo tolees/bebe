@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KPMHPGS-es Bisoo - Toalla Bebe con Capucha - Set de Baño 4 Piezas con...'
 sku: 'B08KPMHPGS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','embarazada', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','embarazada', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

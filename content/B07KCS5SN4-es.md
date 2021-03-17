@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCS5SN4-es CYBEX - Silla de Paseo Eezy S Plegable con una Mano...'
 sku: 'B07KCS5SN4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','cybex', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','cybex', ]
 actualPrice: 190.46 EUR
 currency: EUR
 price: 190.46

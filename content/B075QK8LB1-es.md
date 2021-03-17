@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QK8LB1-es CYBEX Gold Mochila Portabebés MAIRA.tie desde el...'
 sku: 'B075QK8LB1-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','cybex','portabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','cybex','portabebés', ]
 actualPrice: 110.16 EUR
 currency: EUR
 price: 110.16

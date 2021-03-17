@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BKT9H8N-es KYG Robot de Cocina al Vapor Procesador de Alimentos para...'
 sku: 'B07BKT9H8N-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 46.17 EUR
 currency: EUR
 price: 46.17

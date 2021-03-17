@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YZ5XMT-es DeoMeat Cadenas Chupete Clips de Chupete de bebé para...'
 sku: 'B086YZ5XMT-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','chupete', ]
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

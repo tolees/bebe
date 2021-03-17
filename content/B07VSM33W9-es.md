@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSM33W9-es Qishare 2 Pares de Calcetines Antideslizantes para Hombres...'
 sku: 'B07VSM33W9-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazo', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazo', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

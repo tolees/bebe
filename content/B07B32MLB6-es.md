@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B32MLB6-es Chicco NaturalFeeling - Set de regalo con 2 biberones...'
 sku: 'B07B32MLB6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberones','chicco','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberones','chicco','chupete', ]
 actualPrice: 13.44 EUR
 currency: EUR
 price: 13.44

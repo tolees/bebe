@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CM26HH-es Britax Römer Silla de coche 9 meses - 12 años 9 - 36 kg...'
 sku: 'B076CM26HH-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','isofix','römer','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','de','isofix','römer','silla', ]
 actualPrice: 170.99 EUR
 currency: EUR
 price: 170.99

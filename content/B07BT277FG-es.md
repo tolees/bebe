@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BT277FG-es Trona de Viaje para Bebé Silla alta Bebe Portatil Arnés de...'
 sku: 'B07BT277FG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé','trona', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé','trona', ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

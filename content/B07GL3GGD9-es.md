@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL3GGD9-es Cybex Gold - Silla de coche Solution S-Fix para coches con...'
 sku: 'B07GL3GGD9-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','cybex','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','cybex','de','isofix','silla', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

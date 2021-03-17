@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CHNV3S-es LNIEGE - Asiento de Seguridad para Coche con Ventosa...'
 sku: 'B081CHNV3S-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 2.43 EUR
 currency: EUR
 price: 2.43

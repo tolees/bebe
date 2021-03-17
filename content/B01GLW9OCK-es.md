@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GLW9OCK-es Twins Jacke TEDDYBÄR Chaqueta Bebé unisex Morado lila 74'
 sku: 'B01GLW9OCK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

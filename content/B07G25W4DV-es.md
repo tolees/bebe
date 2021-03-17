@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G25W4DV-es Lommer 7pcs Ajustable Casco Ciclismo Niño Casco Bici Bebe...'
 sku: 'B07G25W4DV-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

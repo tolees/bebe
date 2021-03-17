@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWKDVGY-es Tommee Tippee 42269887 - Biberón decorado 340 ml color rosa'
 sku: 'B01DWKDVGY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','tommee', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','tommee', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

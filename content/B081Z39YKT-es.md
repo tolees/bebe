@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Z39YKT-es SALAKA 1 unid Botella de Silicona para bebés biberón...'
 sku: 'B081Z39YKT-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','biberón', ]
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

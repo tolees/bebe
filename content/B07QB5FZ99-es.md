@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB5FZ99-es Lebze Muselina Manta Bebé -"Diseño de Zorro" Muselinas...'
 sku: 'B07QB5FZ99-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

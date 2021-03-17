@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793D8QSZ-es BABYBJÖRN One Air - Mochila Porta Bebé 3D Tejido de red...'
 sku: 'B0793D8QSZ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CQOIL3U-es Chicco Phisio Soft - Chupete todo goma de silicona para...'
 sku: 'B01CQOIL3U-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco','chupete', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

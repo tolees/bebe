@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FC37H9N-es Koala Babycare® Almohada para Embarazadas para Dormir...'
 sku: 'B07FC37H9N-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé','lactancia', ]
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG5JXQJ-es Chicco Physio Soft Pack de 2 Chupetes de Silicona 6-16...'
 sku: 'B06XG5JXQJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco','chupetes', ]
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

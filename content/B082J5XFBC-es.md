@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082J5XFBC-es HOMYBABY Reductor WC Niños | Adaptador WC Niños para...'
 sku: 'B082J5XFBC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

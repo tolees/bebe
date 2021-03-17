@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044DFUU4-es Weleda - Crema facial de día de Granada 30 ml 1 unidad'
 sku: 'B0044DFUU4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','weleda', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','weleda', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

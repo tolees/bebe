@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFHRQ7J-es Bébé Confort LARA Cochecito compacto plegable y...'
 sku: 'B07BFHRQ7J-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bébé','confort', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bébé','confort', ]
 actualPrice: 182.96 EUR
 currency: EUR
 price: 182.96

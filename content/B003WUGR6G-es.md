@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WUGR6G-es Munchkin - Cubierto'
 sku: 'B003WUGR6G-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','munchkin', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','munchkin', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

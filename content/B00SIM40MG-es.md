@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SIM40MG-es Skip Hop Zoo Pack - Mochila diseño unicorn color turquesa'
 sku: 'B00SIM40MG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hop','skip', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hop','skip', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

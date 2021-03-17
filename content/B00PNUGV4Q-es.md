@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PNUGV4Q-es Adidas Zx Flux - Zapatillas para Bebés Color Negro...'
 sku: 'B00PNUGV4Q-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 44.54 EUR
 currency: EUR
 price: 44.54

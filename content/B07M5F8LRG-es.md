@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5F8LRG-es Baby Jogger City Tour LUX DUO Cochecito de Bebé Desde...'
 sku: 'B07M5F8LRG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','baby','bebé','jogger', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','baby','bebé','jogger', ]
 actualPrice: 211.41 EUR
 currency: EUR
 price: 211.41

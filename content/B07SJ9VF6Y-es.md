@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ9VF6Y-es Lebze Muselina Manta Bebé | Mantas de Muselina de Bambú...'
 sku: 'B07SJ9VF6Y-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','muselina', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

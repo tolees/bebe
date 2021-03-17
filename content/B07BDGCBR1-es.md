@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDGCBR1-es i-baby Protector Cuna Chichonera de Cuna y Cama para Bebé...'
 sku: 'B07BDGCBR1-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

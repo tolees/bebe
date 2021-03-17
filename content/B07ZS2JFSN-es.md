@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZS2JFSN-es HOMYBABY Muselinas Bebe Algodon 120x120 [1pc] | Muselina...'
 sku: 'B07ZS2JFSN-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','muselina', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

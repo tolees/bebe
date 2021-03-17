@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP8M86L-es DC Comics Pijama Entera para Niños Bebés The Flash Rojo...'
 sku: 'B07RP8M86L-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

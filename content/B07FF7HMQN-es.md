@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FF7HMQN-es Cybex Gold Sirona S i-Size 519000215 Silla de Coche Grupo...'
 sku: 'B07FF7HMQN-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','cybex','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','cybex','de','isofix','silla', ]
 actualPrice: 373.5 EUR
 currency: EUR
 price: 373.5

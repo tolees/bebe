@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZW1B9LF-es Tommee Tippee Cuna Moisés para bebé Sleepee y base verde'
 sku: 'B07ZW1B9LF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','tommee', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','tommee', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

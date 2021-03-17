@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L8FPE9M-es EKU FASHION - Body - para bebé niño Gris Gris 80 cm'
 sku: 'B01L8FPE9M-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

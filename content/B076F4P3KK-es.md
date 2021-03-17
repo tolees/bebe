@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076F4P3KK-es Safety 1st TIMBA con cojín White/Red Line - Trona de...'
 sku: 'B076F4P3KK-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','safety','trona', ]
+tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','safety','trona', ]
 actualPrice: 61.48 EUR
 currency: EUR
 price: 61.48

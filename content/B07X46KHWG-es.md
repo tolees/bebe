@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X46KHWG-es Camara Vigilancia WiFi Interior NIYPS HD 1080P Camara...'
 sku: 'B07X46KHWG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

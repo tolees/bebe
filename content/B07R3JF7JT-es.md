@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3JF7JT-es Viedouce Mochila Portabebes Ergonómico Multifuncion...'
 sku: 'B07R3JF7JT-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','portabebes','portabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','portabebes','portabebés', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

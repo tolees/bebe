@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TQOLNXO-es Nuby ID5397AQUA - Alimentador antiahogo con redecilla...'
 sku: 'B00TQOLNXO-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nuby', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nuby', ]
 actualPrice: 4.02 EUR
 currency: EUR
 price: 4.02

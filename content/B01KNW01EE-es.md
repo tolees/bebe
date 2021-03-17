@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KNW01EE-es Qomolo Guantes Para Carrito de Bebé Guantes de Silla de...'
 sku: 'B01KNW01EE-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

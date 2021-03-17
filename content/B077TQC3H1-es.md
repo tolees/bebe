@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TQC3H1-es Cybex Gold Pallas S-Fix - Silla de coche 2 en 1 para...'
 sku: 'B077TQC3H1-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','cybex','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','cybex','de','isofix','silla', ]
 actualPrice: 192.9 EUR
 currency: EUR
 price: 192.9

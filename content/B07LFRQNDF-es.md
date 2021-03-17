@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRQNDF-es Motorola Baby Comfort C35 - Vigilabebés vídeo con pantalla...'
 sku: 'B07LFRQNDF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','vigilabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','vigilabebés', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

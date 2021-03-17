@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ARBQ1A0-es Chicco - Bandeja escurrebiberones hasta 6 biberones'
 sku: 'B00ARBQ1A0-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberones','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberones','chicco', ]
 actualPrice: 14.93 EUR
 currency: EUR
 price: 14.93

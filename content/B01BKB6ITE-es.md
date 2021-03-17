@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BKB6ITE-es Blaze y los Monster Machines - Fisher-Price Blaze...'
 sku: 'B01BKB6ITE-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','fisher-price', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

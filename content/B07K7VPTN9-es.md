@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7VPTN9-es Britax Römer Silla de coche 3 5 años - 12 años 15 - 36 kg...'
 sku: 'B07K7VPTN9-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','isofix','römer','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','de','isofix','römer','silla', ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

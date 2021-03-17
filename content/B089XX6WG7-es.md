@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089XX6WG7-es Opret Cubiteras para Hielo Silicona 2 pcs Cubitos de Hielo...'
 sku: 'B089XX6WG7-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

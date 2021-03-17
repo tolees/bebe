@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGMQ7XM-es Elifexir Baby Care Crema Protectora del Pañal Culito 10...'
 sku: 'B06XGMQ7XM-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañal', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','pañal', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

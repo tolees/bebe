@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3GJPZF-es Fanvans Premamá Algodón Briefs Ropa Interior Bragas De...'
 sku: 'B07G3GJPZF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazada', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazada', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

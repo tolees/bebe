@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFHPRGY-es Bébé Confort TITÁN Nomad Black Silla de auto grupo 1/2/3...'
 sku: 'B07BFHPRGY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bébé','confort','isofix', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bébé','confort','isofix', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

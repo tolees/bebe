@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G7BSV37-es Manta de muselina para bebé suave muselina de algodón para...'
 sku: 'B07G7BSV37-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','muselina', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

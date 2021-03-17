@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGFWMSF-es SPC Ángel - Cámara vigilabebé inteligente Wi-Fi visión...'
 sku: 'B07HGFWMSF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','vigilabebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','vigilabebé', ]
 actualPrice: 54.19 EUR
 currency: EUR
 price: 54.19

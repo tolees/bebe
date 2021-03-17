@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7W3V2J-es MAM Original 0+ 2 unidades Chupete de látex para recién...'
 sku: 'B07R7W3V2J-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chupete', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

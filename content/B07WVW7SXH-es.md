@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVW7SXH-es Luchild Dispensador de Leche en Polvo Fórmula Portátil...'
 sku: 'B07WVW7SXH-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

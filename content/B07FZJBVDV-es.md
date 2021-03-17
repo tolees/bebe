@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZJBVDV-es Star Ibaby - Parque de bebés plegable color natural'
 sku: 'B07FZJBVDV-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

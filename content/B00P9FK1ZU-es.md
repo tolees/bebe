@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P9FK1ZU-es Mega Bloks Camión golpetones juguete de construcción para...'
 sku: 'B00P9FK1ZU-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

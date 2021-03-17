@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074W7BXPD-es TONZE Juguetes Baño Bebe Juguetes Bebe Bañera Flotantes...'
 sku: 'B074W7BXPD-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBXMLP1-es URAQT Parasol de Coche Parasol Coche Bebe Parasoles para...'
 sku: 'B07RBXMLP1-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

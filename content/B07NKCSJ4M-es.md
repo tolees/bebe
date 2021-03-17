@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NKCSJ4M-es Calienta Biberones Eccomum 6 en 1 Calentamiento...'
 sku: 'B07NKCSJ4M-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberones', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberones', ]
 actualPrice: 24.58 EUR
 currency: EUR
 price: 24.58

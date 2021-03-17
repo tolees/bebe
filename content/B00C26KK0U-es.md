@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C26KK0U-es Philips Avent SCF766/00 Vaso aislado con paja 260 ml azul...'
 sku: 'B00C26KK0U-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

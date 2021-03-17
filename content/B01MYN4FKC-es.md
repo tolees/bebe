@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYN4FKC-es Hero Baby Trocitos Tarrito de Puré de Espaguetis con...'
 sku: 'B01MYN4FKC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','baby','bebés','hero', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','baby','bebés','hero', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876TGZ2H-es Bebé Mono Mameluco de Manga Larga Niños Niñas Body Peleles...'
 sku: 'B0876TGZ2H-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

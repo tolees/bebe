@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HWNTC7-es Luchild Trenza Protector de Cuna 200cm Parachoques...'
 sku: 'B083HWNTC7-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

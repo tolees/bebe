@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0TGW5L-es Fisher-Price Saltador activity de perrito juguete para...'
 sku: 'B01N0TGW5L-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','fisher-price', ]
 actualPrice: 103.49 EUR
 currency: EUR
 price: 103.49

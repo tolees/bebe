@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088RCY49G-es MQIAOHAM juego de enclavamiento juego de bebé tapetes para...'
 sku: 'B088RCY49G-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

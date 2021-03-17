@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088LWQ9BB-es KRY Ear Wax Remover Limpiadores de oídos Soft Tips...'
 sku: 'B088LWQ9BB-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

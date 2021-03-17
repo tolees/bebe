@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JZF8LHK-es Medela - Sistema de nutrición suplementaria relactador'
 sku: 'B00JZF8LHK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','medela', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','medela', ]
 actualPrice: 32.85 EUR
 currency: EUR
 price: 32.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMS8FB2-es NOFFA Almohada Piernas Dormir almohada para rodillas Ideal...'
 sku: 'B07BMS8FB2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazo', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazo', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

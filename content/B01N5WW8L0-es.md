@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5WW8L0-es Philips Avent SCF169/27 - Set de 2 chupetes Gama Safari de...'
 sku: 'B01N5WW8L0-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','chupetes', ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

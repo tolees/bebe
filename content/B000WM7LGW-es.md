@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WM7LGW-es Philips Avent SCF152/01 - Pezonera para curar pezones...'
 sku: 'B000WM7LGW-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','embarazo', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','embarazo', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

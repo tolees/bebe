@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H1F2RUS-es Flotador para Bebé Bestway Swim Safe Baby Seat'
 sku: 'B00H1F2RUS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

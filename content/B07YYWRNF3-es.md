@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYWRNF3-es Tommee Tippee Starter Pack Twist and Click Contenedor de...'
 sku: 'B07YYWRNF3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañales','tommee', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','pañales','tommee', ]
 actualPrice: 62.96 EUR
 currency: EUR
 price: 62.96

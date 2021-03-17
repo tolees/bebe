@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R48TWPG-es Buabi bolsitas reutilizables comida bebe - Pack de 6...'
 sku: 'B07R48TWPG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

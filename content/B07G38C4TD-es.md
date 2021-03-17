@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G38C4TD-es Chicco Liteway 3 Silla de paseo plegable y multifuncional...'
 sku: 'B07G38C4TD-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

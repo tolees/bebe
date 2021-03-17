@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NFET6TE-es Fisher Price Móvil musical 3 en 1 juguete y proyector de...'
 sku: 'B00NFET6TE-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 17.46 EUR
 currency: EUR
 price: 17.46

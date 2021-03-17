@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D3HT7FG-es Tena - Pants - Pañales Talla L - 14 unidades'
 sku: 'B00D3HT7FG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','pañales', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

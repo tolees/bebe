@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WC78HC-es Colchón ANTIAHOGO Bebé Plastificado para Minicuna blanco...'
 sku: 'B073WC78HC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X74RHHD-es Trona para Bebe Evolutiva Ajustable y Plegable - 7 Alturas...'
 sku: 'B07X74RHHD-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé','trona', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé','trona', ]
 actualPrice: 121.97 EUR
 currency: EUR
 price: 121.97

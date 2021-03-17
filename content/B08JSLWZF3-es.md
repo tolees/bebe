@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JSLWZF3-es HANMUN Sonajeros de Bebe Juguetes de Mordedor Infante...'
 sku: 'B08JSLWZF3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

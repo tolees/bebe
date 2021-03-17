@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077J2CWHS-es Fisher-Price Cebra activity juguete colgante para bebé...'
 sku: 'B077J2CWHS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','fisher-price', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

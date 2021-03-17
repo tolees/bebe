@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KVK4OA-es Bolsas de esterilización reutilizables Quick Clean Medela'
 sku: 'B001KVK4OA-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','medela', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','medela', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DSVSXL-es Suavinex - Chupete para bebés 0-6 meses. Chupete con...'
 sku: 'B084DSVSXL-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','chupete','suavinex', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','chupete','suavinex', ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

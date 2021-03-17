@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3NP5TU-es Chicco Wellbeing - Set de regalo con biberón chupete y...'
 sku: 'B01E3NP5TU-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','chicco','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','chicco','chupete', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

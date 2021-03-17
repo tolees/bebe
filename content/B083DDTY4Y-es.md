@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DDTY4Y-es Sacaleches Sacaleches Manual Extractor de leche manual...'
 sku: 'B083DDTY4Y-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','sacaleches', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','sacaleches', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

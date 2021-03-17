@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WFGI0JK-es Babymoov procesador de alimentos para bebés Nutribaby...'
 sku: 'B00WFGI0JK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

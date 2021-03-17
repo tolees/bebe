@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HYPCCHS-es Espejo Retrovisor de Coche Irrompible Inastillable Patrón...'
 sku: 'B07HYPCCHS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

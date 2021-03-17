@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PMP5SR-es Philips Avent Scf169/46 - Pack con 2 Chupetes Jardín...'
 sku: 'B077PMP5SR-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','chupetes', ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

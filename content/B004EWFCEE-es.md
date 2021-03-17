@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EWFCEE-es Tetina Calma para biberón Medela'
 sku: 'B004EWFCEE-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','medela', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','medela', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

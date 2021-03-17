@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FL7N33P-es Philips Avent Biberón Natural SCF038/17 - Biberón de 330...'
 sku: 'B07FL7N33P-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','biberón', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

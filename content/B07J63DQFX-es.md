@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J63DQFX-es Happy Cherry - Ropa Invierno Acolchada de Algodón para...'
 sku: 'B07J63DQFX-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

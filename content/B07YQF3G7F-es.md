@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQF3G7F-es Almirón Galletitas sin gluten a partir de los 4 meses 180g'
 sku: 'B07YQF3G7F-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','almirón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','almirón', ]
 actualPrice: 1.34 EUR
 currency: EUR
 price: 1.34

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VDSLRP-es Alimentador antiahogo bebe chupete fruta bebe de...'
 sku: 'B073VDSLRP-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','chupete', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

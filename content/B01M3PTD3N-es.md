@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3PTD3N-es Ecus Kids Colchón de minicuna Ecus Care 80x50 es el...'
 sku: 'B01M3PTD3N-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','ecus','kids', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','ecus','kids', ]
 actualPrice: 68.88 EUR
 currency: EUR
 price: 68.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E1GX77C-es Béaba 915009 - Hamaca para bebé regulable en altura'
 sku: 'B00E1GX77C-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 116.46 EUR
 currency: EUR
 price: 116.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FANJPO4-es Cybex Silver - Portabebé Aton en contra de la marcha...'
 sku: 'B00FANJPO4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','cybex','portabebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','cybex','portabebé', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

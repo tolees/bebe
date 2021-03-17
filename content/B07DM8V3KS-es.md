@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DM8V3KS-es Philips Avent SCF044/27-2 - Tetinas natural flujo rápido...'
 sku: 'B07DM8V3KS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','tetinas', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','tetinas', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

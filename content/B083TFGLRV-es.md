@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TFGLRV-es Dookey Piscina Inflable para Bebés Hinchable Infantil...'
 sku: 'B083TFGLRV-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

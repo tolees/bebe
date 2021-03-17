@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LXQVA4-es Fisher-Price Saltador animalitos de la selva para bebé +1...'
 sku: 'B000LXQVA4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','fisher-price', ]
 actualPrice: 121.89 EUR
 currency: EUR
 price: 121.89

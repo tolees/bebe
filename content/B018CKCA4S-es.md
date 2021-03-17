@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018CKCA4S-es Cambiador Portátil de Pañales para Bebé - Kit Cambiador de...'
 sku: 'B018CKCA4S-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','pañales', ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

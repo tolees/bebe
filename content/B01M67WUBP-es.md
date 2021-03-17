@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M67WUBP-es Chicco Humi Fresh - Humidificador de vapor frío con...'
 sku: 'B01M67WUBP-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco', ]
 actualPrice: 37.04 EUR
 currency: EUR
 price: 37.04

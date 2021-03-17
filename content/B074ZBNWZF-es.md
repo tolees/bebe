@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZBNWZF-es Hauck Rapid 4 Cochecito de 0 meses a 22 kg plegable...'
 sku: 'B074ZBNWZF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hauck', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hauck', ]
 actualPrice: 109.57 EUR
 currency: EUR
 price: 109.57

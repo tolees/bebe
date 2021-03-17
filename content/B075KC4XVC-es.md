@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KC4XVC-es Bebé Niños Niñas Lindo Ratón 1er / 2do / 3er Cumpleaños 3...'
 sku: 'B075KC4XVC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

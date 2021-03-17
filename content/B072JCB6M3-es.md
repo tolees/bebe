@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JCB6M3-es Nenuco Hermanitos a la Pelu Famosa 700013674'
 sku: 'B072JCB6M3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nenuco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nenuco', ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

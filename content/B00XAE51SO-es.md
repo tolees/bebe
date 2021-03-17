@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAE51SO-es Air Wick Freshmatic - Recambios de Ambientador Spray...'
 sku: 'B00XAE51SO-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nenuco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nenuco', ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

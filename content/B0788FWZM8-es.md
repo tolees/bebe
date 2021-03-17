@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788FWZM8-es Lictin Unisex 3 Pcs babero con mangas EVA Impermeable...'
 sku: 'B0788FWZM8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','babero', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','babero', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

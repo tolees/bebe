@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYWBM9M-es Ergobaby Original - Mochila portabebés ergonómicas unisex...'
 sku: 'B07FYWBM9M-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','portabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','portabebés', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

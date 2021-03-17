@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CMVJKO2-es Philips Avent SCF676/01 - Funda para biberón de cristal...'
 sku: 'B00CMVJKO2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','biberón', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MS4RBRL-es Supportiback® Cojín ortopédico para ciática espalda...'
 sku: 'B01MS4RBRL-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazo', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazo', ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

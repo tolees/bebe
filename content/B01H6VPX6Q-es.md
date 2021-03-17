@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H6VPX6Q-es Eudora Harmony Ball Llamador de Angeles Embarazada...'
 sku: 'B01H6VPX6Q-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazada', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazada', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XMJL49G-es HBselect 3 Piezas Sujetador Lactancia Sostén De Maternidad...'
 sku: 'B07XMJL49G-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','lactancia', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

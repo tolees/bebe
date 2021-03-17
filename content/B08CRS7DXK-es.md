@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRS7DXK-es Juguetes de baño para bebés Ducha de Elefante Ducha de...'
 sku: 'B08CRS7DXK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 2.01 EUR
 currency: EUR
 price: 2.01

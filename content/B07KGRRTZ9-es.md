@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGRRTZ9-es Safety 1st Calidoo Cuna Colecho e Cuna de viaje 2 in 1...'
 sku: 'B07KGRRTZ9-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','safety', ]
+tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','safety', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

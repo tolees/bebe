@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UFS2J06-es WELEDA Leche Corporal de Malva Blanca 1x 200 ml'
 sku: 'B00UFS2J06-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','weleda', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','weleda', ]
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G38BVRK-es Chicco Miinimo2 Silla de paseo ultracompacta y ligera solo...'
 sku: 'B07G38BVRK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco', ]
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

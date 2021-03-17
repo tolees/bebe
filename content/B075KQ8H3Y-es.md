@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KQ8H3Y-es Star Ibaby Oxford Cloth - Parque de bebés ultraligero'
 sku: 'B075KQ8H3Y-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

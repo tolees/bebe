@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXX2L2C-es Nestlé Papillas NESTUM Cereales para bebé con galleta - 3...'
 sku: 'B07DXX2L2C-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

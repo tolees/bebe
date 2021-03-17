@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DZYP1B-es Fular Portabebe Newlemo Portabebes - Hecho de Tela Suave y...'
 sku: 'B089DZYP1B-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','portabebe','portabebes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','portabebe','portabebes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

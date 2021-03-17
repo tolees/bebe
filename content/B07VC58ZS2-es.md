@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC58ZS2-es Mosquitera Mosquitera Carro Bebe Universal Mosquitera...'
 sku: 'B07VC58ZS2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

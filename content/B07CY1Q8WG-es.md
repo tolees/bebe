@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY1Q8WG-es Zapatillas de Deporte para bebés Zapatos Ocasionales...'
 sku: 'B07CY1Q8WG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés', ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

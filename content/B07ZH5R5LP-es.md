@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZH5R5LP-es Blevit Plus Blevit Plus Papilla 8 Cereales Y Fruta Para...'
 sku: 'B07ZH5R5LP-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','blevit', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','blevit', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

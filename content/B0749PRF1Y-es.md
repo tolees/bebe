@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749PRF1Y-es Jane Klain283 819 - Sandalias con Punta Abierta Mujer...'
 sku: 'B0749PRF1Y-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','jane', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','jane', ]
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

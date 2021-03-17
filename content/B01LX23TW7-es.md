@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX23TW7-es Air Wick Ambientador Freshmatic Recambio - Fragancia...'
 sku: 'B01LX23TW7-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nenuco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nenuco', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

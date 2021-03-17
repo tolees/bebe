@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076H8BXPQ-es Tuc Tuc 05789 - Trona'
 sku: 'B076H8BXPQ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','trona', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','trona', ]
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

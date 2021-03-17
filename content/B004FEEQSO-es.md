@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004FEEQSO-es Intex 56587EU - Flotador Hinchable bebé'
 sku: 'B004FEEQSO-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0791LTYTZ-es 8safe Protector de Alta Calidad para Asiento de Coche PACK...'
 sku: 'B0791LTYTZ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','isofix', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','isofix', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

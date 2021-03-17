@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0827PNB7K-es Mameluco de Orejas de Oso bebé Sudaderas con Capucha de...'
 sku: 'B0827PNB7K-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

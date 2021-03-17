@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PG88VPC-es WISHTIME Combine Track Pathway Bath Toy 2019 DIY...'
 sku: 'B07PG88VPC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 24.03 EUR
 currency: EUR
 price: 24.03

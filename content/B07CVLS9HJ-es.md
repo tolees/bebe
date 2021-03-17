@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVLS9HJ-es Brunoko Plato para bebe con babero Azul - Plato Silicona...'
 sku: 'B07CVLS9HJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','babero','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','babero','bebe', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

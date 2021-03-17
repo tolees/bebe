@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4T3R9Y-es NUK 10256342 - Dosificador de leche en polvo 3...'
 sku: 'B00E4T3R9Y-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nuk', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nuk', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

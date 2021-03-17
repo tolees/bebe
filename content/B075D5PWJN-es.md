@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075D5PWJN-es Britax Römer FIRST CLASS PLUS - Silla de Coche Nacimiento...'
 sku: 'B075D5PWJN-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','römer','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','de','römer','silla', ]
 actualPrice: 170.24 EUR
 currency: EUR
 price: 170.24

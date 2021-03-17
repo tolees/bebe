@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL1DL2N-es Safety 1st Soft Dreams Cuna de viaje plegable y portatil...'
 sku: 'B07KL1DL2N-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','safety', ]
+tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','safety', ]
 actualPrice: 28.34 EUR
 currency: EUR
 price: 28.34

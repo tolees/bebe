@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0886JPML1-es aZengear Calcetines de Compresión para Hombres y Mujeres -...'
 sku: 'B0886JPML1-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazo', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

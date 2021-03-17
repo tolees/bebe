@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WEZMY0-es Suavinex Crema del Pañal para Bebés para Pieles Sensibles...'
 sku: 'B003WEZMY0-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','pañal','suavinex', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','pañal','suavinex', ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

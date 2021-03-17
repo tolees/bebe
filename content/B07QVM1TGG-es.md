@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVM1TGG-es 40 Piezas Pinzas Para el Cabello para Bebés niñas Clip de...'
 sku: 'B07QVM1TGG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

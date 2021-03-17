@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSV2LJZ-es Motorola MBP 140 - Vigilabebés audio con unidad para bebés...'
 sku: 'B01MSV2LJZ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','vigilabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','vigilabebés', ]
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

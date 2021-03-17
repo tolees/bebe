@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWPQB41-es Cubierta de lactancia para bebés y poncho de lactancia -...'
 sku: 'B07QWPQB41-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','lactancia', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B1WJNFP-es Tottenham Hotspur FC - Pack de dos chupetes oficiales...'
 sku: 'B07B1WJNFP-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chupetes', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

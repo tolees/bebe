@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLQ3X3M-es LEADSTAR Parasol Coche 2 Unidades Parasol Coche Bebe...'
 sku: 'B07RLQ3X3M-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebés', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DELEJ7C-es Nenuco Pack Agua de Colonia Infantil Bebé Minnie con...'
 sku: 'B00DELEJ7C-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','nenuco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','nenuco', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

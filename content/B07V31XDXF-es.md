@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V31XDXF-es Béaba Babycook Neo Robot de cocina infantil: tritura...'
 sku: 'B07V31XDXF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','babycook','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','babycook','bebés', ]
 actualPrice: 145.61 EUR
 currency: EUR
 price: 145.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL23D3M-es Safety 1st Keeny Trona evolutiva Trona bebé compacta...'
 sku: 'B07KL23D3M-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','safety','trona', ]
+tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','safety','trona', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

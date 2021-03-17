@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVCTPPD-es Lebze Bebé Muselina Swaddle Manta "Diseño de Panda" Bambú...'
 sku: 'B07SVCTPPD-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

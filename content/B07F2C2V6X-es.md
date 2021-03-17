@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2C2V6X-es Sacaleches Eléctrico Extractor de leche eléctrico materna...'
 sku: 'B07F2C2V6X-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','sacaleches', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','sacaleches', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SK66QW-es Mum & You Toallitas Húmedas Para Bebés 100% Biodegradables...'
 sku: 'B078SK66QW-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

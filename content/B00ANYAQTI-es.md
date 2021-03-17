@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ANYAQTI-es WELEDA Acondicionador Reparador con Avena 1x 200 ml'
 sku: 'B00ANYAQTI-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','weleda', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','weleda', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

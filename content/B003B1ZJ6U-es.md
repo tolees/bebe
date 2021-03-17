@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003B1ZJ6U-es Lacor 61940 - Botella biberón 400 ml color blanco'
 sku: 'B003B1ZJ6U-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón', ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYR8TWH-es Chicco - Barra de alivio post picaduras mosquito para...'
 sku: 'B07BYR8TWH-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','chicco', ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

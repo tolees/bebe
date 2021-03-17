@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074J61CFR-es DafenQ Lindo Animal La mochila de jardín de infantes...'
 sku: 'B074J61CFR-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

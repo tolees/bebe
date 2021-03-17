@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088SJRZV4-es NUK 2 botellas de detergente 1 cepillo Twist para biberón...'
 sku: 'B088SJRZV4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberones','biberón','nuk','tetinas', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberones','biberón','nuk','tetinas', ]
 actualPrice: 17.43 EUR
 currency: EUR
 price: 17.43

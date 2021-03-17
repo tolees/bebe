@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFB4FVS-es Pablosky 64521 Botas para Bebés Azul 21 EU'
 sku: 'B07QFB4FVS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

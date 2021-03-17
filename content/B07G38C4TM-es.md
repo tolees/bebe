@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G38C4TM-es Chicco Echo Silla de paseo ligera y compacta soporta hasta...'
 sku: 'B07G38C4TM-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

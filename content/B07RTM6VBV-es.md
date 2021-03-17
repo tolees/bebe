@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTM6VBV-es Munchkin - Vaso de Transición con Boquilla Blanda 4oz /...'
 sku: 'B07RTM6VBV-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','munchkin', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','munchkin', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

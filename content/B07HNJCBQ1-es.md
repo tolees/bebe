@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNJCBQ1-es NUK Disney First Choice+ biberón | 6-18 meses | Tetina de...'
 sku: 'B07HNJCBQ1-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','nuk', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','nuk', ]
 actualPrice: 10.03 EUR
 currency: EUR
 price: 10.03

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0816CYCRH-es LNIEGE Bolsa de pañales para bebés Multibolsillos Bolsa de...'
 sku: 'B0816CYCRH-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','pañales', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

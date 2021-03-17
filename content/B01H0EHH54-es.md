@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H0EHH54-es Foppapedretti Rolling Fix Silla de coche grupo 0+/1 Isofix...'
 sku: 'B01H0EHH54-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','de','isofix','silla', ]
 actualPrice: 215.18 EUR
 currency: EUR
 price: 215.18

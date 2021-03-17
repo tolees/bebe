@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FSOTV0C-es BABY HEROE - Cinturón de seguridad embarazada. Cinturón de...'
 sku: 'B01FSOTV0C-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazo', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazo', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

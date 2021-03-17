@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6FLM3N-es Motorola MBP 481 - Vigilabebés vídeo con pantalla LCD a...'
 sku: 'B01N6FLM3N-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','vigilabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','vigilabebés', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

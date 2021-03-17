@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876SRCJS-es AYUN 1PC del arnés de Clip Asiento Seguro Hebilla Negro...'
 sku: 'B0876SRCJS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

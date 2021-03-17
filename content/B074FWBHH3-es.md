@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FWBHH3-es Kiokids C/C - Porta chupetes esterilizador unisex color...'
 sku: 'B074FWBHH3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chupetes', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

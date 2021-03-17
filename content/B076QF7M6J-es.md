@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QF7M6J-es Tiny Love Take-Along Mobile Carrousel cuna rosa bebé y...'
 sku: 'B076QF7M6J-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

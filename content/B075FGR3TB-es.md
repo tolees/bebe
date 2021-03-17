@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FGR3TB-es Maxi-Cosi CabrioFix Silla de Auto Reclinable y de Alta...'
 sku: 'B075FGR3TB-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','maxi-cosi', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','maxi-cosi', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

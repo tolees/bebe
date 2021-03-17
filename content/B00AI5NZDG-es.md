@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AI5NZDG-es WELEDA Gel Dentífrico para Niños 1x 50 ml'
 sku: 'B00AI5NZDG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','weleda', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','weleda', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

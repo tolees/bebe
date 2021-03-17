@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NRZL1DK-es Safety 1st 33110128 - Espejo trasero color negro'
 sku: 'B00NRZL1DK-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','safety', ]
+tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','safety', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

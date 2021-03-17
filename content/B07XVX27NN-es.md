@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVX27NN-es Cybex Gold 520000545 Sirona S I-Size Silla de Coche...'
 sku: 'B07XVX27NN-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','cybex','de','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','coche','cybex','de','silla', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

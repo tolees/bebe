@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL29RL1-es Amazon Essentials - Pack de 3 sacos de dormir de bebé para...'
 sku: 'B07HL29RL1-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

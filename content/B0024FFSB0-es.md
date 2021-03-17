@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0024FFSB0-es Nuk Thermo Rapid - Calientabiberón'
 sku: 'B0024FFSB0-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nuk', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nuk', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

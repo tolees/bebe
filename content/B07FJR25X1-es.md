@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJR25X1-es Hauck Rapid 4X Silla de paseo ligera desde nacimiento...'
 sku: 'B07FJR25X1-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hauck', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hauck', ]
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

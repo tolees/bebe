@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGDLTW2-es Bébé Confort LARA Nomad Sand - Cochecito ultracompacto...'
 sku: 'B07HGDLTW2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bébé','confort', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bébé','confort', ]
 actualPrice: 191.2 EUR
 currency: EUR
 price: 191.2

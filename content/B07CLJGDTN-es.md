@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLJGDTN-es Miracle Baby Mantas Muselina Bebe Algodon，Manta Dos Capas...'
 sku: 'B07CLJGDTN-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','muselina', ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

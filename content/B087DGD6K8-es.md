@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087DGD6K8-es Tommee Tippee Kit de Biberones Anti-Cólicos Rosa'
 sku: 'B087DGD6K8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberones','tommee', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberones','tommee', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

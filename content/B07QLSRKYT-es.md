@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLSRKYT-es Viedouce Mochilas para Pañales Biberones Bolso del Bebé...'
 sku: 'B07QLSRKYT-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','biberones','pañal','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','biberones','pañal','pañales', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

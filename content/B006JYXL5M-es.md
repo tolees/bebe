@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JYXL5M-es El motor eléctrico se basa leche Nuby Natural Touch'
 sku: 'B006JYXL5M-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nuby', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nuby', ]
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

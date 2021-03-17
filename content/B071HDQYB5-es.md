@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HDQYB5-es Lebze Muselina Manta Bebé -"Diseño de Conejo" Bambú...'
 sku: 'B071HDQYB5-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','bebés','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

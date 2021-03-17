@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK3BHQP-es Safety 1st RAINBOW Black Chic - Silla de paseo color negro'
 sku: 'B07KK3BHQP-es'
-tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','safety', ]
+tags: [ '1st','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','safety', ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QG2Q5G-es Agger Transparente bebé de Silicona Mam Anillo Chupete...'
 sku: 'B086QG2Q5G-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','chupete', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

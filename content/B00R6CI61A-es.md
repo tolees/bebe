@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R6CI61A-es Fisher-Price - Gimnasio musical animalitos - gimnasios...'
 sku: 'B00R6CI61A-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','fisher-price', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

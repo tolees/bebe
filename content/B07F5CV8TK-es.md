@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5CV8TK-es FREESOO Parasol de Coche Ventana Lateral Trasera y...'
 sku: 'B07F5CV8TK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

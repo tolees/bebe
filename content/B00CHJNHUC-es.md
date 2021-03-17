@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CHJNHUC-es Philips Avent SCF695/17 - Biberón tetina suave y flexible...'
 sku: 'B00CHJNHUC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','biberón', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

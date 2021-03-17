@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AHGYL60-es Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en...'
 sku: 'B01AHGYL60-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

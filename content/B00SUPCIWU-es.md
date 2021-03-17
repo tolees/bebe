@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SUPCIWU-es NUK 10256396 - Juego de higiene dental para bebé pasta de...'
 sku: 'B00SUPCIWU-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','nuk', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','nuk', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

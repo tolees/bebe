@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFKTGNX-es ZXYAN Biberón de Silicona Blanca Alimentador de Cuchara...'
 sku: 'B07ZFKTGNX-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón', ]
 actualPrice: 5.03 EUR
 currency: EUR
 price: 5.03

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086SXX8D2-es ZHBRE Humidificador de 400 ml de Gran Capacidad Apagado...'
 sku: 'B086SXX8D2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

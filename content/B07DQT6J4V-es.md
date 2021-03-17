@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQT6J4V-es Dodot - Pañales desechables unisex'
 sku: 'B07DQT6J4V-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','dodot','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','dodot','pañales', ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

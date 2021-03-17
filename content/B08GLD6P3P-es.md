@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GLD6P3P-es Besylo Almohada para Bebe planas para la cabeza Forma bebé...'
 sku: 'B08GLD6P3P-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebé','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebé','bebés', ]
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMHSK5L-es Philips Avent SCF043/27-2 - Tetinas natural flujo medio...'
 sku: 'B07DMHSK5L-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','tetinas', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','tetinas', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

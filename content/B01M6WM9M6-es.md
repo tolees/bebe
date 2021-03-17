@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6WM9M6-es Nenuco Agua de Colonia recomendado para bebés fragancia...'
 sku: 'B01M6WM9M6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','nenuco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','nenuco', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

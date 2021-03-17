@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT6MGNC-es Mega Bloks Bloquefante divertido. Jugete de construcción...'
 sku: 'B01MT6MGNC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

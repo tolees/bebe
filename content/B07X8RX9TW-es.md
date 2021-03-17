@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8RX9TW-es Hawiton Camisón Lactancia Manga Larga Pijama Embarazada...'
 sku: 'B07X8RX9TW-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazada','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazada','lactancia', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

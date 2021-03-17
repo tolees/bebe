@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX6GVFY-es Skip Hop Zoo Unicorn - Termo contenedor'
 sku: 'B06XX6GVFY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hop','skip', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hop','skip', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

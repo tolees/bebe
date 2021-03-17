@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXNP6N8-es Mochila Portabebés Ergonómico Hommie Mochilas para Bebes...'
 sku: 'B07KXNP6N8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','portabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','portabebés', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLG8VFK-es Philips Avent Biberón Natural SCF070/22 - Biberón de 260...'
 sku: 'B07FLG8VFK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent','biberón', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

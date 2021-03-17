@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHLZ8QS-es Set De Baberos Bandana Cadenas Chupetes Toallas Bebe Suave...'
 sku: 'B07RHLZ8QS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','chupetes', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

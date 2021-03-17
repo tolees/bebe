@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073X2JPG8-es OcioDual Termómetro Corporal Flexible Fiebre Clinico...'
 sku: 'B073X2JPG8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

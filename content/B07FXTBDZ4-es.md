@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXTBDZ4-es Bolsa de Cochecito de Landau Impermeable Diseñado con...'
 sku: 'B07FXTBDZ4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','pañales', ]
 actualPrice: 10.68 EUR
 currency: EUR
 price: 10.68

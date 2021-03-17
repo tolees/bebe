@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076P8L5SF-es HAPPY MAMA. Mujer Sudadera Capucha Lactancia Premamá...'
 sku: 'B076P8L5SF-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','lactancia', ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

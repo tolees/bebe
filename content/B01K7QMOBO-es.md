@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QMOBO-es Dodot Toallitas Básico de Recambio - 54 Unidades'
 sku: 'B01K7QMOBO-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','dodot', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','dodot', ]
 actualPrice: 0.87 EUR
 currency: EUR
 price: 0.87

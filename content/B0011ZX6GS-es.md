@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0011ZX6GS-es Anita Maternity 5068 Sujetador de Lactancia Para Mujer...'
 sku: 'B0011ZX6GS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','lactancia', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

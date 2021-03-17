@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WVCZLC-es Vigilabebes con Camara Bebé Monitor Inalambrico con 3 5"...'
 sku: 'B075WVCZLC-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

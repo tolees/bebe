@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBCDY2T-es Manta de Bebé Lactancia Alimentación Paños de Muselina...'
 sku: 'B07CBCDY2T-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','lactancia','muselina','portabebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','lactancia','muselina','portabebé', ]
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

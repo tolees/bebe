@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JG89TMG-es Asalvo Mix Plus Capitán - Cuna de viaje Color gris'
 sku: 'B07JG89TMG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','asalvo', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','asalvo', ]
 actualPrice: 63.65 EUR
 currency: EUR
 price: 63.65

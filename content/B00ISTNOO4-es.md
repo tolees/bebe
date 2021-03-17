@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ISTNOO4-es Piku Twit-Twoo - Trona para bebés con bandeja regulable'
 sku: 'B00ISTNOO4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','trona', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','trona', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

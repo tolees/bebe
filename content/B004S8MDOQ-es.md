@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004S8MDOQ-es Lote de 4 vasitos para bebé Nuby 300 ml a partir de 12 meses'
 sku: 'B004S8MDOQ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','nuby', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','nuby', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

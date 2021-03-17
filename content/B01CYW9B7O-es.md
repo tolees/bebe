@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CYW9B7O-es Cuna para bebé modelo osito + Colchón Viscoelástico +...'
 sku: 'B01CYW9B7O-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

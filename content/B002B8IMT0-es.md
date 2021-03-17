@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002B8IMT0-es Tommee Tippee Biberones Closer to Nature 150 ml 1 Unidad...'
 sku: 'B002B8IMT0-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberones','tommee', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberones','tommee', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

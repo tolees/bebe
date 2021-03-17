@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGH4QKR-es Dodot Sensitive - Pañales Talla 5 42 Pañales 11 a 16 kg'
 sku: 'B07LGH4QKR-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','dodot','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','dodot','pañales', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

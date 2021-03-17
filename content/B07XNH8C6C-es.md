@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XNH8C6C-es Verolino Mochila para Pañales de Bebé Rosa Gris + Ganchos...'
 sku: 'B07XNH8C6C-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','pañales', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

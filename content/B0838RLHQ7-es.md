@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0838RLHQ7-es AMZTM Dinosaurio Camiseta de Cumpleaños - 1er Bebé...'
 sku: 'B0838RLHQ7-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

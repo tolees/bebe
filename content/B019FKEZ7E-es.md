@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FKEZ7E-es BÉABA Babycook Duo Robot de cocina para bebés 4 en 1...'
 sku: 'B019FKEZ7E-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','babycook','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','babycook','bebés', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

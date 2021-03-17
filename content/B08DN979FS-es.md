@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DN979FS-es WISHTIME Sonajeros de Bebe Juguetes de Mordedor Infante...'
 sku: 'B08DN979FS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

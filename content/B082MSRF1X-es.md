@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MSRF1X-es Muselina Bebe Six4Up 100% Made In Italy Algodón Orgánico...'
 sku: 'B082MSRF1X-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','muselina', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

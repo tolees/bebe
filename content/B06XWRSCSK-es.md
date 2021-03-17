@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWRSCSK-es Philips Avent SCF798/02 - Vaso con pajita flexible 300 ml...'
 sku: 'B06XWRSCSK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','avent', ]
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

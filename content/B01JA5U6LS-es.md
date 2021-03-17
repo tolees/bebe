@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JA5U6LS-es Fisher-Price Coche Monstruito verde juguete gateo bebé +9...'
 sku: 'B01JA5U6LS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','fisher-price', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

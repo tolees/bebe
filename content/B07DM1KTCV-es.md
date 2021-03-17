@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DM1KTCV-es Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet...'
 sku: 'B07DM1KTCV-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

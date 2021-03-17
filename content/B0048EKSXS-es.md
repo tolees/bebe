@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0048EKSXS-es Chicco Comfort Quick - Termómetro infrarrojos timpánico'
 sku: 'B0048EKSXS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','chicco', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

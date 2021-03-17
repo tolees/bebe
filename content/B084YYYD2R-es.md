@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YYYD2R-es Baby Teething Toys Silicona suave Mordedor de frutas sin...'
 sku: 'B084YYYD2R-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','chupete', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','chupete', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

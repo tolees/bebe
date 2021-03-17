@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0051POZ8W-es Johnson s Baby Crema Protectora de Pañal ideal para la...'
 sku: 'B0051POZ8W-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','pañal', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','pañal', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

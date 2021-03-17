@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P377ZQJ-es Moon and Back de Hanna Andersson - Pack de 3 pantalones de...'
 sku: 'B07P377ZQJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

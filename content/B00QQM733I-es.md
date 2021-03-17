@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QQM733I-es Munchkin - Espejo musical con luz Day & Night'
 sku: 'B00QQM733I-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','munchkin', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','munchkin', ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

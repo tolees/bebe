@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086C34SYL-es Luchild Baberos para Bebés Baberos de Alimentación de...'
 sku: 'B086C34SYL-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','babero','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','babero','bebés', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

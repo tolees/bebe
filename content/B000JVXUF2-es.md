@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000JVXUF2-es Nuby ID91164 Set De Recipientes Herméticos Multicolor 300...'
 sku: 'B000JVXUF2-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nuby', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nuby', ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

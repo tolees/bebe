@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STKZKXT-es Geox Rishon Bebé Deportivas Niño Transpirantes con Diseño...'
 sku: 'B07STKZKXT-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés', ]
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

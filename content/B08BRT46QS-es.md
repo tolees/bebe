@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BRT46QS-es Colmanda Juguetes Bañera Bebés 16 Piezas Juguetes de Baño...'
 sku: 'B08BRT46QS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebés', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

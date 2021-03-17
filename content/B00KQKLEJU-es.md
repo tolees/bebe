@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KQKLEJU-es Fisher-Price BHC01 Laugh and Learn - Teléfono inteligente'
 sku: 'B00KQKLEJU-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','fisher-price', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

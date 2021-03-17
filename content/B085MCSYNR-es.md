@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085MCSYNR-es Agger Silicona Biberón Botella de alimentación a Prueba de...'
 sku: 'B085MCSYNR-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','biberón', ]
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

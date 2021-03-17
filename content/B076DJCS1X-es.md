@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DJCS1X-es Bébé Confort ZELIA Nomad Black - Cochecito urbano 2 en 1...'
 sku: 'B076DJCS1X-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bébé','confort', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bébé','confort', ]
 actualPrice: 234.61 EUR
 currency: EUR
 price: 234.61

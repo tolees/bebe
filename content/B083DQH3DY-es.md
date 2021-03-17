@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DQH3DY-es Addmos Juguetes de baño 2 x Juguetes de baño para bebés...'
 sku: 'B083DQH3DY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

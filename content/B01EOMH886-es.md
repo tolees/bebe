@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOMH886-es Parasol de Coche para Bebés Ventana 2 Pack PEMOTech®...'
 sku: 'B01EOMH886-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','bebés', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

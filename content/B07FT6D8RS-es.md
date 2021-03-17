@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FT6D8RS-es Mochila de pañales para cambiar pañales con diseño abierto...'
 sku: 'B07FT6D8RS-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','pañales', ]
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

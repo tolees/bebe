@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TPS9XU-es Purelan 100 Medela - 37 gr.'
 sku: 'B001TPS9XU-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','medela', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','medela', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

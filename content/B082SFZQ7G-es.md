@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SFZQ7G-es Luchild Almohada Embarazada Multifuncional Cojín Lactancia...'
 sku: 'B082SFZQ7G-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','embarazada','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','embarazada','lactancia', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

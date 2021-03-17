@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CK7HNTV-es Panamar Niños Bebé Cute Cartoon Ballena Flotante...'
 sku: 'B08CK7HNTV-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

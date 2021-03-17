@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2PK3HG-es Realista Reborn Bebe Muchacha Vinilo Vestido de Tutú Rosa...'
 sku: 'B07N2PK3HG-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

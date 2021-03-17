@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087FTPM8L-es househome Piscina Inflable para Niños Bebé Casa De Adultos...'
 sku: 'B087FTPM8L-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

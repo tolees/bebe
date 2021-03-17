@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8ZHJQ4-es Bolsa de Pañales Bebés Sunshine D Bolsa Reutilizable...'
 sku: 'B07H8ZHJQ4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','pañales', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

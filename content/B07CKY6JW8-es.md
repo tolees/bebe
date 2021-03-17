@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKY6JW8-es CYBEX Gold - Silla de Paseo Eezy S Twist Asiento Giratorio...'
 sku: 'B07CKY6JW8-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','cybex', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','cybex', ]
 actualPrice: 191.95 EUR
 currency: EUR
 price: 191.95

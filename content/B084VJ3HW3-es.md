@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VJ3HW3-es Portátil al aire libre de gran capacidad para bebés leche...'
 sku: 'B084VJ3HW3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

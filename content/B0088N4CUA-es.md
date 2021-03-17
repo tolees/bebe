@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0088N4CUA-es Skip Hop 2467 - Mochilas para pañales'
 sku: 'B0088N4CUA-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hop','pañales','skip', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hop','pañales','skip', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

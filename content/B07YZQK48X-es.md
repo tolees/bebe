@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZQK48X-es Maxi-Cosi Zelia Carrito bebé 2 en 1 hamaca se transforma...'
 sku: 'B07YZQK48X-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','maxi-cosi', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','maxi-cosi', ]
 actualPrice: 221.99 EUR
 currency: EUR
 price: 221.99

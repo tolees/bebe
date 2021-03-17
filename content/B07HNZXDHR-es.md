@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNZXDHR-es Alvivi Chaqueta de Piel Sintética Bebé Bolero Blanco Boda...'
 sku: 'B07HNZXDHR-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

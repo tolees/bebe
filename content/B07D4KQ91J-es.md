@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4KQ91J-es Marca Amazon- Mama Bear Pañal de aprendizaje maxi- Talla 4...'
 sku: 'B07D4KQ91J-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bear','mama','pañal','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bear','mama','pañal','pañales', ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

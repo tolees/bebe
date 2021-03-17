@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZFXSDK-es Lebze Bebé Muselina Swaddle Manta -"Diseño de Dinosaurio"...'
 sku: 'B07BZFXSDK-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','muselina', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','muselina', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

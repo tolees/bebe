@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MRWJCB5-es Nenuco Pack Cuidado Classic con 2 geles de ducha 1 colonia...'
 sku: 'B07MRWJCB5-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nenuco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','nenuco', ]
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

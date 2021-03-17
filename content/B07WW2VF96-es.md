@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WW2VF96-es Ballery Bolsa de Pañales Bolsa Mojado Lavable Mojado y...'
 sku: 'B07WW2VF96-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','pañales', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

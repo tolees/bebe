@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075VZ1XHN-es BabyBjörn Babero de Manga Larga Lila'
 sku: 'B075VZ1XHN-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','babero', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','babero', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

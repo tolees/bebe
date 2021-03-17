@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FZXNU5Y-es Suavinex - Biberón Anatómico Flujo Denso Látex 360Ml 6M+...'
 sku: 'B00FZXNU5Y-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','suavinex', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','suavinex', ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

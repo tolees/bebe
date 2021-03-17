@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07795BQXN-es COMVIP Bebé niña Forro Polar Cachorro Suavemente único...'
 sku: 'B07795BQXN-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 4.68 EUR
 currency: EUR
 price: 4.68

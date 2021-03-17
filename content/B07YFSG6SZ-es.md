@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFSG6SZ-es Horquillas Pelo Niña Remebe 36 Piezas Pinzas Niña e Gomas...'
 sku: 'B07YFSG6SZ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

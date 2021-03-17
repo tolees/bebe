@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854H8VMT-es Mamá Lactancia materna Con una sola mano Extractor de...'
 sku: 'B0854H8VMT-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','biberón','lactancia', ]
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

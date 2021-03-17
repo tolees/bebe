@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086W2GF9G-es LANDWIND FT118 Termómetro Digital Bebé Termómetro...'
 sku: 'B086W2GF9G-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K04WRV6-es Bella + Lienzo - Body de manga corta acanalada unisex para...'
 sku: 'B00K04WRV6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

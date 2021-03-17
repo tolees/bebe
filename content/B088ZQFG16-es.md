@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088ZQFG16-es WISHTIME Sonajeros Bebe para BebéS 12 Piezas De Juguetes...'
 sku: 'B088ZQFG16-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe','bebés', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

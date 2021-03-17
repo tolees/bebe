@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ML5H3X3-es Gratlin Cinturón de Maternidad Embarazada y Extensor de...'
 sku: 'B07ML5H3X3-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','embarazada', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','embarazada', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

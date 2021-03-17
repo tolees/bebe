@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1FX2T6-es Neusky - Aspersor de agua para niños bebés y perros en verano'
 sku: 'B07S1FX2T6-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

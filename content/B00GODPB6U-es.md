@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GODPB6U-es Baby Jogger Deluxe - Capazo color negro'
 sku: 'B00GODPB6U-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','baby','jogger', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','baby','jogger', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

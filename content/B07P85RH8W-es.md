@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P85RH8W-es Bammax Almohada Plagiocefalia Bebe Almohada Bebe para...'
 sku: 'B07P85RH8W-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebe', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

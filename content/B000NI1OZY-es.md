@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NI1OZY-es Clevamama Capa de Baño Bebé - Toalla Delantal con Capucha...'
 sku: 'B000NI1OZY-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

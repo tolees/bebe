@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078H7ZNG5-es Asalvo Silla de coche grupo 0+/1/2 Isofix azul'
 sku: 'B078H7ZNG5-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','asalvo','coche','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','asalvo','coche','de','isofix','silla', ]
 actualPrice: 163.06 EUR
 currency: EUR
 price: 163.06

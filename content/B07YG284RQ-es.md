@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YG284RQ-es SONARIN Silla Asiento de mesa para bebé trona de mesa...'
 sku: 'B07YG284RQ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé','trona', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','trona', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

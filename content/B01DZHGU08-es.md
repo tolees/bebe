@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DZHGU08-es Britax Römer Kidfix II XP SICT / Kidfix II XP / Kidfix XP...'
 sku: 'B01DZHGU08-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','römer', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','römer', ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

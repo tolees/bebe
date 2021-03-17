@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083M3J7SJ-es Bolsa de pañales de tela portátil reutilizable a prueba de...'
 sku: 'B083M3J7SJ-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebés','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebés','pañales', ]
 actualPrice: 3.51 EUR
 currency: EUR
 price: 3.51

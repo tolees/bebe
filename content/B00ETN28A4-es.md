@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ETN28A4-es Hauck Sport Silla de paseo ligera y practica para bebes de...'
 sku: 'B00ETN28A4-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hauck', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','hauck', ]
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67
