@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VTSS3R-es Dodot Splashers Pañales Bañadores Desechables No se...'
 sku: 'B082VTSS3R-es'
-tags: [ 'dodot','pañales', ]
+tags: [ 'Arneses de seguridad','Bebé','Cambio de pañales','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dormitorio','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Pañales desechables','Pañales desechables para bebés','Pañales para bebé','Productos para la lavandería','Salud y cuidado personal','Seguridad','dodot','pañales', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

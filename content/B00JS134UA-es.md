@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JS134UA-es Nenuco - Nenuco y su hermanito van al cole Famosa...'
 sku: 'B00JS134UA-es'
-tags: [ 'nenuco', ]
+tags: [ 'Arneses de seguridad','Bebé','Cambio de pañales','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dormitorio','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Pañales desechables','Pañales desechables para bebés','Pañales para bebé','Productos para la lavandería','Salud y cuidado personal','Seguridad','nenuco', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95
