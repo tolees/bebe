@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GLC23JM-es Besylo Almohada para Bebe planas para la cabeza Forma bebé...'
 sku: 'B08GLC23JM-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé','bebés', ]
+tags: [ 'bebe','bebé','bebés', ]
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

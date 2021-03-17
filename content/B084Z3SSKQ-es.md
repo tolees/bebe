@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084Z3SSKQ-es 1 pieza caliente completo al aire libre bebé infantil...'
 sku: 'B084Z3SSKQ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 1.54 EUR
 currency: EUR
 price: 1.54

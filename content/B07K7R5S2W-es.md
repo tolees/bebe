@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7R5S2W-es Britax Römer Kidfix² R Cosmos Black'
 sku: 'B07K7R5S2W-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','römer', ]
+tags: [ 'römer', ]
 actualPrice: 167.0 EUR
 currency: EUR
 price: 167.0

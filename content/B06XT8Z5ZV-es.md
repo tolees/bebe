@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XT8Z5ZV-es AngLink Mini Ventilador USB Portatil Recargable Bateria...'
 sku: 'B06XT8Z5ZV-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

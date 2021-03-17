@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZJ655V-es Tommy Hilfiger U Light Down Jacket Chaqueta Verde Olive...'
 sku: 'B07JZJ655V-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 35.81 EUR
 currency: EUR
 price: 35.81

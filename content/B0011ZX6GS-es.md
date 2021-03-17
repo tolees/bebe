@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0011ZX6GS-es Anita Maternity 5068 Sujetador de Lactancia Para Mujer...'
 sku: 'B0011ZX6GS-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

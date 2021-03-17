@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XZVNVVG-es Baby Jogger BJ2011982 - Banqueta'
 sku: 'B06XZVNVVG-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','baby','jogger', ]
+tags: [ 'baby','jogger', ]
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

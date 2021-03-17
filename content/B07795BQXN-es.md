@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07795BQXN-es COMVIP Bebé niña Forro Polar Cachorro Suavemente único...'
 sku: 'B07795BQXN-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.68 EUR
 currency: EUR
 price: 4.68

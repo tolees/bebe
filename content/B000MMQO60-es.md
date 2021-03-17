@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MMQO60-es Philips Avent SCF157/02 - 2 Conchas protectoras ventiladas...'
 sku: 'B000MMQO60-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent', ]
+tags: [ 'avent', ]
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073X2JPG8-es OcioDual Termómetro Corporal Flexible Fiebre Clinico...'
 sku: 'B073X2JPG8-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXX2L2C-es Nestlé Papillas NESTUM Cereales para bebé con galleta - 3...'
 sku: 'B07DXX2L2C-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

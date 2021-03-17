@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHLZ8QS-es Set De Baberos Bandana Cadenas Chupetes Toallas Bebe Suave...'
 sku: 'B07RHLZ8QS-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','chupetes', ]
+tags: [ 'bebe','chupetes', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

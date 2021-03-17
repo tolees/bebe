@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8NGF1P-es Manta de Bebé Terciopelo Tacto Seda o Visón 440gr/m2...'
 sku: 'B07K8NGF1P-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GZFXTG-es Philips Avent SCF343/22 - Pack con 2 chupetes Ultra Air...'
 sku: 'B079GZFXTG-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

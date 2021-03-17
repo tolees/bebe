@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DZHGU08-es Britax Römer Kidfix II XP SICT / Kidfix II XP / Kidfix XP...'
 sku: 'B01DZHGU08-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','römer', ]
+tags: [ 'römer', ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

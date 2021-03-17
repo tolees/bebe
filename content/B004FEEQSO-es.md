@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004FEEQSO-es Intex 56587EU - Flotador Hinchable bebé'
 sku: 'B004FEEQSO-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

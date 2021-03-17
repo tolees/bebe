@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7RYMRQ-es TOYANDONA 1pc pezones de bebé pezones creativos biberones...'
 sku: 'B07W7RYMRQ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','biberones', ]
+tags: [ 'bebé','biberones', ]
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

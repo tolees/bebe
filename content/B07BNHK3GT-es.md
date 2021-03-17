@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BNHK3GT-es TOPmountain Caja de caja de leche en polvo para bebés...'
 sku: 'B07BNHK3GT-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','chupete', ]
+tags: [ 'bebés','chupete', ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

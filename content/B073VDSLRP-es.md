@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VDSLRP-es Alimentador antiahogo bebe chupete fruta bebe de...'
 sku: 'B073VDSLRP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','chupete', ]
+tags: [ 'bebe','chupete', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

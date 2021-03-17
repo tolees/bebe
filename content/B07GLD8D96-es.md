@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLD8D96-es Cybex Gold - Silla de coche Solution S-Fix para coches con...'
 sku: 'B07GLD8D96-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','cybex','de','isofix','silla', ]
+tags: [ 'coche','cybex','de','isofix','silla', ]
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

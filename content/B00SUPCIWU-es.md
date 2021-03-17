@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SUPCIWU-es NUK 10256396 - Juego de higiene dental para bebé pasta de...'
 sku: 'B00SUPCIWU-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','nuk', ]
+tags: [ 'bebé','nuk', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

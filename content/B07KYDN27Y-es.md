@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYDN27Y-es Saro 1435-C - Porta chupete unisex'
 sku: 'B07KYDN27Y-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chupete', ]
+tags: [ 'chupete', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

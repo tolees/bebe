@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYJ95Y8-es YACUN Vestido Lactancia Maternidad de Noche Camisón Verano...'
 sku: 'B07FYJ95Y8-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

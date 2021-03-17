@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HR3F4T0-es ISDIN Nutraisdin First Teeth Gel Gingival'
 sku: 'B00HR3F4T0-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nutraisdin', ]
+tags: [ 'nutraisdin', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOMH886-es Parasol de Coche para Bebés Ventana 2 Pack PEMOTech®...'
 sku: 'B01EOMH886-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

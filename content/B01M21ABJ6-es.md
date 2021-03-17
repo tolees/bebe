@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M21ABJ6-es Ergobaby Mochila Portabebé Ergonomica para Recién Nacido...'
 sku: 'B01M21ABJ6-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','portabebé', ]
+tags: [ 'portabebé', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

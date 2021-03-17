@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDK5B7M-es ANGELBLISS mordedor bebes refrigerante mordedores bebes...'
 sku: 'B07WDK5B7M-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

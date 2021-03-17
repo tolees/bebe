@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BK2KPR4-es LEGO DUPLO Town - Aventura en Submarino Juguete Educativo...'
 sku: 'B01BK2KPR4-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

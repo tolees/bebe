@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8D63FZ-es NUK - Juego de vasos 3 en 1 vasos para aprender a beber...'
 sku: 'B07M8D63FZ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nuk', ]
+tags: [ 'nuk', ]
 actualPrice: 18.71 EUR
 currency: EUR
 price: 18.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCL384W-es Chicco Balloon - Hamaca interactiva con sistema balancín...'
 sku: 'B07GCL384W-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 80 EUR
 currency: EUR
 price: 80

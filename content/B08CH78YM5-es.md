@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CH78YM5-es Termómetro Infrarrojos KKmier Termometro Digital...'
 sku: 'B08CH78YM5-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

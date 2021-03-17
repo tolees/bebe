@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CQOIL3U-es Chicco Phisio Soft - Chupete todo goma de silicona para...'
 sku: 'B01CQOIL3U-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco','chupete', ]
+tags: [ 'chicco','chupete', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z1JV43G-es Bolsas de Transporte Bolsa Viaje para Asiento Bebé Acomon...'
 sku: 'B07Z1JV43G-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

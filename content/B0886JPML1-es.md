@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0886JPML1-es aZengear Calcetines de Compresión para Hombres y Mujeres -...'
 sku: 'B0886JPML1-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

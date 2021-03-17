@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DY3TSBT-es Unknow 16 sq ft rojoParque Juegos Bebe con Malla...'
 sku: 'B08DY3TSBT-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 87.39 EUR
 currency: EUR
 price: 87.39

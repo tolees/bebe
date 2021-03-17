@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8DSXPD-es Mono/Pelele de manga larga para bebé 3-6 Meses Azul'
 sku: 'B07F8DSXPD-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

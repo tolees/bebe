@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCWLN49-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
 sku: 'B07GCWLN49-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829VVWWR-es Termómetro médico de Fieberthermometer por infrarrojos de...'
 sku: 'B0829VVWWR-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

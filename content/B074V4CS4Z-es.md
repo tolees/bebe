@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074V4CS4Z-es Lebze Muselina Manta Bebé -"Diente de Ballena" Bambú...'
 sku: 'B074V4CS4Z-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','muselina', ]
+tags: [ 'bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

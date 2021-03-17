@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YTP55MX-es Safety 1st Ever Safe Plus Silla Coche grupo 1 2 3 crece...'
 sku: 'B07YTP55MX-es'
-tags: [ '1st','Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','grupo','safety','silla', ]
+tags: [ '1st','coche','grupo','safety','silla', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

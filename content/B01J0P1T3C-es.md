@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J0P1T3C-es EKU FASHION - Camiseta - para bebé niño Azul Azul 5T'
 sku: 'B01J0P1T3C-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 3.63 EUR
 currency: EUR
 price: 3.63

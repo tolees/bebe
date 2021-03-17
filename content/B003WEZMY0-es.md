@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WEZMY0-es Suavinex Crema del Pañal para Bebés para Pieles Sensibles...'
 sku: 'B003WEZMY0-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','pañal','suavinex', ]
+tags: [ 'bebés','pañal','suavinex', ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

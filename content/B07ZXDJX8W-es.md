@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZXDJX8W-es ViVidLife Bolsa de Pañales 2 PCS Bolsa Pañales Impermeable...'
 sku: 'B07ZXDJX8W-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','pañales', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

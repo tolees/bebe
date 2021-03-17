@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WK2ZMWJ-es ANGELBLISS Alimentador antiahogo bebe chupete fruta bebe...'
 sku: 'B07WK2ZMWJ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','chupete', ]
+tags: [ 'bebe','chupete', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

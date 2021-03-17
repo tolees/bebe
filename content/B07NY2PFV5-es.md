@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY2PFV5-es 4 0L Humidificador Ultrasónica Bebé Silencioso Boquilla...'
 sku: 'B07NY2PFV5-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

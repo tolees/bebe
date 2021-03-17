@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MS4RBRL-es Supportiback® Cojín ortopédico para ciática espalda...'
 sku: 'B01MS4RBRL-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

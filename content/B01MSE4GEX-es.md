@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSE4GEX-es PEKITAS Bebe Capa De Baño Con Capucha y Manopla 75x75 cm...'
 sku: 'B01MSE4GEX-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

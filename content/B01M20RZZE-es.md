@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M20RZZE-es PLAYMOBIL Hadas- Dragón con Bebé única 9134'
 sku: 'B01M20RZZE-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

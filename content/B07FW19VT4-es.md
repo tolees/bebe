@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FW19VT4-es molis&co. Saco de Dormir para bebé. Ideal para Verano. 0-6...'
 sku: 'B07FW19VT4-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','muselina', ]
+tags: [ 'muselina', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

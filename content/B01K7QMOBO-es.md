@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QMOBO-es Dodot Toallitas Básico de Recambio - 54 Unidades'
 sku: 'B01K7QMOBO-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','dodot', ]
+tags: [ 'dodot', ]
 actualPrice: 0.87 EUR
 currency: EUR
 price: 0.87

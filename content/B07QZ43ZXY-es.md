@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ43ZXY-es Dodot Activity Pañales Talla 5+ 96 Pañales - 12-17 kg'
 sku: 'B07QZ43ZXY-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','dodot','pañales', ]
+tags: [ 'dodot','pañales', ]
 actualPrice: 29.15 EUR
 currency: EUR
 price: 29.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GTYB38-es Asalvo 15549 - Andador'
 sku: 'B078GTYB38-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','asalvo', ]
+tags: [ 'asalvo', ]
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

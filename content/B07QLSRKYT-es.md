@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLSRKYT-es Viedouce Mochilas para Pañales Biberones Bolso del Bebé...'
 sku: 'B07QLSRKYT-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','biberones','pañal','pañales', ]
+tags: [ 'bebé','biberones','pañal','pañales', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

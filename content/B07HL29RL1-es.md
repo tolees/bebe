@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL29RL1-es Amazon Essentials - Pack de 3 sacos de dormir de bebé para...'
 sku: 'B07HL29RL1-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

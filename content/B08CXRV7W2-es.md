@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXRV7W2-es Homgrace Termómetro infrarrojo sin Contacto Digital...'
 sku: 'B08CXRV7W2-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

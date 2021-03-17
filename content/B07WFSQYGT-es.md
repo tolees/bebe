@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFSQYGT-es BabbleRoo Mochilas de Pañales para Bebé Gran Capacidad...'
 sku: 'B07WFSQYGT-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','pañales', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

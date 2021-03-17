@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM2YGKK-es Promise Babe Cuentas de Silicona Dentición del Bebé...'
 sku: 'B07JM2YGKK-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

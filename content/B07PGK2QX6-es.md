@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGK2QX6-es Biomecanics 191152 Zapatillas de Estar por casa para Bebés...'
 sku: 'B07PGK2QX6-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 40.51 EUR
 currency: EUR
 price: 40.51

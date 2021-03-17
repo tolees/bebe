@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BR4LHFH-es Dodot Splashers Pañales Bañadores Desechables No se...'
 sku: 'B07BR4LHFH-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','dodot','pañales', ]
+tags: [ 'dodot','pañales', ]
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

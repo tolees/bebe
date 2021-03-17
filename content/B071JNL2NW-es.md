@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JNL2NW-es Simple Joys by Carter s traje de baño de 2 piezas para...'
 sku: 'B071JNL2NW-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

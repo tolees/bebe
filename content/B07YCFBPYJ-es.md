@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCFBPYJ-es LYSHION Mochilas para Pañales Biberones Pañal Bolso...'
 sku: 'B07YCFBPYJ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberones','pañal','pañales', ]
+tags: [ 'biberones','pañal','pañales', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

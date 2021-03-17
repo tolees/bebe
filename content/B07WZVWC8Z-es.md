@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZVWC8Z-es SERAPHY Trajes de Calabaza encantadores de Halloween Bebés...'
 sku: 'B07WZVWC8Z-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

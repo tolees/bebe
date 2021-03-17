@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CHJNHUC-es Philips Avent SCF695/17 - Biberón tetina suave y flexible...'
 sku: 'B00CHJNHUC-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','biberón', ]
+tags: [ 'avent','biberón', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

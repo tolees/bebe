@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086C34SYL-es Luchild Baberos para Bebés Baberos de Alimentación de...'
 sku: 'B086C34SYL-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','babero','bebés', ]
+tags: [ 'babero','bebés', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C26KK0U-es Philips Avent SCF766/00 Vaso aislado con paja 260 ml azul...'
 sku: 'B00C26KK0U-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent', ]
+tags: [ 'avent', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

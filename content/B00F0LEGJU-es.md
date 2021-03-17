@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F0LEGJU-es Hauck Sport Silla de paseo ligera y practica para bebes de...'
 sku: 'B00F0LEGJU-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 51.77 EUR
 currency: EUR
 price: 51.77

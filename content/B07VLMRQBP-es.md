@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLMRQBP-es Carioca Set Baby 2+ | 53222 - Kit Colores: Rotuladores...'
 sku: 'B07VLMRQBP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

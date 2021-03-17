@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749PRF1Y-es Jane Klain283 819 - Sandalias con Punta Abierta Mujer...'
 sku: 'B0749PRF1Y-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','jane', ]
+tags: [ 'jane', ]
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

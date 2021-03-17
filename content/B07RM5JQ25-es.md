@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RM5JQ25-es HyAdierTech Cucharas Siliconas Bebé 2 Piezas Cucharillas...'
 sku: 'B07RM5JQ25-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé','bebés', ]
+tags: [ 'bebe','bebé','bebés', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

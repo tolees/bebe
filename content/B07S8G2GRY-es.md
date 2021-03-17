@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8G2GRY-es Vicloon Arnes Bebes Correa Bebe Para Caminar Arnés de...'
 sku: 'B07S8G2GRY-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

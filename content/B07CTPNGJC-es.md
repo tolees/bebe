@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTPNGJC-es Alminatur Papilla de Multicereales con Plátano a Partir de...'
 sku: 'B07CTPNGJC-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','alminatur', ]
+tags: [ 'alminatur', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHG78QH-es Lifewit Bolsa Térmica Porta Alimentos con Paquete de Hielo...'
 sku: 'B07BHG78QH-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

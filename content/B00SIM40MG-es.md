@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SIM40MG-es Skip Hop Zoo Pack - Mochila diseño unicorn color turquesa'
 sku: 'B00SIM40MG-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','hop','skip', ]
+tags: [ 'hop','skip', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

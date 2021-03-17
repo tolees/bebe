@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086X3HMLJ-es 5 Piezas Bebé Body Mono de Manga Corta Mameluco Algodón...'
 sku: 'B086X3HMLJ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

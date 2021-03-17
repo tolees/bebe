@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKS9S66-es Termómetro Digital Bebé Termómetro de Frente y Oído...'
 sku: 'B07QKS9S66-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

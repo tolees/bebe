@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R9XFJ5-es Suavinex Chupete Physio Panda/Rama 2 piezas'
 sku: 'B075R9XFJ5-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chupete','suavinex', ]
+tags: [ 'chupete','suavinex', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

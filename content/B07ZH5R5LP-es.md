@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZH5R5LP-es Blevit Plus Blevit Plus Papilla 8 Cereales Y Fruta Para...'
 sku: 'B07ZH5R5LP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberón','blevit', ]
+tags: [ 'biberón','blevit', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

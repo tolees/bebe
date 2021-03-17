@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016XS3IRY-es Fisher-Price Manzanita Activity juguete colgante para bebé...'
 sku: 'B016XS3IRY-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','fisher-price', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

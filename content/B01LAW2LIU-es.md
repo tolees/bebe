@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAW2LIU-es Tenswall Humidificador Ultrasónico 400ml Difusor de...'
 sku: 'B01LAW2LIU-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

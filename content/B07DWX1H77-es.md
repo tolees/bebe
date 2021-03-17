@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWX1H77-es DoMyfit Organizador de Asiento de Coche para bebé...'
 sku: 'B07DWX1H77-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

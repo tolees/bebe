@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWKG7CL-es Juguetes Colgantes Carrito Bebe Cuna Cochecitos de...'
 sku: 'B07PWKG7CL-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebés', ]
+tags: [ 'bebe','bebés', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

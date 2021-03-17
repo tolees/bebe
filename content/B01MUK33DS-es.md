@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUK33DS-es Philips Avent SCF212/20 - Pack de dos chupetes ultra...'
 sku: 'B01MUK33DS-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

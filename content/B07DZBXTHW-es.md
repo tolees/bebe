@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DZBXTHW-es Bebé Pelele de Algodón Mameluco Béisbol Trajes Niños Niñas...'
 sku: 'B07DZBXTHW-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

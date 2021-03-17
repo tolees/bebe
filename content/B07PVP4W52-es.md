@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVP4W52-es Fisher-Price Llama Linkimals Juguete interactivo bebés +9...'
 sku: 'B07PVP4W52-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','fisher-price', ]
+tags: [ 'bebés','fisher-price', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

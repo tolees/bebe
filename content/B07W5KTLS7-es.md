@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5KTLS7-es WERNNSAI Unicornio Manta de Hito Bebé - 150 x 100 cm Manta...'
 sku: 'B07W5KTLS7-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

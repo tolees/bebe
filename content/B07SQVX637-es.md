@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQVX637-es Hpybest - Cadena de chupete de dos colores hecha a mano...'
 sku: 'B07SQVX637-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chupete', ]
+tags: [ 'chupete', ]
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

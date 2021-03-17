@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGWT6ZK-es Primigi Gore-Tex Pbz 43660 Botas para Bebés...'
 sku: 'B07NGWT6ZK-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK465YV-es Geox Tapuz Bebe Sandalia Niño Transpirantes para Bebés...'
 sku: 'B07DK465YV-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebés', ]
+tags: [ 'bebe','bebés', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

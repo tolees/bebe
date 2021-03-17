@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWR3LC4-es Netvue Cámaras de Vigilancia WiFi Interior Full HD 1080P...'
 sku: 'B07VWR3LC4-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

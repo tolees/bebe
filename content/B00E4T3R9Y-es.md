@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4T3R9Y-es NUK 10256342 - Dosificador de leche en polvo 3...'
 sku: 'B00E4T3R9Y-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nuk', ]
+tags: [ 'nuk', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

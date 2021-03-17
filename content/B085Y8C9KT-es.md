@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Y8C9KT-es FlowerDas Termómetro de Frente lecturas precisas...'
 sku: 'B085Y8C9KT-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 44.19 EUR
 currency: EUR
 price: 44.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GODPB6U-es Baby Jogger Deluxe - Capazo color negro'
 sku: 'B00GODPB6U-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','baby','jogger', ]
+tags: [ 'baby','jogger', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

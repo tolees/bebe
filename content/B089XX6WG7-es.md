@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089XX6WG7-es Opret Cubiteras para Hielo Silicona 2 pcs Cubitos de Hielo...'
 sku: 'B089XX6WG7-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

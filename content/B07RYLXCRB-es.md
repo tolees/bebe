@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYLXCRB-es Johnson s Baby Loción Calma la piel seca de tu bebé - 3 x...'
 sku: 'B07RYLXCRB-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8NRDZT-es NUK 10177124 Genius Color - Chupete de silicona forma...'
 sku: 'B07M8NRDZT-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chupete','nuk', ]
+tags: [ 'chupete','nuk', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

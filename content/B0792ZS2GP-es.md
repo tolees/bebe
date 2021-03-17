@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792ZS2GP-es BABYBJÖRN One- Mochila Porta Bebé 2018 Edition Algodón Mix...'
 sku: 'B0792ZS2GP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 125.41 EUR
 currency: EUR
 price: 125.41

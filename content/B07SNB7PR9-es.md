@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNB7PR9-es Hpybest - Cadena para chupete cadena antipérdida diseño de...'
 sku: 'B07SNB7PR9-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chupete', ]
+tags: [ 'chupete', ]
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

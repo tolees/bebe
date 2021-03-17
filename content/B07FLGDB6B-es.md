@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLGDB6B-es Philips Avent SCD287/24 - Set de regalo natural dragon 1...'
 sku: 'B07FLGDB6B-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','biberón','chupetes', ]
+tags: [ 'avent','biberón','chupetes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

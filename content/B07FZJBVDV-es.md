@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZJBVDV-es Star Ibaby - Parque de bebés plegable color natural'
 sku: 'B07FZJBVDV-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0TGW5L-es Fisher-Price Saltador activity de perrito juguete para...'
 sku: 'B01N0TGW5L-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','fisher-price', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 103.49 EUR
 currency: EUR
 price: 103.49

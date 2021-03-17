@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGV28N8-es Miracle Baby Mantas Bebe Algodón Swaddle Blanket de...'
 sku: 'B06XGV28N8-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','muselina', ]
+tags: [ 'bebe','muselina', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

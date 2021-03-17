@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CG4YJCY-es SOYAR® mordedor bebé - Pulpo juguete y el 100% BPA de...'
 sku: 'B07CG4YJCY-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

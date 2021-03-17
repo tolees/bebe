@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LMV9HMS-es Skip Hop Zoo Dog - Tarro aislado del alimento 325ml 12m+'
 sku: 'B00LMV9HMS-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','hop','skip', ]
+tags: [ 'hop','skip', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

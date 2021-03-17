@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WOMCHP8-es Crema Repelente Mosquitos - Repelente de Insectos para...'
 sku: 'B00WOMCHP8-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

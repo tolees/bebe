@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTBD6KS-es HAMSWAN Termómetro de Frente Sin Contacto Termómetro...'
 sku: 'B01HTBD6KS-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

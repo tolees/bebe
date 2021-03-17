@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GBY6W26-es Bola de pulverización de Agua eléctrica Inducción...'
 sku: 'B08GBY6W26-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

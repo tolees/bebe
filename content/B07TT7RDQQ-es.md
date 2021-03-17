@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT7RDQQ-es Tommy Hilfiger Th Sock 3p Giftbox Baby Calcetines Rosa...'
 sku: 'B07TT7RDQQ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

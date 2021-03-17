@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK8W7ZR-es DIY 5D pintura de diamante resina bordado imágenes arte...'
 sku: 'B07DK8W7ZR-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 2.94 EUR
 currency: EUR
 price: 2.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQFXYMP-es Geox B Kilwi Boy G Zapatillas para Bebés Azul Navy/Royal...'
 sku: 'B07SQFXYMP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

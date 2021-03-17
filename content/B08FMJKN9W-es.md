@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMJKN9W-es Doaraha Conjunto de Pijamas de Maternidad y Enfermería...'
 sku: 'B08FMJKN9W-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo','lactancia', ]
+tags: [ 'embarazo','lactancia', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

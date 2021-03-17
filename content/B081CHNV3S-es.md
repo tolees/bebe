@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CHNV3S-es LNIEGE - Asiento de Seguridad para Coche con Ventosa...'
 sku: 'B081CHNV3S-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 2.43 EUR
 currency: EUR
 price: 2.43

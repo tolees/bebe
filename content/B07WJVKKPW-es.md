@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WJVKKPW-es HOTLIKE Bolsa de Pañales 3PCS Bebé Reutilizable...'
 sku: 'B07WJVKKPW-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','pañales', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

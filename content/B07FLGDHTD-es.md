@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLGDHTD-es Philips Avent SCD287/25 - Set de regalo natural unicornio...'
 sku: 'B07FLGDHTD-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','biberón','chupetes', ]
+tags: [ 'avent','biberón','chupetes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

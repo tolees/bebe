@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZPJ66M-es Hauck Sport Silla de paseo ultra ligera de 5 9kg sistema...'
 sku: 'B07XZPJ66M-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

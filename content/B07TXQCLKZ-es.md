@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXQCLKZ-es Rodilleras para gatear rodillera bebe gateo rodillera para...'
 sku: 'B07TXQCLKZ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé','bebés', ]
+tags: [ 'bebe','bebé','bebés', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

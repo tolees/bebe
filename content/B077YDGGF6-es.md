@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YDGGF6-es Cybex Gold Pallas S-Fix - Silla de coche 2 en 1 para...'
 sku: 'B077YDGGF6-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','cybex','de','isofix','silla', ]
+tags: [ 'coche','cybex','de','isofix','silla', ]
 actualPrice: 173.61 EUR
 currency: EUR
 price: 173.61

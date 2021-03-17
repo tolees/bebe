@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ2BMN2-es Bolsa de pañales de tela la bolsa de pañales de doble...'
 sku: 'B07PJ2BMN2-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','pañales', ]
+tags: [ 'bebés','pañales', ]
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085X9KP5J-es GYYFF Termómetro electrónico infrarrojo sin Contacto...'
 sku: 'B085X9KP5J-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

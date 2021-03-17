@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZV4G9B-es HyAdierTech Almohadilla De Cuna Impermeable para Bebé...'
 sku: 'B07QZV4G9B-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé','bebés','pañales', ]
+tags: [ 'bebe','bebé','bebés','pañales', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

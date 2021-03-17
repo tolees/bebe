@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U1GA5NA-es INJUSA - Triciclo City Max Blanco para Bebés +6 Meses con...'
 sku: 'B00U1GA5NA-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 107.97 EUR
 currency: EUR
 price: 107.97

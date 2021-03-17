@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084P6QPCM-es Motherly Love Play Boca Chupete Boca Silicona Cierre...'
 sku: 'B084P6QPCM-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','chupete', ]
+tags: [ 'bebés','chupete', ]
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

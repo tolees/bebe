@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QNLB47-es Promini - Body para bebé con texto en inglés "Everyday I m...'
 sku: 'B086QNLB47-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XMC8K4Q-es LEADSTAR Montessori Activity Wooden Toy Cordón Madera...'
 sku: 'B07XMC8K4Q-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

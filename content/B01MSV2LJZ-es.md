@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSV2LJZ-es Motorola MBP 140 - Vigilabebés audio con unidad para bebés...'
 sku: 'B01MSV2LJZ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','vigilabebés', ]
+tags: [ 'bebés','vigilabebés', ]
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

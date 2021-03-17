@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR2QPSQ-es TENDOMI Humidificador Bebé Humidificador WiFi Inteligente...'
 sku: 'B07WR2QPSQ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 45.58 EUR
 currency: EUR
 price: 45.58

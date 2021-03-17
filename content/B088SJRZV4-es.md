@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088SJRZV4-es NUK 2 botellas de detergente 1 cepillo Twist para biberón...'
 sku: 'B088SJRZV4-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberones','biberón','nuk','tetinas', ]
+tags: [ 'biberones','biberón','nuk','tetinas', ]
 actualPrice: 17.43 EUR
 currency: EUR
 price: 17.43

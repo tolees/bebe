@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2YJ5RK-es Luchild Colchoneta Silla Paseo Universal Verano Colchoneta...'
 sku: 'B07D2YJ5RK-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

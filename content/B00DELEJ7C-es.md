@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DELEJ7C-es Nenuco Pack Agua de Colonia Infantil Bebé Minnie con...'
 sku: 'B00DELEJ7C-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','nenuco', ]
+tags: [ 'bebé','nenuco', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

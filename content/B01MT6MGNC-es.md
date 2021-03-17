@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT6MGNC-es Mega Bloks Bloquefante divertido. Jugete de construcción...'
 sku: 'B01MT6MGNC-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

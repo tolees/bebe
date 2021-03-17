@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKP79B6-es Amy&Benton Coches de Juguete Surtido 4PCS Figuras Coches...'
 sku: 'B07JKP79B6-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

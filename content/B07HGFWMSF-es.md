@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGFWMSF-es SPC Ángel - Cámara vigilabebé inteligente Wi-Fi visión...'
 sku: 'B07HGFWMSF-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','vigilabebé', ]
+tags: [ 'vigilabebé', ]
 actualPrice: 54.19 EUR
 currency: EUR
 price: 54.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CH3G6G-es Almohada linda encantadora del patrón de dibujos animados...'
 sku: 'B085CH3G6G-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

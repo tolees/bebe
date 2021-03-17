@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNSFMWM-es Manta de Bebé de Seguridad Peluche Decorativos de Hogar...'
 sku: 'B07CNSFMWM-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

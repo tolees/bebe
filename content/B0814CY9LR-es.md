@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814CY9LR-es Cochecito de bebé Gancho para colgar Ganchos para...'
 sku: 'B0814CY9LR-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','pañales', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 3.03 EUR
 currency: EUR
 price: 3.03

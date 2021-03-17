@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QMC8D7-es Rubies - Disfraz infantil de Hipopótamo para bebé 1-2 años...'
 sku: 'B079QMC8D7-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

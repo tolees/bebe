@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYRRR5G-es Mordedor bebes Baby Teething Toys Juguetes de dentición...'
 sku: 'B07XYRRR5G-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G25W4DV-es Lommer 7pcs Ajustable Casco Ciclismo Niño Casco Bici Bebe...'
 sku: 'B07G25W4DV-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

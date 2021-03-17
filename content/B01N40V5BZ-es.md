@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N40V5BZ-es Munchkin Miracle 360° - Vaso de entrenamiento antiderrames...'
 sku: 'B01N40V5BZ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

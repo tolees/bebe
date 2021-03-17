@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZW1B9LF-es Tommee Tippee Cuna Moisés para bebé Sleepee y base verde'
 sku: 'B07ZW1B9LF-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','tommee', ]
+tags: [ 'bebé','tommee', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

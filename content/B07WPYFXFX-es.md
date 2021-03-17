@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPYFXFX-es Lebze Bebé Muselina Swaddle Manta "Diseño de Oso polar"...'
 sku: 'B07WPYFXFX-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','muselina', ]
+tags: [ 'bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

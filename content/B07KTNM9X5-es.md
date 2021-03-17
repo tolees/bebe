@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTNM9X5-es United Colors of Benetton Jeans Pantalones Azul BLU Scuro...'
 sku: 'B07KTNM9X5-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 6.43 EUR
 currency: EUR
 price: 6.43

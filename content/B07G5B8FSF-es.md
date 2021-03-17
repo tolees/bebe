@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5B8FSF-es Ronda Impermeable Bebé Niños Baño Libro Early Educational...'
 sku: 'B07G5B8FSF-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

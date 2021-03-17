@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAE51SO-es Air Wick Freshmatic - Recambios de Ambientador Spray...'
 sku: 'B00XAE51SO-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nenuco', ]
+tags: [ 'nenuco', ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7VJHFS-es Ballery Almohadillas de Lactancia 12 Piezas Discos de...'
 sku: 'B07Y7VJHFS-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

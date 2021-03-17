@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJ83M5D-es JK-2 Escena de la habitación del bebé Decoración Colgante...'
 sku: 'B07ZJ83M5D-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

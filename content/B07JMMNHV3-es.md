@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMMNHV3-es dPois Bebé Niña Pelele Vestido Halter Lentejuelas Snow...'
 sku: 'B07JMMNHV3-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

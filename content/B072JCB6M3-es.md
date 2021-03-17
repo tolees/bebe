@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JCB6M3-es Nenuco Hermanitos a la Pelu Famosa 700013674'
 sku: 'B072JCB6M3-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nenuco', ]
+tags: [ 'nenuco', ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

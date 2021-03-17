@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777F2ZZW-es Sillita plegable bebé negra Omnio - Desde los 6 meses...'
 sku: 'B0777F2ZZW-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

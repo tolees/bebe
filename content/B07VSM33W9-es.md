@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSM33W9-es Qishare 2 Pares de Calcetines Antideslizantes para Hombres...'
 sku: 'B07VSM33W9-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G38C4TD-es Chicco Liteway 3 Silla de paseo plegable y multifuncional...'
 sku: 'B07G38C4TD-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

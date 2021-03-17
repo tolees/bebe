@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRJBJS6-es 1 Unids Silicona de Grado Alimenticio Juguetes para...'
 sku: 'B07ZRJBJS6-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

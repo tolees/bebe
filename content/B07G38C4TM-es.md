@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G38C4TM-es Chicco Echo Silla de paseo ligera y compacta soporta hasta...'
 sku: 'B07G38C4TM-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

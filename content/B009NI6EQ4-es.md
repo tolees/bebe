@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009NI6EQ4-es Nuby NT67744 - Pack 50 bolsas preesterilizadas'
 sku: 'B009NI6EQ4-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nuby', ]
+tags: [ 'nuby', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

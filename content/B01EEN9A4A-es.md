@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EEN9A4A-es Miniland Baby - Vigilabebé'
 sku: 'B01EEN9A4A-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','vigilabebé', ]
+tags: [ 'vigilabebé', ]
 actualPrice: 168.75 EUR
 currency: EUR
 price: 168.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074W7BXPD-es TONZE Juguetes Baño Bebe Juguetes Bebe Bañera Flotantes...'
 sku: 'B074W7BXPD-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé', ]
+tags: [ 'bebe','bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

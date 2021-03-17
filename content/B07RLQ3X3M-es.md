@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLQ3X3M-es LEADSTAR Parasol Coche 2 Unidades Parasol Coche Bebe...'
 sku: 'B07RLQ3X3M-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebés', ]
+tags: [ 'bebe','bebés', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

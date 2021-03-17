@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CQTT918-es Chicco Wellbeing - Biberón con tetina de látex y flujo...'
 sku: 'B01CQTT918-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','biberón','chicco', ]
+tags: [ 'bebé','biberón','chicco', ]
 actualPrice: 5.72 EUR
 currency: EUR
 price: 5.72

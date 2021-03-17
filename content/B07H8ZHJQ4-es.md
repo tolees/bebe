@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8ZHJQ4-es Bolsa de Pañales Bebés Sunshine D Bolsa Reutilizable...'
 sku: 'B07H8ZHJQ4-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','pañales', ]
+tags: [ 'bebés','pañales', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

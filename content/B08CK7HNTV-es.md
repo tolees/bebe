@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CK7HNTV-es Panamar Niños Bebé Cute Cartoon Ballena Flotante...'
 sku: 'B08CK7HNTV-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

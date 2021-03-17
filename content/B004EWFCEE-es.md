@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EWFCEE-es Tetina Calma para biberón Medela'
 sku: 'B004EWFCEE-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberón','medela', ]
+tags: [ 'biberón','medela', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

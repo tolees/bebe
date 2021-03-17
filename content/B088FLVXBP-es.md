@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FLVXBP-es LNIEGE Clips Chupete Chupete Titular niños Superiores de...'
 sku: 'B088FLVXBP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','chupete', ]
+tags: [ 'bebé','chupete', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

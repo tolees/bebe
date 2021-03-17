@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LRS29SO-es Bébé Confort MILOFIX - Silla de auto de 0 a 4 años R44/04...'
 sku: 'B01LRS29SO-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bébé','confort', ]
+tags: [ 'bébé','confort', ]
 actualPrice: 175.56 EUR
 currency: EUR
 price: 175.56

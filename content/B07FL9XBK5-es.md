@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FL9XBK5-es Philips Avent Biberón Natural SCF070/25 - Biberón de 260...'
 sku: 'B07FL9XBK5-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','biberón', ]
+tags: [ 'avent','biberón', ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

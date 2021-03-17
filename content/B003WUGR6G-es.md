@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WUGR6G-es Munchkin - Cubierto'
 sku: 'B003WUGR6G-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

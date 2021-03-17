@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRIR5QK-es Timberland - Patucos y casquillo para bebés Rosa 17'
 sku: 'B00HRIR5QK-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

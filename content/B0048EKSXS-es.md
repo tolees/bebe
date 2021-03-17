@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0048EKSXS-es Chicco Comfort Quick - Termómetro infrarrojos timpánico'
 sku: 'B0048EKSXS-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

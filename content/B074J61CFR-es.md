@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074J61CFR-es DafenQ Lindo Animal La mochila de jardín de infantes...'
 sku: 'B074J61CFR-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

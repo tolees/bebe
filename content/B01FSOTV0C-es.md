@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FSOTV0C-es BABY HEROE - Cinturón de seguridad embarazada. Cinturón de...'
 sku: 'B01FSOTV0C-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

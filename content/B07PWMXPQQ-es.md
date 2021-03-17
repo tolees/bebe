@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWMXPQQ-es Kinderkraft Carrito Bebé 2 en 1 JULI Silla de Paseo Capazo...'
 sku: 'B07PWMXPQQ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

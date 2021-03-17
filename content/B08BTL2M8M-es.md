@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTL2M8M-es Juguetes de baño para bebés Juguetes para niños Baby...'
 sku: 'B08BTL2M8M-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 2.08 EUR
 currency: EUR
 price: 2.08

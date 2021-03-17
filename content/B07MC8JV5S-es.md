@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC8JV5S-es KidoMe 1280 x 720P Vigilabebé Vídeo Inalambrico Cámara...'
 sku: 'B07MC8JV5S-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','vigilabebé', ]
+tags: [ 'bebé','vigilabebé', ]
 actualPrice: 74.39 EUR
 currency: EUR
 price: 74.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M96BB4R-es KangaROOS Snowdrifter Zapatillas Unisex bebé Blau Dark...'
 sku: 'B07M96BB4R-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 21.26 EUR
 currency: EUR
 price: 21.26

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7KMFC7-es ZOEREA Bebé Chicos Conjunto de Conjunto Page Boy Trajes 4...'
 sku: 'B07H7KMFC7-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

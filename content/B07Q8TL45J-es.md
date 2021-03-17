@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q8TL45J-es TekHome Mini LED Proyector Bebe Estrellas Portátil Azul...'
 sku: 'B07Q8TL45J-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

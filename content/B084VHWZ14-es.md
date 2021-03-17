@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VHWZ14-es Bebés Cochecito de bebé Cochecito Mosquitera Insecto Red...'
 sku: 'B084VHWZ14-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

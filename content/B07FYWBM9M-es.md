@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYWBM9M-es Ergobaby Original - Mochila portabebés ergonómicas unisex...'
 sku: 'B07FYWBM9M-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','portabebés', ]
+tags: [ 'portabebés', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

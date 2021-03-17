@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMGTHGJ-es Philips Avent SCF041/27-2 - Tetinas natural flujo recién...'
 sku: 'B07DMGTHGJ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','tetinas', ]
+tags: [ 'avent','tetinas', ]
 actualPrice: 4.34 EUR
 currency: EUR
 price: 4.34

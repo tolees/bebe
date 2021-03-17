@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078Y1MM9S-es HBF Multicolor 50 Clips Pelo Niña Metal Pinzas Pelo Bebe...'
 sku: 'B078Y1MM9S-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

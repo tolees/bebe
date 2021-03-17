@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLTMBBG-es Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size desde...'
 sku: 'B07XLTMBBG-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','cybex','de','silla', ]
+tags: [ 'coche','cybex','de','silla', ]
 actualPrice: 263.78 EUR
 currency: EUR
 price: 263.78

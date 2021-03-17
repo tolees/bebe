@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DXJCXY-es Bébé Confort CAPAZO BLANDO LAIKA Nomad Blue - Capazo...'
 sku: 'B076DXJCXY-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bébé','confort', ]
+tags: [ 'bébé','confort', ]
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

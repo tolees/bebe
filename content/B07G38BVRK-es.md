@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G38BVRK-es Chicco Miinimo2 Silla de paseo ultracompacta y ligera solo...'
 sku: 'B07G38BVRK-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

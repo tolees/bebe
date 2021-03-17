@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGG48R6-es Pablosky 064644 Botas para Bebés Amarillo Amarillo...'
 sku: 'B07QGG48R6-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

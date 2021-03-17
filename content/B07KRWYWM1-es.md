@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRWYWM1-es Nuby - Bañera para bebé con asiento integrado y...'
 sku: 'B07KRWYWM1-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','nuby', ]
+tags: [ 'bebé','nuby', ]
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05

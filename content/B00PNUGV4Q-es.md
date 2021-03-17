@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PNUGV4Q-es Adidas Zx Flux - Zapatillas para Bebés Color Negro...'
 sku: 'B00PNUGV4Q-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 44.54 EUR
 currency: EUR
 price: 44.54

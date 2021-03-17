@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJYF2LZ-es LA Active Tobillera Calcetines Antideslizantes - 6 Pares -...'
 sku: 'B06XJYF2LZ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

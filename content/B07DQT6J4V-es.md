@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQT6J4V-es Dodot - Pañales desechables unisex'
 sku: 'B07DQT6J4V-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','dodot','pañales', ]
+tags: [ 'dodot','pañales', ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

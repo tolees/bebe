@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBC5V43-es Tommee Tippee Sangenic Sistema avanzado para desechar...'
 sku: 'B07KBC5V43-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','pañales','tommee', ]
+tags: [ 'pañales','tommee', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

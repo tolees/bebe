@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MSRF1X-es Muselina Bebe Six4Up 100% Made In Italy Algodón Orgánico...'
 sku: 'B082MSRF1X-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','muselina', ]
+tags: [ 'bebe','muselina', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

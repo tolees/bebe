@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WBM1FC-es ZXL Protector de Borde Protector de Esquina de Mesa Gel de...'
 sku: 'B086WBM1FC-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

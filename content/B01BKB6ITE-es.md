@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BKB6ITE-es Blaze y los Monster Machines - Fisher-Price Blaze...'
 sku: 'B01BKB6ITE-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','fisher-price', ]
+tags: [ 'fisher-price', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

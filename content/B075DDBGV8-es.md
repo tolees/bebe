@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DDBGV8-es meiqicool Exterior/Interior Protectora|Alfombrillas de...'
 sku: 'B075DDBGV8-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

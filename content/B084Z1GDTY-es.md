@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084Z1GDTY-es Creative Fruit Design Baby Teether Teeth Nursing Toy BPA...'
 sku: 'B084Z1GDTY-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chupete', ]
+tags: [ 'chupete', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

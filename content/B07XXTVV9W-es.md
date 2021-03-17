@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXTVV9W-es CHICTRY Chaqueta de Princesa Fiesta Boda Danza para Niña...'
 sku: 'B07XXTVV9W-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

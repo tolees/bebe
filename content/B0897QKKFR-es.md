@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0897QKKFR-es ZXYAN Wind Up mecánica Ballena de plástico con la Rueda...'
 sku: 'B0897QKKFR-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

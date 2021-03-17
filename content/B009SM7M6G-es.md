@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009SM7M6G-es ISDIN NUTRAISDIN Loción Hidratante Corporal 500 ml'
 sku: 'B009SM7M6G-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','nutraisdin', ]
+tags: [ 'nutraisdin', ]
 actualPrice: 10.71 EUR
 currency: EUR
 price: 10.71

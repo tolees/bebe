@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NRZL1DK-es Safety 1st 33110128 - Espejo trasero color negro'
 sku: 'B00NRZL1DK-es'
-tags: [ '1st','Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','safety', ]
+tags: [ '1st','safety', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

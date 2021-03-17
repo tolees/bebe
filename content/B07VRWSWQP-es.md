@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRWSWQP-es Trona Evolutiva con bandeja Babify Evo/Nuevo Cojín +...'
 sku: 'B07VRWSWQP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','babify','trona', ]
+tags: [ 'babify','trona', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

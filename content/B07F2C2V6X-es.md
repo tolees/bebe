@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2C2V6X-es Sacaleches Eléctrico Extractor de leche eléctrico materna...'
 sku: 'B07F2C2V6X-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','sacaleches', ]
+tags: [ 'sacaleches', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

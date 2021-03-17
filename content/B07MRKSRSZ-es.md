@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MRKSRSZ-es United Colors of Benetton Layette BB G2 Camiseta de Manga...'
 sku: 'B07MRKSRSZ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

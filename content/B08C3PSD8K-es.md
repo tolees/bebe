@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C3PSD8K-es Tiny Love Sunny Stroll Arco de Actividades con Juguetes...'
 sku: 'B08C3PSD8K-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

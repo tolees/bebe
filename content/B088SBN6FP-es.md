@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088SBN6FP-es NUK Perfect Start First Choice+ kit de biberones 0-6 meses...'
 sku: 'B088SBN6FP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberones','chupete','nuk', ]
+tags: [ 'biberones','chupete','nuk', ]
 actualPrice: 30.65 EUR
 currency: EUR
 price: 30.65

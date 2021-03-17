@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYY85XP-es Besrey Silla de paseo de bebe Compacta y Ligera Cochecito...'
 sku: 'B07WYY85XP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

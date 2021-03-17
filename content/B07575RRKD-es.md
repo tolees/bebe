@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07575RRKD-es Chicco Echo - Silla de paseo ligera y compacta soporta...'
 sku: 'B07575RRKD-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 87.2 EUR
 currency: EUR
 price: 87.2

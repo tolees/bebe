@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZG1G1F-es Manual del bebé Aspirador nasal de silicona Aspirador...'
 sku: 'B07TZG1G1F-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

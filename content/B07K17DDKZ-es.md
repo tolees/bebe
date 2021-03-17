@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K17DDKZ-es Adidas Altasport CF I Zapatillas Unisex bebé Blanco...'
 sku: 'B07K17DDKZ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

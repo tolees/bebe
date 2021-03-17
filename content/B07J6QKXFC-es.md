@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6QKXFC-es PROACC Tapete para Piano Juguete para niños con Teclado y...'
 sku: 'B07J6QKXFC-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

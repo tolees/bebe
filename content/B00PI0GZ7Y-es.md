@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PI0GZ7Y-es Fisher-Price - Duermebebés sueños Felices Mattel CHG19'
 sku: 'B00PI0GZ7Y-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','fisher-price', ]
+tags: [ 'fisher-price', ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

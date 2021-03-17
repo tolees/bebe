@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q81VDJW-es GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo...'
 sku: 'B07Q81VDJW-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FL7N33P-es Philips Avent Biberón Natural SCF038/17 - Biberón de 330...'
 sku: 'B07FL7N33P-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','biberón', ]
+tags: [ 'avent','biberón', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

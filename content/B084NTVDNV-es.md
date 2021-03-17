@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084NTVDNV-es Eléctrico Lima de uñas del bebé Lima de uñas Set de...'
 sku: 'B084NTVDNV-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

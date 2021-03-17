@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LMN6MM-es Munchkin Juego de baño de baloncesto'
 sku: 'B004LMN6MM-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

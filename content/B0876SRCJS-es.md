@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876SRCJS-es AYUN 1PC del arnés de Clip Asiento Seguro Hebilla Negro...'
 sku: 'B0876SRCJS-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

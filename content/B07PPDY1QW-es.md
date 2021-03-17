@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPDY1QW-es Felly Arnés de Seguridad para Caminar Ajustable Arnés de...'
 sku: 'B07PPDY1QW-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé', ]
+tags: [ 'bebe','bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

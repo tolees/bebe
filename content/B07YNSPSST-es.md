@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNSPSST-es Suavinex – Crema Reafirmante Corporal. Compatible con...'
 sku: 'B07YNSPSST-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','lactancia','suavinex', ]
+tags: [ 'lactancia','suavinex', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R9XFJ1-es Suavinex 304006 biberón Physio Panda 360 ml'
 sku: 'B075R9XFJ1-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberón','suavinex', ]
+tags: [ 'biberón','suavinex', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

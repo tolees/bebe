@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZQ4TCV-es Hauck carro Shopper SLX trioset coche de bebes 3 piezas de...'
 sku: 'B07XZQ4TCV-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

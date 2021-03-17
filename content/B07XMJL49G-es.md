@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XMJL49G-es HBselect 3 Piezas Sujetador Lactancia Sostén De Maternidad...'
 sku: 'B07XMJL49G-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

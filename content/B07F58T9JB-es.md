@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F58T9JB-es Bolso De Compras de Bebé Cochecito Piezas de Automóvil...'
 sku: 'B07F58T9JB-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

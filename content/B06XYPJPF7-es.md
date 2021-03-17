@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYPJPF7-es NUK First Choice Plus Juego con 4 Anticólico 2 Biberones...'
 sku: 'B06XYPJPF7-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberones','nuk', ]
+tags: [ 'biberones','nuk', ]
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

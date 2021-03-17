@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VGPRJ1-es Lebze Muselinas Manta Bebé Algodón Bambú 120x120 Muselina...'
 sku: 'B073VGPRJ1-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','muselina', ]
+tags: [ 'bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

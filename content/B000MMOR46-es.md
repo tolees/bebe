@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MMOR46-es Philips SCF145/06 - Cepillo escobilla de limpieza para...'
 sku: 'B000MMOR46-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','biberones','chupetes', ]
+tags: [ 'biberones','chupetes', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

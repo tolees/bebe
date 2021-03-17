@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TPS9XU-es Purelan 100 Medela - 37 gr.'
 sku: 'B001TPS9XU-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','medela', ]
+tags: [ 'medela', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

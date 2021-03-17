@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZBRK9M-es 3d night light led illusion night Tigre Night Light para...'
 sku: 'B08BZBRK9M-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SN9DJJP-es Adidas Vs Switch 2 CMF Inf Zapatillas de Estar por casa...'
 sku: 'B07SN9DJJP-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

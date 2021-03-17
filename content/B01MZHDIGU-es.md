@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZHDIGU-es Philips Avent SCF223/20 - Pack de dos chupetes ultra...'
 sku: 'B01MZHDIGU-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

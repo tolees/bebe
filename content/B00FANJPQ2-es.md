@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FANJPQ2-es Cybex Silver - Portabebés Aton en contra de la marcha...'
 sku: 'B00FANJPQ2-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','cybex','portabebés', ]
+tags: [ 'cybex','portabebés', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

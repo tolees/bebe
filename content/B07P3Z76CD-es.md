@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P3Z76CD-es Cámara IP HD IP66 Impermeable Cámara Bullet con IR Vision...'
 sku: 'B07P3Z76CD-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

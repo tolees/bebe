@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7W3V2J-es MAM Original 0+ 2 unidades Chupete de látex para recién...'
 sku: 'B07R7W3V2J-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chupete', ]
+tags: [ 'chupete', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

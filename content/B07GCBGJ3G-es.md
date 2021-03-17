@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCBGJ3G-es Chicco Open Box Parque de juegos infantil con alfombra...'
 sku: 'B07GCBGJ3G-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 98.36 EUR
 currency: EUR
 price: 98.36

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCCNK83-es Pañal Bolso Mochila Gran Capacidad Mochila de Pañales...'
 sku: 'B07FCCNK83-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','pañal','pañales', ]
+tags: [ 'bebé','pañal','pañales', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BT277FG-es Trona de Viaje para Bebé Silla alta Bebe Portatil Arnés de...'
 sku: 'B07BT277FG-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','bebé','trona', ]
+tags: [ 'bebe','bebé','trona', ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

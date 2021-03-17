@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGRYJM7-es Little Sprouts - Cadena de chupete 2 en 1 - Moderna y Moda...'
 sku: 'B06XGRYJM7-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','chupete', ]
+tags: [ 'bebés','chupete', ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

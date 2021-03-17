@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PCJN5C-es meiqicool - Alfombra puzzle infantil para bebés de Foam...'
 sku: 'B077PCJN5C-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 45.88 EUR
 currency: EUR
 price: 45.88

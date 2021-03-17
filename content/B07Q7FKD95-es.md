@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7FKD95-es Bammax Alfombra Puzzle Bebe Alfombra Gateo Bebe en Espuma...'
 sku: 'B07Q7FKD95-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 45.59 EUR
 currency: EUR
 price: 45.59

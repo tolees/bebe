@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6F0AI8-es Reebok Classic Leather Zapatillas de trail running Unisex...'
 sku: 'B01N6F0AI8-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

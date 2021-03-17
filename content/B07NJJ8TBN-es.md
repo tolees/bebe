@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJ8TBN-es Little People Granja cuida a los animalitos juguetes bebés...'
 sku: 'B07NJJ8TBN-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

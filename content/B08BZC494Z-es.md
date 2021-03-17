@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZC494Z-es 3d led night 3d illusion light Ciclismo Night Light para...'
 sku: 'B08BZC494Z-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

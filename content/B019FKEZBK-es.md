@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FKEZBK-es BÉABA - Babycook Duo Robot de cocina 4 en 1 Néon'
 sku: 'B019FKEZBK-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','babycook', ]
+tags: [ 'babycook', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

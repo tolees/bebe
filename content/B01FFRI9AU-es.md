@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFRI9AU-es ROYAL RASCALS | Espejo para vigilar al bebé en el coche |...'
 sku: 'B01FFRI9AU-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

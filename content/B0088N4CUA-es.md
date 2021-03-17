@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0088N4CUA-es Skip Hop 2467 - Mochilas para pañales'
 sku: 'B0088N4CUA-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','hop','pañales','skip', ]
+tags: [ 'hop','pañales','skip', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

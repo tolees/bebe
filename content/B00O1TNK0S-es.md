@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O1TNK0S-es Play Scout 30185 - Silla de coche grupo 0+/1/2 0 - 25 kg...'
 sku: 'B00O1TNK0S-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','coche','de','silla', ]
+tags: [ 'coche','de','silla', ]
 actualPrice: 94.07 EUR
 currency: EUR
 price: 94.07

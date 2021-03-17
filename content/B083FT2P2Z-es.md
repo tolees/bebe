@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FT2P2Z-es LQLQO Mini humidificador Personal USB portátil ultrasónico...'
 sku: 'B083FT2P2Z-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FCCJ6HJ-es WISHTIME Sonajeros de Bebe Juguetes de Mordedor Infante...'
 sku: 'B08FCCJ6HJ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

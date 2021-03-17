@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL23D3M-es Safety 1st Keeny Trona evolutiva Trona bebé compacta...'
 sku: 'B07KL23D3M-es'
-tags: [ '1st','Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebé','safety','trona', ]
+tags: [ '1st','bebé','safety','trona', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

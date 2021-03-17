@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLJGDTN-es Miracle Baby Mantas Muselina Bebe Algodon，Manta Dos Capas...'
 sku: 'B07CLJGDTN-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe','muselina', ]
+tags: [ 'bebe','muselina', ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

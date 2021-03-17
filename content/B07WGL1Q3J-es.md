@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGL1Q3J-es Evaduol Mochilas Escolares Infantil Mochila Niña Colegio...'
 sku: 'B07WGL1Q3J-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

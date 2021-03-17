@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007BLEA6Q-es Bellelli TGTR00020 - Portabebé de ciclismo color blanco/ rojo'
 sku: 'B007BLEA6Q-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','portabebé', ]
+tags: [ 'portabebé', ]
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

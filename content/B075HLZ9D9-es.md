@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075HLZ9D9-es Instituto Español Bebe Gel de Baño sin Jabón - 500 ml'
 sku: 'B075HLZ9D9-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

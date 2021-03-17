@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFSS9NQ-es Suavinex – Gel-champú espumoso para bebés. No Pica en los...'
 sku: 'B01FFSS9NQ-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','suavinex', ]
+tags: [ 'suavinex', ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

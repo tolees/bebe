@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJZTWDC-es Geox B Verred a Sandalias para Bebés White C1000 22 EU'
 sku: 'B07DJZTWDC-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95
