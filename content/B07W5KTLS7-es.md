@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5KTLS7-es WERNNSAI Unicornio Manta de Hito Bebé - 150 x 100 cm Manta...'
 sku: 'B07W5KTLS7-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

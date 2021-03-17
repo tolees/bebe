@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8D63FZ-es NUK - Juego de vasos 3 en 1 vasos para aprender a beber...'
 sku: 'B07M8D63FZ-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','nuk', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nuk', ]
 actualPrice: 18.71 EUR
 currency: EUR
 price: 18.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0011ZX6GS-es Anita Maternity 5068 Sujetador de Lactancia Para Mujer...'
 sku: 'B0011ZX6GS-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','lactancia', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

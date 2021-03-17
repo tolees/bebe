@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C23ELPC-es Chicco Physio Air - Pack de 2 chupetes de látex/caucho...'
 sku: 'B01C23ELPC-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','chicco','chupetes', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','chicco','chupetes', ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

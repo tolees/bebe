@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F98PKK6-es Philips Avent Biberón Natural SCF033/17 - Biberón de 260...'
 sku: 'B07F98PKK6-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','avent','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','biberón', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

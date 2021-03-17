@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EEN9A4A-es Miniland Baby - Vigilabebé'
 sku: 'B01EEN9A4A-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','vigilabebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','vigilabebé', ]
 actualPrice: 168.75 EUR
 currency: EUR
 price: 168.75

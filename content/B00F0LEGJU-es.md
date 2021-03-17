@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F0LEGJU-es Hauck Sport Silla de paseo ligera y practica para bebes de...'
 sku: 'B00F0LEGJU-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','hauck', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','hauck', ]
 actualPrice: 51.77 EUR
 currency: EUR
 price: 51.77

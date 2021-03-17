@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0024FFSB0-es Nuk Thermo Rapid - Calientabiberón'
 sku: 'B0024FFSB0-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','nuk', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nuk', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

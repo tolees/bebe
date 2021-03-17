@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C3PSD8K-es Tiny Love Sunny Stroll Arco de Actividades con Juguetes...'
 sku: 'B08C3PSD8K-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','bebé', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebé', ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

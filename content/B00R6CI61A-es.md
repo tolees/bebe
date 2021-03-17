@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R6CI61A-es Fisher-Price - Gimnasio musical animalitos - gimnasios...'
 sku: 'B00R6CI61A-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','bebe','fisher-price', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','fisher-price', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

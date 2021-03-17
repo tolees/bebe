@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854H8VMT-es Mamá Lactancia materna Con una sola mano Extractor de...'
 sku: 'B0854H8VMT-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','biberón','lactancia', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón','lactancia', ]
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

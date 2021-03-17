@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BR4LHFH-es Dodot Splashers Pañales Bañadores Desechables No se...'
 sku: 'B07BR4LHFH-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','dodot','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','dodot','pañales', ]
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

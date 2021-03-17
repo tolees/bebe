@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M68GLT0-es Dodo Pañales Talla 4 9-14 kg - 64 pañales'
 sku: 'B01M68GLT0-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','pañales', ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

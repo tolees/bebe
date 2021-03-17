@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WW2VF96-es Ballery Bolsa de Pañales Bolsa Mojado Lavable Mojado y...'
 sku: 'B07WW2VF96-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','bebe','pañales', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','bebe','pañales', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

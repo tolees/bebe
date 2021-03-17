@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IIHK8EO-es Nenuco 700013300 - Merienditas muñeca con accesorios'
 sku: 'B01IIHK8EO-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','nenuco', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nenuco', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

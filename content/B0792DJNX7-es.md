@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792DJNX7-es XOMAX XL-518 Silla de coche con ISOFIX I creciendo con...'
 sku: 'B0792DJNX7-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','coche','de','isofix','silla', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','coche','de','isofix','silla', ]
 actualPrice: 88.9 EUR
 currency: EUR
 price: 88.9

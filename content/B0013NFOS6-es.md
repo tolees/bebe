@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013NFOS6-es NUK First Choice+ - Pack de 2 tetinas de látex talla M 0-6...'
 sku: 'B0013NFOS6-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','nuk','tetinas', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nuk','tetinas', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

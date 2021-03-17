@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QH2Y7S-es Ergobaby Mochila Portabebés Ergonomicas Coleccion Original...'
 sku: 'B077QH2Y7S-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','portabebés', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','portabebés', ]
 actualPrice: 80.67 EUR
 currency: EUR
 price: 80.67

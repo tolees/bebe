@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DT97RKW-es Philips Avent SCF053/17 - Biberón natural de cristal 240 ml'
 sku: 'B07DT97RKW-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','avent','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','avent','biberón', ]
 actualPrice: 10.72 EUR
 currency: EUR
 price: 10.72

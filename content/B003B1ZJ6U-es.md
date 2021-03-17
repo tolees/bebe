@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003B1ZJ6U-es Lacor 61940 - Botella biberón 400 ml color blanco'
 sku: 'B003B1ZJ6U-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','biberón', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','biberón', ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

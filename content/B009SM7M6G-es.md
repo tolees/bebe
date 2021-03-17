@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009SM7M6G-es ISDIN NUTRAISDIN Loción Hidratante Corporal 500 ml'
 sku: 'B009SM7M6G-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','nutraisdin', ]
+tags: [ 'Iluminación','Iluminación de interior','Iluminación infantil nocturna','Lámparas e iluminación infantil','nutraisdin', ]
 actualPrice: 10.71 EUR
 currency: EUR
 price: 10.71
