@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J2JQP9N-es Suavinex Zero-Zero Biberón anticólicos +0 meses 180 ml -...'
 sku: 'B07J2JQP9N-es'
+tags: [ 'biberón','lactancia','suavinex', ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

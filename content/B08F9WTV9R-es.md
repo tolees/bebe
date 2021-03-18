@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F9WTV9R-es Mochilas para Pañales Biberones Multifuncional Impermeable...'
 sku: 'B08F9WTV9R-es'
+tags: [ 'bebe','biberones','pañales', ]
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

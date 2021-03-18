@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK3BHQP-es Safety 1st RAINBOW Black Chic - Silla de paseo color negro'
 sku: 'B07KK3BHQP-es'
+tags: [ '1st','safety', ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

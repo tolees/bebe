@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZLJ5HG-es Levoit Humidificador Ultrasónico de Niebla Fría de 2.4L...'
 sku: 'B07VZLJ5HG-es'
+tags: [ 'bebés', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

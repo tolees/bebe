@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKTKBFN-es Kickers Bigbazar Sandalias para Bebés Gris Gris Bleu 123...'
 sku: 'B07FKTKBFN-es'
+tags: [ 'bebés', ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

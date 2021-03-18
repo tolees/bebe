@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNSFMWM-es Manta de Bebé de Seguridad Peluche Decorativos de Hogar...'
 sku: 'B07CNSFMWM-es'
+tags: [ 'bebé', ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

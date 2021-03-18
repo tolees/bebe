@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YHJM5CL-es Besrey Parque Infantil 14 Paneles Baby Playpen Centro de...'
 sku: 'B07YHJM5CL-es'
+tags: [ 'bebé', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

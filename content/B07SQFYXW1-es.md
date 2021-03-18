@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQFYXW1-es Geox B Tutim A Sandalias de Punta Descubierta para Bebés...'
 sku: 'B07SQFYXW1-es'
+tags: [ 'bebés', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

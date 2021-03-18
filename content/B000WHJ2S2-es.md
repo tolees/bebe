@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WHJ2S2-es Medela- Protectores para Pezones Doloridos y Agrietados...'
 sku: 'B000WHJ2S2-es'
+tags: [ 'lactancia', ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WUGR6G-es Munchkin - Cubierto'
 sku: 'B003WUGR6G-es'
+tags: [ 'munchkin', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

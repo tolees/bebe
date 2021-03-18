@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DQH3DY-es Addmos Juguetes de baño 2 x Juguetes de baño para bebés...'
 sku: 'B083DQH3DY-es'
+tags: [ 'bebés', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4G83FL-es Reignet Calcetines de Compresión para hombre y mujer 20-30...'
 sku: 'B07G4G83FL-es'
+tags: [ 'embarazo', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

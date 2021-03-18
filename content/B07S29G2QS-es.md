@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S29G2QS-es vamei 8 piezas Bebé Niña Diademas Cintas de Pelo Diadema...'
 sku: 'B07S29G2QS-es'
+tags: [ 'bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

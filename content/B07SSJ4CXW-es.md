@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSJ4CXW-es Geox B Djrock Girl A Zapatillas para Bebés Plateado...'
 sku: 'B07SSJ4CXW-es'
+tags: [ 'bebés', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

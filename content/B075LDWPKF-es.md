@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075LDWPKF-es Huggies Ultra Comfort'
 sku: 'B075LDWPKF-es'
+tags: [ 'huggies', ]
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

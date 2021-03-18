@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HGVFLL-es Munchkin Vaso con asas y pajita abatible Tip & Sip con...'
 sku: 'B078HGVFLL-es'
+tags: [ 'munchkin', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

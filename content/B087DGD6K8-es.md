@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087DGD6K8-es Tommee Tippee Kit de Biberones Anti-Cólicos Rosa'
 sku: 'B087DGD6K8-es'
+tags: [ 'biberones','tommee', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

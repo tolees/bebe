@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJT95VF-es Biomecanics 191150 Botas para Bebés Azul Azul Marino...'
 sku: 'B07PJT95VF-es'
+tags: [ 'bebés', ]
 actualPrice: 40.72 EUR
 currency: EUR
 price: 40.72

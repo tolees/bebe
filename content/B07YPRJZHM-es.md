@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YPRJZHM-es Safety 1st Looky Trona para bebé evolutiva y reclinable en...'
 sku: 'B07YPRJZHM-es'
+tags: [ '1st','bebé','safety','trona', ]
 actualPrice: 69.67 EUR
 currency: EUR
 price: 69.67

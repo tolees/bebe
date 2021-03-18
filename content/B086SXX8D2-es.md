@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086SXX8D2-es ZHBRE Humidificador de 400 ml de Gran Capacidad Apagado...'
 sku: 'B086SXX8D2-es'
+tags: [ 'bebés', ]
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

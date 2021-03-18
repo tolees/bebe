@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPYQWBF-es Medela cojín de embarazo y lactancia'
 sku: 'B07KPYQWBF-es'
+tags: [ 'embarazo','lactancia','medela', ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

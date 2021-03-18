@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFKTGNX-es ZXYAN Biberón de Silicona Blanca Alimentador de Cuchara...'
 sku: 'B07ZFKTGNX-es'
+tags: [ 'biberón', ]
 actualPrice: 5.03 EUR
 currency: EUR
 price: 5.03

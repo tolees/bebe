@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJS1MWF-es Hot Mom - barandillas de la cama 150 cm para bebés...'
 sku: 'B06XJS1MWF-es'
+tags: [ 'bebés', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

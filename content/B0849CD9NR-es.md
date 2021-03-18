@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0849CD9NR-es Maxi-Cosi Morion Silla auto Grupo 2/3 isofix I-Size 15 -...'
 sku: 'B0849CD9NR-es'
+tags: [ 'isofix','maxi-cosi', ]
 actualPrice: 143.2 EUR
 currency: EUR
 price: 143.2

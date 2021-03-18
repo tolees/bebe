@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAE51SO-es Air Wick Freshmatic - Recambios de Ambientador Spray...'
 sku: 'B00XAE51SO-es'
+tags: [ 'nenuco', ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

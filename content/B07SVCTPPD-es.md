@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVCTPPD-es Lebze Bebé Muselina Swaddle Manta "Diseño de Panda" Bambú...'
 sku: 'B07SVCTPPD-es'
+tags: [ 'bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

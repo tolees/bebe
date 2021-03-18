@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007NZI3MW-es Suavinex - Set Cepillo Recién Nacido Fibras Muy Suaves +...'
 sku: 'B007NZI3MW-es'
+tags: [ 'bebé','suavinex', ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

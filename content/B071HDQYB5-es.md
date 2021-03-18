@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HDQYB5-es Lebze Muselina Manta Bebé -"Diseño de Conejo" Bambú...'
 sku: 'B071HDQYB5-es'
+tags: [ 'bebé','bebés','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

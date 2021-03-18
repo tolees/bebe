@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082J5XFBC-es HOMYBABY Reductor WC Niños | Adaptador WC Niños para...'
 sku: 'B082J5XFBC-es'
+tags: [ 'bebe', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

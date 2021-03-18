@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMYWKJ2-es Bamamx Parque Infantil Bebe Plegable Anillas Parque Bebe...'
 sku: 'B07TMYWKJ2-es'
+tags: [ 'bebe', ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

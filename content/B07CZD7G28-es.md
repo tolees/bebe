@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZD7G28-es IEFIEL Disfraz de Princesa para Niñas Bebes Vestido Corto...'
 sku: 'B07CZD7G28-es'
+tags: [ 'bebé', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

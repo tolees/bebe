@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMKGQ38-es Doaraha Conjunto de Pijamas de Maternidad y Enfermería...'
 sku: 'B08FMKGQ38-es'
+tags: [ 'embarazo','lactancia', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

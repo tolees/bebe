@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWKDVGY-es Tommee Tippee 42269887 - Biberón decorado 340 ml color rosa'
 sku: 'B01DWKDVGY-es'
+tags: [ 'biberón','tommee', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

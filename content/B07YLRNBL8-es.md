@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YLRNBL8-es Flopp - Detergente Ecológico en Cápsulas para la Ropa de...'
 sku: 'B07YLRNBL8-es'
+tags: [ 'bebé', ]
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

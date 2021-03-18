@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAXB6FM-es Tommee Tippee Closer to Nature- Kit de Biberónes...'
 sku: 'B00XAXB6FM-es'
+tags: [ 'tommee', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

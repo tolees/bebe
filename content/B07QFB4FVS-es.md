@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFB4FVS-es Pablosky 64521 Botas para Bebés Azul 21 EU'
 sku: 'B07QFB4FVS-es'
+tags: [ 'bebés', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

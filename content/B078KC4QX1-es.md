@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078KC4QX1-es Lebze Muselina Manta Bebé -"Diente de Leon" Bambú Algodón...'
 sku: 'B078KC4QX1-es'
+tags: [ 'bebé','muselina', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

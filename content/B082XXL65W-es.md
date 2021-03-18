@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XXL65W-es Bonio Silla de Coche Giratoria 360º Grupo 0+/1/2/3 0~36kg...'
 sku: 'B082XXL65W-es'
+tags: [ 'coche','de','silla', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

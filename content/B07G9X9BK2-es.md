@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9X9BK2-es Adoric Termometro Digital Termometro Bebe Niños y Adultos...'
 sku: 'B07G9X9BK2-es'
+tags: [ 'bebe', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

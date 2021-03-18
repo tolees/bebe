@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNZL2F9-es Reductor WC DALMO Adaptador WC ergonómico Tapa WC con...'
 sku: 'B07ZNZL2F9-es'
+tags: [ 'bebé', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

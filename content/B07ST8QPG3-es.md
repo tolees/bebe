@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ST8QPG3-es Lebze Bebé Muselina Swaddle Manta "Diseño de Elefante"...'
 sku: 'B07ST8QPG3-es'
+tags: [ 'bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

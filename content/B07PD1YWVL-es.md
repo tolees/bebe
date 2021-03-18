@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PD1YWVL-es 3 x Recambios para Contenedor de Pañal Sangenic Tommee Tippee'
 sku: 'B07PD1YWVL-es'
+tags: [ 'pañal','tommee', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

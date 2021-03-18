@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814CDFX4-es Ganchos para silla de ruedas Cochecito para silla de...'
 sku: 'B0814CDFX4-es'
+tags: [ 'bebé', ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

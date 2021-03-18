@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QTXZ7AK-es Munchkin - Bols Termo sensibles White Hot 3 uds multicolor'
 sku: 'B00QTXZ7AK-es'
+tags: [ 'munchkin', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

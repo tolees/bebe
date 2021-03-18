@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QF5RZ4B-es Set Bebé Dépor'
 sku: 'B07QF5RZ4B-es'
+tags: [ 'bebé', ]
 actualPrice: 29.79 EUR
 currency: EUR
 price: 29.79

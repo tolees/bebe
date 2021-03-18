@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY1Q8WG-es Zapatillas de Deporte para bebés Zapatos Ocasionales...'
 sku: 'B07CY1Q8WG-es'
+tags: [ 'bebé','bebés', ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

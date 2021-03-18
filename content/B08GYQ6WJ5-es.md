@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GYQ6WJ5-es Hawiton Camisón para Mujer Algodón Invierno Manga Largo...'
 sku: 'B08GYQ6WJ5-es'
+tags: [ 'lactancia', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

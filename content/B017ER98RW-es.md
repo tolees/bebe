@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017ER98RW-es Vizaro - Relleno Nórdico - Edredón 300g de MaxiCuna y...'
 sku: 'B017ER98RW-es'
+tags: [ 'maxicuna', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

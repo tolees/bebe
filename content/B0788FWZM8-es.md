@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788FWZM8-es Lictin Unisex 3 Pcs babero con mangas EVA Impermeable...'
 sku: 'B0788FWZM8-es'
+tags: [ 'babero', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

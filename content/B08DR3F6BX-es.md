@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DR3F6BX-es Termómetro Infrarrojos Digital KKmier Termometro...'
 sku: 'B08DR3F6BX-es'
+tags: [ 'bebé', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

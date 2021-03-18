@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M67WUBP-es Chicco Humi Fresh - Humidificador de vapor frío con...'
 sku: 'B01M67WUBP-es'
+tags: [ 'chicco', ]
 actualPrice: 37.04 EUR
 currency: EUR
 price: 37.04

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSJ56HB-es Geox B Waviness Girl C Zapatillas para Bebés Rosa Pink...'
 sku: 'B07SSJ56HB-es'
+tags: [ 'bebés', ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

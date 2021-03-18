@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMVZQ2H-es Liveinu - Red de insectos para bebés con cierre de...'
 sku: 'B07CMVZQ2H-es'
+tags: [ 'bebé','bebés', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

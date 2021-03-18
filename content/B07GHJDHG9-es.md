@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GHJDHG9-es Espejo retrovisor para coche de bebé para interior espejo...'
 sku: 'B07GHJDHG9-es'
+tags: [ 'bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

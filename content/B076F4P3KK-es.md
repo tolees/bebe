@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076F4P3KK-es Safety 1st TIMBA con cojín White/Red Line - Trona de...'
 sku: 'B076F4P3KK-es'
+tags: [ '1st','safety','trona', ]
 actualPrice: 61.48 EUR
 currency: EUR
 price: 61.48

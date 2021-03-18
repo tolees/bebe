@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSJ5G8Q-es Geox B Tutim B Zapatillas para Bebés Azul Navy/Royal C4226...'
 sku: 'B07SSJ5G8Q-es'
+tags: [ 'bebés', ]
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWMM8JV-es Suavinex - Canastilla de regalo baby shower para recién...'
 sku: 'B07KWMM8JV-es'
+tags: [ 'biberón','chupete','pañal','suavinex', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

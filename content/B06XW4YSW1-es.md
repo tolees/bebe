@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XW4YSW1-es 3 Piezas Baberos Bebés Impermeables Manga Larga De Dibujos...'
 sku: 'B06XW4YSW1-es'
+tags: [ 'bebés', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

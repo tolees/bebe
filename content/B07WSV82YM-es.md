@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSV82YM-es Luchild Dispensador de Leche en Polvo Fórmula Portátil...'
 sku: 'B07WSV82YM-es'
+tags: [ 'bebé', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

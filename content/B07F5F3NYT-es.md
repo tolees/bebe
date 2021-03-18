@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5F3NYT-es Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en...'
 sku: 'B07F5F3NYT-es'
+tags: [ 'bebe', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

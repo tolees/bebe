@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JF47TW-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
 sku: 'B083JF47TW-es'
+tags: [ 'embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

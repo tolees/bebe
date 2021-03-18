@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087DW3BK2-es Aidodo Difusor de Aroma 400ml Humidificador Ultrasónico...'
 sku: 'B087DW3BK2-es'
+tags: [ 'bebé', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

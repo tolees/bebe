@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGRCT6W-es Dcasa DC-2430192 - Cubos de basura para pañales y...'
 sku: 'B06WGRCT6W-es'
+tags: [ 'pañales', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95
