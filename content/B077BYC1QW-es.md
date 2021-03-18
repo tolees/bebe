@@ -29,11 +29,11 @@ Está [Safety 1st Flat Step Barrera escalera para bebés  niños y perros  Puert
 ℹ️:
 
 - Ultra segura (barra interior muy delgada que reduce el riesgo de tropiezos, indicador de cierre Secure Tech, opción de doble cierre
-- La barrera con fijación por presión que reduce el riesgo de tropezarse en lo alto de las escaleras
-- Rápida y fácil de instalar (fijación con 4 puntos de presión, tornillos moldeados para facilitar la instalación y para apretar la barrera cuando se pierde presión)
-- ¡Nota! El artículo no viene con extensiones. Se deben comprar por separado
 - Fácil de usar (se abre con una mano, asistente de cierre para cierre rápido, sistema Keep Open para una gran flexibilidad cuando no están los niños)
-- Se abre en ambas direcciones para una seguridad adicional
 - Se adapta a aberturas de puertas de 73 cm a 80 cm
+- Rápida y fácil de instalar (fijación con 4 puntos de presión, tornillos moldeados para facilitar la instalación y para apretar la barrera cuando se pierde presión)
+- La barrera con fijación por presión que reduce el riesgo de tropezarse en lo alto de las escaleras
+- ¡Nota! El artículo no viene con extensiones. Se deben comprar por separado
+- Se abre en ambas direcciones para una seguridad adicional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077BYC1QW/?tag=tolees-21)
