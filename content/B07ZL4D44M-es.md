@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZL4D44M-es Maxi-Cosi Lara Silla de paseo ligera y reclinable...'
 sku: 'B07ZL4D44M-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','maxi-cosi', ]
+tags: [ 'maxi-cosi', ]
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYR8TWH-es Chicco - Barra de alivio post picaduras mosquito para...'
 sku: 'B07BYR8TWH-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','chicco', ]
+tags: [ 'bebés','chicco', ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

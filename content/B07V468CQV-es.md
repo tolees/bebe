@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V468CQV-es CARAMAZ Parasol Coche con protección UV Extra Oscura -...'
 sku: 'B07V468CQV-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

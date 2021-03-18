@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0838S2WZZ-es AMZTM Dinosaurio Camiseta de Cumpleaños Bebé Cumpleaños...'
 sku: 'B0838S2WZZ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

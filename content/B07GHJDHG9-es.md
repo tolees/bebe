@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GHJDHG9-es Espejo retrovisor para coche de bebé para interior espejo...'
 sku: 'B07GHJDHG9-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

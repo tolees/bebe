@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FG12H6Z-es Voova Mochila de Pañales para Mamá Papá con Cambiar de Mat...'
 sku: 'B08FG12H6Z-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','pañales', ]
+tags: [ 'bebés','pañales', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

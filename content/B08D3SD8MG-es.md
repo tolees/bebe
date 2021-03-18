@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D3SD8MG-es Doaraha Camisón de Maternidad para Mujer Vestido Lactancia...'
 sku: 'B08D3SD8MG-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

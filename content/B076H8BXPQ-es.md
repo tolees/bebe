@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076H8BXPQ-es Tuc Tuc 05789 - Trona'
 sku: 'B076H8BXPQ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','trona', ]
+tags: [ 'trona', ]
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YZG5DT-es Fifet Chupete Chupete Clips Cadenas x 4 para Bebés y Niños'
 sku: 'B086YZG5DT-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','chupete', ]
+tags: [ 'bebés','chupete', ]
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

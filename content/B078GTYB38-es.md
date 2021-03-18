@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GTYB38-es Asalvo 15549 - Andador'
 sku: 'B078GTYB38-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','asalvo', ]
+tags: [ 'asalvo', ]
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

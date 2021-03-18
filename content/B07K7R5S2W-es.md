@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7R5S2W-es Britax Römer Kidfix² R Cosmos Black'
 sku: 'B07K7R5S2W-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','römer', ]
+tags: [ 'römer', ]
 actualPrice: 167.0 EUR
 currency: EUR
 price: 167.0

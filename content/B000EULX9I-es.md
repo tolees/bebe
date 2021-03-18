@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000EULX9I-es Fisher-Price Gira Gira - Cebra'
 sku: 'B000EULX9I-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','fisher-price', ]
+tags: [ 'fisher-price', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

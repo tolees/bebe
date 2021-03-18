@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012ZYEH66-es ZOEREA Uno-Pedazos de los bebés Romper el Smoking con el...'
 sku: 'B012ZYEH66-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

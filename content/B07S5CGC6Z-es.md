@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5CGC6Z-es Keten Alfombra Inflable con Agua Tapete de PVC a Prueba de...'
 sku: 'B07S5CGC6Z-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

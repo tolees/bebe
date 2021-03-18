@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH2Q2P9-es Munchkin - Set de vajilla para niños rose'
 sku: 'B07RH2Q2P9-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

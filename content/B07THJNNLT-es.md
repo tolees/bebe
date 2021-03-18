@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THJNNLT-es 2 toallas blancas suaves de Elli y Raff Baby con capucha...'
 sku: 'B07THJNNLT-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

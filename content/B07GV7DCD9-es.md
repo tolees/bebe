@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GV7DCD9-es QUEEN ROSE Almohada de Embarazo con Funda de Lavable...'
 sku: 'B07GV7DCD9-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 53.79 EUR
 currency: EUR
 price: 53.79

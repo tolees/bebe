@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Y8C9KT-es FlowerDas Termómetro de Frente lecturas precisas...'
 sku: 'B085Y8C9KT-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 44.19 EUR
 currency: EUR
 price: 44.19

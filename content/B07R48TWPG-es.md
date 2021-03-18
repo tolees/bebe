@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R48TWPG-es Buabi bolsitas reutilizables comida bebe - Pack de 6...'
 sku: 'B07R48TWPG-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

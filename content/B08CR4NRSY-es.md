@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CR4NRSY-es Gorro de bebé para recién Nacido Diademas Bebe Unidades...'
 sku: 'B08CR4NRSY-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebé', ]
+tags: [ 'bebe','bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

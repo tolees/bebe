@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3M1TIW-es WELEDA Skin Food Original 75 Ml 1x 75 ml'
 sku: 'B00A3M1TIW-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','weleda', ]
+tags: [ 'weleda', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

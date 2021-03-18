@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWPQB41-es Cubierta de lactancia para bebés y poncho de lactancia -...'
 sku: 'B07QWPQB41-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','lactancia', ]
+tags: [ 'bebés','lactancia', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

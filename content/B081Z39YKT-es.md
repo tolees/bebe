@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Z39YKT-es SALAKA 1 unid Botella de Silicona para bebés biberón...'
 sku: 'B081Z39YKT-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','biberón', ]
+tags: [ 'bebés','biberón', ]
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

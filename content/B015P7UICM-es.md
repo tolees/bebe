@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015P7UICM-es Concord Transformer Pro Silla de coche grupo 1/2/3 Isofix...'
 sku: 'B015P7UICM-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','coche','de','isofix','silla', ]
+tags: [ 'coche','de','isofix','silla', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

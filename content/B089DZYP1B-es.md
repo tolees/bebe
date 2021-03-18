@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DZYP1B-es Fular Portabebe Newlemo Portabebes - Hecho de Tela Suave y...'
 sku: 'B089DZYP1B-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','portabebe','portabebes', ]
+tags: [ 'bebés','portabebe','portabebes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

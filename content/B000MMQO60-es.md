@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MMQO60-es Philips Avent SCF157/02 - 2 Conchas protectoras ventiladas...'
 sku: 'B000MMQO60-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent', ]
+tags: [ 'avent', ]
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

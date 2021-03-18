@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9Z3VP9-es United Colors of Benetton Layette BB B2 Camiseta de Manga...'
 sku: 'B07M9Z3VP9-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 7.52 EUR
 currency: EUR
 price: 7.52

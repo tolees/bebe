@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3NPWF2-es Chicco Wellbeing - Set de regalo con biberón chupete y...'
 sku: 'B01E3NPWF2-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberón','chicco','chupete', ]
+tags: [ 'biberón','chicco','chupete', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

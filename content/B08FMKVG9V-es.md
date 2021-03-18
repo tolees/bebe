@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMKVG9V-es Doaraha Conjunto de Pijamas de Maternidad y Enfermería...'
 sku: 'B08FMKVG9V-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','embarazo','lactancia', ]
+tags: [ 'embarazo','lactancia', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

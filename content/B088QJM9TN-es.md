@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088QJM9TN-es Fiween Clips 4pcs Niños Chupete Chupete Titular de bebé...'
 sku: 'B088QJM9TN-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','chupete', ]
+tags: [ 'bebé','chupete', ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

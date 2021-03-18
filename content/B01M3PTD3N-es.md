@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3PTD3N-es Ecus Kids Colchón de minicuna Ecus Care 80x50 es el...'
 sku: 'B01M3PTD3N-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','ecus','kids', ]
+tags: [ 'bebé','ecus','kids', ]
 actualPrice: 68.88 EUR
 currency: EUR
 price: 68.88

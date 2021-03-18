@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7VQ7J5-es Britax Römer Kidfix² S Blue Marble'
 sku: 'B07K7VQ7J5-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','römer', ]
+tags: [ 'römer', ]
 actualPrice: 196.12 EUR
 currency: EUR
 price: 196.12

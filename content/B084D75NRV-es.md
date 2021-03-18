@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084D75NRV-es Bisoo - 70x140 cm Protector de Colchón Bebé + Sabana...'
 sku: 'B084D75NRV-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','maxicuna', ]
+tags: [ 'bebé','maxicuna', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

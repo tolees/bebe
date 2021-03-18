@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY2PFV5-es 4 0L Humidificador Ultrasónica Bebé Silencioso Boquilla...'
 sku: 'B07NY2PFV5-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

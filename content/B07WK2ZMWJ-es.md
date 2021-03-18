@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WK2ZMWJ-es ANGELBLISS Alimentador antiahogo bebe chupete fruta bebe...'
 sku: 'B07WK2ZMWJ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','chupete', ]
+tags: [ 'bebe','chupete', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

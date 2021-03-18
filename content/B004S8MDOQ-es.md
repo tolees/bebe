@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004S8MDOQ-es Lote de 4 vasitos para bebé Nuby 300 ml a partir de 12 meses'
 sku: 'B004S8MDOQ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','nuby', ]
+tags: [ 'bebé','nuby', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085BM8CSD-es YIMINYUER Alfombras Puzzle para Bebé Alfombrilla Suelo...'
 sku: 'B085BM8CSD-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

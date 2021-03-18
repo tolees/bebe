@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SN4GKAE-es Chicco - Calienta biberón de casa rápido y calentamiento...'
 sku: 'B00SN4GKAE-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberón','chicco', ]
+tags: [ 'biberón','chicco', ]
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

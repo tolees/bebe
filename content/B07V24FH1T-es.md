@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V24FH1T-es Safta Sport Bag 40 Cm Superzings Bolsa de gimnasio Unisex...'
 sku: 'B07V24FH1T-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

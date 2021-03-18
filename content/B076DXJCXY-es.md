@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DXJCXY-es Bébé Confort CAPAZO BLANDO LAIKA Nomad Blue - Capazo...'
 sku: 'B076DXJCXY-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bébé','confort', ]
+tags: [ 'bébé','confort', ]
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

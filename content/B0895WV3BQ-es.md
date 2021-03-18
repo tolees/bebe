@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895WV3BQ-es Bebé Pantalones Cortos Niñas Niños Bombacho Estampado...'
 sku: 'B0895WV3BQ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','pañal', ]
+tags: [ 'bebé','pañal', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

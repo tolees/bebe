@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007ZSTYQQ-es VTech - Pequepatitas Juguete para bebé Color Rojo 80-111222'
 sku: 'B007ZSTYQQ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

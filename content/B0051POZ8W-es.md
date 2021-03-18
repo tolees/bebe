@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0051POZ8W-es Johnson s Baby Crema Protectora de Pañal ideal para la...'
 sku: 'B0051POZ8W-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','pañal', ]
+tags: [ 'bebés','pañal', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

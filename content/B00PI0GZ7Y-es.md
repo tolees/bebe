@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PI0GZ7Y-es Fisher-Price - Duermebebés sueños Felices Mattel CHG19'
 sku: 'B00PI0GZ7Y-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','fisher-price', ]
+tags: [ 'fisher-price', ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

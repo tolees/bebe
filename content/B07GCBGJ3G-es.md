@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCBGJ3G-es Chicco Open Box Parque de juegos infantil con alfombra...'
 sku: 'B07GCBGJ3G-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 98.36 EUR
 currency: EUR
 price: 98.36

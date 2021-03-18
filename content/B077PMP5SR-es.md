@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PMP5SR-es Philips Avent Scf169/46 - Pack con 2 Chupetes Jardín...'
 sku: 'B077PMP5SR-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

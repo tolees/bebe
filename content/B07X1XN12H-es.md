@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1XN12H-es Munchkin Set De Regalo Nibbles & Giggles Rosa 1 unidad 430 g'
 sku: 'B07X1XN12H-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009M3HZ2M-es Hauck Freerider Silla de paseo gemelar para 1 o 2 niños de...'
 sku: 'B009M3HZ2M-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 163.86 EUR
 currency: EUR
 price: 163.86

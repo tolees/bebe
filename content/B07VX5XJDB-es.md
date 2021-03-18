@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VX5XJDB-es Bonio Silla de coche grupo 1/2/3 9-36 kg ISOFIX Reclinable...'
 sku: 'B07VX5XJDB-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','coche','de','isofix','silla', ]
+tags: [ 'coche','de','isofix','silla', ]
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

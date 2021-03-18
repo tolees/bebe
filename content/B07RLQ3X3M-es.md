@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLQ3X3M-es LEADSTAR Parasol Coche 2 Unidades Parasol Coche Bebe...'
 sku: 'B07RLQ3X3M-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebés', ]
+tags: [ 'bebe','bebés', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

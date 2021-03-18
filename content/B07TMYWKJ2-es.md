@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMYWKJ2-es Bamamx Parque Infantil Bebe Plegable Anillas Parque Bebe...'
 sku: 'B07TMYWKJ2-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

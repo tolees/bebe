@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPB17DQ-es Qhui Protector Asiento Coche Silla Bebe Fundas Asiento...'
 sku: 'B07KPB17DQ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebé', ]
+tags: [ 'bebe','bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

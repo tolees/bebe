@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N40V5BZ-es Munchkin Miracle 360° - Vaso de entrenamiento antiderrames...'
 sku: 'B01N40V5BZ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

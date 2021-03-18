@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NB0S70W-es Philips Avent SCF169/28 - Set de 2 chupetes Gama Safari de...'
 sku: 'B01NB0S70W-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

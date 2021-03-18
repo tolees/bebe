@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMYTB4J-es Dodot Activity Pants Pañal-Braguita Talla 6 111 Pañales...'
 sku: 'B07RMYTB4J-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','dodot','pañales', ]
+tags: [ 'bebé','dodot','pañales', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

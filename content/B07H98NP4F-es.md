@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H98NP4F-es Suavinex – Pomada Intensiva de pañal para bebés. Cuidado...'
 sku: 'B07H98NP4F-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','pañal','suavinex', ]
+tags: [ 'pañal','suavinex', ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

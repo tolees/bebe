@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GQJW7V-es 2 piezas de Cubierta de Cinturón de Seguridad para Bebé...'
 sku: 'B083GQJW7V-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

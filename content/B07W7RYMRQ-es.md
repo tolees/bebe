@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7RYMRQ-es TOYANDONA 1pc pezones de bebé pezones creativos biberones...'
 sku: 'B07W7RYMRQ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','biberones', ]
+tags: [ 'bebé','biberones', ]
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

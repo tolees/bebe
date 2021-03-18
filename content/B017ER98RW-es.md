@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017ER98RW-es Vizaro - Relleno Nórdico - Edredón 300g de MaxiCuna y...'
 sku: 'B017ER98RW-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','maxicuna', ]
+tags: [ 'maxicuna', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

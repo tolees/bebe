@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3BOFSO-es Dodot Toallitas Para Bebé 1 Paquetes 64 Toallitas'
 sku: 'B00A3BOFSO-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','dodot', ]
+tags: [ 'bebé','dodot', ]
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

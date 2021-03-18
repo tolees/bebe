@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081ML9HVL-es Almohadilla de protección para la cabeza del bebé Almohada...'
 sku: 'B081ML9HVL-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

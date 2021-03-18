@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OS823HI-es Motorola Baby MBP 33S - Vigilabebés vídeo con pantalla LCD...'
 sku: 'B00OS823HI-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','vigilabebés', ]
+tags: [ 'vigilabebés', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

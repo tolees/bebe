@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NKCSJ4M-es Calienta Biberones Eccomum 6 en 1 Calentamiento...'
 sku: 'B07NKCSJ4M-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberones', ]
+tags: [ 'biberones', ]
 actualPrice: 24.58 EUR
 currency: EUR
 price: 24.58

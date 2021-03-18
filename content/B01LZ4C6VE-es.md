@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ4C6VE-es Almirón Galletas - Pack de 6 bolsas de 180 g - Total: 1.08 kg'
 sku: 'B01LZ4C6VE-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','almirón', ]
+tags: [ 'almirón', ]
 actualPrice: 8.04 EUR
 currency: EUR
 price: 8.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NZ9PRD-es HOMYBABY Muselinas Bebe Algodon 120x120 [1pc] | Muselina...'
 sku: 'B083NZ9PRD-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','muselina', ]
+tags: [ 'bebe','muselina', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

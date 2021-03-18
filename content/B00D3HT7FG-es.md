@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D3HT7FG-es Tena - Pants - Pañales Talla L - 14 unidades'
 sku: 'B00D3HT7FG-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','pañales', ]
+tags: [ 'pañales', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

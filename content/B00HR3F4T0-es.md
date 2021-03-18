@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HR3F4T0-es ISDIN Nutraisdin First Teeth Gel Gingival'
 sku: 'B00HR3F4T0-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','nutraisdin', ]
+tags: [ 'nutraisdin', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

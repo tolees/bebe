@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078H7ZNG5-es Asalvo Silla de coche grupo 0+/1/2 Isofix azul'
 sku: 'B078H7ZNG5-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','asalvo','coche','de','isofix','silla', ]
+tags: [ 'asalvo','coche','de','isofix','silla', ]
 actualPrice: 163.06 EUR
 currency: EUR
 price: 163.06

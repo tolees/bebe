@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL1XSK3-es Safety 1st TIMBA con Cojín Petrol Blue - Trona evolutiva...'
 sku: 'B07KL1XSK3-es'
-tags: [ '1st','Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','safety','trona', ]
+tags: [ '1st','safety','trona', ]
 actualPrice: 66.93 EUR
 currency: EUR
 price: 66.93

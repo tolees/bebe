@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVLS9HJ-es Brunoko Plato para bebe con babero Azul - Plato Silicona...'
 sku: 'B07CVLS9HJ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','babero','bebe', ]
+tags: [ 'babero','bebe', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

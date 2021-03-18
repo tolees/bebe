@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I2KYSPI-es Nuk - Detergente líquido especialmente para...'
 sku: 'B00I2KYSPI-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','nuk', ]
+tags: [ 'bebé','nuk', ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

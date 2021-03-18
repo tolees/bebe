@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8ZHJQ4-es Bolsa de Pañales Bebés Sunshine D Bolsa Reutilizable...'
 sku: 'B07H8ZHJQ4-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','pañales', ]
+tags: [ 'bebés','pañales', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

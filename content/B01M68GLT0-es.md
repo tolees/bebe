@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M68GLT0-es Dodo Pañales Talla 4 9-14 kg - 64 pañales'
 sku: 'B01M68GLT0-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','pañales', ]
+tags: [ 'pañales', ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

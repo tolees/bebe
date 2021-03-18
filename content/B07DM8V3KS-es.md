@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DM8V3KS-es Philips Avent SCF044/27-2 - Tetinas natural flujo rápido...'
 sku: 'B07DM8V3KS-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','tetinas', ]
+tags: [ 'avent','tetinas', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

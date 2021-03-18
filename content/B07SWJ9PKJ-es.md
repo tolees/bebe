@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWJ9PKJ-es Cozime Vigilabebés Inalámbrico Bebé Monitor Inteligente...'
 sku: 'B07SWJ9PKJ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','vigilabebés', ]
+tags: [ 'bebé','vigilabebés', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCFBPYJ-es LYSHION Mochilas para Pañales Biberones Pañal Bolso...'
 sku: 'B07YCFBPYJ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberones','pañal','pañales', ]
+tags: [ 'biberones','pañal','pañales', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

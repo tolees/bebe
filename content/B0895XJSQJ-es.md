@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895XJSQJ-es Bst4UDirect Bebés Natación Anillo Recién Nacido Bebé...'
 sku: 'B0895XJSQJ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EEN9A4A-es Miniland Baby - Vigilabebé'
 sku: 'B01EEN9A4A-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','vigilabebé', ]
+tags: [ 'vigilabebé', ]
 actualPrice: 168.75 EUR
 currency: EUR
 price: 168.75

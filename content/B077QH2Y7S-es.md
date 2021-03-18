@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QH2Y7S-es Ergobaby Mochila Portabebés Ergonomicas Coleccion Original...'
 sku: 'B077QH2Y7S-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','portabebés', ]
+tags: [ 'portabebés', ]
 actualPrice: 80.67 EUR
 currency: EUR
 price: 80.67

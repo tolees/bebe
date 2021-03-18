@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTL2M8M-es Juguetes de baño para bebés Juguetes para niños Baby...'
 sku: 'B08BTL2M8M-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 2.08 EUR
 currency: EUR
 price: 2.08

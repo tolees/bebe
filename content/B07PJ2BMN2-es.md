@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ2BMN2-es Bolsa de pañales de tela la bolsa de pañales de doble...'
 sku: 'B07PJ2BMN2-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','pañales', ]
+tags: [ 'bebés','pañales', ]
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

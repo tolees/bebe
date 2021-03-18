@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M1CL7Y-es Agger 2 Piezas de Asiento Ajustable posicionador del sueño...'
 sku: 'B087M1CL7Y-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

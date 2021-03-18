@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FW19VT4-es molis&co. Saco de Dormir para bebé. Ideal para Verano. 0-6...'
 sku: 'B07FW19VT4-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','muselina', ]
+tags: [ 'muselina', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

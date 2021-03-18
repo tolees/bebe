@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RW23K2W-es Cloud Kids - Pantalones cortos para bebé o niña de algodón...'
 sku: 'B07RW23K2W-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

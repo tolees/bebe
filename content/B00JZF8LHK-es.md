@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JZF8LHK-es Medela - Sistema de nutrición suplementaria relactador'
 sku: 'B00JZF8LHK-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','medela', ]
+tags: [ 'medela', ]
 actualPrice: 32.85 EUR
 currency: EUR
 price: 32.85

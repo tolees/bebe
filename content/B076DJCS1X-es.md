@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DJCS1X-es Bébé Confort ZELIA Nomad Black - Cochecito urbano 2 en 1...'
 sku: 'B076DJCS1X-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bébé','confort', ]
+tags: [ 'bébé','confort', ]
 actualPrice: 234.61 EUR
 currency: EUR
 price: 234.61

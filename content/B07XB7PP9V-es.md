@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XB7PP9V-es ViVidLife Bolsa de Pañales 2 PCS Bolsa Pañales Impermeable...'
 sku: 'B07XB7PP9V-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','pañales', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

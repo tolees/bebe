@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085MCSYNR-es Agger Silicona Biberón Botella de alimentación a Prueba de...'
 sku: 'B085MCSYNR-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','biberón', ]
+tags: [ 'bebé','biberón', ]
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

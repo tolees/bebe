@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DQV11SO-es Twins Looney Tunes 1 127 67-Camiseta Bebé Bebé unisex Weiß...'
 sku: 'B01DQV11SO-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

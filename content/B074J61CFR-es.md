@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074J61CFR-es DafenQ Lindo Animal La mochila de jardín de infantes...'
 sku: 'B074J61CFR-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

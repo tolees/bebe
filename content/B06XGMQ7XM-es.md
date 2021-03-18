@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGMQ7XM-es Elifexir Baby Care Crema Protectora del Pañal Culito 10...'
 sku: 'B06XGMQ7XM-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','pañal', ]
+tags: [ 'pañal', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

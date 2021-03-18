@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X41VNDL-es Munchkin Set De Alimentación Para Niños Grandes Food...'
 sku: 'B07X41VNDL-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

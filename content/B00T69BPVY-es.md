@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T69BPVY-es Chicco TP-8058664042913 Vendor Dispositivo Anti Mosquitos...'
 sku: 'B00T69BPVY-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

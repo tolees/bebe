@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JAHRUF2-es Androni - Mochila de mar del bebé Crazy Fish'
 sku: 'B00JAHRUF2-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

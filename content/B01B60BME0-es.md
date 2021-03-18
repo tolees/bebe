@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B60BME0-es Reebok Classic Leather Zapatillas de trail running Unisex...'
 sku: 'B01B60BME0-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

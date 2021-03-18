@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0791LTYTZ-es 8safe Protector de Alta Calidad para Asiento de Coche PACK...'
 sku: 'B0791LTYTZ-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','isofix', ]
+tags: [ 'isofix', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

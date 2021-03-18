@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868GL8LX-es ORIA Termómetro Infrarrojo Digital Termómetro sin Contacto...'
 sku: 'B0868GL8LX-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

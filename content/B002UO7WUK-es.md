@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002UO7WUK-es Playgro Set de Animales Rociadores Azul/Verde 8 figuras...'
 sku: 'B002UO7WUK-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','playgro', ]
+tags: [ 'playgro', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

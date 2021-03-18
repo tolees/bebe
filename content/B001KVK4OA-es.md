@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KVK4OA-es Bolsas de esterilización reutilizables Quick Clean Medela'
 sku: 'B001KVK4OA-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','medela', ]
+tags: [ 'medela', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

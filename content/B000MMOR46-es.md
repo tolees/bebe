@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MMOR46-es Philips SCF145/06 - Cepillo escobilla de limpieza para...'
 sku: 'B000MMOR46-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberones','chupetes', ]
+tags: [ 'biberones','chupetes', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

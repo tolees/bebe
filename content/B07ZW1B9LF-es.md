@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZW1B9LF-es Tommee Tippee Cuna Moisés para bebé Sleepee y base verde'
 sku: 'B07ZW1B9LF-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','tommee', ]
+tags: [ 'bebé','tommee', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

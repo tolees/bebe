@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QG5L8H-es Chicco Baby Hug 4en1 Sistema multifunción: moisés hamaca...'
 sku: 'B076QG5L8H-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco','trona', ]
+tags: [ 'chicco','trona', ]
 actualPrice: 179 EUR
 currency: EUR
 price: 179

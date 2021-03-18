@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZHDIGU-es Philips Avent SCF223/20 - Pack de dos chupetes ultra...'
 sku: 'B01MZHDIGU-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

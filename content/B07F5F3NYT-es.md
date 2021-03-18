@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5F3NYT-es Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en...'
 sku: 'B07F5F3NYT-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

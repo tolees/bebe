@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C23ELPC-es Chicco Physio Air - Pack de 2 chupetes de látex/caucho...'
 sku: 'B01C23ELPC-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco','chupetes', ]
+tags: [ 'chicco','chupetes', ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

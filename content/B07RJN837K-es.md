@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJN837K-es HyAdierTech Protector de Asiento de Coche Premium Cubierta...'
 sku: 'B07RJN837K-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','isofix', ]
+tags: [ 'isofix', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

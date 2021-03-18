@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QK8LB1-es CYBEX Gold Mochila Portabebés MAIRA.tie desde el...'
 sku: 'B075QK8LB1-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','cybex','portabebés', ]
+tags: [ 'cybex','portabebés', ]
 actualPrice: 110.16 EUR
 currency: EUR
 price: 110.16

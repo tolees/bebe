@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X46KHWG-es Camara Vigilancia WiFi Interior NIYPS HD 1080P Camara...'
 sku: 'B07X46KHWG-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72
