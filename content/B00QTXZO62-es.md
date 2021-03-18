@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QTXZO62-es Munchkin Platos con compartimentos Apple 3 unidades'
 sku: 'B00QTXZO62-es'
-tags: [ 'munchkin', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','munchkin', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPNL4CH-es Besrey Mochilas Senderismo Mochilas Portabebés Portador de...'
 sku: 'B07NPNL4CH-es'
-tags: [ 'bebé','portabebé','portabebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','portabebé','portabebés', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

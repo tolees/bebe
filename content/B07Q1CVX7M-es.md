@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q1CVX7M-es Safety 1st Crazy Peps Silla Paseo ligera capota con diseño...'
 sku: 'B07Q1CVX7M-es'
-tags: [ '1st','safety', ]
+tags: [ '1st','Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','safety', ]
 actualPrice: 36.75 EUR
 currency: EUR
 price: 36.75

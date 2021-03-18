@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RL2JGQG-es adidas Hoops 2.0 CMF I Zapatillas para Bebés Multicolor...'
 sku: 'B07RL2JGQG-es'
-tags: [ 'bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

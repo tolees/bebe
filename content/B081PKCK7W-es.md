@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081PKCK7W-es HelloBaby HB66 Vigilabebés Video Baby Monitor con Modo VOX...'
 sku: 'B081PKCK7W-es'
-tags: [ 'vigilabebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','vigilabebés', ]
 actualPrice: 68.79 EUR
 currency: EUR
 price: 68.79

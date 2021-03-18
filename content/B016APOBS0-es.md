@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016APOBS0-es Twistshake 78012 - Biberón color Blanco'
 sku: 'B016APOBS0-es'
-tags: [ 'biberón', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberón', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C2RJ5NQ-es HOMCOM Coche Correpasillos para Bebés Mayores de 1 Año...'
 sku: 'B08C2RJ5NQ-es'
-tags: [ 'bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

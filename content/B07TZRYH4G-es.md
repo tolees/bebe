@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZRYH4G-es Zapatos de bebé Sandalias Unisex Niños 0-6 Meses - 3-4...'
 sku: 'B07TZRYH4G-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

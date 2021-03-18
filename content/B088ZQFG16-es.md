@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088ZQFG16-es WISHTIME Sonajeros Bebe para BebéS 12 Piezas De Juguetes...'
 sku: 'B088ZQFG16-es'
-tags: [ 'bebe','bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebés', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

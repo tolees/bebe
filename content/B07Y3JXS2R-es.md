@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y3JXS2R-es Chicco Hoopla - Hamaca con arco de juegos sistema balancín...'
 sku: 'B07Y3JXS2R-es'
-tags: [ 'chicco', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

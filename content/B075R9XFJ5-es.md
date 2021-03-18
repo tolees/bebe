@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R9XFJ5-es Suavinex Chupete Physio Panda/Rama 2 piezas'
 sku: 'B075R9XFJ5-es'
-tags: [ 'chupete','suavinex', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chupete','suavinex', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

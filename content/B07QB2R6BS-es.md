@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB2R6BS-es Lámparas de Mesa Lampop LED Luz Mesita de Noche Lámpara...'
 sku: 'B07QB2R6BS-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

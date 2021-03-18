@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H6VPX6Q-es Eudora Harmony Ball Llamador de Angeles Embarazada...'
 sku: 'B01H6VPX6Q-es'
-tags: [ 'embarazada', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','embarazada', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

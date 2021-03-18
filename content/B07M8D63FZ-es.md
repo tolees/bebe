@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8D63FZ-es NUK - Juego de vasos 3 en 1 vasos para aprender a beber...'
 sku: 'B07M8D63FZ-es'
-tags: [ 'nuk', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','nuk', ]
 actualPrice: 18.71 EUR
 currency: EUR
 price: 18.71

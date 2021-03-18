@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SDTGX7Y-es Sophie La Girafe 000004 - Mi primer set y muselina'
 sku: 'B00SDTGX7Y-es'
-tags: [ 'muselina', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','muselina', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

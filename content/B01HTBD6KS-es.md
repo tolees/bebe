@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTBD6KS-es HAMSWAN Termómetro de Frente Sin Contacto Termómetro...'
 sku: 'B01HTBD6KS-es'
-tags: [ 'bebe', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

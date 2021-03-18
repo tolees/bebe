@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GODPB6U-es Baby Jogger Deluxe - Capazo color negro'
 sku: 'B00GODPB6U-es'
-tags: [ 'baby','jogger', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','baby','jogger', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

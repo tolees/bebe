@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PC2DSND-es Mega Blocks - Cuenta Conmigo 1 2 3 Bloques de Construcción...'
 sku: 'B07PC2DSND-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

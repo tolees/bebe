@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXFT9X2-es dPois Disfraz Princesa para Niña Bebé Vestido Princesa...'
 sku: 'B07KXFT9X2-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8DSXPD-es Mono/Pelele de manga larga para bebé 3-6 Meses Azul'
 sku: 'B07F8DSXPD-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

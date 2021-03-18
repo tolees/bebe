@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FH6T2S2-es Chicco Natural Sensation - Gel de baño sin lágrimas 750 ml'
 sku: 'B01FH6T2S2-es'
-tags: [ 'chicco','natural','sensation', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco','natural','sensation', ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

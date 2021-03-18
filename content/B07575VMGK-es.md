@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07575VMGK-es Chicco - Set de 2 sábanas bajeras ajustable para mini cuna...'
 sku: 'B07575VMGK-es'
-tags: [ 'chicco', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco', ]
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

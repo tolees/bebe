@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWL6NRN-es Nuk Sports Cup - Botella para aprender a beber antigoteo...'
 sku: 'B07YWL6NRN-es'
-tags: [ 'nuk', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','nuk', ]
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

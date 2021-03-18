@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDCYPP4-es Hauck Stop N Safe 2 puerta de seguridad incluido extensión...'
 sku: 'B07XDCYPP4-es'
-tags: [ 'hauck', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','hauck', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

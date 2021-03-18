@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08723GLWR-es Mono de bebé Promini para bebé con texto en inglés «Future...'
 sku: 'B08723GLWR-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

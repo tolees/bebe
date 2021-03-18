@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VX98Z5L-es TOYANDONA Cuatro juegos de protección para bebés con...'
 sku: 'B07VX98Z5L-es'
-tags: [ 'bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

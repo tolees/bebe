@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ74CQU-es Nuk Detergente de superfícies para bebés'
 sku: 'B01MZ74CQU-es'
-tags: [ 'bebés','nuk', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','nuk', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TW77GG2-es Tikea Mochila de Mamá Grande Mochila para Pañales...'
 sku: 'B07TW77GG2-es'
-tags: [ 'pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','pañales', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

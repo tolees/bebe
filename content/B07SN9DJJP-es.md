@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SN9DJJP-es Adidas Vs Switch 2 CMF Inf Zapatillas de Estar por casa...'
 sku: 'B07SN9DJJP-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

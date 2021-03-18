@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DM8JVFQ-es Close Parent Bambú Pañales De Tela Tamaño Único Pack de 10'
 sku: 'B01DM8JVFQ-es'
-tags: [ 'pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','pañales', ]
 actualPrice: 136.8 EUR
 currency: EUR
 price: 136.8

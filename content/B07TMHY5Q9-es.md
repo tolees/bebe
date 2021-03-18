@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMHY5Q9-es Philips AVENT SCF746/01 vaso de aprendizaje con boquilla -...'
 sku: 'B07TMHY5Q9-es'
-tags: [ 'avent', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent', ]
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

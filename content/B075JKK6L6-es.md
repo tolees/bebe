@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JKK6L6-es Bom Bom Bebe Navidad Pelele para Dormir Monos Bodies Manga...'
 sku: 'B075JKK6L6-es'
-tags: [ 'bebe', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

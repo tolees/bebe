@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLTMBBG-es Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size desde...'
 sku: 'B07XLTMBBG-es'
-tags: [ 'coche','cybex','de','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','coche','cybex','de','silla', ]
 actualPrice: 263.78 EUR
 currency: EUR
 price: 263.78

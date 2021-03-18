@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044DFUU4-es Weleda - Crema facial de día de Granada 30 ml 1 unidad'
 sku: 'B0044DFUU4-es'
-tags: [ 'weleda', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','weleda', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

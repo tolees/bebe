@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077J2CWHS-es Fisher-Price Cebra activity juguete colgante para bebé...'
 sku: 'B077J2CWHS-es'
-tags: [ 'bebé','fisher-price', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','fisher-price', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

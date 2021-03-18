@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JS134UA-es Nenuco - Nenuco y su hermanito van al cole Famosa...'
 sku: 'B00JS134UA-es'
-tags: [ 'nenuco', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','nenuco', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

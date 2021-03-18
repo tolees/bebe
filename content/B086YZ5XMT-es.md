@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YZ5XMT-es DeoMeat Cadenas Chupete Clips de Chupete de bebé para...'
 sku: 'B086YZ5XMT-es'
-tags: [ 'bebé','chupete', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','chupete', ]
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

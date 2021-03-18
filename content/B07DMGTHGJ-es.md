@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMGTHGJ-es Philips Avent SCF041/27-2 - Tetinas natural flujo recién...'
 sku: 'B07DMGTHGJ-es'
-tags: [ 'avent','tetinas', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','tetinas', ]
 actualPrice: 4.34 EUR
 currency: EUR
 price: 4.34

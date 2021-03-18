@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892GNVJK-es EKKONG Flotador Bebé Flotador Inflable para Bebé Anillo de...'
 sku: 'B0892GNVJK-es'
-tags: [ 'bebé','bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés', ]
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

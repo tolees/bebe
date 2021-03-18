@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZQK48X-es Maxi-Cosi Zelia Carrito bebé 2 en 1 hamaca se transforma...'
 sku: 'B07YZQK48X-es'
-tags: [ 'bebé','maxi-cosi', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','maxi-cosi', ]
 actualPrice: 221.99 EUR
 currency: EUR
 price: 221.99

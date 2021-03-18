@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MSRF1X-es Muselina Bebe Six4Up 100% Made In Italy Algodón Orgánico...'
 sku: 'B082MSRF1X-es'
-tags: [ 'bebe','muselina', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','muselina', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

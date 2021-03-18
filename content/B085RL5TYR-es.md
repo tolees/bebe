@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RL5TYR-es Libershine Cubierta De La Lactancia Del Bebé Gran calidad...'
 sku: 'B085RL5TYR-es'
-tags: [ 'bebé','bebés','lactancia', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés','lactancia', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

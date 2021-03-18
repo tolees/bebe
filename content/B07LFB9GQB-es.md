@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFB9GQB-es 15 unids/rollo bolsas de pañales para bebés desechables...'
 sku: 'B07LFB9GQB-es'
-tags: [ 'bebé','bebés','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés','pañales', ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

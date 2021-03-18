@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XMJL49G-es HBselect 3 Piezas Sujetador Lactancia Sostén De Maternidad...'
 sku: 'B07XMJL49G-es'
-tags: [ 'lactancia', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','lactancia', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

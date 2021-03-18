@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G3XR9P2-es Baby Jogger City Mini GT - Silla de paseo Turquesa / Gris'
 sku: 'B00G3XR9P2-es'
-tags: [ 'baby','jogger', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','baby','jogger', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

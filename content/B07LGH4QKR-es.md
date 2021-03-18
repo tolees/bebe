@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGH4QKR-es Dodot Sensitive - Pañales Talla 5 42 Pañales 11 a 16 kg'
 sku: 'B07LGH4QKR-es'
-tags: [ 'dodot','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','dodot','pañales', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

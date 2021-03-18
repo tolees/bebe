@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I1XECQU-es Ecus Kids El colchón de cuna Ecus Care con certificado...'
 sku: 'B01I1XECQU-es'
-tags: [ 'ecus','kids', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','ecus','kids', ]
 actualPrice: 165.18 EUR
 currency: EUR
 price: 165.18

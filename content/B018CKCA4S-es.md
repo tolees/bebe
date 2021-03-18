@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018CKCA4S-es Cambiador Portátil de Pañales para Bebé - Kit Cambiador de...'
 sku: 'B018CKCA4S-es'
-tags: [ 'bebé','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','pañales', ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

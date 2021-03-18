@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CGY58T-es Protector de pezón de contacto de silicona con estuche de...'
 sku: 'B085CGY58T-es'
-tags: [ 'lactancia', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','lactancia', ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

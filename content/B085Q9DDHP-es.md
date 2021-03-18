@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Q9DDHP-es Aspirador Nasal Bebes Aspirador Nasal Aspirador Nasal Bebe...'
 sku: 'B085Q9DDHP-es'
-tags: [ 'bebe', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

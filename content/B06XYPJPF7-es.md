@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYPJPF7-es NUK First Choice Plus Juego con 4 Anticólico 2 Biberones...'
 sku: 'B06XYPJPF7-es'
-tags: [ 'biberones','nuk', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberones','nuk', ]
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

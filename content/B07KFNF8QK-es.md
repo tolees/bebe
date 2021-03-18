@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFNF8QK-es Cuckool-5 test de embarazo ultrasensibles 10mIU/ml 5 HCG'
 sku: 'B07KFNF8QK-es'
-tags: [ 'embarazo', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','embarazo', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

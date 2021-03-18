@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZBNWZF-es Hauck Rapid 4 Cochecito de 0 meses a 22 kg plegable...'
 sku: 'B074ZBNWZF-es'
-tags: [ 'hauck', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','hauck', ]
 actualPrice: 109.57 EUR
 currency: EUR
 price: 109.57

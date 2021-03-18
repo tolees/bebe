@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QNLB47-es Promini - Body para bebé con texto en inglés "Everyday I m...'
 sku: 'B086QNLB47-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

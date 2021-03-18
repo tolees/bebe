@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB5FZ99-es Lebze Muselina Manta Bebé -"Diseño de Zorro" Muselinas...'
 sku: 'B07QB5FZ99-es'
-tags: [ 'bebé','muselina', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

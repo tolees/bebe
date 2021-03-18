@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LN8SRVG-es Britax Römer Silla de coche 9 meses - 12 años 9 - 36 kg...'
 sku: 'B01LN8SRVG-es'
-tags: [ 'coche','de','isofix','römer','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','coche','de','isofix','römer','silla', ]
 actualPrice: 147.99 EUR
 currency: EUR
 price: 147.99

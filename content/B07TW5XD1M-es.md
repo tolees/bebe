@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TW5XD1M-es KATOOM Guantes Bebé Algodón 6 pares Guantes Antiarañazos...'
 sku: 'B07TW5XD1M-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

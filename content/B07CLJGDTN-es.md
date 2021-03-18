@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLJGDTN-es Miracle Baby Mantas Muselina Bebe Algodon，Manta Dos Capas...'
 sku: 'B07CLJGDTN-es'
-tags: [ 'bebe','muselina', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','muselina', ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

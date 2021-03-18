@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXNP6N8-es Mochila Portabebés Ergonómico Hommie Mochilas para Bebes...'
 sku: 'B07KXNP6N8-es'
-tags: [ 'portabebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','portabebés', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

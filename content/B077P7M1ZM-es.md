@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077P7M1ZM-es Fisher-Price - Mi Primer Cubo Fidget Juguete de...'
 sku: 'B077P7M1ZM-es'
-tags: [ 'bebé','fisher-price', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','fisher-price', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QF7M6J-es Tiny Love Take-Along Mobile Carrousel cuna rosa bebé y...'
 sku: 'B076QF7M6J-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K04WRV6-es Bella + Lienzo - Body de manga corta acanalada unisex para...'
 sku: 'B00K04WRV6-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJDL5VM-es Alfombra Musical - juguetes niños 1 2 3 4 5 6 años Musical...'
 sku: 'B08BJDL5VM-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

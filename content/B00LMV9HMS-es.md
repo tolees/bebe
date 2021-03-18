@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LMV9HMS-es Skip Hop Zoo Dog - Tarro aislado del alimento 325ml 12m+'
 sku: 'B00LMV9HMS-es'
-tags: [ 'hop','skip', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','hop','skip', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WJNIZTY-es Philips Avent SCF551/05 - Vaso con boquilla de silicona...'
 sku: 'B00WJNIZTY-es'
-tags: [ 'avent', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

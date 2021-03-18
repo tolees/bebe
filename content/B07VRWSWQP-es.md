@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRWSWQP-es Trona Evolutiva con bandeja Babify Evo/Nuevo Cojín +...'
 sku: 'B07VRWSWQP-es'
-tags: [ 'babify','trona', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','babify','trona', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFHPRGY-es Bébé Confort TITÁN Nomad Black Silla de auto grupo 1/2/3...'
 sku: 'B07BFHPRGY-es'
-tags: [ 'bébé','confort','isofix', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bébé','confort','isofix', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

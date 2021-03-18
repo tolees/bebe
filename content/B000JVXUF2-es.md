@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000JVXUF2-es Nuby ID91164 Set De Recipientes Herméticos Multicolor 300...'
 sku: 'B000JVXUF2-es'
-tags: [ 'nuby', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','nuby', ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

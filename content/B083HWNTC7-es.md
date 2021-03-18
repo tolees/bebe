@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HWNTC7-es Luchild Trenza Protector de Cuna 200cm Parachoques...'
 sku: 'B083HWNTC7-es'
-tags: [ 'bebe', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

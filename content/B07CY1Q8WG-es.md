@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY1Q8WG-es Zapatillas de Deporte para bebés Zapatos Ocasionales...'
 sku: 'B07CY1Q8WG-es'
-tags: [ 'bebé','bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés', ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

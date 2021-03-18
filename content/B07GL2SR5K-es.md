@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL2SR5K-es Cybex Gold - Silla de coche Solution S-Fix para coches con...'
 sku: 'B07GL2SR5K-es'
-tags: [ 'coche','cybex','de','isofix','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','coche','cybex','de','isofix','silla', ]
 actualPrice: 144.86 EUR
 currency: EUR
 price: 144.86

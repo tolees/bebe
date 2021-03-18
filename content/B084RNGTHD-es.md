@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RNGTHD-es Precioso lindo oso patrón de dibujos animados almohada...'
 sku: 'B084RNGTHD-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

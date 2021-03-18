@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722TTFD7-es Lebze Muselina Manta Bebé -"Diente de Plumas" Bambú...'
 sku: 'B0722TTFD7-es'
-tags: [ 'bebé','muselina', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','muselina', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

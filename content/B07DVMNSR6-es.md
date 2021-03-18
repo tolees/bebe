@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVMNSR6-es PEKITAS Pack 3 Muselinas Extra Grandes Mantas de Muselina...'
 sku: 'B07DVMNSR6-es'
-tags: [ 'muselina', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','muselina', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

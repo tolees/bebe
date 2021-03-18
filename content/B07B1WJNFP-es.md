@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B1WJNFP-es Tottenham Hotspur FC - Pack de dos chupetes oficiales...'
 sku: 'B07B1WJNFP-es'
-tags: [ 'chupetes', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chupetes', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

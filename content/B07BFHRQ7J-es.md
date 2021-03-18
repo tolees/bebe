@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFHRQ7J-es Bébé Confort LARA Cochecito compacto plegable y...'
 sku: 'B07BFHRQ7J-es'
-tags: [ 'bébé','confort', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bébé','confort', ]
 actualPrice: 182.96 EUR
 currency: EUR
 price: 182.96

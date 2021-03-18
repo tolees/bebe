@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QS8MNB4-es Meinkind Mochila Portabebe Ergonomica Multifunción para...'
 sku: 'B07QS8MNB4-es'
-tags: [ 'bebé','portabebe', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','portabebe', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

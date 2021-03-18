@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P9FK1ZU-es Mega Bloks Camión golpetones juguete de construcción para...'
 sku: 'B00P9FK1ZU-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

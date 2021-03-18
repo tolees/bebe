@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M2O9PTY-es Cybex Silver Pallas 2-Fix 515111001 Silla de Coche 2 en 1...'
 sku: 'B00M2O9PTY-es'
-tags: [ 'coche','cybex','de','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','coche','cybex','de','silla', ]
 actualPrice: 207.84 EUR
 currency: EUR
 price: 207.84

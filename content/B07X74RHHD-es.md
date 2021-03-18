@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X74RHHD-es Trona para Bebe Evolutiva Ajustable y Plegable - 7 Alturas...'
 sku: 'B07X74RHHD-es'
-tags: [ 'bebe','bebé','trona', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebé','trona', ]
 actualPrice: 121.97 EUR
 currency: EUR
 price: 121.97

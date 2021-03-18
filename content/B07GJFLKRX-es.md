@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJFLKRX-es Chicco Next2me - Cuna de colecho con anclaje a cama y 6...'
 sku: 'B07GJFLKRX-es'
-tags: [ 'chicco', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco', ]
 actualPrice: 151.56 EUR
 currency: EUR
 price: 151.56

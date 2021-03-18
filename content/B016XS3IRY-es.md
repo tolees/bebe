@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016XS3IRY-es Fisher-Price Manzanita Activity juguete colgante para bebé...'
 sku: 'B016XS3IRY-es'
-tags: [ 'bebé','fisher-price', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','fisher-price', ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

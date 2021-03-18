@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNBY1TX-es Medela - Tubo para sacaleches doble Swing Maxi Flex'
 sku: 'B07PNBY1TX-es'
-tags: [ 'medela','sacaleches', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','medela','sacaleches', ]
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

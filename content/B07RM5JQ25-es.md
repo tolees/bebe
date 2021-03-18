@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RM5JQ25-es HyAdierTech Cucharas Siliconas Bebé 2 Piezas Cucharillas...'
 sku: 'B07RM5JQ25-es'
-tags: [ 'bebe','bebé','bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebé','bebés', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

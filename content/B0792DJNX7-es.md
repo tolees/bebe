@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792DJNX7-es XOMAX XL-518 Silla de coche con ISOFIX I creciendo con...'
 sku: 'B0792DJNX7-es'
-tags: [ 'coche','de','isofix','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','coche','de','isofix','silla', ]
 actualPrice: 88.9 EUR
 currency: EUR
 price: 88.9

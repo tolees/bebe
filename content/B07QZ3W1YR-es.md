@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ3W1YR-es Jané Protect Silla de auto - Nurse'
 sku: 'B07QZ3W1YR-es'
-tags: [ 'jané', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','jané', ]
 actualPrice: 88.9 EUR
 currency: EUR
 price: 88.9

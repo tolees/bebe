@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKY6JW8-es CYBEX Gold - Silla de Paseo Eezy S Twist Asiento Giratorio...'
 sku: 'B07CKY6JW8-es'
-tags: [ 'cybex', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','cybex', ]
 actualPrice: 191.95 EUR
 currency: EUR
 price: 191.95

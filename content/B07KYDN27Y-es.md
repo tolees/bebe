@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYDN27Y-es Saro 1435-C - Porta chupete unisex'
 sku: 'B07KYDN27Y-es'
-tags: [ 'chupete', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chupete', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

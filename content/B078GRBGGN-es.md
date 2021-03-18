@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GRBGGN-es Asalvo Silla de coche grupo 2/3 Isofix'
 sku: 'B078GRBGGN-es'
-tags: [ 'asalvo','coche','de','isofix','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','asalvo','coche','de','isofix','silla', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0
@@ -28,11 +28,11 @@ En este momento está [Asalvo  Silla de coche grupo 2/3 Isofix](https://www.amaz
 
 🔎:
 
-- Grupo 2-3 desde los 15 kg hasta 36kg
-- Protección cervical y lateral contra impactos
-- Reposacabezas ajustable en altura
-- Asiento ancho y cómodo
-- Respaldo desmontable
 - Sentido de la marcha con sistema Isofix
+- Grupo 2-3 desde los 15 kg hasta 36kg
+- Respaldo desmontable
+- Reposacabezas ajustable en altura
+- Protección cervical y lateral contra impactos
+- Asiento ancho y cómodo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078GRBGGN/?tag=tolees-21)

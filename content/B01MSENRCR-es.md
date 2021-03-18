@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSENRCR-es PEKITAS Bebe Capa De Baño Con Capucha y Manopla 75x75 cm...'
 sku: 'B01MSENRCR-es'
-tags: [ 'bebe', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

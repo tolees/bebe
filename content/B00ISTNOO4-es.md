@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ISTNOO4-es Piku Twit-Twoo - Trona para bebés con bandeja regulable'
 sku: 'B00ISTNOO4-es'
-tags: [ 'bebés','trona', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','trona', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

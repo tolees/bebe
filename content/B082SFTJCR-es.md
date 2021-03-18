@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SFTJCR-es Luchild Almohada Embarazada Multifuncional Cojín Lactancia...'
 sku: 'B082SFTJCR-es'
-tags: [ 'bebé','embarazada','lactancia', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','embarazada','lactancia', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

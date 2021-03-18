@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07575QZPQ-es Chicco Echo - Silla de paseo ligera y compacta soporta...'
 sku: 'B07575QZPQ-es'
-tags: [ 'chicco', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco', ]
 actualPrice: 94.48 EUR
 currency: EUR
 price: 94.48

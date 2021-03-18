@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBJH9WP-es Tommee Tippee Sangenic Sistema avanzado para desechar...'
 sku: 'B07KBJH9WP-es'
-tags: [ 'pañales','tommee', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','pañales','tommee', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

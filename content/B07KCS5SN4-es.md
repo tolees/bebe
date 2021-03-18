@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCS5SN4-es CYBEX - Silla de Paseo Eezy S Plegable con una Mano...'
 sku: 'B07KCS5SN4-es'
-tags: [ 'cybex', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','cybex', ]
 actualPrice: 190.46 EUR
 currency: EUR
 price: 190.46

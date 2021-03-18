@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FGR3TB-es Maxi-Cosi CabrioFix Silla de Auto Reclinable y de Alta...'
 sku: 'B075FGR3TB-es'
-tags: [ 'bebe','maxi-cosi', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','maxi-cosi', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

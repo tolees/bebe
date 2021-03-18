@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0011ZX6GS-es Anita Maternity 5068 Sujetador de Lactancia Para Mujer...'
 sku: 'B0011ZX6GS-es'
-tags: [ 'lactancia', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','lactancia', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

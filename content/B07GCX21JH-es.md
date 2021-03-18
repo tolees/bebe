@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCX21JH-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
 sku: 'B07GCX21JH-es'
-tags: [ 'embarazo', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

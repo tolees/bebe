@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVY5YP3-es Cybex Gold Sirona S I-Size Silla De Coche Para Bebés Hasta...'
 sku: 'B07XVY5YP3-es'
-tags: [ 'bebés','coche','cybex','de','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','coche','cybex','de','silla', ]
 actualPrice: 398.95 EUR
 currency: EUR
 price: 398.95

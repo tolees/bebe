@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MRKSRSZ-es United Colors of Benetton Layette BB G2 Camiseta de Manga...'
 sku: 'B07MRKSRSZ-es'
-tags: [ 'bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGFWMSF-es SPC Ángel - Cámara vigilabebé inteligente Wi-Fi visión...'
 sku: 'B07HGFWMSF-es'
-tags: [ 'vigilabebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','vigilabebé', ]
 actualPrice: 54.19 EUR
 currency: EUR
 price: 54.19

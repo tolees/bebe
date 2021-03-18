@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD27X4X-es Lictin Sacaleches Eléctrico - Extractor de Leche con...'
 sku: 'B07SD27X4X-es'
-tags: [ 'lactancia','sacaleches', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','lactancia','sacaleches', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

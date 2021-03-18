@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S39H4QK-es LA Active Tobillera Calcetines Antideslizantes - 6 Pares -...'
 sku: 'B07S39H4QK-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

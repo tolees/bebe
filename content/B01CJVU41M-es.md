@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CJVU41M-es Pampers 81665622 pañal desechable Niño/niña 1 22 pieza s -...'
 sku: 'B01CJVU41M-es'
-tags: [ 'pañal','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','pañal','pañales', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

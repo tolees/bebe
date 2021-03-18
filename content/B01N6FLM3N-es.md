@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6FLM3N-es Motorola MBP 481 - Vigilabebés vídeo con pantalla LCD a...'
 sku: 'B01N6FLM3N-es'
-tags: [ 'vigilabebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','vigilabebés', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

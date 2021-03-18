@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WF3GSS-es Suavinex – Loción hidratante Corporal para bebés. Apta...'
 sku: 'B003WF3GSS-es'
-tags: [ 'suavinex', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','suavinex', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

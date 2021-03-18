@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSEYUIC-es Philips Avent SCF169/25 - Set de 2 chupetes Gama Safari de...'
 sku: 'B01MSEYUIC-es'
-tags: [ 'avent','chupetes', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','chupetes', ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GZQ5S3-es Philips Avent SCF342/22 - Pack con 2 chupetes Ultra Air...'
 sku: 'B079GZQ5S3-es'
-tags: [ 'avent','chupetes', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','chupetes', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

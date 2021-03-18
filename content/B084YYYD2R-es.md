@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YYYD2R-es Baby Teething Toys Silicona suave Mordedor de frutas sin...'
 sku: 'B084YYYD2R-es'
-tags: [ 'bebés','chupete', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','chupete', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

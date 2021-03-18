@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZH9ZSVF-es Blevit Plus Papilla Multicereales Quinoa Bio 1 Unidad 250...'
 sku: 'B07ZH9ZSVF-es'
-tags: [ 'blevit', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','blevit', ]
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TQOLNXO-es Nuby ID5397AQUA - Alimentador antiahogo con redecilla...'
 sku: 'B00TQOLNXO-es'
-tags: [ 'nuby', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','nuby', ]
 actualPrice: 4.02 EUR
 currency: EUR
 price: 4.02

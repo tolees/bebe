@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072J4B2XK-es LifeTree Cubiertas De Enfermería | Poncho de Enfermería |...'
 sku: 'B072J4B2XK-es'
-tags: [ 'bebé','lactancia', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','lactancia', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

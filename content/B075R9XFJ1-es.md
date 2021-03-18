@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R9XFJ1-es Suavinex 304006 biberón Physio Panda 360 ml'
 sku: 'B075R9XFJ1-es'
-tags: [ 'biberón','suavinex', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberón','suavinex', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

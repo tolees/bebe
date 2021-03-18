@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1KJA1D-es FREESOO Set 5 kits Bolsa de Mama para Bebe Biberon...'
 sku: 'B01M1KJA1D-es'
-tags: [ 'bebe','bebé','biberon','biberón','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebé','biberon','biberón','pañales', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

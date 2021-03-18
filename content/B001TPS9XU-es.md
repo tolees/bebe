@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TPS9XU-es Purelan 100 Medela - 37 gr.'
 sku: 'B001TPS9XU-es'
-tags: [ 'medela', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','medela', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVP4W52-es Fisher-Price Llama Linkimals Juguete interactivo bebés +9...'
 sku: 'B07PVP4W52-es'
-tags: [ 'bebés','fisher-price', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','fisher-price', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

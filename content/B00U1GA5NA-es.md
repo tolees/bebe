@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U1GA5NA-es INJUSA - Triciclo City Max Blanco para Bebés +6 Meses con...'
 sku: 'B00U1GA5NA-es'
-tags: [ 'bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
 actualPrice: 107.97 EUR
 currency: EUR
 price: 107.97

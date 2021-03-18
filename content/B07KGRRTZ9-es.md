@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGRRTZ9-es Safety 1st Calidoo Cuna Colecho e Cuna de viaje 2 in 1...'
 sku: 'B07KGRRTZ9-es'
-tags: [ '1st','safety', ]
+tags: [ '1st','Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','safety', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

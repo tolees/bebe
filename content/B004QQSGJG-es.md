@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QQSGJG-es Huggies Pull-Ups - Calzoncillos de aprendizaje para niños...'
 sku: 'B004QQSGJG-es'
-tags: [ 'huggies', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','huggies', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

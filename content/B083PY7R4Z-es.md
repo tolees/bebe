@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083PY7R4Z-es Espejo de coche para bebé Espejo automático Espejo...'
 sku: 'B083PY7R4Z-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

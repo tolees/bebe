@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AUXVFU0-es Suavinex Biberon 302.845 Bipack'
 sku: 'B01AUXVFU0-es'
-tags: [ 'biberon','suavinex', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberon','suavinex', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

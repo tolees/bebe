@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYWRNF3-es Tommee Tippee Starter Pack Twist and Click Contenedor de...'
 sku: 'B07YYWRNF3-es'
-tags: [ 'pañales','tommee', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','pañales','tommee', ]
 actualPrice: 62.96 EUR
 currency: EUR
 price: 62.96

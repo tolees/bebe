@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0RSQ6J-es Chicco Oasys 1 Evo Silla de coche grupo 1 Isofix gris'
 sku: 'B01M0RSQ6J-es'
-tags: [ 'chicco','coche','de','isofix','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco','coche','de','isofix','silla', ]
 actualPrice: 149.98 EUR
 currency: EUR
 price: 149.98

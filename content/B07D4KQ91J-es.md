@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4KQ91J-es Marca Amazon- Mama Bear Pañal de aprendizaje maxi- Talla 4...'
 sku: 'B07D4KQ91J-es'
-tags: [ 'bear','mama','pañal','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bear','mama','pañal','pañales', ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

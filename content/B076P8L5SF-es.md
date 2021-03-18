@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076P8L5SF-es HAPPY MAMA. Mujer Sudadera Capucha Lactancia Premamá...'
 sku: 'B076P8L5SF-es'
-tags: [ 'lactancia', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','lactancia', ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

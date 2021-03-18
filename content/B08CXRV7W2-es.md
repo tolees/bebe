@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXRV7W2-es Homgrace Termómetro infrarrojo sin Contacto Digital...'
 sku: 'B08CXRV7W2-es'
-tags: [ 'bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

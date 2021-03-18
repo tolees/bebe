@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPYQWBF-es Medela cojín de embarazo y lactancia'
 sku: 'B07KPYQWBF-es'
-tags: [ 'embarazo','lactancia','medela', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','embarazo','lactancia','medela', ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

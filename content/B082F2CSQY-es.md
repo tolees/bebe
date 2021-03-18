@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082F2CSQY-es Cobertura de lactancia de algodón Cubiertas de lactancia...'
 sku: 'B082F2CSQY-es'
-tags: [ 'lactancia', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','lactancia', ]
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

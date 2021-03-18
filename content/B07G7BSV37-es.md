@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G7BSV37-es Manta de muselina para bebé suave muselina de algodón para...'
 sku: 'B07G7BSV37-es'
-tags: [ 'bebé','muselina', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','muselina', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

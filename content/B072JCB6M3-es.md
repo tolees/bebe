@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JCB6M3-es Nenuco Hermanitos a la Pelu Famosa 700013674'
 sku: 'B072JCB6M3-es'
-tags: [ 'nenuco', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','nenuco', ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

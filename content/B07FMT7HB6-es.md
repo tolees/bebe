@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMT7HB6-es Kickers 584348-10 Botas Unisex bebé Azul Marine Foncé Perm...'
 sku: 'B07FMT7HB6-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 24.12 EUR
 currency: EUR
 price: 24.12

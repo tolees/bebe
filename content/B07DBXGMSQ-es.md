@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBXGMSQ-es Escurridor para secado de biberones Lawn Tendedero para...'
 sku: 'B07DBXGMSQ-es'
-tags: [ 'biberones', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','biberones', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBNP5VG-es Meinkind Silla de Coche Niños Grupo 1 2 3 Isofix 9-36 kg...'
 sku: 'B07RBNP5VG-es'
-tags: [ 'coche','de','isofix','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','coche','de','isofix','silla', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

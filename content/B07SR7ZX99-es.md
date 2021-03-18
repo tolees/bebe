@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR7ZX99-es Cadena Chupetes Personalizado con Nombre Koala Mordedor...'
 sku: 'B07SR7ZX99-es'
-tags: [ 'chupete','chupetes', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chupete','chupetes', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

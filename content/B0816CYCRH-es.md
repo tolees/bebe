@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0816CYCRH-es LNIEGE Bolsa de pañales para bebés Multibolsillos Bolsa de...'
 sku: 'B0816CYCRH-es'
-tags: [ 'bebés','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','pañales', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

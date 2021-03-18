@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GCKKYBW-es MioRico Saco Dormir Bebe 1 TOG Saquito de Dormir 100%...'
 sku: 'B08GCKKYBW-es'
-tags: [ 'bebe','bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

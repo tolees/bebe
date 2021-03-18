@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Z5L1HX-es Fascol 7 en 1 Triciclo Bebe con Asiento Giratorio y Ruedas...'
 sku: 'B077Z5L1HX-es'
-tags: [ 'bebe', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe', ]
 actualPrice: 102.53 EUR
 currency: EUR
 price: 102.53

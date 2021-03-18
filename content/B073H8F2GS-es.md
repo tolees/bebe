@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073H8F2GS-es Cybex Silla de coche grupo 2/3 Solution M-Fix SL Para...'
 sku: 'B073H8F2GS-es'
-tags: [ 'coche','cybex','de','isofix','silla', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','coche','cybex','de','isofix','silla', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FL9XBK5-es Philips Avent Biberón Natural SCF070/25 - Biberón de 260...'
 sku: 'B07FL9XBK5-es'
-tags: [ 'avent','biberón', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','biberón', ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

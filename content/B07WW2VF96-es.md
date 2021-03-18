@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WW2VF96-es Ballery Bolsa de Pañales Bolsa Mojado Lavable Mojado y...'
 sku: 'B07WW2VF96-es'
-tags: [ 'bebe','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','pañales', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

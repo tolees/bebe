@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0819P6DRZ-es TENVIS Cámara Vigilancia IP WiFi - 1080P FHD Cámara...'
 sku: 'B0819P6DRZ-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

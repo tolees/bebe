@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IIHK8EO-es Nenuco 700013300 - Merienditas muñeca con accesorios'
 sku: 'B01IIHK8EO-es'
-tags: [ 'nenuco', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','nenuco', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

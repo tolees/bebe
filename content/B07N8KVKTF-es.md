@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8KVKTF-es HOMYBABY Ganchos Carrito Bebé 2 pcs | Diseño...'
 sku: 'B07N8KVKTF-es'
-tags: [ 'bebe','bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebé', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

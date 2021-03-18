@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CYW9B7O-es Cuna para bebé modelo osito + Colchón Viscoelástico +...'
 sku: 'B01CYW9B7O-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

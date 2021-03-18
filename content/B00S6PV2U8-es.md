@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S6PV2U8-es HOMCOM Trona para Bebé 3 en 1 Convertible en Silla...'
 sku: 'B00S6PV2U8-es'
-tags: [ 'bebé','trona', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','trona', ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

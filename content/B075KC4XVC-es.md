@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KC4XVC-es Bebé Niños Niñas Lindo Ratón 1er / 2do / 3er Cumpleaños 3...'
 sku: 'B075KC4XVC-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6WM9M6-es Nenuco Agua de Colonia recomendado para bebés fragancia...'
 sku: 'B01M6WM9M6-es'
-tags: [ 'bebés','nenuco', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','nenuco', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXWWHFV-es MeBB Chic Collar Mordedor de Lactancia para Bebé Mordedor...'
 sku: 'B01MXWWHFV-es'
-tags: [ 'bebé','lactancia', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','lactancia', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

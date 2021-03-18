@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSBBLCS-es Sacaleches Eléctrico Eccomum Sacaleches Doble...'
 sku: 'B07WSBBLCS-es'
-tags: [ 'sacaleches', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','sacaleches', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

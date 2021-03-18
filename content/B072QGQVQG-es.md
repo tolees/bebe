@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QGQVQG-es Simple Joys by Carter s traje de baño de 2 piezas para...'
 sku: 'B072QGQVQG-es'
-tags: [ 'bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

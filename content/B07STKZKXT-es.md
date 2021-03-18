@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STKZKXT-es Geox Rishon Bebé Deportivas Niño Transpirantes con Diseño...'
 sku: 'B07STKZKXT-es'
-tags: [ 'bebé','bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés', ]
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

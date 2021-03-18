@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FFCCJJ-es Maxi-Cosi CabrioFix Silla de auto reclinable y seguro para...'
 sku: 'B075FFCCJJ-es'
-tags: [ 'bebé','maxi-cosi', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','maxi-cosi', ]
 actualPrice: 109.65 EUR
 currency: EUR
 price: 109.65

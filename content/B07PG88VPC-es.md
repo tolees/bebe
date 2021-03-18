@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PG88VPC-es WISHTIME Combine Track Pathway Bath Toy 2019 DIY...'
 sku: 'B07PG88VPC-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 24.03 EUR
 currency: EUR
 price: 24.03

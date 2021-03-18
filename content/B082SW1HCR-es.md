@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SW1HCR-es Ventilador Portátil Versátil de Escritorio Personal...'
 sku: 'B082SW1HCR-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

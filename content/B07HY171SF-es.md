@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HY171SF-es Fisher-Price Wonder Makers Centro de reciclaje juguetes...'
 sku: 'B07HY171SF-es'
-tags: [ 'fisher-price', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','fisher-price', ]
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

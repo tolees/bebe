@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074VFP9ZG-es Cuddle Club Mono Polar Bebé para Recién Nacidos a Niños 4...'
 sku: 'B074VFP9ZG-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

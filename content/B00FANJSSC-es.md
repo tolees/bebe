@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FANJSSC-es Cybex Silver - Portabebé Aton en contra de la marcha...'
 sku: 'B00FANJSSC-es'
-tags: [ 'cybex','portabebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','cybex','portabebé', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

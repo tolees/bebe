@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087DW3BK2-es Aidodo Difusor de Aroma 400ml Humidificador Ultrasónico...'
 sku: 'B087DW3BK2-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

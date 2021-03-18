@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W2QQDZ3-es Philips Avent SCF376/12 - Pack de 2 chupetes Ultra Air...'
 sku: 'B07W2QQDZ3-es'
-tags: [ 'avent','chupetes', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','chupetes', ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

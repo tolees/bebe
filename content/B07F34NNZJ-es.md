@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F34NNZJ-es Recién nacido Bebé Pijama de Algodón Mameluco Niños Pelele...'
 sku: 'B07F34NNZJ-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

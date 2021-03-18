@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YG284RQ-es SONARIN Silla Asiento de mesa para bebé trona de mesa...'
 sku: 'B07YG284RQ-es'
-tags: [ 'bebé','trona', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','trona', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCCHD5S-es Tommee Tippee Juguete transpirable Eddy el Elefante'
 sku: 'B07GCCHD5S-es'
-tags: [ 'tommee', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','tommee', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

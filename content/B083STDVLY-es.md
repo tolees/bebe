@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083STDVLY-es Maxi-Cosi Titan Plus Silla Coche bebé grupo 1/2/3 isofix 9...'
 sku: 'B083STDVLY-es'
-tags: [ 'bebé','isofix','maxi-cosi', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','isofix','maxi-cosi', ]
 actualPrice: 254.15 EUR
 currency: EUR
 price: 254.15

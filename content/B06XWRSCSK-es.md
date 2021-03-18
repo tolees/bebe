@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWRSCSK-es Philips Avent SCF798/02 - Vaso con pajita flexible 300 ml...'
 sku: 'B06XWRSCSK-es'
-tags: [ 'avent', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent', ]
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

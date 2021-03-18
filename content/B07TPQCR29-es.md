@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPQCR29-es Philips Avent SCF349/21 - Pack de 2 chupetes Ultra Air...'
 sku: 'B07TPQCR29-es'
-tags: [ 'avent','chupetes', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','chupetes', ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FT6D8RS-es Mochila de pañales para cambiar pañales con diseño abierto...'
 sku: 'B07FT6D8RS-es'
-tags: [ 'bebé','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','pañales', ]
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

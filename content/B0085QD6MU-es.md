@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0085QD6MU-es Tommee Tippee 42302241 - Bolsas para conservar la leche'
 sku: 'B0085QD6MU-es'
-tags: [ 'tommee', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','tommee', ]
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

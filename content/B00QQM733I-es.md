@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QQM733I-es Munchkin - Espejo musical con luz Day & Night'
 sku: 'B00QQM733I-es'
-tags: [ 'munchkin', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','munchkin', ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

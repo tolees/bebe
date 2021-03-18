@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHK54F8-es Qshare - Platos de silicona para bebé una pieza para bebés...'
 sku: 'B07MHK54F8-es'
-tags: [ 'bebé','bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','bebés', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

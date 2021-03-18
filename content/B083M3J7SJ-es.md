@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083M3J7SJ-es Bolsa de pañales de tela portátil reutilizable a prueba de...'
 sku: 'B083M3J7SJ-es'
-tags: [ 'bebés','pañales', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebés','pañales', ]
 actualPrice: 3.51 EUR
 currency: EUR
 price: 3.51

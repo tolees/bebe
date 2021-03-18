@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08532CYKS-es Sweety Fox - Manta Bebe para Niño y Niña 80 x 100 cm -...'
 sku: 'B08532CYKS-es'
-tags: [ 'bebe','bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebé', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

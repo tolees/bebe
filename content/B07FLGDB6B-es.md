@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLGDB6B-es Philips Avent SCD287/24 - Set de regalo natural dragon 1...'
 sku: 'B07FLGDB6B-es'
-tags: [ 'avent','biberón','chupetes', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','biberón','chupetes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

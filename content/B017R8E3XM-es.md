@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017R8E3XM-es LEORX Tabla protector parachoques tira bebé Protector de...'
 sku: 'B017R8E3XM-es'
-tags: [ 'bebé', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

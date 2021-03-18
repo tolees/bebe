@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018KFSLZM-es Chicco Always with you - Baby Monitor de audio sencillo y...'
 sku: 'B018KFSLZM-es'
-tags: [ 'chicco', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','chicco', ]
 actualPrice: 53.07 EUR
 currency: EUR
 price: 53.07

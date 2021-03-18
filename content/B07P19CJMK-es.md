@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P19CJMK-es Sotech Columpio Eléctrico para Bebés Columpio de bebé con...'
 sku: 'B07P19CJMK-es'
-tags: [ 'bebe','bebé','bebés', ]
+tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebe','bebé','bebés', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99
