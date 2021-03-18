@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088QJM9TN-es Fiween Clips 4pcs Niños Chupete Chupete Titular de bebé...'
 sku: 'B088QJM9TN-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','chupete', ]
+tags: [ 'bebé','chupete', ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

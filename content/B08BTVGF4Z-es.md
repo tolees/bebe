@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTVGF4Z-es Juguetes de baño para bebés Juguetes para bebés Baby...'
 sku: 'B08BTVGF4Z-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 1.82 EUR
 currency: EUR
 price: 1.82

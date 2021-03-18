@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078Y1MM9S-es HBF Multicolor 50 Clips Pelo Niña Metal Pinzas Pelo Bebe...'
 sku: 'B078Y1MM9S-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

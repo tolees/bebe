@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R9XFJ5-es Suavinex Chupete Physio Panda/Rama 2 piezas'
 sku: 'B075R9XFJ5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chupete','suavinex', ]
+tags: [ 'chupete','suavinex', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

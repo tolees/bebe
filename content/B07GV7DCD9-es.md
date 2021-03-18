@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GV7DCD9-es QUEEN ROSE Almohada de Embarazo con Funda de Lavable...'
 sku: 'B07GV7DCD9-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 53.79 EUR
 currency: EUR
 price: 53.79

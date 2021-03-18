@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK2CS79-es Geox B Verred a Sandalias para Bebés White C1000 25 EU'
 sku: 'B07DK2CS79-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

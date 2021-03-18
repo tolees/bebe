@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZLMFMQ-es Kickers Jawa Zapatillas para Bebés Marron 9 18 EU'
 sku: 'B07MZLMFMQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

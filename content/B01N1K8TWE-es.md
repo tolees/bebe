@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1K8TWE-es Denenes Gel-Champú - 600 ml'
 sku: 'B01N1K8TWE-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','denenes', ]
+tags: [ 'denenes', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

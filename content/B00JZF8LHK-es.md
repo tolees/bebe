@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JZF8LHK-es Medela - Sistema de nutrición suplementaria relactador'
 sku: 'B00JZF8LHK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','medela', ]
+tags: [ 'medela', ]
 actualPrice: 32.85 EUR
 currency: EUR
 price: 32.85

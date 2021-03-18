@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZG1G1F-es Manual del bebé Aspirador nasal de silicona Aspirador...'
 sku: 'B07TZG1G1F-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BK2KPR4-es LEGO DUPLO Town - Aventura en Submarino Juguete Educativo...'
 sku: 'B01BK2KPR4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

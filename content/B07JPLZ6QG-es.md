@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JPLZ6QG-es Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet...'
 sku: 'B07JPLZ6QG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGG48R6-es Pablosky 064644 Botas para Bebés Amarillo Amarillo...'
 sku: 'B07QGG48R6-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

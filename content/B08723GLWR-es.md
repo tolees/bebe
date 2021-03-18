@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08723GLWR-es Mono de bebé Promini para bebé con texto en inglés «Future...'
 sku: 'B08723GLWR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

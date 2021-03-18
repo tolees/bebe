@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J2SRH55-es Suavinex Zero-Zero Biberón anticólicos +0 meses 180 ml -...'
 sku: 'B07J2SRH55-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','lactancia','suavinex', ]
+tags: [ 'biberón','lactancia','suavinex', ]
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK3BHQP-es Safety 1st RAINBOW Black Chic - Silla de paseo color negro'
 sku: 'B07KK3BHQP-es'
-tags: [ '1st','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','safety', ]
+tags: [ '1st','safety', ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

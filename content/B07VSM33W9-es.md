@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSM33W9-es Qishare 2 Pares de Calcetines Antideslizantes para Hombres...'
 sku: 'B07VSM33W9-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

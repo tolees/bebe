@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP57NMD-es TiaoBug Bolero Fiesta Bebé Niñas para Boda Chaqueta Manga...'
 sku: 'B07ZP57NMD-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

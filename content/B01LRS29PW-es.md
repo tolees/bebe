@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LRS29PW-es Bébé Confort MiloFix Silla de auto de 0 a 4 años 0-18 kg...'
 sku: 'B01LRS29PW-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bébé','confort', ]
+tags: [ 'bébé','confort', ]
 actualPrice: 120.69 EUR
 currency: EUR
 price: 120.69

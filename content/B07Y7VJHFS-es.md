@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7VJHFS-es Ballery Almohadillas de Lactancia 12 Piezas Discos de...'
 sku: 'B07Y7VJHFS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

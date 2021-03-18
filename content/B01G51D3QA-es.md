@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G51D3QA-es Biomecanics 161141 Zapatillas de Estar por casa para Bebés...'
 sku: 'B01G51D3QA-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008HQU0JK-es Tommee Tippee Closer to Nature - Sacaleches eléctrico'
 sku: 'B008HQU0JK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','sacaleches','tommee', ]
+tags: [ 'sacaleches','tommee', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

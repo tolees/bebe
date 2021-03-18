@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0817HFFL8-es TOPERSUN Sacaleches Eléctrico Recargable Extractor de...'
 sku: 'B0817HFFL8-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','sacaleches', ]
+tags: [ 'sacaleches', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

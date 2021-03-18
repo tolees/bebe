@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQFLRZY-es Dodot Pants Pañal-Braguita Talla 6 84 Pañales Fácil De...'
 sku: 'B07BQFLRZY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','dodot','pañales', ]
+tags: [ 'dodot','pañales', ]
 actualPrice: 20.36 EUR
 currency: EUR
 price: 20.36

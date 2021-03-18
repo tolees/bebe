@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SK66QW-es Mum & You Toallitas Húmedas Para Bebés 100% Biodegradables...'
 sku: 'B078SK66QW-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

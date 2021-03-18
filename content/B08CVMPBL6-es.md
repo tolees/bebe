@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVMPBL6-es HOMCOM Coche para Bebés Mayores de 12 Meses Correpasillos...'
 sku: 'B08CVMPBL6-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

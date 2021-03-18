@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBJH9WP-es Tommee Tippee Sangenic Sistema avanzado para desechar...'
 sku: 'B07KBJH9WP-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','pañales','tommee', ]
+tags: [ 'pañales','tommee', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

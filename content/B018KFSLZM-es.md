@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018KFSLZM-es Chicco Always with you - Baby Monitor de audio sencillo y...'
 sku: 'B018KFSLZM-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 53.07 EUR
 currency: EUR
 price: 53.07

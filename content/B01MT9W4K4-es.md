@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT9W4K4-es adidas Stan Smith Zapatillas Unisex bebé Blanco Footwear...'
 sku: 'B01MT9W4K4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

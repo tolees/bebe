@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LMV9HMS-es Skip Hop Zoo Dog - Tarro aislado del alimento 325ml 12m+'
 sku: 'B00LMV9HMS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hop','skip', ]
+tags: [ 'hop','skip', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

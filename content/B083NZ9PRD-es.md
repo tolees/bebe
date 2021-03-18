@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NZ9PRD-es HOMYBABY Muselinas Bebe Algodon 120x120 [1pc] | Muselina...'
 sku: 'B083NZ9PRD-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','muselina', ]
+tags: [ 'bebe','muselina', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

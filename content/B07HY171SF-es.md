@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HY171SF-es Fisher-Price Wonder Makers Centro de reciclaje juguetes...'
 sku: 'B07HY171SF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','fisher-price', ]
+tags: [ 'fisher-price', ]
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

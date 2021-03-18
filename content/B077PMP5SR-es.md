@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PMP5SR-es Philips Avent Scf169/46 - Pack con 2 Chupetes Jardín...'
 sku: 'B077PMP5SR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

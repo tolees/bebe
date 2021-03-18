@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSJ4MK2-es Geox B Kilwi Girl E Bailarinas para Bebés Azul Navy C4064...'
 sku: 'B07SSJ4MK2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 19.46 EUR
 currency: EUR
 price: 19.46

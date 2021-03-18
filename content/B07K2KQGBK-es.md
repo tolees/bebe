@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2KQGBK-es Adidas Continental 80 I Zapatillas de Estar por casa Bebé...'
 sku: 'B07K2KQGBK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

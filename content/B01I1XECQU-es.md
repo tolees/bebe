@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I1XECQU-es Ecus Kids El colchón de cuna Ecus Care con certificado...'
 sku: 'B01I1XECQU-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','ecus','kids', ]
+tags: [ 'ecus','kids', ]
 actualPrice: 165.18 EUR
 currency: EUR
 price: 165.18

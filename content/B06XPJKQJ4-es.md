@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPJKQJ4-es IEFIEL Vestidos de Princesa Fiesta Bautizo Tutú con Braga...'
 sku: 'B06XPJKQJ4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

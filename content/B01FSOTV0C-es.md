@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FSOTV0C-es BABY HEROE - Cinturón de seguridad embarazada. Cinturón de...'
 sku: 'B01FSOTV0C-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086SXX8D2-es ZHBRE Humidificador de 400 ml de Gran Capacidad Apagado...'
 sku: 'B086SXX8D2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

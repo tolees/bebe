@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QMOBO-es Dodot Toallitas Básico de Recambio - 54 Unidades'
 sku: 'B01K7QMOBO-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','dodot', ]
+tags: [ 'dodot', ]
 actualPrice: 0.87 EUR
 currency: EUR
 price: 0.87

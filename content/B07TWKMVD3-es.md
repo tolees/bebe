@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWKMVD3-es QUEEN ROSE Almohada de Embarazo con Funda de Jersey...'
 sku: 'B07TWKMVD3-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 38.39 EUR
 currency: EUR
 price: 38.39

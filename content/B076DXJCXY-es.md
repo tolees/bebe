@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DXJCXY-es Bébé Confort CAPAZO BLANDO LAIKA Nomad Blue - Capazo...'
 sku: 'B076DXJCXY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bébé','confort', ]
+tags: [ 'bébé','confort', ]
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDT9KSG-es MAM - Conjunto de 2 chupetes que brillan en la oscuridad...'
 sku: 'B00PDT9KSG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chupetes', ]
+tags: [ 'chupetes', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

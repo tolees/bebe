@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0011ZX6GS-es Anita Maternity 5068 Sujetador de Lactancia Para Mujer...'
 sku: 'B0011ZX6GS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

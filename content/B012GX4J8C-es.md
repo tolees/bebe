@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012GX4J8C-es MINILAND BABY - Vigilabebé'
 sku: 'B012GX4J8C-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','vigilabebé', ]
+tags: [ 'vigilabebé', ]
 actualPrice: 148.75 EUR
 currency: EUR
 price: 148.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZHDK5H-es Philips Avent SCF222/22 - Pack de dos chupetes ultra...'
 sku: 'B01MZHDK5H-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

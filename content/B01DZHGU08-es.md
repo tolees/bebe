@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DZHGU08-es Britax Römer Kidfix II XP SICT / Kidfix II XP / Kidfix XP...'
 sku: 'B01DZHGU08-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','römer', ]
+tags: [ 'römer', ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

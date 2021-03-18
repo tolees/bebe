@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTPNGJC-es Alminatur Papilla de Multicereales con Plátano a Partir de...'
 sku: 'B07CTPNGJC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','alminatur', ]
+tags: [ 'alminatur', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

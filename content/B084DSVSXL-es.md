@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DSVSXL-es Suavinex - Chupete para bebés 0-6 meses. Chupete con...'
 sku: 'B084DSVSXL-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','chupete','suavinex', ]
+tags: [ 'bebés','chupete','suavinex', ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

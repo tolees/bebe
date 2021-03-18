@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QMC8D7-es Rubies - Disfraz infantil de Hipopótamo para bebé 1-2 años...'
 sku: 'B079QMC8D7-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

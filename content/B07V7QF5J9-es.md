@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7QF5J9-es Chicco Sandalo Corissa Sandalias para Niñas Blanco Bianco...'
 sku: 'B07V7QF5J9-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

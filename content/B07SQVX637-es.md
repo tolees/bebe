@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQVX637-es Hpybest - Cadena de chupete de dos colores hecha a mano...'
 sku: 'B07SQVX637-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chupete', ]
+tags: [ 'chupete', ]
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

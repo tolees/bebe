@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CHJNHUC-es Philips Avent SCF695/17 - Biberón tetina suave y flexible...'
 sku: 'B00CHJNHUC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','biberón', ]
+tags: [ 'avent','biberón', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

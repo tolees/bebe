@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGTQ3SP-es Primigi Pbb 43604 Botas para Bebés Zaffiro 4360411 20 EU'
 sku: 'B07NGTQ3SP-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

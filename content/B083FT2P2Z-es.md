@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FT2P2Z-es LQLQO Mini humidificador Personal USB portátil ultrasónico...'
 sku: 'B083FT2P2Z-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

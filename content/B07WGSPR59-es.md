@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGSPR59-es YGJT Bicicletas sin Pedales para niños 1 Año 10-36 Meses...'
 sku: 'B07WGSPR59-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

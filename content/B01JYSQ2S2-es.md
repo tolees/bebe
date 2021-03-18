@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JYSQ2S2-es Chicco Easy Fit Mochila ergonómica portabebé hasta 9 kg...'
 sku: 'B01JYSQ2S2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco','portabebé', ]
+tags: [ 'chicco','portabebé', ]
 actualPrice: 38.35 EUR
 currency: EUR
 price: 38.35

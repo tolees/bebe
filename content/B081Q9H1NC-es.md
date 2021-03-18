@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Q9H1NC-es UBEGOOD Humidificador Difusor de Aromaterapia...'
 sku: 'B081Q9H1NC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086JHXXYK-es N/ A Mascara Ninos Mascarilla Antipolvo Boca Mascarillas...'
 sku: 'B086JHXXYK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

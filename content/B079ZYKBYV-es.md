@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZYKBYV-es Nestlé Bolsita de puré de frutas variedad Manzana...'
 sku: 'B079ZYKBYV-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

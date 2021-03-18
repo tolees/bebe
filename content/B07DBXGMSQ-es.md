@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBXGMSQ-es Escurridor para secado de biberones Lawn Tendedero para...'
 sku: 'B07DBXGMSQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberones', ]
+tags: [ 'biberones', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

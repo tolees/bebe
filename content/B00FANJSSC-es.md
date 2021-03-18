@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FANJSSC-es Cybex Silver - Portabebé Aton en contra de la marcha...'
 sku: 'B00FANJSSC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','cybex','portabebé', ]
+tags: [ 'cybex','portabebé', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJG84GN-es Mochila de Pañales para Bebé LOORI Mochilas de Pañales y...'
 sku: 'B07GJG84GN-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','biberones','pañal','pañales', ]
+tags: [ 'bebé','biberones','pañal','pañales', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

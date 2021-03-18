@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C6ZWAQI-es Tommee Tippee 42361081 - Esterilizar con vapor en el...'
 sku: 'B01C6ZWAQI-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','tommee', ]
+tags: [ 'tommee', ]
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

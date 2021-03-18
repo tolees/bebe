@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AUXVFU0-es Suavinex Biberon 302.845 Bipack'
 sku: 'B01AUXVFU0-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberon','suavinex', ]
+tags: [ 'biberon','suavinex', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

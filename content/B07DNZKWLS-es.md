@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNZKWLS-es Kinderkraft Silla de Coche Isofix SAFETY FIX Grupo 1/2/3...'
 sku: 'B07DNZKWLS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','de','isofix','silla', ]
+tags: [ 'coche','de','isofix','silla', ]
 actualPrice: 90.5 EUR
 currency: EUR
 price: 90.5

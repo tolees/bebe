@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXPF21K-es Gifort Flotador Bebé Piscina Barco Niños Flotador...'
 sku: 'B07RXPF21K-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

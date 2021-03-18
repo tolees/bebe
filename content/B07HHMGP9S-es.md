@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHMGP9S-es Chicco Good Night - Vigilabebés de audio con panel de cuna...'
 sku: 'B07HHMGP9S-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco','vigilabebés', ]
+tags: [ 'chicco','vigilabebés', ]
 actualPrice: 57.01 EUR
 currency: EUR
 price: 57.01

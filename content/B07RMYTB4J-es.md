@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMYTB4J-es Dodot Activity Pants Pañal-Braguita Talla 6 111 Pañales...'
 sku: 'B07RMYTB4J-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','dodot','pañales', ]
+tags: [ 'bebé','dodot','pañales', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

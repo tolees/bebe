@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ML5H3X3-es Gratlin Cinturón de Maternidad Embarazada y Extensor de...'
 sku: 'B07ML5H3X3-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazada', ]
+tags: [ 'embarazada', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

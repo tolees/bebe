@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LRUWAYU-es Hauck Shopper Neo II - Silla de paseo con respaldo...'
 sku: 'B01LRUWAYU-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 51.92 EUR
 currency: EUR
 price: 51.92

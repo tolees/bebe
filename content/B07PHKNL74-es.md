@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHKNL74-es besrey Tipi Infantil Tienda de Bebe Grande Tela Gruesa...'
 sku: 'B07PHKNL74-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebé', ]
+tags: [ 'bebe','bebé', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

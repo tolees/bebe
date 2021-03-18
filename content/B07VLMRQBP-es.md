@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLMRQBP-es Carioca Set Baby 2+ | 53222 - Kit Colores: Rotuladores...'
 sku: 'B07VLMRQBP-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

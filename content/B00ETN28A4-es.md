@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ETN28A4-es Hauck Sport Silla de paseo ligera y practica para bebes de...'
 sku: 'B00ETN28A4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67

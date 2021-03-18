@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ2LQ4H-es Bable Calienta Biberones 丨 Esterilizador Biberon 丨...'
 sku: 'B07JZ2LQ4H-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberon','biberones', ]
+tags: [ 'biberon','biberones', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

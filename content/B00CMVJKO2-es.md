@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CMVJKO2-es Philips Avent SCF676/01 - Funda para biberón de cristal...'
 sku: 'B00CMVJKO2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','biberón', ]
+tags: [ 'avent','biberón', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

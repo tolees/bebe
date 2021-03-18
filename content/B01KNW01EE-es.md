@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KNW01EE-es Qomolo Guantes Para Carrito de Bebé Guantes de Silla de...'
 sku: 'B01KNW01EE-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

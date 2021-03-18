@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB2T9QS-es Cuna portátil Capazos Cuna de Viaje tela Oxford Plegable...'
 sku: 'B07QB2T9QS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

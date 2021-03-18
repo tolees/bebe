@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SM5XH3Z-es mysunny Juguetes de Cocina de Madera para niños Juguete...'
 sku: 'B07SM5XH3Z-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

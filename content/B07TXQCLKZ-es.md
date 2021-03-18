@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXQCLKZ-es Rodilleras para gatear rodillera bebe gateo rodillera para...'
 sku: 'B07TXQCLKZ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebé','bebés', ]
+tags: [ 'bebe','bebé','bebés', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

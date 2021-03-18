@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000EULX9I-es Fisher-Price Gira Gira - Cebra'
 sku: 'B000EULX9I-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','fisher-price', ]
+tags: [ 'fisher-price', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

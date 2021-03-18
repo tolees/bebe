@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBCDY2T-es Manta de Bebé Lactancia Alimentación Paños de Muselina...'
 sku: 'B07CBCDY2T-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','lactancia','muselina','portabebé', ]
+tags: [ 'bebé','lactancia','muselina','portabebé', ]
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

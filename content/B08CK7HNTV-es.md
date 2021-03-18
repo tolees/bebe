@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CK7HNTV-es Panamar Niños Bebé Cute Cartoon Ballena Flotante...'
 sku: 'B08CK7HNTV-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

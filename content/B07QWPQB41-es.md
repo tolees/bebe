@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWPQB41-es Cubierta de lactancia para bebés y poncho de lactancia -...'
 sku: 'B07QWPQB41-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','lactancia', ]
+tags: [ 'bebés','lactancia', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

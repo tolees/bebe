@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM2YGKK-es Promise Babe Cuentas de Silicona Dentición del Bebé...'
 sku: 'B07JM2YGKK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

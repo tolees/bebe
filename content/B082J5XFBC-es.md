@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082J5XFBC-es HOMYBABY Reductor WC Niños | Adaptador WC Niños para...'
 sku: 'B082J5XFBC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

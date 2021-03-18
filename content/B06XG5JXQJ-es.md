@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG5JXQJ-es Chicco Physio Soft Pack de 2 Chupetes de Silicona 6-16...'
 sku: 'B06XG5JXQJ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco','chupetes', ]
+tags: [ 'chicco','chupetes', ]
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

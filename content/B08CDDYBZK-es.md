@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDDYBZK-es AYIYO - Pantalones cortos de algodón y lino para bebés de...'
 sku: 'B08CDDYBZK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

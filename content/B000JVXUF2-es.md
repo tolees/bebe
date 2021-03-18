@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000JVXUF2-es Nuby ID91164 Set De Recipientes Herméticos Multicolor 300...'
 sku: 'B000JVXUF2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','nuby', ]
+tags: [ 'nuby', ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

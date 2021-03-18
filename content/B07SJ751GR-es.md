@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ751GR-es Adidas Tensaur I Zapatillas de Estar por casa Bebé Unisex...'
 sku: 'B07SJ751GR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

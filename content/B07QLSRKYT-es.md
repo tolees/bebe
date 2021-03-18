@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLSRKYT-es Viedouce Mochilas para Pañales Biberones Bolso del Bebé...'
 sku: 'B07QLSRKYT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','biberones','pañal','pañales', ]
+tags: [ 'bebé','biberones','pañal','pañales', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

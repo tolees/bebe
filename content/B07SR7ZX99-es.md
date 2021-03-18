@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR7ZX99-es Cadena Chupetes Personalizado con Nombre Koala Mordedor...'
 sku: 'B07SR7ZX99-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chupete','chupetes', ]
+tags: [ 'chupete','chupetes', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

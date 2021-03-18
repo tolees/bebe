@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ4GKYZ-es Tommy Hilfiger Simon Skinny Glfbst Jeans Azul Glen Fresh...'
 sku: 'B07JZ4GKYZ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

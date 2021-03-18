@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4NLLN2-es Harxin Baby Travel Potty Asiento de Inodoro Portátil para...'
 sku: 'B08C4NLLN2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KLYGZX-es Huggies Ultra Comfort Pañal Braguita Talla 5 12-17 kg -...'
 sku: 'B074KLYGZX-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','huggies','pañal','pañales', ]
+tags: [ 'huggies','pañal','pañales', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

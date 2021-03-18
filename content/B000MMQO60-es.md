@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MMQO60-es Philips Avent SCF157/02 - 2 Conchas protectoras ventiladas...'
 sku: 'B000MMQO60-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent', ]
+tags: [ 'avent', ]
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

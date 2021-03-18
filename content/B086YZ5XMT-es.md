@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YZ5XMT-es DeoMeat Cadenas Chupete Clips de Chupete de bebé para...'
 sku: 'B086YZ5XMT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','chupete', ]
+tags: [ 'bebé','chupete', ]
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

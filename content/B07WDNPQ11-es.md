@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDNPQ11-es BabbleRoo Mochilas de Pañales para Bebé Gran Capacidad...'
 sku: 'B07WDNPQ11-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','pañales', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

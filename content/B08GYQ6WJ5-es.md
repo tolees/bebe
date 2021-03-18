@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GYQ6WJ5-es Hawiton Camisón para Mujer Algodón Invierno Manga Largo...'
 sku: 'B08GYQ6WJ5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

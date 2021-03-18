@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LXQVA4-es Fisher-Price Saltador animalitos de la selva para bebé +1...'
 sku: 'B000LXQVA4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','fisher-price', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 121.89 EUR
 currency: EUR
 price: 121.89

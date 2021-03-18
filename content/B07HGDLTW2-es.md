@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGDLTW2-es Bébé Confort LARA Nomad Sand - Cochecito ultracompacto...'
 sku: 'B07HGDLTW2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bébé','confort', ]
+tags: [ 'bébé','confort', ]
 actualPrice: 191.2 EUR
 currency: EUR
 price: 191.2

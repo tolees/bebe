@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T9KZPNY-es NUK Botella de 360 ml de silicona Chupete Tamaño 2 M Drilling'
 sku: 'B00T9KZPNY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chupete','nuk', ]
+tags: [ 'chupete','nuk', ]
 actualPrice: 10.72 EUR
 currency: EUR
 price: 10.72

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JKK6L6-es Bom Bom Bebe Navidad Pelele para Dormir Monos Bodies Manga...'
 sku: 'B075JKK6L6-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

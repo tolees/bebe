@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0TGW5L-es Fisher-Price Saltador activity de perrito juguete para...'
 sku: 'B01N0TGW5L-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','fisher-price', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 103.49 EUR
 currency: EUR
 price: 103.49

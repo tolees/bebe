@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MXKV4Y-es WYT Almohada Bebé Cojín Recién nacido para Anti...'
 sku: 'B075MXKV4Y-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

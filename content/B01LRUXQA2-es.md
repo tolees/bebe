@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LRUXQA2-es Hauck Close N Stop - Puerta de Seguridad con Extensión de...'
 sku: 'B01LRUXQA2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

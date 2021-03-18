@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBNX7J5-es Luz Nocturna Infantil con Control Remoto y Táctil 9...'
 sku: 'B07PBNX7J5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

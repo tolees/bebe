@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0842RDGKR-es Cerdá Bebe-100% algodón Pelele Winnie The Pooh de Bebe...'
 sku: 'B0842RDGKR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebés', ]
+tags: [ 'bebe','bebés', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

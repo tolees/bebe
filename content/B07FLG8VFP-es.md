@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLG8VFP-es Philips Avent Biberón Natural SCF035/17 - Biberón de 260...'
 sku: 'B07FLG8VFP-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','biberón', ]
+tags: [ 'avent','biberón', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

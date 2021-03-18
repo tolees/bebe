@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JYXL5M-es El motor eléctrico se basa leche Nuby Natural Touch'
 sku: 'B006JYXL5M-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','nuby', ]
+tags: [ 'nuby', ]
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

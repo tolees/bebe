@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MRWJCB5-es Nenuco Pack Cuidado Classic con 2 geles de ducha 1 colonia...'
 sku: 'B07MRWJCB5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','nenuco', ]
+tags: [ 'nenuco', ]
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

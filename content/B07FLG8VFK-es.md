@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLG8VFK-es Philips Avent Biberón Natural SCF070/22 - Biberón de 260...'
 sku: 'B07FLG8VFK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','biberón', ]
+tags: [ 'avent','biberón', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

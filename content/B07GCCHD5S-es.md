@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCCHD5S-es Tommee Tippee Juguete transpirable Eddy el Elefante'
 sku: 'B07GCCHD5S-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','tommee', ]
+tags: [ 'tommee', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

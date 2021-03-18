@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DSKSEZC-es Cybex - Silla de coche grupo 1/2/3 Pallas silla de coche 2...'
 sku: 'B00DSKSEZC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','cybex','de','isofix','silla', ]
+tags: [ 'coche','cybex','de','isofix','silla', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

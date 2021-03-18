@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M2VII0S-es Silicona De Enfermería De Dentición Lactancia Materna...'
 sku: 'B01M2VII0S-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','lactancia', ]
+tags: [ 'bebé','lactancia', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

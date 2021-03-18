@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z5QCGWC-es LEADSTAR Bolsa de Pañales 3 PCS Wetbag Lavable...'
 sku: 'B07Z5QCGWC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','pañales', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I2KYSPI-es Nuk - Detergente líquido especialmente para...'
 sku: 'B00I2KYSPI-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','nuk', ]
+tags: [ 'bebé','nuk', ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

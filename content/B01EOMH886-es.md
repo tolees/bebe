@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOMH886-es Parasol de Coche para Bebés Ventana 2 Pack PEMOTech®...'
 sku: 'B01EOMH886-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

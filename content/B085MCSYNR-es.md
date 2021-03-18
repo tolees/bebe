@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085MCSYNR-es Agger Silicona Biberón Botella de alimentación a Prueba de...'
 sku: 'B085MCSYNR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','biberón', ]
+tags: [ 'bebé','biberón', ]
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

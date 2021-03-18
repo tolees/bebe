@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NRZL1DK-es Safety 1st 33110128 - Espejo trasero color negro'
 sku: 'B00NRZL1DK-es'
-tags: [ '1st','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','safety', ]
+tags: [ '1st','safety', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

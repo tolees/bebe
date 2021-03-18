@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWL6NRN-es Nuk Sports Cup - Botella para aprender a beber antigoteo...'
 sku: 'B07YWL6NRN-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','nuk', ]
+tags: [ 'nuk', ]
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

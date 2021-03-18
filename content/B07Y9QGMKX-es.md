@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9QGMKX-es DAYNEW 5 Pares de Calcetines Antideslizantes para bebé...'
 sku: 'B07Y9QGMKX-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

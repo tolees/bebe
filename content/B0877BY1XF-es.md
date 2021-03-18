@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0877BY1XF-es Dodot Pants Pañal - Braguita Talla 7 92 Pañales 17 kg +...'
 sku: 'B0877BY1XF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','dodot','pañal','pañales', ]
+tags: [ 'dodot','pañal','pañales', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

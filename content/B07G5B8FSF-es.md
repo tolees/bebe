@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5B8FSF-es Ronda Impermeable Bebé Niños Baño Libro Early Educational...'
 sku: 'B07G5B8FSF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

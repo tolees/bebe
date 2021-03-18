@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JS9GCJ6-es Chicco Ohlala - Silla de paseo ultraligera y compacta 3 8...'
 sku: 'B01JS9GCJ6-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

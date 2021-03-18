@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DZYP1B-es Fular Portabebe Newlemo Portabebes - Hecho de Tela Suave y...'
 sku: 'B089DZYP1B-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','portabebe','portabebes', ]
+tags: [ 'bebés','portabebe','portabebes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

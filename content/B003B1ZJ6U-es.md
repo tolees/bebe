@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003B1ZJ6U-es Lacor 61940 - Botella biberón 400 ml color blanco'
 sku: 'B003B1ZJ6U-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón', ]
+tags: [ 'biberón', ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

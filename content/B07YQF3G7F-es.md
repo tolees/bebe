@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQF3G7F-es Almirón Galletitas sin gluten a partir de los 4 meses 180g'
 sku: 'B07YQF3G7F-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','almirón', ]
+tags: [ 'almirón', ]
 actualPrice: 1.34 EUR
 currency: EUR
 price: 1.34

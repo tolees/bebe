@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CHNV3S-es LNIEGE - Asiento de Seguridad para Coche con Ventosa...'
 sku: 'B081CHNV3S-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 2.43 EUR
 currency: EUR
 price: 2.43

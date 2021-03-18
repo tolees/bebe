@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFNF8QK-es Cuckool-5 test de embarazo ultrasensibles 10mIU/ml 5 HCG'
 sku: 'B07KFNF8QK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

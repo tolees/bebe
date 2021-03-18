@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ51GX4-es Tommy Hilfiger Recycled Short Puffer Chaqueta Azul Black...'
 sku: 'B07JZ51GX4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

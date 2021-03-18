@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LRUWOIC-es Hauck Citi Neo II - Silla de paseo de 3 ruedas 0 meses -...'
 sku: 'B01LRUWOIC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 84.17 EUR
 currency: EUR
 price: 84.17

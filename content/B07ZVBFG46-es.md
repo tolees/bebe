@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVBFG46-es AMZTM Dinosaurio Camiseta de Cumpleaños - 1er Cumpleaños...'
 sku: 'B07ZVBFG46-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

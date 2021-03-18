@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GW9LD6Y-es Gankmachine Ángulo bebé recién Nacido ala de la Pluma y de...'
 sku: 'B07GW9LD6Y-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

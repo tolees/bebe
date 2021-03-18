@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKNVSQK-es Miracle Baby Mantas de Muselina Suave 70% Bambú 30%...'
 sku: 'B07CKNVSQK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','muselina', ]
+tags: [ 'bebe','muselina', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

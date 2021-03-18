@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDCYPP4-es Hauck Stop N Safe 2 puerta de seguridad incluido extensión...'
 sku: 'B07XDCYPP4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

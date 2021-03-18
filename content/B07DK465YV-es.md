@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK465YV-es Geox Tapuz Bebe Sandalia Niño Transpirantes para Bebés...'
 sku: 'B07DK465YV-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebés', ]
+tags: [ 'bebe','bebés', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

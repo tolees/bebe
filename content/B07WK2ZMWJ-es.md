@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WK2ZMWJ-es ANGELBLISS Alimentador antiahogo bebe chupete fruta bebe...'
 sku: 'B07WK2ZMWJ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','chupete', ]
+tags: [ 'bebe','chupete', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

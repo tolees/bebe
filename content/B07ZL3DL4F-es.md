@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZL3DL4F-es Maxi-Cosi RodiFix AirProtect Silla coche grupo 2/3 isofix...'
 sku: 'B07ZL3DL4F-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','grupo','isofix','maxi-cosi','silla', ]
+tags: [ 'coche','grupo','isofix','maxi-cosi','silla', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

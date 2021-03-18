@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895XJSQJ-es Bst4UDirect Bebés Natación Anillo Recién Nacido Bebé...'
 sku: 'B0895XJSQJ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

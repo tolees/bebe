@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SN4DYXP-es Umi. Essentials - Auriculares de botón inalámbricos TWS W9...'
 sku: 'B07SN4DYXP-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

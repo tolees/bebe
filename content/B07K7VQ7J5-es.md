@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7VQ7J5-es Britax Römer Kidfix² S Blue Marble'
 sku: 'B07K7VQ7J5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','römer', ]
+tags: [ 'römer', ]
 actualPrice: 196.12 EUR
 currency: EUR
 price: 196.12

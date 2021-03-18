@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M75FZ4M-es Blevit Plus Superfibra 8 Cereales con Miel 1 unidad 600...'
 sku: 'B00M75FZ4M-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','blevit', ]
+tags: [ 'blevit', ]
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075D5PWJN-es Britax Römer FIRST CLASS PLUS - Silla de Coche Nacimiento...'
 sku: 'B075D5PWJN-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','de','römer','silla', ]
+tags: [ 'coche','de','römer','silla', ]
 actualPrice: 170.24 EUR
 currency: EUR
 price: 170.24

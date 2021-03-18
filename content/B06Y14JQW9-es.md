@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y14JQW9-es Baby Jogger BJ2012299 - Kit de capazo'
 sku: 'B06Y14JQW9-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','baby','jogger', ]
+tags: [ 'baby','jogger', ]
 actualPrice: 107.51 EUR
 currency: EUR
 price: 107.51

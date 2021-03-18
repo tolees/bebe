@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WM7LGW-es Philips Avent SCF152/01 - Pezonera para curar pezones...'
 sku: 'B000WM7LGW-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','embarazo', ]
+tags: [ 'avent','embarazo', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

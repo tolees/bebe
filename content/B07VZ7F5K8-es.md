@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZ7F5K8-es HOTLIKE 3x Bolsa de Pañales Reutilizable Wetbag Bolsa con...'
 sku: 'B07VZ7F5K8-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','pañales', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

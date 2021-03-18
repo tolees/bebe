@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5F8LRG-es Baby Jogger City Tour LUX DUO Cochecito de Bebé Desde...'
 sku: 'B07M5F8LRG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','baby','bebé','jogger', ]
+tags: [ 'baby','bebé','jogger', ]
 actualPrice: 211.41 EUR
 currency: EUR
 price: 211.41

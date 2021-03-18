@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZYVJ7K-es 2 Pares Calcetines/Medias de Compresión para Hombres y...'
 sku: 'B07PZYVJ7K-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

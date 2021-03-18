@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3NPWF2-es Chicco Wellbeing - Set de regalo con biberón chupete y...'
 sku: 'B01E3NPWF2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','chicco','chupete', ]
+tags: [ 'biberón','chicco','chupete', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

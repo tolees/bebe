@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088LWQ9BB-es KRY Ear Wax Remover Limpiadores de oídos Soft Tips...'
 sku: 'B088LWQ9BB-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

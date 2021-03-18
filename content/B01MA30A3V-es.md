@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MA30A3V-es Britax Römer Silla de coche Nacimiento - 4 años hasta 18...'
 sku: 'B01MA30A3V-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','de','römer','silla', ]
+tags: [ 'coche','de','römer','silla', ]
 actualPrice: 155.57 EUR
 currency: EUR
 price: 155.57

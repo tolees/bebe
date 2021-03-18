@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFB9GQB-es 15 unids/rollo bolsas de pañales para bebés desechables...'
 sku: 'B07LFB9GQB-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés','pañales', ]
+tags: [ 'bebé','bebés','pañales', ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PNHZPN-es LNIEGE Anillo de bebé Mam Transparentes de Silicona...'
 sku: 'B086PNHZPN-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','chupete', ]
+tags: [ 'bebé','chupete', ]
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

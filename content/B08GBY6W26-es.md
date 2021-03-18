@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GBY6W26-es Bola de pulverización de Agua eléctrica Inducción...'
 sku: 'B08GBY6W26-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

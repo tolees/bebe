@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QQM733I-es Munchkin - Espejo musical con luz Day & Night'
 sku: 'B00QQM733I-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

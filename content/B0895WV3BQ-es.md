@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895WV3BQ-es Bebé Pantalones Cortos Niñas Niños Bombacho Estampado...'
 sku: 'B0895WV3BQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','pañal', ]
+tags: [ 'bebé','pañal', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

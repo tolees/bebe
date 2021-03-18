@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MS3UDJU-es Maxi-Cosi CabrioFix Silla de auto reclinable y seguro para...'
 sku: 'B00MS3UDJU-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','maxi-cosi', ]
+tags: [ 'bebé','maxi-cosi', ]
 actualPrice: 117.0 EUR
 currency: EUR
 price: 117.0

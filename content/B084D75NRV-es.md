@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084D75NRV-es Bisoo - 70x140 cm Protector de Colchón Bebé + Sabana...'
 sku: 'B084D75NRV-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','maxicuna', ]
+tags: [ 'bebé','maxicuna', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

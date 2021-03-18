@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X74RHHD-es Trona para Bebe Evolutiva Ajustable y Plegable - 7 Alturas...'
 sku: 'B07X74RHHD-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebé','trona', ]
+tags: [ 'bebe','bebé','trona', ]
 actualPrice: 121.97 EUR
 currency: EUR
 price: 121.97

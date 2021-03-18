@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014W2CSPG-es Bébé Confort MILOFIX - Silla de auto de 0 a 4 años R44/04...'
 sku: 'B014W2CSPG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bébé','confort', ]
+tags: [ 'bébé','confort', ]
 actualPrice: 204.34 EUR
 currency: EUR
 price: 204.34

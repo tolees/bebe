@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018HAV95O-es Tommee Tippee - Kit de iniciación para recién nacido...'
 sku: 'B018HAV95O-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','tommee', ]
+tags: [ 'tommee', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

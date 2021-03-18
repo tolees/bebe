@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722YDZF5-es Tiny Love Dynamic Gymini Gimnasio musical de actividades...'
 sku: 'B0722YDZF5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

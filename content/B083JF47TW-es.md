@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JF47TW-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
 sku: 'B083JF47TW-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

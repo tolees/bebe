@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CG4YJCY-es SOYAR® mordedor bebé - Pulpo juguete y el 100% BPA de...'
 sku: 'B07CG4YJCY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TFGLRV-es Dookey Piscina Inflable para Bebés Hinchable Infantil...'
 sku: 'B083TFGLRV-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

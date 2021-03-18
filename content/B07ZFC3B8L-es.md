@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFC3B8L-es Luz Nocturna Infantil Tekemai Luz de Noche Bebé Lámpara de...'
 sku: 'B07ZFC3B8L-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

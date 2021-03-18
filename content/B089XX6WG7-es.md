@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089XX6WG7-es Opret Cubiteras para Hielo Silicona 2 pcs Cubitos de Hielo...'
 sku: 'B089XX6WG7-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

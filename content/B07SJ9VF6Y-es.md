@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ9VF6Y-es Lebze Muselina Manta Bebé | Mantas de Muselina de Bambú...'
 sku: 'B07SJ9VF6Y-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','muselina', ]
+tags: [ 'bebé','muselina', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

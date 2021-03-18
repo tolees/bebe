@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JECIFHU-es Huggies Little Swimmers Pañal Bañador Desechable Talla 5-6...'
 sku: 'B00JECIFHU-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','huggies','pañal', ]
+tags: [ 'huggies','pañal', ]
 actualPrice: 8.46 EUR
 currency: EUR
 price: 8.46

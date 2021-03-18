@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CH3G6G-es Almohada linda encantadora del patrón de dibujos animados...'
 sku: 'B085CH3G6G-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

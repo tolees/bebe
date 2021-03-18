@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WY4TVCC-es jerryvon Dinosaurios Juguetes Bebe - Electronico Caminando...'
 sku: 'B07WY4TVCC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

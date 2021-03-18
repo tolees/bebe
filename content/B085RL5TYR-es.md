@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RL5TYR-es Libershine Cubierta De La Lactancia Del Bebé Gran calidad...'
 sku: 'B085RL5TYR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés','lactancia', ]
+tags: [ 'bebé','bebés','lactancia', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

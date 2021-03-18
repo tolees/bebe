@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFSG6SZ-es Horquillas Pelo Niña Remebe 36 Piezas Pinzas Niña e Gomas...'
 sku: 'B07YFSG6SZ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

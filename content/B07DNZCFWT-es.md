@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNZCFWT-es Termómetro Digital Frente y Oído 4 in 1 Termómetro...'
 sku: 'B07DNZCFWT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

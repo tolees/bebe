@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKV17QQ-es Sanetta Sweatshirt Sudadera Rojo LAX Red 38054 62 Talla...'
 sku: 'B07HKV17QQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 6.73 EUR
 currency: EUR
 price: 6.73

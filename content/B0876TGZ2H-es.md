@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876TGZ2H-es Bebé Mono Mameluco de Manga Larga Niños Niñas Body Peleles...'
 sku: 'B0876TGZ2H-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

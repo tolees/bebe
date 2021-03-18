@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07575VMGK-es Chicco - Set de 2 sábanas bajeras ajustable para mini cuna...'
 sku: 'B07575VMGK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

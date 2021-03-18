@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Z17XPP-es Tommee Tippee 42257975 - Biberón anticólico 340 ml rosa'
 sku: 'B079Z17XPP-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','tommee', ]
+tags: [ 'biberón','tommee', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

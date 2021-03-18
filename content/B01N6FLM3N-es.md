@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6FLM3N-es Motorola MBP 481 - Vigilabebés vídeo con pantalla LCD a...'
 sku: 'B01N6FLM3N-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','vigilabebés', ]
+tags: [ 'vigilabebés', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

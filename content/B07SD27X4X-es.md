@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD27X4X-es Lictin Sacaleches Eléctrico - Extractor de Leche con...'
 sku: 'B07SD27X4X-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia','sacaleches', ]
+tags: [ 'lactancia','sacaleches', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

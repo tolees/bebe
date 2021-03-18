@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H8MW3V2-es Tigex Set de cepillos de dientes para bebé'
 sku: 'B00H8MW3V2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

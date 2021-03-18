@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZKRWZ6-es Tommy Hilfiger Logo tee S/s Camiseta Azul Saxony Blue 491...'
 sku: 'B07JZKRWZ6-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

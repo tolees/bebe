@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRBZ8RM-es PEKITAS Lote 2 Unidades Barrera Protector de Espuma Para...'
 sku: 'B07KRBZ8RM-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

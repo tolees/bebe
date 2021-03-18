@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7RYMRQ-es TOYANDONA 1pc pezones de bebé pezones creativos biberones...'
 sku: 'B07W7RYMRQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','biberones', ]
+tags: [ 'bebé','biberones', ]
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

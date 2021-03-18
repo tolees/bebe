@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RK13T6D-es Termómetro para Bebé Vigorun Termómetro de Frente y Oídos...'
 sku: 'B07RK13T6D-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

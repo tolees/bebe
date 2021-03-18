@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KC4XVC-es Bebé Niños Niñas Lindo Ratón 1er / 2do / 3er Cumpleaños 3...'
 sku: 'B075KC4XVC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

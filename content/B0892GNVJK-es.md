@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892GNVJK-es EKKONG Flotador Bebé Flotador Inflable para Bebé Anillo de...'
 sku: 'B0892GNVJK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FKEZ7E-es BÉABA Babycook Duo Robot de cocina para bebés 4 en 1...'
 sku: 'B019FKEZ7E-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','babycook','bebés', ]
+tags: [ 'babycook','bebés', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

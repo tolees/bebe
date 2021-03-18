@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H6VPX6Q-es Eudora Harmony Ball Llamador de Angeles Embarazada...'
 sku: 'B01H6VPX6Q-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazada', ]
+tags: [ 'embarazada', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

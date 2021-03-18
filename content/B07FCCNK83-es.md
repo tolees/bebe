@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCCNK83-es Pañal Bolso Mochila Gran Capacidad Mochila de Pañales...'
 sku: 'B07FCCNK83-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','pañal','pañales', ]
+tags: [ 'bebé','pañal','pañales', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

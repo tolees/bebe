@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJR25X1-es Hauck Rapid 4X Silla de paseo ligera desde nacimiento...'
 sku: 'B07FJR25X1-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

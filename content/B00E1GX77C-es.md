@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E1GX77C-es Béaba 915009 - Hamaca para bebé regulable en altura'
 sku: 'B00E1GX77C-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 116.46 EUR
 currency: EUR
 price: 116.46

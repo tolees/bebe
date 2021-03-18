@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Q9DDHP-es Aspirador Nasal Bebes Aspirador Nasal Aspirador Nasal Bebe...'
 sku: 'B085Q9DDHP-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

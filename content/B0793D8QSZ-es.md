@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793D8QSZ-es BABYBJÖRN One Air - Mochila Porta Bebé 3D Tejido de red...'
 sku: 'B0793D8QSZ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

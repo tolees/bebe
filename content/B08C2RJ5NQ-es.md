@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C2RJ5NQ-es HOMCOM Coche Correpasillos para Bebés Mayores de 1 Año...'
 sku: 'B08C2RJ5NQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

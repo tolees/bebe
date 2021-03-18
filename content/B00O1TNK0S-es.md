@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O1TNK0S-es Play Scout 30185 - Silla de coche grupo 0+/1/2 0 - 25 kg...'
 sku: 'B00O1TNK0S-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','de','silla', ]
+tags: [ 'coche','de','silla', ]
 actualPrice: 94.07 EUR
 currency: EUR
 price: 94.07

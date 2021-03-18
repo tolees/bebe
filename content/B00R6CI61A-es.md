@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R6CI61A-es Fisher-Price - Gimnasio musical animalitos - gimnasios...'
 sku: 'B00R6CI61A-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','fisher-price', ]
+tags: [ 'bebe','fisher-price', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

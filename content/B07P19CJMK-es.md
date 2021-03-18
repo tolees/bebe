@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P19CJMK-es Sotech Columpio Eléctrico para Bebés Columpio de bebé con...'
 sku: 'B07P19CJMK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebé','bebés', ]
+tags: [ 'bebe','bebé','bebés', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

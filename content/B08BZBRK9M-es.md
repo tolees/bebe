@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZBRK9M-es 3d night light led illusion night Tigre Night Light para...'
 sku: 'B08BZBRK9M-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

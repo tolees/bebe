@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJN837K-es HyAdierTech Protector de Asiento de Coche Premium Cubierta...'
 sku: 'B07RJN837K-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','isofix', ]
+tags: [ 'isofix', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

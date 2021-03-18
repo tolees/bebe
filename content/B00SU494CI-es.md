@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SU494CI-es Todeco - Bouncer para Bebés Cuna Bouncer - Tamaño: 80 x 51...'
 sku: 'B00SU494CI-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 34.09 EUR
 currency: EUR
 price: 34.09

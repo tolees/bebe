@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VJ3HW3-es Portátil al aire libre de gran capacidad para bebés leche...'
 sku: 'B084VJ3HW3-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

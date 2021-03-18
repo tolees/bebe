@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018D8YZU6-es Vizaro - Cambiador Bebé Textil Acolchado - Portátil - Muy...'
 sku: 'B018D8YZU6-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPNL4CH-es Besrey Mochilas Senderismo Mochilas Portabebés Portador de...'
 sku: 'B07NPNL4CH-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','portabebé','portabebés', ]
+tags: [ 'bebé','portabebé','portabebés', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1LLTTF-es Cámara Bebé 1080P Cámara IP JUMPER Cámara de Seguridad...'
 sku: 'B07Y1LLTTF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

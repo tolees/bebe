@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRWYWM1-es Nuby - Bañera para bebé con asiento integrado y...'
 sku: 'B07KRWYWM1-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','nuby', ]
+tags: [ 'bebé','nuby', ]
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05

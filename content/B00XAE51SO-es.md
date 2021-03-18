@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAE51SO-es Air Wick Freshmatic - Recambios de Ambientador Spray...'
 sku: 'B00XAE51SO-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','nenuco', ]
+tags: [ 'nenuco', ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

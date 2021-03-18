@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMHSK5L-es Philips Avent SCF043/27-2 - Tetinas natural flujo medio...'
 sku: 'B07DMHSK5L-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','tetinas', ]
+tags: [ 'avent','tetinas', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

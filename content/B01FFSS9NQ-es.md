@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFSS9NQ-es Suavinex – Gel-champú espumoso para bebés. No Pica en los...'
 sku: 'B01FFSS9NQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','suavinex', ]
+tags: [ 'suavinex', ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

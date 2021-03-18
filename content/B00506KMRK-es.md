@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00506KMRK-es Munchkin 12501 Cubo Desechable & Portátil para Pañales...'
 sku: 'B00506KMRK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','munchkin','pañales', ]
+tags: [ 'munchkin','pañales', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

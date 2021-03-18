@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01591NZII-es Munchkin Miracle 360°- Vaso de Entrenamiento Antiderrames...'
 sku: 'B01591NZII-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

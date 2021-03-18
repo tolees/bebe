@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGGZ5TH-es Manta Dragón Bebe Personalizada con Nombre. Regalo Bebé...'
 sku: 'B07WGGZ5TH-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebé', ]
+tags: [ 'bebe','bebé', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

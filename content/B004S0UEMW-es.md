@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004S0UEMW-es Chicco Happy Hand - Set de cuidado de uñas para bebés:...'
 sku: 'B004S0UEMW-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

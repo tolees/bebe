@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYLXCRB-es Johnson s Baby Loción Calma la piel seca de tu bebé - 3 x...'
 sku: 'B07RYLXCRB-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

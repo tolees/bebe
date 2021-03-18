@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLLBQG2-es Antipodes Merino Saco de Dormir para bebé niño y niña -...'
 sku: 'B07NLLBQG2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

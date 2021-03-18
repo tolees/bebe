@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QH65GT5-es Chicco Lamparita Dulces Sueños - Lámpara quita miedos anti...'
 sku: 'B07QH65GT5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

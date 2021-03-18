@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWF5R3G-es Philips Avent SCF376/11 - Pack de 2 chupetes Ultra Air...'
 sku: 'B07SWF5R3G-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYLF1V2-es Tommy Hilfiger 1985 Straight Mmst Jeans Azul Denim 911 95...'
 sku: 'B07JYLF1V2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086CWDMY5-es Wangxyan Red de Viaje portátil para bebés Tapa de Paraguas...'
 sku: 'B086CWDMY5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076H8BXPQ-es Tuc Tuc 05789 - Trona'
 sku: 'B076H8BXPQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','trona', ]
+tags: [ 'trona', ]
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C26KK0U-es Philips Avent SCF766/00 Vaso aislado con paja 260 ml azul...'
 sku: 'B00C26KK0U-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent', ]
+tags: [ 'avent', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

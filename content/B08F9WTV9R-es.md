@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F9WTV9R-es Mochilas para Pañales Biberones Multifuncional Impermeable...'
 sku: 'B08F9WTV9R-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','biberones','pañales', ]
+tags: [ 'bebe','biberones','pañales', ]
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

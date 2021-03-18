@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NML6DG-es qingqingR Anillo de natación para bebés Anillo de natación...'
 sku: 'B089NML6DG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 19.73 EUR
 currency: EUR
 price: 19.73

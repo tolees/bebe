@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QG5L8H-es Chicco Baby Hug 4en1 Sistema multifunción: moisés hamaca...'
 sku: 'B076QG5L8H-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco','trona', ]
+tags: [ 'chicco','trona', ]
 actualPrice: 179 EUR
 currency: EUR
 price: 179

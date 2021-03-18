@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AI5NZDG-es WELEDA Gel Dentífrico para Niños 1x 50 ml'
 sku: 'B00AI5NZDG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','weleda', ]
+tags: [ 'weleda', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTGBSLA-es PEKITAS Bebe Capa De Baño Con Capucha y Manopla 75x75 cm...'
 sku: 'B01MTGBSLA-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

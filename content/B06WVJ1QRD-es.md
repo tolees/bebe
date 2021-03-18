@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVJ1QRD-es Safety 1st Travel Booster Trona de viaje portátil Asiento...'
 sku: 'B06WVJ1QRD-es'
-tags: [ '1st','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','safety','trona', ]
+tags: [ '1st','bebés','safety','trona', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

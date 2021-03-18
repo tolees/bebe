@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7R5S2W-es Britax Römer Kidfix² R Cosmos Black'
 sku: 'B07K7R5S2W-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','römer', ]
+tags: [ 'römer', ]
 actualPrice: 167.0 EUR
 currency: EUR
 price: 167.0

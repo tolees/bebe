@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ43ZXY-es Dodot Activity Pañales Talla 5+ 96 Pañales - 12-17 kg'
 sku: 'B07QZ43ZXY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','dodot','pañales', ]
+tags: [ 'dodot','pañales', ]
 actualPrice: 29.15 EUR
 currency: EUR
 price: 29.15

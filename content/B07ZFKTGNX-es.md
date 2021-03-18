@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFKTGNX-es ZXYAN Biberón de Silicona Blanca Alimentador de Cuchara...'
 sku: 'B07ZFKTGNX-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón', ]
+tags: [ 'biberón', ]
 actualPrice: 5.03 EUR
 currency: EUR
 price: 5.03

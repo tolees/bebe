@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002UO7WUK-es Playgro Set de Animales Rociadores Azul/Verde 8 figuras...'
 sku: 'B002UO7WUK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','playgro', ]
+tags: [ 'playgro', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XMC8K4Q-es LEADSTAR Montessori Activity Wooden Toy Cordón Madera...'
 sku: 'B07XMC8K4Q-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

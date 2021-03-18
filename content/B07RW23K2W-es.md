@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RW23K2W-es Cloud Kids - Pantalones cortos para bebé o niña de algodón...'
 sku: 'B07RW23K2W-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

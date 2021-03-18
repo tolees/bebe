@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006LXCHWY-es Nenuco - Pañales de Colores Famosa 700009027'
 sku: 'B006LXCHWY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','nenuco','pañales', ]
+tags: [ 'nenuco','pañales', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

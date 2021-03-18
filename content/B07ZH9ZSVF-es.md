@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZH9ZSVF-es Blevit Plus Papilla Multicereales Quinoa Bio 1 Unidad 250...'
 sku: 'B07ZH9ZSVF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','blevit', ]
+tags: [ 'blevit', ]
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

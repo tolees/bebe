@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829VVWWR-es Termómetro médico de Fieberthermometer por infrarrojos de...'
 sku: 'B0829VVWWR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

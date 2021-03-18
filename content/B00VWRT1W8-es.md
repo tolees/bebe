@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VWRT1W8-es Ecus Kids colchón cuna para bebé anti-plagiocefalia - Pigü...'
 sku: 'B00VWRT1W8-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','ecus','kids', ]
+tags: [ 'bebé','ecus','kids', ]
 actualPrice: 110.62 EUR
 currency: EUR
 price: 110.62

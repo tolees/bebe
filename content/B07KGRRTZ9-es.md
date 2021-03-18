@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGRRTZ9-es Safety 1st Calidoo Cuna Colecho e Cuna de viaje 2 in 1...'
 sku: 'B07KGRRTZ9-es'
-tags: [ '1st','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','safety', ]
+tags: [ '1st','safety', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

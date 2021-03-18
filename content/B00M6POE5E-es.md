@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M6POE5E-es Philips Avent Magic - Taza antigoteo de 260 ml color azul'
 sku: 'B00M6POE5E-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent', ]
+tags: [ 'avent', ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

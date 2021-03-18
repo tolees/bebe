@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B32MLB6-es Chicco NaturalFeeling - Set de regalo con 2 biberones...'
 sku: 'B07B32MLB6-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberones','chicco','chupete', ]
+tags: [ 'biberones','chicco','chupete', ]
 actualPrice: 13.44 EUR
 currency: EUR
 price: 13.44

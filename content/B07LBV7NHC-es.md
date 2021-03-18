@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBV7NHC-es Baby Jogger City Tour LUX color azul. Silla de paseo de...'
 sku: 'B07LBV7NHC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','baby','jogger', ]
+tags: [ 'baby','jogger', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

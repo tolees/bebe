@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8ZHJQ4-es Bolsa de Pañales Bebés Sunshine D Bolsa Reutilizable...'
 sku: 'B07H8ZHJQ4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','pañales', ]
+tags: [ 'bebés','pañales', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

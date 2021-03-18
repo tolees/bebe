@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVW7SXH-es Luchild Dispensador de Leche en Polvo Fórmula Portátil...'
 sku: 'B07WVW7SXH-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

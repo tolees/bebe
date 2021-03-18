@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076ZLRF4W-es Lictin 3 Pack baberos suave de silicona impermeables para...'
 sku: 'B076ZLRF4W-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

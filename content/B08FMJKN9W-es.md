@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMJKN9W-es Doaraha Conjunto de Pijamas de Maternidad y Enfermería...'
 sku: 'B08FMJKN9W-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo','lactancia', ]
+tags: [ 'embarazo','lactancia', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

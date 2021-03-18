@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D3HT7FG-es Tena - Pants - Pañales Talla L - 14 unidades'
 sku: 'B00D3HT7FG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','pañales', ]
+tags: [ 'pañales', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

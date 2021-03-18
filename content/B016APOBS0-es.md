@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016APOBS0-es Twistshake 78012 - Biberón color Blanco'
 sku: 'B016APOBS0-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón', ]
+tags: [ 'biberón', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

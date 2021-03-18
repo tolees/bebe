@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FH6S3K0-es Chicco Natural Sensation - Gel de baño Oso 300 ml'
 sku: 'B01FH6S3K0-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco','natural','sensation', ]
+tags: [ 'chicco','natural','sensation', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

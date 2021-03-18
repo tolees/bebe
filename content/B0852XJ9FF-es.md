@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0852XJ9FF-es Panamami Tamaño portátil Niños Niños Bebé Estudio Cámara...'
 sku: 'B0852XJ9FF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

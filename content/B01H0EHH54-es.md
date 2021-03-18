@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H0EHH54-es Foppapedretti Rolling Fix Silla de coche grupo 0+/1 Isofix...'
 sku: 'B01H0EHH54-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','de','isofix','silla', ]
+tags: [ 'coche','de','isofix','silla', ]
 actualPrice: 215.18 EUR
 currency: EUR
 price: 215.18

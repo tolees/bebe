@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016XS3IRY-es Fisher-Price Manzanita Activity juguete colgante para bebé...'
 sku: 'B016XS3IRY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','fisher-price', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

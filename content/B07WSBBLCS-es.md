@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSBBLCS-es Sacaleches Eléctrico Eccomum Sacaleches Doble...'
 sku: 'B07WSBBLCS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','sacaleches', ]
+tags: [ 'sacaleches', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

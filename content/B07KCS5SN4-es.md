@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCS5SN4-es CYBEX - Silla de Paseo Eezy S Plegable con una Mano...'
 sku: 'B07KCS5SN4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','cybex', ]
+tags: [ 'cybex', ]
 actualPrice: 190.46 EUR
 currency: EUR
 price: 190.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CYW9B7O-es Cuna para bebé modelo osito + Colchón Viscoelástico +...'
 sku: 'B01CYW9B7O-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

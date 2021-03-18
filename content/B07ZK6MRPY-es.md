@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZK6MRPY-es HOMCOM Triciclo Bebé Plegable 4 en 1 Trolley Trike...'
 sku: 'B07ZK6MRPY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 79.89 EUR
 currency: EUR
 price: 79.89

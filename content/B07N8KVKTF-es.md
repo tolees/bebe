@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8KVKTF-es HOMYBABY Ganchos Carrito Bebé 2 pcs | Diseño...'
 sku: 'B07N8KVKTF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebé', ]
+tags: [ 'bebe','bebé', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFHRQ7J-es Bébé Confort LARA Cochecito compacto plegable y...'
 sku: 'B07BFHRQ7J-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bébé','confort', ]
+tags: [ 'bébé','confort', ]
 actualPrice: 182.96 EUR
 currency: EUR
 price: 182.96

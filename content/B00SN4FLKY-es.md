@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SN4FLKY-es Chicco Essential Digital - Baby monitor de video con...'
 sku: 'B00SN4FLKY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 157.31 EUR
 currency: EUR
 price: 157.31

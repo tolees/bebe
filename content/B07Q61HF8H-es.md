@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q61HF8H-es Britax Römer Silla de coche 15 meses - 12 años 9 - 36 kg...'
 sku: 'B07Q61HF8H-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','de','isofix','römer','silla', ]
+tags: [ 'coche','de','isofix','römer','silla', ]
 actualPrice: 204.99 EUR
 currency: EUR
 price: 204.99

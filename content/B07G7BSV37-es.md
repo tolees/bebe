@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G7BSV37-es Manta de muselina para bebé suave muselina de algodón para...'
 sku: 'B07G7BSV37-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','muselina', ]
+tags: [ 'bebé','muselina', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

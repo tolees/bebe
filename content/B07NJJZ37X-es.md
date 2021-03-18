@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJZ37X-es Steiff Jogginghose Pantalones de Deporte Azul Patriot Blue...'
 sku: 'B07NJJZ37X-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

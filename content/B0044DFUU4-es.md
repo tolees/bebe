@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044DFUU4-es Weleda - Crema facial de día de Granada 30 ml 1 unidad'
 sku: 'B0044DFUU4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','weleda', ]
+tags: [ 'weleda', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

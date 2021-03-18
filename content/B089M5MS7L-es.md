@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089M5MS7L-es Juguetes Montessori Bebes Educativos de Madera Laberinto...'
 sku: 'B089M5MS7L-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

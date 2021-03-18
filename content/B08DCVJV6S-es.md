@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DCVJV6S-es Luz Nocturna Infantil Glinrui Luz de Noche Bebé Lámpara de...'
 sku: 'B08DCVJV6S-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

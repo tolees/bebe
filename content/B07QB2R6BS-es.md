@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB2R6BS-es Lámparas de Mesa Lampop LED Luz Mesita de Noche Lámpara...'
 sku: 'B07QB2R6BS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

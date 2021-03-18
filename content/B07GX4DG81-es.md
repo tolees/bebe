@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GX4DG81-es Philips Avent SCD301/03 - Set de recién nacido gama...'
 sku: 'B07GX4DG81-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','biberones','chupete', ]
+tags: [ 'avent','biberones','chupete', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

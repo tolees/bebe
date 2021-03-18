@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R9XZ6PM-es laamei Mosquitera Bebé Antiinsectos Universal Mosquitera...'
 sku: 'B07R9XZ6PM-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

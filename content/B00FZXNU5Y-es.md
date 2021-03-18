@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FZXNU5Y-es Suavinex - Biberón Anatómico Flujo Denso Látex 360Ml 6M+...'
 sku: 'B00FZXNU5Y-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','suavinex', ]
+tags: [ 'biberón','suavinex', ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

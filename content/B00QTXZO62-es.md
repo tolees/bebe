@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QTXZO62-es Munchkin Platos con compartimentos Apple 3 unidades'
 sku: 'B00QTXZO62-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

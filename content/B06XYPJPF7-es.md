@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYPJPF7-es NUK First Choice Plus Juego con 4 Anticólico 2 Biberones...'
 sku: 'B06XYPJPF7-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberones','nuk', ]
+tags: [ 'biberones','nuk', ]
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

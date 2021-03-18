@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ2BMN2-es Bolsa de pañales de tela la bolsa de pañales de doble...'
 sku: 'B07PJ2BMN2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','pañales', ]
+tags: [ 'bebés','pañales', ]
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OS823HI-es Motorola Baby MBP 33S - Vigilabebés vídeo con pantalla LCD...'
 sku: 'B00OS823HI-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','vigilabebés', ]
+tags: [ 'vigilabebés', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

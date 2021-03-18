@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CR4NRSY-es Gorro de bebé para recién Nacido Diademas Bebe Unidades...'
 sku: 'B08CR4NRSY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebé', ]
+tags: [ 'bebe','bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

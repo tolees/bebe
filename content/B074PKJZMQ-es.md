@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PKJZMQ-es TYRY.HU dentición collar para mamá para usar silicona...'
 sku: 'B074PKJZMQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

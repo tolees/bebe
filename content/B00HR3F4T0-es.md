@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HR3F4T0-es ISDIN Nutraisdin First Teeth Gel Gingival'
 sku: 'B00HR3F4T0-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','nutraisdin', ]
+tags: [ 'nutraisdin', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

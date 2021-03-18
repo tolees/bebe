@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0743GFV9T-es Tiny Love Meadow Days - Manta de juegos gigante para bebés...'
 sku: 'B0743GFV9T-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

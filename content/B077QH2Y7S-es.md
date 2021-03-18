@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QH2Y7S-es Ergobaby Mochila Portabebés Ergonomicas Coleccion Original...'
 sku: 'B077QH2Y7S-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','portabebés', ]
+tags: [ 'portabebés', ]
 actualPrice: 80.67 EUR
 currency: EUR
 price: 80.67

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003URR2LA-es Suavinex - Pack 28 discos absorbentes Protegésenos Nature....'
 sku: 'B003URR2LA-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','suavinex', ]
+tags: [ 'suavinex', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0816CYCRH-es LNIEGE Bolsa de pañales para bebés Multibolsillos Bolsa de...'
 sku: 'B0816CYCRH-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','pañales', ]
+tags: [ 'bebés','pañales', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

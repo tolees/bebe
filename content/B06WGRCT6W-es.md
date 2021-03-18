@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGRCT6W-es Dcasa DC-2430192 - Cubos de basura para pañales y...'
 sku: 'B06WGRCT6W-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','pañales', ]
+tags: [ 'pañales', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

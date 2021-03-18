@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088ZQFG16-es WISHTIME Sonajeros Bebe para BebéS 12 Piezas De Juguetes...'
 sku: 'B088ZQFG16-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebés', ]
+tags: [ 'bebe','bebés', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

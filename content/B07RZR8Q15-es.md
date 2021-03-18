@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZR8Q15-es Batidora de Vaso AICOOK Batidora 3 en 1 con Molinillo y...'
 sku: 'B07RZR8Q15-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

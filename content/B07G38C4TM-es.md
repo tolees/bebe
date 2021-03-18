@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G38C4TM-es Chicco Echo Silla de paseo ligera y compacta soporta hasta...'
 sku: 'B07G38C4TM-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco', ]
+tags: [ 'chicco', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

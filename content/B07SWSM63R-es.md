@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWSM63R-es Geox B Flexyper Boy A Zapatillas para Bebés Azul Dk...'
 sku: 'B07SWSM63R-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 27.94 EUR
 currency: EUR
 price: 27.94

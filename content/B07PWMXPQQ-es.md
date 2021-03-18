@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWMXPQQ-es Kinderkraft Carrito Bebé 2 en 1 JULI Silla de Paseo Capazo...'
 sku: 'B07PWMXPQQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

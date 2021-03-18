@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B01UB7K-es Suavinex - Escurre Biberones. Secar Biberones. Apto Para...'
 sku: 'B00B01UB7K-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','suavinex', ]
+tags: [ 'suavinex', ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

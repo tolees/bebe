@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H1F2RUS-es Flotador para Bebé Bestway Swim Safe Baby Seat'
 sku: 'B00H1F2RUS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWKG7CL-es Juguetes Colgantes Carrito Bebe Cuna Cochecitos de...'
 sku: 'B07PWKG7CL-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','bebés', ]
+tags: [ 'bebe','bebés', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

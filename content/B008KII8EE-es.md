@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008KII8EE-es Medela Top sujetador extración de leche manos libres talla L'
 sku: 'B008KII8EE-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','medela', ]
+tags: [ 'medela', ]
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

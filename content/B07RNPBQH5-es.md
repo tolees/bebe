@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNPBQH5-es HBselect Sostén De Lactancia Sin Costuras Set 3 pcs...'
 sku: 'B07RNPBQH5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazada','lactancia', ]
+tags: [ 'embarazada','lactancia', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

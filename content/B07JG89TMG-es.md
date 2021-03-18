@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JG89TMG-es Asalvo Mix Plus Capitán - Cuna de viaje Color gris'
 sku: 'B07JG89TMG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','asalvo', ]
+tags: [ 'asalvo', ]
 actualPrice: 63.65 EUR
 currency: EUR
 price: 63.65

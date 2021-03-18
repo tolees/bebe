@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KQKLEJU-es Fisher-Price BHC01 Laugh and Learn - Teléfono inteligente'
 sku: 'B00KQKLEJU-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','fisher-price', ]
+tags: [ 'fisher-price', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

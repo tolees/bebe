@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C71PI4M-es Monvecle - Bermudas - para bebé niña 3 Pack 3 Colors'
 sku: 'B01C71PI4M-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

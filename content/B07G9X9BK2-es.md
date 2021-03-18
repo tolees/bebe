@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9X9BK2-es Adoric Termometro Digital Termometro Bebe Niños y Adultos...'
 sku: 'B07G9X9BK2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

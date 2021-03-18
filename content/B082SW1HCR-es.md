@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SW1HCR-es Ventilador Portátil Versátil de Escritorio Personal...'
 sku: 'B082SW1HCR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

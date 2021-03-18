@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077P7M1ZM-es Fisher-Price - Mi Primer Cubo Fidget Juguete de...'
 sku: 'B077P7M1ZM-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','fisher-price', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

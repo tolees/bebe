@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJS1MWF-es Hot Mom - barandillas de la cama 150 cm para bebés...'
 sku: 'B06XJS1MWF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

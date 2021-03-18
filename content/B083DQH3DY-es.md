@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DQH3DY-es Addmos Juguetes de baño 2 x Juguetes de baño para bebés...'
 sku: 'B083DQH3DY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

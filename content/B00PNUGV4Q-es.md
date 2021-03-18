@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PNUGV4Q-es Adidas Zx Flux - Zapatillas para Bebés Color Negro...'
 sku: 'B00PNUGV4Q-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 44.54 EUR
 currency: EUR
 price: 44.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007ZSTYQQ-es VTech - Pequepatitas Juguete para bebé Color Rojo 80-111222'
 sku: 'B007ZSTYQQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

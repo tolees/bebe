@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNZ46VZ-es Levoit Humidificador Ultrasónico 5 5L Bebés de Vapor...'
 sku: 'B07CNZ46VZ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

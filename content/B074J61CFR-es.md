@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074J61CFR-es DafenQ Lindo Animal La mochila de jardín de infantes...'
 sku: 'B074J61CFR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8RX9TW-es Hawiton Camisón Lactancia Manga Larga Pijama Embarazada...'
 sku: 'B07X8RX9TW-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazada','lactancia', ]
+tags: [ 'embarazada','lactancia', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

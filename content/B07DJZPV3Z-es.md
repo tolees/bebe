@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJZPV3Z-es Geox B Kaytan a Sandalias para Bebés Dk Rose/Gold C8252 24 EU'
 sku: 'B07DJZPV3Z-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 37.03 EUR
 currency: EUR
 price: 37.03

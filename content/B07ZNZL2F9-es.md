@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNZL2F9-es Reductor WC DALMO Adaptador WC ergonómico Tapa WC con...'
 sku: 'B07ZNZL2F9-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

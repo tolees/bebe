@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HBS64C-es Philips Avent SCF343/20 - Pack con 2 chupetes Ultra Air...'
 sku: 'B079HBS64C-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

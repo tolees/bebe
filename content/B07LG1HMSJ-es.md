@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG1HMSJ-es Geox B Kaytan A Zapatillas para Bebés Gris Dk Grey C9002...'
 sku: 'B07LG1HMSJ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 34.89 EUR
 currency: EUR
 price: 34.89

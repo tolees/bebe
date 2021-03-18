@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QTXZ7AK-es Munchkin - Bols Termo sensibles White Hot 3 uds multicolor'
 sku: 'B00QTXZ7AK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

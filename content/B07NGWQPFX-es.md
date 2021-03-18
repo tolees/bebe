@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGWQPFX-es Primigi Pbb 43604 Botas para Bebés Senape 4360444 18 EU'
 sku: 'B07NGWQPFX-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXNP6N8-es Mochila Portabebés Ergonómico Hommie Mochilas para Bebes...'
 sku: 'B07KXNP6N8-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','portabebés', ]
+tags: [ 'portabebés', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

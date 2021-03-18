@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQMJH1P-es LEMESO Universal Mosquitera Carrito Bebé Mosquitera para...'
 sku: 'B07CQMJH1P-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

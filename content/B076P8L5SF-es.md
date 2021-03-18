@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076P8L5SF-es HAPPY MAMA. Mujer Sudadera Capucha Lactancia Premamá...'
 sku: 'B076P8L5SF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHKBMWT-es Qshare - Platos de silicona para bebé una pieza para bebés...'
 sku: 'B07MHKBMWT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

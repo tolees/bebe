@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IDH2PL8-es WandSticker4U - Adhesivo decorativo para pared o ventana...'
 sku: 'B01IDH2PL8-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

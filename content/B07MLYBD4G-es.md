@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLYBD4G-es Geox B Tutim A Zapatillas Bebés Beige Biscuit C5046 23 EU'
 sku: 'B07MLYBD4G-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

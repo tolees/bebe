@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KQ8H3Y-es Star Ibaby Oxford Cloth - Parque de bebés ultraligero'
 sku: 'B075KQ8H3Y-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792FNCPF-es Little Live Bizzy Babies- Bebé con cunita Gracie Famosa...'
 sku: 'B0792FNCPF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

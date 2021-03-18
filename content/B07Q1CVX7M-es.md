@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q1CVX7M-es Safety 1st Crazy Peps Silla Paseo ligera capota con diseño...'
 sku: 'B07Q1CVX7M-es'
-tags: [ '1st','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','safety', ]
+tags: [ '1st','safety', ]
 actualPrice: 36.75 EUR
 currency: EUR
 price: 36.75

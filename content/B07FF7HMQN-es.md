@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FF7HMQN-es Cybex Gold Sirona S i-Size 519000215 Silla de Coche Grupo...'
 sku: 'B07FF7HMQN-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','cybex','de','isofix','silla', ]
+tags: [ 'coche','cybex','de','isofix','silla', ]
 actualPrice: 373.5 EUR
 currency: EUR
 price: 373.5

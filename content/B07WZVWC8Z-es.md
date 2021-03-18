@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZVWC8Z-es SERAPHY Trajes de Calabaza encantadores de Halloween Bebés...'
 sku: 'B07WZVWC8Z-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

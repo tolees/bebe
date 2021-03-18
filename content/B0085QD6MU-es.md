@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0085QD6MU-es Tommee Tippee 42302241 - Bolsas para conservar la leche'
 sku: 'B0085QD6MU-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','tommee', ]
+tags: [ 'tommee', ]
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

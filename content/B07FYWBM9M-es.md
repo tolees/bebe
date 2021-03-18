@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYWBM9M-es Ergobaby Original - Mochila portabebés ergonómicas unisex...'
 sku: 'B07FYWBM9M-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','portabebés', ]
+tags: [ 'portabebés', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8NRDZT-es NUK 10177124 Genius Color - Chupete de silicona forma...'
 sku: 'B07M8NRDZT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chupete','nuk', ]
+tags: [ 'chupete','nuk', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

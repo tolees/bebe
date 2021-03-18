@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074M7HRSJ-es Bandeja de Hielo Diamante Moldes para Cubitos de Hielo...'
 sku: 'B074M7HRSJ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

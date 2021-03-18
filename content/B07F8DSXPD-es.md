@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8DSXPD-es Mono/Pelele de manga larga para bebé 3-6 Meses Azul'
 sku: 'B07F8DSXPD-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

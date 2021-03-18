@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AHGYL60-es Cochecito de Bebe Hot Mom Cochecito y Sillas de paseo 3 en...'
 sku: 'B01AHGYL60-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

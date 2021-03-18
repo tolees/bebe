@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZQK48X-es Maxi-Cosi Zelia Carrito bebé 2 en 1 hamaca se transforma...'
 sku: 'B07YZQK48X-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','maxi-cosi', ]
+tags: [ 'bebé','maxi-cosi', ]
 actualPrice: 221.99 EUR
 currency: EUR
 price: 221.99

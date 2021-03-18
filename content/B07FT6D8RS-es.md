@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FT6D8RS-es Mochila de pañales para cambiar pañales con diseño abierto...'
 sku: 'B07FT6D8RS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','pañales', ]
+tags: [ 'bebé','pañales', ]
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

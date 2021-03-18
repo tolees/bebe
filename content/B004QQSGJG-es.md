@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QQSGJG-es Huggies Pull-Ups - Calzoncillos de aprendizaje para niños...'
 sku: 'B004QQSGJG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','huggies', ]
+tags: [ 'huggies', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

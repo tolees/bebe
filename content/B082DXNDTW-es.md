@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082DXNDTW-es WISHTIME Sonajeros de Bebe Juguetes de Mordedor Infante...'
 sku: 'B082DXNDTW-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

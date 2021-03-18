@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNBY1TX-es Medela - Tubo para sacaleches doble Swing Maxi Flex'
 sku: 'B07PNBY1TX-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','medela','sacaleches', ]
+tags: [ 'medela','sacaleches', ]
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

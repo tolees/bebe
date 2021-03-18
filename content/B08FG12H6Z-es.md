@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FG12H6Z-es Voova Mochila de Pañales para Mamá Papá con Cambiar de Mat...'
 sku: 'B08FG12H6Z-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','pañales', ]
+tags: [ 'bebés','pañales', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

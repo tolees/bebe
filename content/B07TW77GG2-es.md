@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TW77GG2-es Tikea Mochila de Mamá Grande Mochila para Pañales...'
 sku: 'B07TW77GG2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','pañales', ]
+tags: [ 'pañales', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

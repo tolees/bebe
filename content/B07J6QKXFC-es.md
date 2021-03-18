@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6QKXFC-es PROACC Tapete para Piano Juguete para niños con Teclado y...'
 sku: 'B07J6QKXFC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVNWTKH-es Geox B Flexyper Boy B Zapatillas para Bebés Blanco...'
 sku: 'B07SVNWTKH-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 30.57 EUR
 currency: EUR
 price: 30.57

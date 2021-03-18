@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SN4GKAE-es Chicco - Calienta biberón de casa rápido y calentamiento...'
 sku: 'B00SN4GKAE-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','chicco', ]
+tags: [ 'biberón','chicco', ]
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

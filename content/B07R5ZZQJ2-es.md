@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5ZZQJ2-es Splash Play Mat Uiter Tapete de Aprendizaje para Salpicar...'
 sku: 'B07R5ZZQJ2-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D3SNNGH-es Doaraha Camisón de Maternidad para Mujer Vestido Lactancia...'
 sku: 'B08D3SNNGH-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

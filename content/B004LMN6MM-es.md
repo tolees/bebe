@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LMN6MM-es Munchkin Juego de baño de baloncesto'
 sku: 'B004LMN6MM-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

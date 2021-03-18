@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NI1OZY-es Clevamama Capa de Baño Bebé - Toalla Delantal con Capucha...'
 sku: 'B000NI1OZY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073C7F7HB-es Fisher-Price Monito gatea conmigo juguete gateo bebé +3...'
 sku: 'B073C7F7HB-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','fisher-price', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

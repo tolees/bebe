@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WPS2KN-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
 sku: 'B075WPS2KN-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

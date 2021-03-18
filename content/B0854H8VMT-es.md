@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854H8VMT-es Mamá Lactancia materna Con una sola mano Extractor de...'
 sku: 'B0854H8VMT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','lactancia', ]
+tags: [ 'biberón','lactancia', ]
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

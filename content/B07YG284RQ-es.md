@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YG284RQ-es SONARIN Silla Asiento de mesa para bebé trona de mesa...'
 sku: 'B07YG284RQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','trona', ]
+tags: [ 'bebé','trona', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

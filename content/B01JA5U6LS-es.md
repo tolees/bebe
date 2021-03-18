@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JA5U6LS-es Fisher-Price Coche Monstruito verde juguete gateo bebé +9...'
 sku: 'B01JA5U6LS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','fisher-price', ]
+tags: [ 'bebé','fisher-price', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2V8M6K-es Brica by Munchkin Espejo de coche Baby In-Sight...'
 sku: 'B07C2V8M6K-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 43.19 EUR
 currency: EUR
 price: 43.19

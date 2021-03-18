@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYN4FKC-es Hero Baby Trocitos Tarrito de Puré de Espaguetis con...'
 sku: 'B01MYN4FKC-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','baby','bebés','hero', ]
+tags: [ 'baby','bebés','hero', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

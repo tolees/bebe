@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777F2ZZW-es Sillita plegable bebé negra Omnio - Desde los 6 meses...'
 sku: 'B0777F2ZZW-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

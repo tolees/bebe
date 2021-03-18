@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT7RDQQ-es Tommy Hilfiger Th Sock 3p Giftbox Baby Calcetines Rosa...'
 sku: 'B07TT7RDQQ-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

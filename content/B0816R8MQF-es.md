@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0816R8MQF-es CERDÁ LIFE S LITTLE MOMENTS 2200005545 Conjunto Polaina y...'
 sku: 'B0816R8MQF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

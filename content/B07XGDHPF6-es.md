@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGDHPF6-es Hauck Autoclose N Stop 2 puerta de segurida 75-80 cm...'
 sku: 'B07XGDHPF6-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hauck', ]
+tags: [ 'hauck', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

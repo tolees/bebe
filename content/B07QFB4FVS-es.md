@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFB4FVS-es Pablosky 64521 Botas para Bebés Azul 21 EU'
 sku: 'B07QFB4FVS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

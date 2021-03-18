@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3FRJTF-es HyAdierTech Almohadillas de Lactancia Bambú Orgánicos para...'
 sku: 'B07X3FRJTF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

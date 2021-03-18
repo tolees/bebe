@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3BOFSO-es Dodot Toallitas Para Bebé 1 Paquetes 64 Toallitas'
 sku: 'B00A3BOFSO-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','dodot', ]
+tags: [ 'bebé','dodot', ]
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

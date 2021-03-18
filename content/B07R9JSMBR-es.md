@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R9JSMBR-es Aibrou Camiseta Lactancia Mujer Verano Camisetas Premama...'
 sku: 'B07R9JSMBR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia', ]
+tags: [ 'lactancia', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

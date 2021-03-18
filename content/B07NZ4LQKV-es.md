@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZ4LQKV-es Parasol de Coche otumixx 2 Unidades Visera para Ventana...'
 sku: 'B07NZ4LQKV-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

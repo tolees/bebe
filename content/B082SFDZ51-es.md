@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SFDZ51-es Luchild Almohada Embarazada Multifuncional Cojín Lactancia...'
 sku: 'B082SFDZ51-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','embarazada','lactancia', ]
+tags: [ 'bebé','embarazada','lactancia', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

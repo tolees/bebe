@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UFS2J06-es WELEDA Leche Corporal de Malva Blanca 1x 200 ml'
 sku: 'B00UFS2J06-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','weleda', ]
+tags: [ 'weleda', ]
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

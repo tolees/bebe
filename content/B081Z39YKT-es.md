@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Z39YKT-es SALAKA 1 unid Botella de Silicona para bebés biberón...'
 sku: 'B081Z39YKT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','biberón', ]
+tags: [ 'bebés','biberón', ]
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

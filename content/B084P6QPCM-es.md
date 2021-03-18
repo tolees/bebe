@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084P6QPCM-es Motherly Love Play Boca Chupete Boca Silicona Cierre...'
 sku: 'B084P6QPCM-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','chupete', ]
+tags: [ 'bebés','chupete', ]
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

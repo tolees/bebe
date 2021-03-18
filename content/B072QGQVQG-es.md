@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QGQVQG-es Simple Joys by Carter s traje de baño de 2 piezas para...'
 sku: 'B072QGQVQG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

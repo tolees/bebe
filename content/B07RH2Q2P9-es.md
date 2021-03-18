@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH2Q2P9-es Munchkin - Set de vajilla para niños rose'
 sku: 'B07RH2Q2P9-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','munchkin', ]
+tags: [ 'munchkin', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M20RZZE-es PLAYMOBIL Hadas- Dragón con Bebé única 9134'
 sku: 'B01M20RZZE-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

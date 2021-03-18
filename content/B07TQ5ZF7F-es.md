@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQ5ZF7F-es Bammax Parque Infantil Bebe Extensible Parque de Juegos...'
 sku: 'B07TQ5ZF7F-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
+tags: [ 'bebe', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

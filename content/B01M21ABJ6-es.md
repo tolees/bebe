@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M21ABJ6-es Ergobaby Mochila Portabebé Ergonomica para Recién Nacido...'
 sku: 'B01M21ABJ6-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','portabebé', ]
+tags: [ 'portabebé', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXJTT97-es TOP BRIGHT Juguetes de Cocina de Madera Corte de Juguetes...'
 sku: 'B07DXJTT97-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

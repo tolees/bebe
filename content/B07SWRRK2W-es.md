@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWRRK2W-es Geox B Djrock Boy C Mocasines para Bebés Azul Navy/White...'
 sku: 'B07SWRRK2W-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 27.31 EUR
 currency: EUR
 price: 27.31

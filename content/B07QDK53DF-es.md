@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QDK53DF-es Test de embarazo 3 Pruebas - Prueba de Embarazo Resultado...'
 sku: 'B07QDK53DF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo', ]
+tags: [ 'embarazo', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

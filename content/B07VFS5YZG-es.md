@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFS5YZG-es Protectores de la cubierta del respaldo del asiento...'
 sku: 'B07VFS5YZG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3JF7JT-es Viedouce Mochila Portabebes Ergonómico Multifuncion...'
 sku: 'B07R3JF7JT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','portabebes','portabebés', ]
+tags: [ 'portabebes','portabebés', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

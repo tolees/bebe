@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX5J84Z-es Cybex Silver Juno 2-Fix 517000955 Silla de Coche Grupo 1...'
 sku: 'B01LX5J84Z-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','cybex','de','isofix','silla', ]
+tags: [ 'coche','cybex','de','isofix','silla', ]
 actualPrice: 169.95 EUR
 currency: EUR
 price: 169.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6PDN2J-es TETINA NUK NATURE SENSE 6-18 SILI M 2UDS'
 sku: 'B01N6PDN2J-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','nuk', ]
+tags: [ 'nuk', ]
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

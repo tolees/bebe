@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0041MEZFO-es Laboratorios Babé - Gel de Baño Pediátrico 500 ml Suavidad...'
 sku: 'B0041MEZFO-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

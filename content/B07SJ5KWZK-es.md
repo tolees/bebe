@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ5KWZK-es 5 Unids Niños Juego de Vajilla Diseño de Dibujos Animados...'
 sku: 'B07SJ5KWZK-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

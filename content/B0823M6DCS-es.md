@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823M6DCS-es SERAPHY Chándales de Terciopelo Unisex Cálido 2PCS...'
 sku: 'B0823M6DCS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

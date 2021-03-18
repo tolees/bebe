@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087DGD6K8-es Tommee Tippee Kit de Biberones Anti-Cólicos Rosa'
 sku: 'B087DGD6K8-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberones','tommee', ]
+tags: [ 'biberones','tommee', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

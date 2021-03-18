@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWKDVGY-es Tommee Tippee 42269887 - Biberón decorado 340 ml color rosa'
 sku: 'B01DWKDVGY-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','tommee', ]
+tags: [ 'biberón','tommee', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

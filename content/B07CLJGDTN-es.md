@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLJGDTN-es Miracle Baby Mantas Muselina Bebe Algodon，Manta Dos Capas...'
 sku: 'B07CLJGDTN-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','muselina', ]
+tags: [ 'bebe','muselina', ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

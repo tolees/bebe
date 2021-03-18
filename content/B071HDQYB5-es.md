@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HDQYB5-es Lebze Muselina Manta Bebé -"Diseño de Conejo" Bambú...'
 sku: 'B071HDQYB5-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés','muselina', ]
+tags: [ 'bebé','bebés','muselina', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

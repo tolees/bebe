@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5WW8L0-es Philips Avent SCF169/27 - Set de 2 chupetes Gama Safari de...'
 sku: 'B01N5WW8L0-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','chupetes', ]
+tags: [ 'avent','chupetes', ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

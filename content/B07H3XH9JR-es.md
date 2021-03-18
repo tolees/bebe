@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3XH9JR-es LA Active Tobillera Calcetines Antideslizantes - 6 Pares -...'
 sku: 'B07H3XH9JR-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

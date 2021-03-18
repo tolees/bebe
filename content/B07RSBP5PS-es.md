@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RSBP5PS-es HellDoler Flotador para Bebé 1 a 5 Años de Edad Flotador...'
 sku: 'B07RSBP5PS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

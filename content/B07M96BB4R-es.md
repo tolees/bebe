@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M96BB4R-es KangaROOS Snowdrifter Zapatillas Unisex bebé Blau Dark...'
 sku: 'B07M96BB4R-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 21.26 EUR
 currency: EUR
 price: 21.26

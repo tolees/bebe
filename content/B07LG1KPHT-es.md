@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG1KPHT-es Geox B Kaytan B Zapatillas para Bebés Azul Navy C4002 22 EU'
 sku: 'B07LG1KPHT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 17.58 EUR
 currency: EUR
 price: 17.58

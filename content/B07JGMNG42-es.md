@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGMNG42-es HBselect 2 PCS Bolsa Pañales Impermeable Organizador...'
 sku: 'B07JGMNG42-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe','pañales', ]
+tags: [ 'bebe','pañales', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

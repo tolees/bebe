@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STKZKXT-es Geox Rishon Bebé Deportivas Niño Transpirantes con Diseño...'
 sku: 'B07STKZKXT-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','bebés', ]
+tags: [ 'bebé','bebés', ]
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

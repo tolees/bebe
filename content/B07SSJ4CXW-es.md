@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSJ4CXW-es Geox B Djrock Girl A Zapatillas para Bebés Plateado...'
 sku: 'B07SSJ4CXW-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
+tags: [ 'bebés', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

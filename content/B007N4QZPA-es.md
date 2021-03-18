@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007N4QZPA-es Tommee Tippee Biberones Closer to Nature 340 ml 2 Unidades...'
 sku: 'B007N4QZPA-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberones','tommee', ]
+tags: [ 'biberones','tommee', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IBG6XH4-es NUK 10750796 – detergente en espuma para biberón con...'
 sku: 'B00IBG6XH4-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','nuk', ]
+tags: [ 'biberón','nuk', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004DWWRGG-es Ganchos para Sillas de Paseo GKONGU Pack de 2 Ganchos...'
 sku: 'B004DWWRGG-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

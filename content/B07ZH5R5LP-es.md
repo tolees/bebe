@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZH5R5LP-es Blevit Plus Blevit Plus Papilla 8 Cereales Y Fruta Para...'
 sku: 'B07ZH5R5LP-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','blevit', ]
+tags: [ 'biberón','blevit', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

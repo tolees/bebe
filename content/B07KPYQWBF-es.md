@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPYQWBF-es Medela cojín de embarazo y lactancia'
 sku: 'B07KPYQWBF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','embarazo','lactancia','medela', ]
+tags: [ 'embarazo','lactancia','medela', ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

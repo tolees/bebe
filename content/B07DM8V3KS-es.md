@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DM8V3KS-es Philips Avent SCF044/27-2 - Tetinas natural flujo rápido...'
 sku: 'B07DM8V3KS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','tetinas', ]
+tags: [ 'avent','tetinas', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

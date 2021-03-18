@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGFWMSF-es SPC Ángel - Cámara vigilabebé inteligente Wi-Fi visión...'
 sku: 'B07HGFWMSF-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','vigilabebé', ]
+tags: [ 'vigilabebé', ]
 actualPrice: 54.19 EUR
 currency: EUR
 price: 54.19

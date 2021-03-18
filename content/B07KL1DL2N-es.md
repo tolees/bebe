@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL1DL2N-es Safety 1st Soft Dreams Cuna de viaje plegable y portatil...'
 sku: 'B07KL1DL2N-es'
-tags: [ '1st','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','safety', ]
+tags: [ '1st','bebés','safety', ]
 actualPrice: 28.34 EUR
 currency: EUR
 price: 28.34

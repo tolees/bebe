@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4MDR8Y-es Difusor de Aceites Esenciales Avaspot 250ml Ultrasónico...'
 sku: 'B07J4MDR8Y-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
+tags: [ 'bebé', ]
 actualPrice: 16.24 EUR
 currency: EUR
 price: 16.24
