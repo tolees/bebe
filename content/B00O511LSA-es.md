@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O511LSA-es Bébé Confort Rodi AirProtect - Silla de coche para niños...'
 sku: 'B00O511LSA-es'
-tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bébé','coche','confort','de','silla', ]
+tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bébé','coche','confort','de','silla', ]
 actualPrice: 84.92 EUR
 currency: EUR
 price: 84.92

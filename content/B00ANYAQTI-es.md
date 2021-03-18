@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ANYAQTI-es WELEDA Acondicionador Reparador con Avena 1x 200 ml'
 sku: 'B00ANYAQTI-es'
-tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','weleda', ]
+tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','weleda', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

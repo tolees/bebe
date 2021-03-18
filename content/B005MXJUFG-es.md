@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005MXJUFG-es Hauck Sit N Relax - Hamaquita balancin y trona para recién...'
 sku: 'B005MXJUFG-es'
-tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hauck','trona', ]
+tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','hauck','trona', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

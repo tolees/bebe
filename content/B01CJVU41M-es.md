@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CJVU41M-es Pampers 81665622 pañal desechable Niño/niña 1 22 pieza s -...'
 sku: 'B01CJVU41M-es'
-tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','pañal','pañales', ]
+tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','pañal','pañales', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

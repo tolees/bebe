@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002B8IMT0-es Tommee Tippee Biberones Closer to Nature 150 ml 1 Unidad...'
 sku: 'B002B8IMT0-es'
-tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberones','tommee', ]
+tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberones','tommee', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95
