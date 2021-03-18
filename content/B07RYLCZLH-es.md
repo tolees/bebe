@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYLCZLH-es Termómetro Digital para la Fiebre Termómetro Médico Oral...'
 sku: 'B07RYLCZLH-es'
-tags: [ 'bebés', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

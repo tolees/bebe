@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0886JPML1-es aZengear Calcetines de Compresión para Hombres y Mujeres -...'
 sku: 'B0886JPML1-es'
-tags: [ 'embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

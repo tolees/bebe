@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075VZ1XHN-es BabyBjörn Babero de Manga Larga Lila'
 sku: 'B075VZ1XHN-es'
-tags: [ 'babero', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

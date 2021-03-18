@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0856M8XXX-es Botas Bebé Niño Pablosky Azul 84432 20'
 sku: 'B0856M8XXX-es'
-tags: [ 'Botitas y patucos para niños','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','pablosky', ]
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

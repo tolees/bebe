@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0875VMBLM-es AGM - Termómetro de Frente Termómetro Digital Infrarrojo...'
 sku: 'B0875VMBLM-es'
-tags: [ 'bebés', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

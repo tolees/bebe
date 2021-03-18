@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HWHSKD-es Corolle - 9000100150- Muñeco bebé Sweet Heart 30cm con...'
 sku: 'B078HWHSKD-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','bebé','corolle', ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

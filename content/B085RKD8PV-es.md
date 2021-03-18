@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RKD8PV-es LaHuko Licuadora Portátil Mini Batidora Personal para...'
 sku: 'B085RKD8PV-es'
-tags: [ 'Batidoras de vaso individuales','bebé','lahuko', ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

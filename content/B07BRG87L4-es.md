@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRG87L4-es Luxja Pañal de Natación para bebes Bañador Reutilizable de...'
 sku: 'B07BRG87L4-es'
-tags: [ 'bebé','pañal', ]
 actualPrice: 11.46 EUR
 currency: EUR
 price: 11.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7XMYT4-es Jané 070191C01 - Set de vajilla'
 sku: 'B01N7XMYT4-es'
-tags: [ 'jané', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

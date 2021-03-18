@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0877L2YJJ-es Dodot Pants Pañal - Braguita Talla 6 135 Pañales 15 kg +...'
 sku: 'B0877L2YJJ-es'
-tags: [ 'dodot','pañal','pañales', ]
 actualPrice: 37.05 EUR
 currency: EUR
 price: 37.05

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PXSJV2C-es Fisher-price alce linkimals juguete interactivo bebés +9...'
 sku: 'B07PXSJV2C-es'
-tags: [ 'bebés','fisher-price', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

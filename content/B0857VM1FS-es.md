@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0857VM1FS-es Dodot Aqua Pure - Toallitas Bebé con 99% Agua 18 Paquetes...'
 sku: 'B0857VM1FS-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Espejos para asientos traseros','Higiene y cuidado','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','dodot', ]
 actualPrice: 28.21 EUR
 currency: EUR
 price: 28.21

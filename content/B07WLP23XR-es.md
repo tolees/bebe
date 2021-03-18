@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLP23XR-es HOMCOM Maleta Correpasillos Niños con Forma de Moto Bolso...'
 sku: 'B07WLP23XR-es'
-tags: [ 'bebé', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

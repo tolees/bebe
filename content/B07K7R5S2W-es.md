@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7R5S2W-es Britax Römer Kidfix² R Cosmos Black'
 sku: 'B07K7R5S2W-es'
-tags: [ 'römer', ]
 actualPrice: 167.0 EUR
 currency: EUR
 price: 167.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L81QTZF-es Mochilas Para Pañales - CUSFLYX Gran Capacidad Bolsa de...'
 sku: 'B07L81QTZF-es'
-tags: [ 'bebé','pañales','bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

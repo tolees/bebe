@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZS2JFSN-es HOMYBABY Muselinas Bebe Algodon 120x120 [1pc] | Muselina...'
 sku: 'B07ZS2JFSN-es'
-tags: [ 'bebe','muselina', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

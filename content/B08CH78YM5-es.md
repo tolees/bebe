@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CH78YM5-es Termómetro Infrarrojos KKmier Termometro Digital...'
 sku: 'B08CH78YM5-es'
-tags: [ 'bebé', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

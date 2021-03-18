@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QMOBO-es Dodot Toallitas Básico de Recambio - 54 Unidades'
 sku: 'B01K7QMOBO-es'
-tags: [ 'dodot', ]
 actualPrice: 0.87 EUR
 currency: EUR
 price: 0.87

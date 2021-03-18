@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6Q82SK-es Humidificador dodocool Humidificadores Ultrasónicos de...'
 sku: 'B07R6Q82SK-es'
-tags: [ 'bebé', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

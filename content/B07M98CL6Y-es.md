@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M98CL6Y-es Dodot Sensitive pañales talla 4 192 pañales 9-14 kg'
 sku: 'B07M98CL6Y-es'
-tags: [ 'dodot','pañales', ]
 actualPrice: 55.54 EUR
 currency: EUR
 price: 55.54

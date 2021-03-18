@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BLKD6TB-es TOP BRIGHT Elefante Centro de Actividades - Cubo...'
 sku: 'B08BLKD6TB-es'
-tags: [ 'bebés', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

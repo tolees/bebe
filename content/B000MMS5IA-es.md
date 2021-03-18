@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MMS5IA-es Philips Avent SCF155/06 - Discos absorbentes lavables para...'
 sku: 'B000MMS5IA-es'
-tags: [ 'avent', ]
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

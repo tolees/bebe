@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KG3PTBV-es Niimo Almohada Embarazada y Cojin Lactancia Bebe + Soft...'
 sku: 'B07KG3PTBV-es'
-tags: [ 'bebe','embarazada','lactancia', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

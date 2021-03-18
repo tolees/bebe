@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCUSC7V-es Fisher-Price Bloques infantiles juguete bloques...'
 sku: 'B01NCUSC7V-es'
-tags: [ 'Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','fisher-price', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9NNY6W-es Philips Avent Vigilabebés con cámara SCD833/01 -...'
 sku: 'B07L9NNY6W-es'
-tags: [ 'avent','vigilabebés', ]
 actualPrice: 152.63 EUR
 currency: EUR
 price: 152.63

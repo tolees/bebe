@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PTTF7NC-es Ltteny Vigilabebés con Camara y Intercomunicador LCD TFT...'
 sku: 'B08PTTF7NC-es'
-tags: [ 'bebé','vigilabebés','bebé', ]
 actualPrice: 46.74 EUR
 currency: EUR
 price: 46.74

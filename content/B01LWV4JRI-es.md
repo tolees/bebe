@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LWV4JRI-es Chicco London - Silla de paseo 7.2 kg compacta y manejable...'
 sku: 'B01LWV4JRI-es'
-tags: [ 'chicco', ]
 actualPrice: 72.45 EUR
 currency: EUR
 price: 72.45

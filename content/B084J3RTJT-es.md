@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084J3RTJT-es Petit Bateau 5636901 - Vestido de Manga Larga para bebé...'
 sku: 'B084J3RTJT-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

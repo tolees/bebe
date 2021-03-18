@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086W2GF9G-es LANDWIND FT118 Termómetro Digital Bebé Termómetro...'
 sku: 'B086W2GF9G-es'
-tags: [ 'bebé', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008J2MZL8-es WaterWipes Toallitas para Pieles Sensible de Bebé 99.9%...'
 sku: 'B008J2MZL8-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 30.91 EUR
 currency: EUR
 price: 30.91

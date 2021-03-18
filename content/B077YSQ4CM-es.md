@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077YSQ4CM-es Jané Marco de Fotos para Huella de Mano Bebé y Fotografía...'
 sku: 'B077YSQ4CM-es'
-tags: [ 'bebé','jané','bebé', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

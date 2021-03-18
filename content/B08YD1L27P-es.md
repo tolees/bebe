@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08YD1L27P-es LNM Manta Personalizada con 6 Fotos Mantas Personalizadas...'
 sku: 'B08YD1L27P-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

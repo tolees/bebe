@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CYBSDRZ-es Babify Homy - Cama Infantil - Cama para niños 200 x 90 cm...'
 sku: 'B08CYBSDRZ-es'
-tags: [ 'babify', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

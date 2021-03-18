@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06VVDPFZ3-es Kinderkraft Silla de Coche Ajustable COMFORT UP Grupo...'
 sku: 'B06VVDPFZ3-es'
-tags: [ 'silla','de','coche', ]
 actualPrice: 50.96 EUR
 currency: EUR
 price: 50.96

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I2U9W1I-es Bebé Due 80160 - Taza 4 en 1'
 sku: 'B00I2U9W1I-es'
-tags: [ 'bebé', ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

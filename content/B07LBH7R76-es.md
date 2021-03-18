@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LBH7R76-es Biomecanics 151157-2 Zapatillas Bebé Unisex Blanco Sauvage...'
 sku: 'B07LBH7R76-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 34.23 EUR
 currency: EUR
 price: 34.23

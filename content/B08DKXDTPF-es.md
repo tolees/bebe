@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKXDTPF-es Termometro Digital Termometro Electronico Preciso AGM...'
 sku: 'B08DKXDTPF-es'
-tags: [ 'bebés', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

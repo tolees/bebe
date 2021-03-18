@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZ9H93T-es Britax Römer 2000030972 Silla de Paseo 6 meses - 3 años...'
 sku: 'B07MZ9H93T-es'
-tags: [ 'römer', ]
 actualPrice: 120.1 EUR
 currency: EUR
 price: 120.1

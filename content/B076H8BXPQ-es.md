@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076H8BXPQ-es Tuc Tuc 05789 - Trona'
 sku: 'B076H8BXPQ-es'
-tags: [ 'trona', ]
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

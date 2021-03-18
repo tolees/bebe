@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ0TMHV-es Babybjörn Bliss Hamaca ergonómica con balanceo natural...'
 sku: 'B01MZ0TMHV-es'
-tags: [ 'bebés', ]
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T69BPVY-es Chicco TP-8058664042913 Vendor Dispositivo Anti Mosquitos...'
 sku: 'B00T69BPVY-es'
-tags: [ 'chicco', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

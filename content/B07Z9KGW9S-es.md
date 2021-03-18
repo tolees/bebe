@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z9KGW9S-es Suavinex Set Recién Nacido con Biberón 360ml Chupete...'
 sku: 'B07Z9KGW9S-es'
-tags: [ 'Chupetes','biberón','chupete','suavinex', ]
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

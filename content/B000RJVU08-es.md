@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RJVU08-es Nuby - Nûby - Libro de Baño para Bebé - 6 Meses'
 sku: 'B000RJVU08-es'
-tags: [ 'Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','bebé','nuby', ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

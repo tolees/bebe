@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q61HF8H-es Britax Römer Silla de coche 15 meses - 12 años 9 - 36 kg...'
 sku: 'B07Q61HF8H-es'
-tags: [ 'coche','de','isofix','römer','silla', ]
 actualPrice: 204.99 EUR
 currency: EUR
 price: 204.99

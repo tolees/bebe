@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015P7UICM-es Concord Transformer Pro Silla de coche grupo 1/2/3 Isofix...'
 sku: 'B015P7UICM-es'
-tags: [ 'coche','de','isofix','silla', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

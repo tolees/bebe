@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGWQ8FJ-es Primigi Gore-Tex Pfz 43820 Botas para Bebés Azu/Jeans...'
 sku: 'B07NGWQ8FJ-es'
-tags: [ 'bebés', ]
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86

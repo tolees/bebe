@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GTYB38-es Asalvo 15549 - Andador'
 sku: 'B078GTYB38-es'
-tags: [ 'asalvo', ]
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C2Y1TXW-es Asalvo Cuna de Viaje Multicolor'
 sku: 'B07C2Y1TXW-es'
-tags: [ 'asalvo', ]
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

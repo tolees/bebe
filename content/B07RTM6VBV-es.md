@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTM6VBV-es Munchkin - Vaso de Transición con Boquilla Blanda 4oz /...'
 sku: 'B07RTM6VBV-es'
-tags: [ 'munchkin', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

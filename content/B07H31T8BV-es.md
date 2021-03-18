@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H31T8BV-es Marco huellas bebe tu regalo original para el recien...'
 sku: 'B07H31T8BV-es'
-tags: [ 'bebe', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

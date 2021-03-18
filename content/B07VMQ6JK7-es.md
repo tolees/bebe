@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMQ6JK7-es JUMPER FR202 Termómetro Digital sin Contacto Termómetro...'
 sku: 'B07VMQ6JK7-es'
-tags: [ 'bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

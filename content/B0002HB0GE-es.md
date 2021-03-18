@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0002HB0GE-es Fisher-Price - Patito a flote amarillo juguete de baño...'
 sku: 'B0002HB0GE-es'
-tags: [ 'bebé','fisher-price','bebé', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

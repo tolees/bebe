@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KXWVLL3-es Suavinex Pack Tetina Biberón Zero-Zero Anticólicos Flujo...'
 sku: 'B07KXWVLL3-es'
-tags: [ 'biberón','suavinex', ]
 actualPrice: 6.61 EUR
 currency: EUR
 price: 6.61

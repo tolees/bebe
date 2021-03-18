@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007CZBOHY-es Chicco - Luces musicales buenas noches panel de cuna con...'
 sku: 'B007CZBOHY-es'
-tags: [ 'chicco', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PN6HF11-es Bebés Llorones Pijama Pavo Real - Accesorio muñeca'
 sku: 'B07PN6HF11-es'
-tags: [ 'bebés', ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

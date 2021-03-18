@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D9GFV76-es ANKOVO - Termometro infrarrojo Termometro digital...'
 sku: 'B08D9GFV76-es'
-tags: [ 'bebe', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

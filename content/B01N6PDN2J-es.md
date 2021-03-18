@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6PDN2J-es TETINA NUK NATURE SENSE 6-18 SILI M 2UDS'
 sku: 'B01N6PDN2J-es'
-tags: [ 'nuk', ]
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

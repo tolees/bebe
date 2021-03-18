@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JG3LXBB-es Safety 1st Koala Gandulita reclinable para bebé con...'
 sku: 'B07JG3LXBB-es'
-tags: [ '1st','Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Hogar y cocina','Juguetes','Juguetes y juegos','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','bebé','safety','safety 1st', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

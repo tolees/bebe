@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DZG34B-es Safety 1st Manga Safe Elevador Silla de coche grupo 3...'
 sku: 'B076DZG34B-es'
-tags: [ '1st','Accesorios para sillas de coche','Adaptadores para sillas de coche','Arneses de seguridad','Bebé','Cambio de pañales','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Pañales desechables','Pañales desechables para bebés','Pañales para bebé','Seguridad','Sillas de coche y accesorios','coche','de','safety','safety 1st','silla', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

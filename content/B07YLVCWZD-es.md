@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLVCWZD-es Chicco Miinimo 3 - Silla de paseo ultra compacta y ligera...'
 sku: 'B07YLVCWZD-es'
-tags: [ 'chicco', ]
 actualPrice: 161.69 EUR
 currency: EUR
 price: 161.69

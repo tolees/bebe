@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TB1P6N-es Newdora 3pcs Cubitera Hielo Moldes para Cubitos de Hielo...'
 sku: 'B083TB1P6N-es'
-tags: [ 'Hogar y cocina','Moldes y bandejas para hielo','Utensilios de bar','Utensilios de cocina','bebés','newdora', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074KLTBLM-es Huggies Ultra Comfort Pañales Talla 3 4-9 Kg - 168 Pañales'
 sku: 'B074KLTBLM-es'
-tags: [ 'huggies','pañales', ]
 actualPrice: 24.22 EUR
 currency: EUR
 price: 24.22

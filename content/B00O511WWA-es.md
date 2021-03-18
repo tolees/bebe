@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O511WWA-es Safety 1st Road Safe Silla de coche para Niños Grupo 2/3...'
 sku: 'B00O511WWA-es'
-tags: [ '1st','coche','de','safety','silla', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

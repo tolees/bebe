@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0159BS7WC-es Suavinex – Canastilla de cosmética para bebé/Canastilla de...'
 sku: 'B0159BS7WC-es'
-tags: [ 'pañal','suavinex', ]
 actualPrice: 23.66 EUR
 currency: EUR
 price: 23.66

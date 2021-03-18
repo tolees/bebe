@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J28GPSC-es Philips Avent SCH400/30 Set Para Cuidado Del Bebé Amarillo...'
 sku: 'B00J28GPSC-es'
-tags: [ 'Bebé','Casas de muñecas','Dormitorio','Hamacas para bebé','Higiene','Higiene y cuidado','Hogar y cocina','Juguetes','Juguetes y juegos','Kits de higiene','Moldes y bandejas para hielo','Muebles para bebé','Muñecas y accesorios','Seguridad','Utensilios de bar','Utensilios de cocina','Vigilabebés','avent','bebé','philips avent', ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

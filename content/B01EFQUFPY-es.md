@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EFQUFPY-es Gorro de bebé para primavera/verano unisex Rose Talla única'
 sku: 'B01EFQUFPY-es'
-tags: [ 'bebé', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

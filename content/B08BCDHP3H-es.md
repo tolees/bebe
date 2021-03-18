@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BCDHP3H-es YINGJEE Tienda de Playa Pop Up Tienda Campaña Playa...'
 sku: 'B08BCDHP3H-es'
-tags: [ 'bebé', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

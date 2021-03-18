@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C3RPVGL-es NUK First Choice+ Complete Feeding Set | Esterilizador...'
 sku: 'B08C3RPVGL-es'
-tags: [ 'biberones','nuk', ]
 actualPrice: 96.24 EUR
 currency: EUR
 price: 96.24

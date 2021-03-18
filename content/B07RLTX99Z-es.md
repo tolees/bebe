@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLTX99Z-es Calcetines de Compresión para Hombres y Mujeres - Medias...'
 sku: 'B07RLTX99Z-es'
-tags: [ 'embarazo', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S178GQT-es Adidas Tensaur I Zapatillas de Estar por casa Bebé Unisex...'
 sku: 'B07S178GQT-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

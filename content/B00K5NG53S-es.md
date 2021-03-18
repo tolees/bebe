@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00K5NG53S-es Amaryllo iBabi HD Wi-Fi 5m Rosa Color blanco - Vigilabebé...'
 sku: 'B00K5NG53S-es'
-tags: [ 'vigilabebé', ]
 actualPrice: 34.27 EUR
 currency: EUR
 price: 34.27

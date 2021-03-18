@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXW8RYH-es Moon and Back de Hanna Andersson - Juego de 2 mantas de...'
 sku: 'B07NXW8RYH-es'
-tags: [ 'bebé', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

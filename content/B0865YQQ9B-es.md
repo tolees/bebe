@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0865YQQ9B-es Momcozy Calcetines Bebe Calcetines Antideslizantes Niño...'
 sku: 'B0865YQQ9B-es'
-tags: [ 'bebe', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M6POLUM-es Philips Avent - Juego de recipientes para comida de bebé...'
 sku: 'B00M6POLUM-es'
-tags: [ 'Bebé','Botitas y patucos para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Lactancia y alimentación','Recipientes para comida','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','avent','bebé','philips avent', ]
 actualPrice: 23.36 EUR
 currency: EUR
 price: 23.36

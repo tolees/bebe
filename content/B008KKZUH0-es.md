@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008KKZUH0-es ISDIN Nutraisdin Bath Gel-Champú - 1000 ml.'
 sku: 'B008KKZUH0-es'
-tags: [ 'nutraisdin', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

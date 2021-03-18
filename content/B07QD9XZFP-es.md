@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD9XZFP-es adidas Grand Court I Zapatillas de Estar por casa para...'
 sku: 'B07QD9XZFP-es'
-tags: [ 'bebés', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

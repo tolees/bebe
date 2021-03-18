@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PI0J4CM-es Fisher-Price Móvil ositos voladores juguete de cuna...'
 sku: 'B00PI0J4CM-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dispensadores de leche en polvo','Dormitorio','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Productos para la lavandería','Salud y cuidado personal','bebé','fisher-price', ]
 actualPrice: 36.85 EUR
 currency: EUR
 price: 36.85

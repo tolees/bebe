@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W2QQDZ3-es Philips Avent SCF376/12 - Pack de 2 chupetes Ultra Air...'
 sku: 'B07W2QQDZ3-es'
-tags: [ 'avent','chupetes', ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082N3BNH2-es Dodot Activity Toallitas para Bebé 16 Paquetes de 54...'
 sku: 'B082N3BNH2-es'
-tags: [ 'bebé','dodot','bebé', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

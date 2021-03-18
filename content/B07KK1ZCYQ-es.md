@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK1ZCYQ-es Safety 1st Bolid Andador bebé primeros pasos 3 alturas...'
 sku: 'B07KK1ZCYQ-es'
-tags: [ '1st','Actividad y entretenimiento','Andadores','Bebé','bebé','safety','safety 1st', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S837RNL-es Luz Nocturna Infantil Deknei Lampara Nocturna Enchufe con...'
 sku: 'B07S837RNL-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

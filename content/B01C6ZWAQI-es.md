@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C6ZWAQI-es Tommee Tippee 42361081 - Esterilizar con vapor en el...'
 sku: 'B01C6ZWAQI-es'
-tags: [ 'tommee', ]
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

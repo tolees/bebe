@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6XRZXS-es Play Safe Fix - Silla de coche grupo 1/2/3 color negro y gris'
 sku: 'B01M6XRZXS-es'
-tags: [ 'coche','de','silla', ]
 actualPrice: 84.15 EUR
 currency: EUR
 price: 84.15

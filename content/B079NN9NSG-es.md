@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079NN9NSG-es IMC Toys - Bebés Llorones Lady 96295'
 sku: 'B079NN9NSG-es'
-tags: [ 'bebés', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

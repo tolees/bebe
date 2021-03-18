@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D7H2WS6-es Luckywing Termómetro de Frente，Termómetro Infrarrojos...'
 sku: 'B08D7H2WS6-es'
-tags: [ 'bebés', ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

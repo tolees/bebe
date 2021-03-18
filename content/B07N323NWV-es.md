@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N323NWV-es MINILAND - Robot de cocina para bebé 6 en 1 - Chefy 6'
 sku: 'B07N323NWV-es'
-tags: [ 'bebé', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DLRBL7H-es BÉABA Tarros de Conservación para Bebé Tupper en Cristal...'
 sku: 'B07DLRBL7H-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y3K4KHJ-es Chicco Chairy - Elevador asiento de silla regulable 4...'
 sku: 'B07Y3K4KHJ-es'
-tags: [ 'chicco', ]
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

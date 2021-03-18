@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRFX573-es NUK Disney Magic Cup vaso antiderrame bebe borde...'
 sku: 'B07ZRFX573-es'
-tags: [ 'bebe','nuk', ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M3TA2IJ-es Cincobebé - Cinturón para Embarazada de Seguridad en el...'
 sku: 'B01M3TA2IJ-es'
-tags: [ 'bebé','embarazada','bebé', ]
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

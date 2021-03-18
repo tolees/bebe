@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075GPGYFM-es Adidas VL Court 2.0 CMF I Zapatillas de Gimnasia Unisex...'
 sku: 'B075GPGYFM-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

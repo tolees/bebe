@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749J6CBG-es TedGem Bebé Espejo Retrovisor Universal de Coche Asiento...'
 sku: 'B0749J6CBG-es'
-tags: [ 'bebé', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

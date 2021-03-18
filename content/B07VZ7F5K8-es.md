@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZ7F5K8-es HOTLIKE 3x Bolsa de Pañales Reutilizable Wetbag Bolsa con...'
 sku: 'B07VZ7F5K8-es'
-tags: [ 'bebé','pañales', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

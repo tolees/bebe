@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZ8C29G-es Bammax Alfombra de Juegos para Bebé Plegable Colchoneta...'
 sku: 'B07XZ8C29G-es'
-tags: [ 'bebe','bebé','bebé', ]
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

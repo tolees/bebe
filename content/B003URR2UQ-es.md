@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003URR2UQ-es Suavinex Esponja 100% Natural para Bebé con Materiales del...'
 sku: 'B003URR2UQ-es'
-tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','suavinex', ]
 actualPrice: 3.54 EUR
 currency: EUR
 price: 3.54

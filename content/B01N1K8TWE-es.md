@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1K8TWE-es Denenes Gel-Champú - 600 ml'
 sku: 'B01N1K8TWE-es'
-tags: [ 'denenes', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

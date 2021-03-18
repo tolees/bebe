@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ELDCSHY-es kk KinderKraft - Kinderkraft Carrito Bebé 3 Piezas MOOV...'
 sku: 'B01ELDCSHY-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 227.74 EUR
 currency: EUR
 price: 227.74

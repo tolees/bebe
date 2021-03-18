@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRRZ6TR-es Xian Jia - 2 Piezas Delantal de Cocina Impermeable...'
 sku: 'B08DRRZ6TR-es'
-tags: [ 'babero', ]
 actualPrice: 8.62 EUR
 currency: EUR
 price: 8.62

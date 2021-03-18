@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R48TWPG-es Buabi bolsitas reutilizables comida bebe - Pack de 6...'
 sku: 'B07R48TWPG-es'
-tags: [ 'bebe', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

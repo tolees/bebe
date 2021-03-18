@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K811XRM-es BRITAX RÖMER Silla de coche KIDFIX 2 S con protectores...'
 sku: 'B07K811XRM-es'
-tags: [ 'römer','silla','de','coche', ]
 actualPrice: 168.1 EUR
 currency: EUR
 price: 168.1

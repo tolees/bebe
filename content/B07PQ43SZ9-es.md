@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQ43SZ9-es 8safe Bolso de Bebé Universal | Material de Alta Calidad...'
 sku: 'B07PQ43SZ9-es'
-tags: [ 'bebé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

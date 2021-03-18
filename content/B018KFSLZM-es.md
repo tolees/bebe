@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018KFSLZM-es Chicco Always with you - Baby Monitor de audio sencillo y...'
 sku: 'B018KFSLZM-es'
-tags: [ 'chicco', ]
 actualPrice: 53.07 EUR
 currency: EUR
 price: 53.07

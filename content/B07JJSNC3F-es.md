@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JJSNC3F-es Luchild Trenza Protector de Cuna 300cm Parachoques...'
 sku: 'B07JJSNC3F-es'
-tags: [ 'bebe', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

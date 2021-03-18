@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PXTB77V-es kk KinderKraft - Kinderkraft Carrito Bebé 3 en 1 JULI...'
 sku: 'B07PXTB77V-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 184.77 EUR
 currency: EUR
 price: 184.77

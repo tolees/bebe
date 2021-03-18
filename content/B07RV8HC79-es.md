@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RV8HC79-es QUEEN ROSE Almohada de Embarazo con Funda de Plush...'
 sku: 'B07RV8HC79-es'
-tags: [ 'embarazo', ]
 actualPrice: 37.29 EUR
 currency: EUR
 price: 37.29

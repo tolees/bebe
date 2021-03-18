@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZHZLQG-es IURNXB Mono para bebé recién Nacido de Manga Corta con...'
 sku: 'B07QZHZLQG-es'
-tags: [ 'Monos para bebés niño','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','bebé','iurnxb', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

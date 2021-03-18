@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6NMHBD-es Almohadilla De Cuna Impermeable Cama para Incontinencia...'
 sku: 'B07V6NMHBD-es'
-tags: [ 'bebé','bebés','pañales', ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

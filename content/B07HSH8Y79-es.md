@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSH8Y79-es Baby Art MY LITTLE STEPS - Recuerdo de bebé Grey Huella de...'
 sku: 'B07HSH8Y79-es'
-tags: [ 'bebé', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

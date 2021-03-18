@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G51D3QA-es Biomecanics 161141 Zapatillas de Estar por casa para Bebés...'
 sku: 'B01G51D3QA-es'
-tags: [ 'bebés', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

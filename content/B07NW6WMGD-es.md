@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NW6WMGD-es Dodot Aqua Pure Toallitas Bebé con 99% Agua 9 Paquetes x...'
 sku: 'B07NW6WMGD-es'
-tags: [ 'bebé','dodot','bebé', ]
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

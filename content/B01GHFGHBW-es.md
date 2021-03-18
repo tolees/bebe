@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GHFGHBW-es Adidas Superstar Crib Zapatillas Unisex Bebé Multicolor...'
 sku: 'B01GHFGHBW-es'
-tags: [ 'bebé', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

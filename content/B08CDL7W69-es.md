@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CDL7W69-es Espejo Retrovisor Coche Bebé para Ver su Bebé en Asiento...'
 sku: 'B08CDL7W69-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

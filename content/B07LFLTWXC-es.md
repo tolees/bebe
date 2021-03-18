@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFLTWXC-es Dodot Pants - Pañales Talla 6 +15 kg 28 unidades'
 sku: 'B07LFLTWXC-es'
-tags: [ 'dodot','pañales', ]
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

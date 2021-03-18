@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MHHZWT1-es Nenuco Jabon Líquido Ultra Suave de bebé con extracto de...'
 sku: 'B07MHHZWT1-es'
-tags: [ 'bebé','nenuco','bebé', ]
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084NVJ77K-es 29 * 19 cm Bebé Niños Niños Escribir Dibujar Pintura...'
 sku: 'B084NVJ77K-es'
-tags: [ 'bebé', ]
 actualPrice: 2.38 EUR
 currency: EUR
 price: 2.38

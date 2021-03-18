@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TWZY3Y2-es Victure Vigilabebés Inalambrico con Cámara y Audio Cámara...'
 sku: 'B08TWZY3Y2-es'
-tags: [ 'bebé','vigilabebés','bebé', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

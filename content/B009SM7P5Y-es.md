@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009SM7P5Y-es ISDIN Nutraisdin Crema Protectora Facial Diaria Para Bebé...'
 sku: 'B009SM7P5Y-es'
-tags: [ 'bebé','nutraisdin','bebé', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XK1CBHN-es Ganchos para silla de ruedas Silla de ruedas Cochecito...'
 sku: 'B07XK1CBHN-es'
-tags: [ 'bebé', ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

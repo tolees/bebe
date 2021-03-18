@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0847MFTVV-es Suavinex 306763 Dosificador de Leche en Polvo y Cereales Rosa'
 sku: 'B0847MFTVV-es'
-tags: [ 'Bebé','Biberones y accesorios','Dispensadores de leche en polvo','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','suavinex', ]
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

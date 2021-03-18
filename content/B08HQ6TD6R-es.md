@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQ6TD6R-es REN Deal - Luz de Noche para niños Linda Lámpara Nocturna...'
 sku: 'B08HQ6TD6R-es'
-tags: [ 'bebe','bebé','bebé', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NMYNWD-es Baby Teething Toys Silicona suave Mordedor de frutas sin...'
 sku: 'B083NMYNWD-es'
-tags: [ 'bebés','chupete', ]
 actualPrice: 1.32 EUR
 currency: EUR
 price: 1.32

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TFBGV5-es Cuddle Club - Arrullo para Bebés de Algodón – Manta Bebé...'
 sku: 'B088TFBGV5-es'
-tags: [ 'bebé','bebés','bebé', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

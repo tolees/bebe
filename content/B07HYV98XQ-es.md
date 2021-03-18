@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HYV98XQ-es Cybex Silver Solution M-fix 519001121 Silla de Coche Grupo...'
 sku: 'B07HYV98XQ-es'
-tags: [ 'coche','cybex','de','isofix','silla', ]
 actualPrice: 159.95 EUR
 currency: EUR
 price: 159.95

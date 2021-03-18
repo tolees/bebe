@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KJZJHSX-es Safety 1st Rainbow Silla de Paseo ultraligera pesa solo 6...'
 sku: 'B07KJZJHSX-es'
-tags: [ 'safety','1st', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

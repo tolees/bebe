@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087PN1SPJ-es Babify Lagoon Bañera Plegable de Bebe con Cojín. Plegado...'
 sku: 'B087PN1SPJ-es'
-tags: [ 'babify','bebe', ]
 actualPrice: 41.37 EUR
 currency: EUR
 price: 41.37

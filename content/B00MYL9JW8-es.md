@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MYL9JW8-es Fisher-Price Bloques apila y descubre juguete bebé Mattel...'
 sku: 'B00MYL9JW8-es'
-tags: [ 'bebé','fisher-price','bebé', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

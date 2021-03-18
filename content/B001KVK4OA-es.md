@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KVK4OA-es Bolsas de esterilización reutilizables Quick Clean Medela'
 sku: 'B001KVK4OA-es'
-tags: [ 'medela', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

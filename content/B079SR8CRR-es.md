@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SR8CRR-es Pinypon - Pack de 6 Figuras bebés Famosa 700014086'
 sku: 'B079SR8CRR-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Detergente líquido para textiles','Dispensadores de leche en polvo','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Muñecas para casas de muñecas','Muñecas y accesorios','Productos para la lavandería','Salud y cuidado personal','bebés','pinypon', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

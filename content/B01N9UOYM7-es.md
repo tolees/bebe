@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9UOYM7-es DECOWALL DLT-1615 Mapamundi Animales Vinilo Pegatinas...'
 sku: 'B01N9UOYM7-es'
-tags: [ 'bebés', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GRBGGN-es Asalvo Silla de coche grupo 2/3 Isofix'
 sku: 'B078GRBGGN-es'
-tags: [ 'asalvo','coche','de','isofix','silla', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

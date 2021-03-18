@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCCFCCC-es Tommee Tippee Juguete transpirable Betty el Conejo'
 sku: 'B07GCCFCCC-es'
-tags: [ 'tommee', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

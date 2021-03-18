@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FC37H9N-es Koala Babycare® Almohada para Embarazadas para Dormir...'
 sku: 'B07FC37H9N-es'
-tags: [ 'bebe','bebé','lactancia', ]
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

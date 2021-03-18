@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG1M9Y9-es Geox B RISHON Girl A Zapatillas para Bebés Rosa Dk Rose...'
 sku: 'B07LG1M9Y9-es'
-tags: [ 'bebés', ]
 actualPrice: 30.85 EUR
 currency: EUR
 price: 30.85

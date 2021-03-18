@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H7SG44M-es Digital para bebés con indicador de Fiebre para Adultos y...'
 sku: 'B08H7SG44M-es'
-tags: [ 'bebés', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

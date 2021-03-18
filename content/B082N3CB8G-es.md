@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082N3CB8G-es Dodot Sensitive Toallitas para Bebé 15 Paquetes de 54...'
 sku: 'B082N3CB8G-es'
-tags: [ 'bebé','dodot','bebé', ]
 actualPrice: 22.16 EUR
 currency: EUR
 price: 22.16

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082ZRK68W-es Wuyee 1pcs té Filtro colador de té Infuser Reutilizable...'
 sku: 'B082ZRK68W-es'
-tags: [ 'bebé','bebé', ]
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

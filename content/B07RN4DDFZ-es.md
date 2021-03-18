@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RN4DDFZ-es penobon Mini Ventilador USB Silencioso Portátil Recargable...'
 sku: 'B07RN4DDFZ-es'
-tags: [ 'bebé', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

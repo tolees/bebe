@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFDH5NS-es Colon Nenuco - Detergente para lavadora adecuado para ropa...'
 sku: 'B07VFDH5NS-es'
-tags: [ 'Bebé','Biberones y accesorios','Cuidado y limpieza del hogar','Detergente líquido para textiles','Dispensadores de leche en polvo','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Lactancia y alimentación','Productos para la lavandería','Salud y cuidado personal','colon','nenuco', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

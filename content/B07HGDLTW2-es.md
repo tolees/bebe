@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGDLTW2-es Bébé Confort LARA Nomad Sand - Cochecito ultracompacto...'
 sku: 'B07HGDLTW2-es'
-tags: [ 'bébé','confort', ]
 actualPrice: 191.2 EUR
 currency: EUR
 price: 191.2

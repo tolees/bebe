@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V69QMK1-es Neusky - Aspersor de agua para niños bebés y perros en verano'
 sku: 'B07V69QMK1-es'
-tags: [ 'bebés', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

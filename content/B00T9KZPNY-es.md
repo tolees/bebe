@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T9KZPNY-es NUK Botella de 360 ml de silicona Chupete Tamaño 2 M Drilling'
 sku: 'B00T9KZPNY-es'
-tags: [ 'chupete','nuk', ]
 actualPrice: 10.72 EUR
 currency: EUR
 price: 10.72

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1LHDSZ-es Vicloon Babero de Bebé del Silicona 2pcs Baberos...'
 sku: 'B07L1LHDSZ-es'
-tags: [ 'babero','bebé', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

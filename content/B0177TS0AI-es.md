@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0177TS0AI-es Rolimate Juguetes para Niños Pequeños Apilador Geométrico...'
 sku: 'B0177TS0AI-es'
-tags: [ 'Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Bebé','Desarrollo de habilidades motoras','Espejos para asientos traseros','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','rolimate', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

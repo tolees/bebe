@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7D4HKP-es Derebir - Vigilabebés Inalambrico Bebé Monitor Inteligente...'
 sku: 'B07W7D4HKP-es'
-tags: [ 'bebé','vigilabebés','bebé', ]
 actualPrice: 58.64 EUR
 currency: EUR
 price: 58.64

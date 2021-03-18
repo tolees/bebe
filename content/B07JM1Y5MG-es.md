@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JM1Y5MG-es TOPERSUN Vigilabebés con Cámara Inalámbrico Monitor de...'
 sku: 'B07JM1Y5MG-es'
-tags: [ 'bebé','vigilabebés','bebé', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

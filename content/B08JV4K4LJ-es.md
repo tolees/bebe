@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JV4K4LJ-es DDYX2020 Juego Interactivo de Golpear a Una Rana con 2...'
 sku: 'B08JV4K4LJ-es'
-tags: [ 'bebe', ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCCFHSB-es Tommee Tippee Juguete transpirable Henry el Hipopótamo'
 sku: 'B07GCCFHSB-es'
-tags: [ 'tommee', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

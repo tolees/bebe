@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y34XPVQ-es Eryplast Lutsine E45 - Pasta al Agua para la Piel del Bebé...'
 sku: 'B06Y34XPVQ-es'
-tags: [ 'bebé','eryplast','pañal', ]
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

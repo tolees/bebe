@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8YFZH5-es Dodot Sensitive - Pañales 11-16 kg Talla 5 168 Unidades'
 sku: 'B07M8YFZH5-es'
-tags: [ 'Bebé','Cambio de pañales','Cuidado y limpieza del hogar','Decoración para dormitorio de bebé','Detergente líquido para textiles','Dormitorio','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juegos de imitación','Juegos de médicos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas para casas de muñecas','Muñecas y accesorios','Móviles para bebé','Pañales desechables','Pañales desechables para bebés','Pañales para bebé','Productos para la lavandería','Salud y cuidado personal','dodot','pañales', ]
 actualPrice: 53.93 EUR
 currency: EUR
 price: 53.93

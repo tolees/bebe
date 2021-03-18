@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868GL8LX-es ORIA Termómetro Infrarrojo Digital Termómetro sin Contacto...'
 sku: 'B0868GL8LX-es'
-tags: [ 'bebés', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

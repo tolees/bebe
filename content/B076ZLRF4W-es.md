@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076ZLRF4W-es Lictin 3 Pack baberos suave de silicona impermeables para...'
 sku: 'B076ZLRF4W-es'
-tags: [ 'bebés', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

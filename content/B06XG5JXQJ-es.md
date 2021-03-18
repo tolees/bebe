@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG5JXQJ-es Chicco Physio Soft Pack de 2 Chupetes de Silicona 6-16...'
 sku: 'B06XG5JXQJ-es'
-tags: [ 'chicco','chupetes', ]
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53
