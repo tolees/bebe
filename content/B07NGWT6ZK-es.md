@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGWT6ZK-es Primigi Gore-Tex Pbz 43660 Botas para Bebés...'
 sku: 'B07NGWT6ZK-es'
-tags: [ 'bebés', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

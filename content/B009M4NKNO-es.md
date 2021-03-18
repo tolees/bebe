@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009M4NKNO-es Suavinex - Perfume Niña La Petite Chic Vaporizador....'
 sku: 'B009M4NKNO-es'
-tags: [ 'suavinex', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','suavinex', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

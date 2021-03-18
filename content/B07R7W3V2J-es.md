@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7W3V2J-es MAM Original 0+ 2 unidades Chupete de látex para recién...'
 sku: 'B07R7W3V2J-es'
-tags: [ 'chupete', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chupete', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

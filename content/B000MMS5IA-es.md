@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MMS5IA-es Philips Avent SCF155/06 - Discos absorbentes lavables para...'
 sku: 'B000MMS5IA-es'
-tags: [ 'avent', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent', ]
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

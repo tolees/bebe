@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGVPXHV-es Primigi Pca 44112 Botas para Bebés Marron E Scuro 4411344...'
 sku: 'B07NGVPXHV-es'
-tags: [ 'bebés', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

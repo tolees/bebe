@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1XN12H-es Munchkin Set De Regalo Nibbles & Giggles Rosa 1 unidad 430 g'
 sku: 'B07X1XN12H-es'
-tags: [ 'munchkin', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','munchkin', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

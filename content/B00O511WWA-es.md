@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O511WWA-es Safety 1st Road Safe Silla de coche para Niños Grupo 2/3...'
 sku: 'B00O511WWA-es'
-tags: [ '1st','coche','de','safety','silla', ]
+tags: [ '1st','Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','de','safety','silla', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

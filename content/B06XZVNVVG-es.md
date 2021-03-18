@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XZVNVVG-es Baby Jogger BJ2011982 - Banqueta'
 sku: 'B06XZVNVVG-es'
-tags: [ 'baby','jogger', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','baby','jogger', ]
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

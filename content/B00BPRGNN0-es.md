@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BPRGNN0-es Medela 008.0483 Biberón con Tetina Calma 250 ml'
 sku: 'B00BPRGNN0-es'
-tags: [ 'biberón','medela', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','medela', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

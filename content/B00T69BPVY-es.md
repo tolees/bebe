@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T69BPVY-es Chicco TP-8058664042913 Vendor Dispositivo Anti Mosquitos...'
 sku: 'B00T69BPVY-es'
-tags: [ 'chicco', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chicco', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

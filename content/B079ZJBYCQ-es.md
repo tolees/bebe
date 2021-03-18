@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZJBYCQ-es Britax Römer silla de coche 15 - 36 kg ≈ 3 5 - 12 años...'
 sku: 'B079ZJBYCQ-es'
-tags: [ 'coche','de','isofix','römer','silla', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','de','isofix','römer','silla', ]
 actualPrice: 109.59 EUR
 currency: EUR
 price: 109.59

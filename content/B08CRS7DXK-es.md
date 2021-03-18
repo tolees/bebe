@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRS7DXK-es Juguetes de baño para bebés Ducha de Elefante Ducha de...'
 sku: 'B08CRS7DXK-es'
-tags: [ 'bebés', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
 actualPrice: 2.01 EUR
 currency: EUR
 price: 2.01

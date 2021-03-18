@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBWPBTB-es Baby Jogger City Tour LUX color berenjena. Silla de paseo...'
 sku: 'B07LBWPBTB-es'
-tags: [ 'baby','jogger', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','baby','jogger', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

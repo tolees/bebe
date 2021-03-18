@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWW6H27-es Mommy Hook Stroller Hanger Houkiper Ganchos Multiusos...'
 sku: 'B07SWW6H27-es'
-tags: [ 'pañales', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','pañales', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ2VD5B-es Libro Bebe BelleStyle Libro Texturas Bebe para Juguetes...'
 sku: 'B07QZ2VD5B-es'
-tags: [ 'bebe', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

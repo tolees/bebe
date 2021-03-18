@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MED145E-es Dr Brown s prevent chupete 6 A 12 meses color azul pack de 2'
 sku: 'B01MED145E-es'
-tags: [ 'chupete', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chupete', ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

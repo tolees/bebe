@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084Z1GDTY-es Creative Fruit Design Baby Teether Teeth Nursing Toy BPA...'
 sku: 'B084Z1GDTY-es'
-tags: [ 'chupete', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','chupete', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

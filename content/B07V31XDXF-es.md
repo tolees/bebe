@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V31XDXF-es Béaba Babycook Neo Robot de cocina infantil: tritura...'
 sku: 'B07V31XDXF-es'
-tags: [ 'babycook','bebés', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','babycook','bebés', ]
 actualPrice: 145.61 EUR
 currency: EUR
 price: 145.61

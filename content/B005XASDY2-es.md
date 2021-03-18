@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XASDY2-es Cybex 512110004 Silver Pallas-Fix Silla de Coche Grupo...'
 sku: 'B005XASDY2-es'
-tags: [ 'coche','cybex','de','silla', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','coche','cybex','de','silla', ]
 actualPrice: 178.99 EUR
 currency: EUR
 price: 178.99

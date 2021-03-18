@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQK4FJ1-es non-brand Muñeca Bebé Reborn con Bañera Azul y Accesorios...'
 sku: 'B07PQK4FJ1-es'
-tags: [ 'bebé', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

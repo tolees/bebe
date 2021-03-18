@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QH79FW-es Agger Transparente bebé de Silicona Mam Anillo Chupete...'
 sku: 'B086QH79FW-es'
-tags: [ 'bebé','chupete', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','chupete', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

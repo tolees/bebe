@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0849CD9NR-es Maxi-Cosi Morion Silla auto Grupo 2/3 isofix I-Size 15 -...'
 sku: 'B0849CD9NR-es'
-tags: [ 'isofix','maxi-cosi', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','isofix','maxi-cosi', ]
 actualPrice: 143.2 EUR
 currency: EUR
 price: 143.2

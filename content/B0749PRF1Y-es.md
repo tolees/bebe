@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749PRF1Y-es Jane Klain283 819 - Sandalias con Punta Abierta Mujer...'
 sku: 'B0749PRF1Y-es'
-tags: [ 'jane', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','jane', ]
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8GPXLV-es Hot Mom Multi cochecito cochecito 2 en 1 con buggy 2020...'
 sku: 'B07X8GPXLV-es'
-tags: [ 'bebé', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

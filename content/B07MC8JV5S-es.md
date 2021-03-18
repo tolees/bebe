@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC8JV5S-es KidoMe 1280 x 720P Vigilabebé Vídeo Inalambrico Cámara...'
 sku: 'B07MC8JV5S-es'
-tags: [ 'bebé','vigilabebé', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebé','vigilabebé', ]
 actualPrice: 74.39 EUR
 currency: EUR
 price: 74.39

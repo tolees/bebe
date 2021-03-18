@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KW4F8F6-es NUK 10255253 - Biberón con asas botella de acero...'
 sku: 'B00KW4F8F6-es'
-tags: [ 'biberón','nuk', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','nuk', ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FW19VT4-es molis&co. Saco de Dormir para bebé. Ideal para Verano. 0-6...'
 sku: 'B07FW19VT4-es'
-tags: [ 'muselina', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','muselina', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

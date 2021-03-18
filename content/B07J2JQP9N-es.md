@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J2JQP9N-es Suavinex Zero-Zero Biberón anticólicos +0 meses 180 ml -...'
 sku: 'B07J2JQP9N-es'
-tags: [ 'biberón','lactancia','suavinex', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','biberón','lactancia','suavinex', ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

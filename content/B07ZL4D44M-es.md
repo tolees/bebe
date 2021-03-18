@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZL4D44M-es Maxi-Cosi Lara Silla de paseo ligera y reclinable...'
 sku: 'B07ZL4D44M-es'
-tags: [ 'maxi-cosi', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','maxi-cosi', ]
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

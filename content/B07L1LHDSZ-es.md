@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1LHDSZ-es Vicloon Babero de Bebé del Silicona 2pcs Baberos...'
 sku: 'B07L1LHDSZ-es'
-tags: [ 'babero','bebé', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','babero','bebé', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

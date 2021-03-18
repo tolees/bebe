@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013NFOS6-es NUK First Choice+ - Pack de 2 tetinas de látex talla M 0-6...'
 sku: 'B0013NFOS6-es'
-tags: [ 'nuk','tetinas', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','nuk','tetinas', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

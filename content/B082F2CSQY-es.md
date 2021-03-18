@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082F2CSQY-es Cobertura de lactancia de algodón Cubiertas de lactancia...'
 sku: 'B082F2CSQY-es'
-tags: [ 'lactancia', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','lactancia', ]
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

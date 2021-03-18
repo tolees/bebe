@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSV2LJZ-es Motorola MBP 140 - Vigilabebés audio con unidad para bebés...'
 sku: 'B01MSV2LJZ-es'
-tags: [ 'bebés','vigilabebés', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés','vigilabebés', ]
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

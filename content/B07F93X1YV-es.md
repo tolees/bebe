@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F93X1YV-es Philips Avent Biberón Natural SCF036/17 - Biberón de 330...'
 sku: 'B07F93X1YV-es'
-tags: [ 'avent','biberón', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','avent','biberón', ]
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01966WDTE-es Jané 010496C01 - Termo para sólidos'
 sku: 'B01966WDTE-es'
-tags: [ 'jané', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','jané', ]
 actualPrice: 24.16 EUR
 currency: EUR
 price: 24.16

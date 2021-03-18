@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV8DK7F-es Tommy Hilfiger Th Baby Sock 3p Giftbox Newborn Calcetines...'
 sku: 'B07TV8DK7F-es'
-tags: [ 'bebés', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebés', ]
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

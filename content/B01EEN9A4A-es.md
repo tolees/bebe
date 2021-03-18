@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EEN9A4A-es Miniland Baby - Vigilabebé'
 sku: 'B01EEN9A4A-es'
-tags: [ 'vigilabebé', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','vigilabebé', ]
 actualPrice: 168.75 EUR
 currency: EUR
 price: 168.75

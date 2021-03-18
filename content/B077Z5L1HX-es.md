@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Z5L1HX-es Fascol 7 en 1 Triciclo Bebe con Asiento Giratorio y Ruedas...'
 sku: 'B077Z5L1HX-es'
-tags: [ 'bebe', ]
+tags: [ 'Accesorios para el baño','Accesorios para sillas de coche','Actividad y entretenimiento','Andadores','Baño e higiene personal','Bebé','Belleza','Desarrollo de habilidades motoras','Espejos para asientos traseros','Esponjas para baños','Higiene y cuidado','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Sillas de coche y accesorios','Toallitas húmedas para bebé','Toallitas y accesorios para bebé','bebe', ]
 actualPrice: 102.53 EUR
 currency: EUR
 price: 102.53
