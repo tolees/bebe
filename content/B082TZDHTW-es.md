@@ -28,10 +28,10 @@ Ahora mismo tienes [Germinate - Camisetas de Dinosaurios Niños 2 12 años Veran
 
 🔎:
 
+- Tejido de algodón suave y cómodo.
 - Apto para 2 3 4 5 6 7 8 9 10 11 12 años.
 - Lavar a maquina.
 - Consulte nuestra tabla de tallas antes de comprar.
 - Germinate Trademark es propiedad de NewCoCo.
-- Tejido de algodón suave y cómodo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082TZDHTW/?tag=tolees-21)
