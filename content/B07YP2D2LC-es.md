@@ -28,10 +28,10 @@ Ahora mismo tienes [Chicco Ohlala 2 - Silla de paseo ultra ligera y compacta  f�
 
 🔎:
 
-- Respaldo reclinable en varias posiciones
-- Fácil de plegar y manejar
-- Ultra compacta plegado libro
 - Manillar unido para máejor movilidad y agilidad con una mano
+- Ultra compacta plegado libro
+- Respaldo reclinable en varias posiciones
 - Silla ligera: solo pesa 3,8 kg
+- Fácil de plegar y manejar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YP2D2LC/?tag=tolees-21)
