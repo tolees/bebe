@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Philips Avent - Juego de recipientes par al 23.94 % de descuento'
-date: 2021-03-21 01:11:56
+title: 'Philips Avent - Juego de recipientes par al 43.53 % de descuento'
+date: 2021-03-22 01:56:48
 image: 'https://m.media-amazon.com/images/I/51-RSCDA2WL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B00M6POLUM-es Philips Avent - Juego de recipientes para comida de bebé...'
 sku: 'B00M6POLUM-es'
 tags: [ 'Bebé','Lactancia y alimentación','Recipientes para comida','avent','bebé','philips avent', ]
-actualPrice: 23.57 EUR
+actualPrice: 17.5 EUR
 currency: EUR
-price: 23.57
+price: 17.5
 comparePrice: 30.99 EUR
 prodname: 'Philips Avent - Juego de recipientes para comida de bebé  20 recipientes + 1 cuchara + libro recetas '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Philips Avent'
 buyurl: 'https://www.amazon.es/dp/B00M6POLUM/?tag=tolees-21'
-descuento: '23.94'
-average: '21.4193749999999'
+descuento: '43.53'
+average: '21.3709876543209'
 ---
 
-Está [Philips Avent - Juego de recipientes para comida de bebé  20 recipientes + 1 cuchara + libro recetas ](https://www.amazon.es/dp/B00M6POLUM/?tag=tolees-21) con 23.94 de descuento por 23.57 EUR (original: 30.99 EUR) en el siguiente enlace!
+Está [Philips Avent - Juego de recipientes para comida de bebé  20 recipientes + 1 cuchara + libro recetas ](https://www.amazon.es/dp/B00M6POLUM/?tag=tolees-21) con 43.53 de descuento por 17.5 EUR (original: 30.99 EUR) en el siguiente enlace!
 
 [![Philips Avent - Juego de recipientes par](https://m.media-amazon.com/images/I/51-RSCDA2WL._SL400_.jpg)](https://www.amazon.es/dp/B00M6POLUM/?tag=tolees-21)
 
 ℹ️:
 
-- 20 tapas
 - 180 ml y 240 ml
+- Incluye un libro de recetas
 - 1 cuchara
 - 20 recipientes
-- Incluye un libro de recetas
+- 20 tapas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00M6POLUM/?tag=tolees-21)
