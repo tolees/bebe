@@ -28,8 +28,8 @@ Tienes [Simple Joys by Carter s - Camiseta - para bebé niño multicolor Gray/Ye
 
 ℹ️:
 
-- Térmico
 - Cuello acanalado
+- Térmico
 - Calidad de confianza Carter, sin complicaciones, embalaje exclusivo para los miembros de Amazon
 - Manga larga
 
