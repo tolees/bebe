@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOP BRIGHT Elefante Centro de Actividade al 23.10 % de descuento'
-date: 2021-03-23 22:12:27
+date: 2021-03-26 07:04:25
 image: 'https://m.media-amazon.com/images/I/51WBGYqgfOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOP BRIGHT'
 buyurl: 'https://www.amazon.es/dp/B08BLKD6TB/?tag=tolees-21'
 descuento: '23.10'
-average: '29.932857142857'
+average: '29.9344444444443'
 ---
 
 Está [TOP BRIGHT Elefante Centro de Actividades - Cubo Interactivo de 5 Lados para Bebés de 1 año - Mesa de Actividades para Niños y Niñas - Juguete Didáctico para Desarrollo Habilidades Motoras](https://www.amazon.es/dp/B08BLKD6TB/?tag=tolees-21) con 23.10 de descuento por 29.99 EUR (original: 39.0 EUR) en el siguiente enlace!
