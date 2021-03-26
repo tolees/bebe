@@ -28,8 +28,8 @@ Tienes [Edge Entertainment- Star Munchkin - Español  Color  EESJSM01 ](https://
 
 ℹ️:
 
+- Juego de mesa
 - Juego de cartas a todo color divertido y entretenido
 - Juego de cartas
-- Juego de mesa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075SHZZ5B/?tag=tolees-21)
