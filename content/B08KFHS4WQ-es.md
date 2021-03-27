@@ -28,9 +28,9 @@ Tienes [Chicco Hamaca Rhythm y Sound Moon Grey](https://www.amazon.es/dp/B08KFHS
 
 🔎:
 
-- Tumbona electrónica de Chicco con diseño elegante y contemporáneo para acurrucarse suavemente al bebé con un movimiento deslizante: se mueve de un lado a otro para calmar y calmar al bebé.
-- Sonidos naturales y nanas para entretener al bebé.
-- Cierre 2D para facilitar el transporte y el almacenamiento.
 - Respaldo reclinable: 2 posiciones para ofrecer la máxima comodidad en cada fase del crecimiento.
+- Cierre 2D para facilitar el transporte y el almacenamiento.
+- Sonidos naturales y nanas para entretener al bebé.
+- Tumbona electrónica de Chicco con diseño elegante y contemporáneo para acurrucarse suavemente al bebé con un movimiento deslizante: se mueve de un lado a otro para calmar y calmar al bebé.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KFHS4WQ/?tag=tolees-21)
