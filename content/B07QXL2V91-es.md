@@ -28,8 +28,8 @@ Está [Ingenuity  Hamaca bebé supersuave  Flora](https://www.amazon.es/dp/B07QX
 
 ℹ️:
 
-- La barra de juguete incluye una mariposa y un Unicornio de juguete
 - Sus tejidos de felpa y los cojines de soporte rodearán a tu bebé de comodidad
+- La barra de juguete incluye una mariposa y un Unicornio de juguete
 - Sus patas antideslizantes y sus arneses de 3 puntos proporcionan una seguridad adecuada
 - Dispone de 8 melodías y una vibración que se desactiva de forma automática
 
