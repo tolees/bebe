@@ -30,8 +30,8 @@ Está [Chicco Cuddle&Bubble - Bañera y Cambiador 2 en 1  Plegable y Compacta  P
 
 - Patas regulables en 3 alturas
 - Bañera extraible con desagüe
+- Bañera y cambiador 2 en 1
 - Plegable, compacta y fácil de transportar
 - Suave reductor extraible para el cambiador
-- Bañera y cambiador 2 en 1
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LM1KGCL/?tag=tolees-21)
