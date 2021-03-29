@@ -28,10 +28,10 @@ Tienes [Medela Purelan crema 100% lanolina  natural y segura para la madre y el 
 
 ℹ️:
 
-- Segura para tu bebé, por lo que no tendrás que quitártela antes de dar el pecho
-- Alivio rápido para los pezones doloridos y la sequedad de la piel
-- 100% natural: sin aditivos, conservantes ni fragancias añadidos
 - Obtenida de forma ética en granjas en las que no se practica el «mulesing»
+- 100% natural: sin aditivos, conservantes ni fragancias añadidos
+- Alivio rápido para los pezones doloridos y la sequedad de la piel
+- Segura para tu bebé, por lo que no tendrás que quitártela antes de dar el pecho
 - Textura rica y eficaz, crea una capa protectora sobre la superficie de la piel y la rehidrata desde el interior
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HDGKR5B/?tag=tolees-21)
