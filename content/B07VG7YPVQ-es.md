@@ -28,10 +28,10 @@ Ahora mismo tienes [Edge Entertainment- Munchkin Apocalypse - Español  Color  E
 
 🔎:
 
-- Este juego introduce cuatro nuevas clases, y un nuevo y aterrador tipo de carta: los desastres
-- También hay ahora otra forma de ganar la partida, si no alcanzas el nivel 10: abrir el séptimo sello
 - Incluye un monstruo invitado de ethan nicolle (axe cop, bearmageddon)
-- En munchkin apocalipsis, todos los posibles desastres naturales (y algunos antinaturales) ya han tenido lugar o están a punto de hacerlo
+- Este juego introduce cuatro nuevas clases, y un nuevo y aterrador tipo de carta: los desastres
 - Eres un duro superviviente en un mundo lleno de gente (y cosas) que quieren matarte para quedarse con tus cosas; así que hazlo tú antes
+- En munchkin apocalipsis, todos los posibles desastres naturales (y algunos antinaturales) ya han tenido lugar o están a punto de hacerlo
+- También hay ahora otra forma de ganar la partida, si no alcanzas el nivel 10: abrir el séptimo sello
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VG7YPVQ/?tag=tolees-21)
