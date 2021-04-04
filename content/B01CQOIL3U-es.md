@@ -28,10 +28,10 @@ En este momento está [Chicco Physio Soft Chupetes para Bebés de 0 a 6 Meses  1
 
 🔎:
 
-- BASE REDONDA: la base suave y redondeada de la tetina del chupete permite que los labios se cierren de forma natural; la forma es similar a la del pecho materno y estimula la succión del bebé.
-- AGUJEROS DE VENTILACIÓN: los agujeros de ventilación de estos chupetes permiten el paso del aire y reducen el estancamiento de la saliva, que normalmente causa irritación en la piel del bebé.
-- TETINA DE SILICONA: la tetina del chupete Physio Soft está realizada 100% en silicona suave, elástica, resistente e higiénica, que asegura una sensación de comodidad durante la succión.
-- TECNOLOGÍA PHYSIOFORMA: la innovadora tetina de los chupetes Chicco se adapta a las funciones fisiológicas de la lengua, favorece activamente el correcto desarrollo de la boca y facilita la respiración del bebé.
 - DE UNA SOLA PIEZA: los chupetes Physio Soft de Chicco están formados de una sola pieza de silicona, sin escudo rígido, que proporciona un acabado suave y delicado con la piel del bebé y también se pueden usar a la hora de dormir porque no deja marcas del escudo en la cara del niño.
+- TECNOLOGÍA PHYSIOFORMA: la innovadora tetina de los chupetes Chicco se adapta a las funciones fisiológicas de la lengua, favorece activamente el correcto desarrollo de la boca y facilita la respiración del bebé.
+- AGUJEROS DE VENTILACIÓN: los agujeros de ventilación de estos chupetes permiten el paso del aire y reducen el estancamiento de la saliva, que normalmente causa irritación en la piel del bebé.
+- BASE REDONDA: la base suave y redondeada de la tetina del chupete permite que los labios se cierren de forma natural; la forma es similar a la del pecho materno y estimula la succión del bebé.
+- TETINA DE SILICONA: la tetina del chupete Physio Soft está realizada 100% en silicona suave, elástica, resistente e higiénica, que asegura una sensación de comodidad durante la succión.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CQOIL3U/?tag=tolees-21)
