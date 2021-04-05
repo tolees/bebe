@@ -28,9 +28,9 @@ Tienes [Chicco - Lanzador Ferrari de Coches electrónico con Coche Incluido](htt
 
 🔎:
 
-- Con exclusivo Ferrari F12 TDF amarillo
-- Pista de coches bajo licencia Ferrari
 - Sonidos auténticos de Ferrari
+- Pista de coches bajo licencia Ferrari
+- Con exclusivo Ferrari F12 TDF amarillo
 - Incluye 1 coche 4 conos y 1 trofeo
 - ¡Lanza el coche y evita los conos y llévate el trofeo!
 
