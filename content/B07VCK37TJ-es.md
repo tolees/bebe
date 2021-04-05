@@ -30,8 +30,8 @@ Ahora mismo tienes [BABY born - Muñeco bebé Niño con 9 funciones](https://www
 
 - Incluye 11 accesorios: un chupete, una cadena de chupete, un biberón, un orinal, un pañal, un plato, una cuchara, una papilla, un certificado de nacimiento, y 2 pulseras (1 para ti y otra para tu BABY born)
 - Muñeco de 43 cm que funciona sin pilas
-- Edad recomendada + 3 años
 - Ahora más flexible y blandito
+- Edad recomendada + 3 años
 - Muñeco bebé articulada con 9 funciones parecidas a las de un bebé de verdad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VCK37TJ/?tag=tolees-21)
