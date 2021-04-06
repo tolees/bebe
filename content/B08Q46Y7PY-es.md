@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMCOM Bañera para Bebé Plegable y Portátil con Recipient
 
 🔎:
 
-- ✅PLEGABLE: La bañera y el barreño se pueden plegar fácilmente. Esto facilita su transporte y almacenaje. Para guardar tu bañera y accesorios cómodamente cuando no los usas y sin ocupar apenas espacio.
-- ✅MEDIDAS: Medidas de la bañera: 81,5x60x46,5 cm (LxANxAL); Medidas de la palangana: 31,5x29,5x9,6 cm (LxANxAL); Medidas de la taza de champú: 18x11x14 cm (LxANxAL). Certificación: ASTM F963-17 y CPSIA HR4040.
-- ✅BAÑERA CON ACCESORIOS: Esta bañera cuenta con 3 accesorios adicionales. Una palangana, un taburete con ventosas antideslizantes y un recipiente para el champú. El recipiente también puede usarse a modo de rociador para enjuagar, y así bañar a tu bebé con más suavidad.
 - ✅PRÁCTICA Y RESISTENTE: La bañera dispone de una ranura para colocar el recipiente del champú, y tiene un orificio de desagüe y un tubo de 80cm para facilitar el vaciado. Hecha de PP y TPE, material no tóxico e inodoro, segura para la delicada piel de tu bebé.
+- ✅MEDIDAS: Medidas de la bañera: 81,5x60x46,5 cm (LxANxAL); Medidas de la palangana: 31,5x29,5x9,6 cm (LxANxAL); Medidas de la taza de champú: 18x11x14 cm (LxANxAL). Certificación: ASTM F963-17 y CPSIA HR4040.
+- ✅PLEGABLE: La bañera y el barreño se pueden plegar fácilmente. Esto facilita su transporte y almacenaje. Para guardar tu bañera y accesorios cómodamente cuando no los usas y sin ocupar apenas espacio.
+- ✅BAÑERA CON ACCESORIOS: Esta bañera cuenta con 3 accesorios adicionales. Una palangana, un taburete con ventosas antideslizantes y un recipiente para el champú. El recipiente también puede usarse a modo de rociador para enjuagar, y así bañar a tu bebé con más suavidad.
 - ✅BASE ANTIDESLIZANTE: Bañera equipada con soportes antideslizantes, ofreciendo mayor estabilidad y proporcionando más seguridad a la hora del baño de tu bebé. Las patas de apoyo son retráctiles y plegables.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Q46Y7PY/?tag=tolees-21)
