@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medisana FTC Termómetro clínico digital  al 32.94 % de descuento'
-date: 2021-04-03 22:34:16
+date: 2021-04-06 19:40:58
 image: 'https://m.media-amazon.com/images/I/31EwXoMt5iL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Medisana'
 buyurl: 'https://www.amazon.es/dp/B00422KWTG/?tag=tolees-21'
 descuento: '32.94'
-average: '3.30375'
+average: '3.34411764705882'
 ---
 
 Ahora mismo tienes [Medisana FTC Termómetro clínico digital para bebés  niños y adultos  oral  axilar o rectal  a prueba de agua con alarma de fiebre](https://www.amazon.es/dp/B00422KWTG/?tag=tolees-21) a 3.99 EUR (original: 5.95 EUR) (32.94 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Medisana FTC Termómetro clínico digital para bebés  niño
 🔎:
 
 - Alarma de fiebre: Si el termómetro mide una temperatura superior a 37,7 °C, sonará una alarma de fiebre en forma de diez pitidos triples.
-- Función de memoria: Gracias a su función de memoria, el termómetro clínico guarda el resultado de la medición y lo muestra brevemente en la pantalla la próxima vez que se encienda
-- Apagado automático: El resultado se muestra después de aprox. 60 segundos. El FTC se apaga automáticamente después de 8 minutos
 - Fácil de limpiar: El FTC se limpia fácilmente después de la medición. Para limpiarlo se utiliza un paño empapado en una solución alcohólica suave.
+- Apagado automático: El resultado se muestra después de aprox. 60 segundos. El FTC se apaga automáticamente después de 8 minutos
+- Función de memoria: Gracias a su función de memoria, el termómetro clínico guarda el resultado de la medición y lo muestra brevemente en la pantalla la próxima vez que se encienda
 - Medición precisa: El termómetro clínico FTC permite medir de forma precisa en tres partes del cuerpo. Oral (bajo la lengua), axilar (en la axila) y rectal (en el ano)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00422KWTG/?tag=tolees-21)
