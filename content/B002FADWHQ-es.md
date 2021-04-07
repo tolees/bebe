@@ -28,8 +28,8 @@ Ahora mismo tienes [Safety 1st Cierre de seguridad para armarios  seguridad para
 
 🔎:
 
-- Caja de 1 unidad
 - Sistema regulable: se adapta a todo tipo de armarios
+- Caja de 1 unidad
 - Secure Tech: indica el cierre correcto del dispositivo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002FADWHQ/?tag=tolees-21)
