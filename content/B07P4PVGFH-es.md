@@ -29,10 +29,10 @@ Tienes [Dodot Aqua Pure - Toallitas  3 paquetes  144 toallitas](https://www.amaz
 🔎:
 
 - Testadas dermatológicamente y 0% de perfume, alcohol, fenoxietanol y parabenos
-- Elaboradas con 99% de agua para una limpieza delicada
-- con algodón orgánico para un contacto suave con la piel del bebé
 - 1% de ingredientes delicados con la piel que ayudan a recuperar el ph natural
 - Contienen materiales de origen vegetal
 - Apropiadas para la delicada piel del recién nacido, incluyendo culito, manos, pies y cara
+- con algodón orgánico para un contacto suave con la piel del bebé
+- Elaboradas con 99% de agua para una limpieza delicada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P4PVGFH/?tag=tolees-21)
