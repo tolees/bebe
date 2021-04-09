@@ -30,8 +30,8 @@ Tienes [BRITAX RÖMER Silla de coche KIDFIX 2 S  con protectores laterales  niñ
 
 - Fabricado en Alemania
 - Con SICT: Sistema de absorción de impactos laterals; ver el video
+- Silla de coche 2 en 1: elevador con respaldo alto y cojín elevador gracias a su respaldo extraíble; el elevador solo puede utilizarse a partir de los 135 cm de estatura
 - Elevador con respaldo alto para una protección contra impacto laterales y una correcta orientación del cinturón de seguridad
 - Con SecureGuard: Protección contra impactos frontales única
-- Silla de coche 2 en 1: elevador con respaldo alto y cojín elevador gracias a su respaldo extraíble; el elevador solo puede utilizarse a partir de los 135 cm de estatura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K7VQ7J5/?tag=tolees-21)
