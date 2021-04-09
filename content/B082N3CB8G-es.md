@@ -28,10 +28,10 @@ En este momento está [Dodot Toallitas Sensitive para Bebé  810 Toallitas  15 P
 
 🔎:
 
-- Limpia de manera eficaz la piel gracias a su textura extra gruesa y suave
-- Ayudan instantáneamente a recuperar el pH natural en pieles delicadas
-- Apropiadas desde el primer día porque están especialmente diseñadas para la piel del recién nacido
 - Testadas dermatológicamente, sin perfume y 0% de fenoxietanol, parabenos y alcohol
 - Su loción libre de alcohol ayuda a prevenir la irritación de la piel
+- Apropiadas desde el primer día porque están especialmente diseñadas para la piel del recién nacido
+- Ayudan instantáneamente a recuperar el pH natural en pieles delicadas
+- Limpia de manera eficaz la piel gracias a su textura extra gruesa y suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082N3CB8G/?tag=tolees-21)

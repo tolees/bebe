@@ -28,10 +28,10 @@ En este momento está [KIDKA - KidKraft- Deluxe Activity Cube Juguete de laberin
 
 🔎:
 
-- Cada lado tiene diferentes tareas
-- Hecha de madera resistente de calidad
-- Ayuda a los niños a desarrollar sus habilidades motrices
-- Fácil de montar
 - 5 lados para que niños a partir de un año se diviertan
+- Hecha de madera resistente de calidad
+- Fácil de montar
+- Cada lado tiene diferentes tareas
+- Ayuda a los niños a desarrollar sus habilidades motrices
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I14W8AM/?tag=tolees-21)
