@@ -28,10 +28,10 @@ Está [Safety 1st Peps Silla de Paseo ligera pesa solo 4 6 kg  plegable y compac
 
 ℹ️:
 
-- Con freno de estacionamiento central en ambas ruedas traseras
 - Suspensiones en la rueda delantera para una conducción suave
-- Con toldo protector y ajustable
 - Las ruedas delanteras se pueden bloquear
+- Con freno de estacionamiento central en ambas ruedas traseras
+- Con toldo protector y ajustable
 - Ultra compact y ligera aproximadamente 4.5 kg
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KKZTD6B/?tag=tolees-21)
