@@ -28,9 +28,9 @@ En este momento está [Asalvo 15532 - Andador](https://www.amazon.es/dp/B078GQ6M
 
 🔎:
 
+- Asiento extraíble y lavable; muy compacto
+- Ajustable en altura; dotado de ruedas pivotantes para facilitar la dirección
 - Piezas cromadas
 - Frenos stoppers que bloquean la estructura; bandeja de juegos con sonidos
-- Ajustable en altura; dotado de ruedas pivotantes para facilitar la dirección
-- Asiento extraíble y lavable; muy compacto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078GQ6MG3/?tag=tolees-21)
