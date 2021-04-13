@@ -28,11 +28,11 @@ Tienes [Foppapedretti Rolling Fix  Silla de coche grupo 0+/1 Isofix  Grafito](ht
 
 🔎:
 
-- El asiento giratorio es muy práctico, se puede rotar hacia la puerta del coche para permitir que los padres puedan colocar al niño en la silla de coche
-- Conforme al Reglamento Europeo ECE R44/04
-- Se puede utilizar solamente con sistema de anclaje ISOFIX, silla de coche homologada para los grupos 0+ y 1 y se puede utilizar hasta los 18 kg
 - Con un simple gesto, el asiento giratorio facilita el paso del grupo 0+ al grupo 1, el asiento también se puede reclinar en el sentido contrario al de la marcha para niños con peso superior a 13 kg
+- Conforme al Reglamento Europeo ECE R44/04
 - Silla de coche para niños con edad comprendida entre los 0 y los 4 años
+- Se puede utilizar solamente con sistema de anclaje ISOFIX, silla de coche homologada para los grupos 0+ y 1 y se puede utilizar hasta los 18 kg
 - Estructura de material plástico, revestimiento 100 % poliéster, revestimiento desenfundable y lavable con agua y jabón a 30 °C
+- El asiento giratorio es muy práctico, se puede rotar hacia la puerta del coche para permitir que los padres puedan colocar al niño en la silla de coche
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01H0EHH54/?tag=tolees-21)
