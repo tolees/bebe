@@ -29,9 +29,9 @@ Ahora mismo tienes [Babify Alfombra de Juegos para bebés espesor 1.5 cm. Plegab
 🔎:
 
 - 💝 SOFT & THICK Ideal en su zona de juegos para amortiguar las caídas cuando el bebé empieza a gatear y a caminar. Gracias a su diseño antideslizante, nuestra alfombra es perfecta para aprender a caminar.
-- 💗 Esterilla de juego WATERPROOF fabricada en espuma XPE, fácil de limpiar con una esponja y agua. ¿Está su hijo aprendiendo a beber solo ? No tenga miedo de manchar la alfombra. Es muy facil de limpiar !.
-- 💞ECOLOGICA & NO TÓXICO A diferencia de las alfombras de espuma de EVA, la espuma XPE es inodora, libre de formamida y ftalatos y libre de BPA. La seguridad de nuestros niños es nuestra prioridad en BABIFY
-- 💖 Alfombrilla de actividad XL de gran formato 200 x 180 cm, plegable y REVERSIBLE, fácil de transportar gracias a su funda y fácil de plegar. Estimula la motricidad y la imaginación de tu hijo con sus dos diseños diferentes.
 - 💓 MULTI-USO - TRANSPORTE Y ALMACENAMIENTO FÁCIL Vestuario, exterior, interior, jardín, yoga, picnic, alfombras de salón... Utilice esta alfombra de acuerdo a sus necesidades. Sus características lo hacen útil en todas estas situaciones!
+- 💗 Esterilla de juego WATERPROOF fabricada en espuma XPE, fácil de limpiar con una esponja y agua. ¿Está su hijo aprendiendo a beber solo ? No tenga miedo de manchar la alfombra. Es muy facil de limpiar !.
+- 💖 Alfombrilla de actividad XL de gran formato 200 x 180 cm, plegable y REVERSIBLE, fácil de transportar gracias a su funda y fácil de plegar. Estimula la motricidad y la imaginación de tu hijo con sus dos diseños diferentes.
+- 💞ECOLOGICA & NO TÓXICO A diferencia de las alfombras de espuma de EVA, la espuma XPE es inodora, libre de formamida y ftalatos y libre de BPA. La seguridad de nuestros niños es nuestra prioridad en BABIFY
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087BL3N2G/?tag=tolees-21)
