@@ -28,10 +28,10 @@ Está [Philips Avent SCF169/25 - Set de 2 chupetes Gama Safari  de 0 a 6 meses  
 
 ℹ️:
 
-- Se puede esterilizar
 - Tetinas suaves de silicona
-- Tetina de silicona anatómica
 - Capuchón higiénico encajable
+- Tetina de silicona anatómica
+- Se puede esterilizar
 - Gama Safari, 2 chupetes, 0-6 meses, para niño
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MSEYUIC/?tag=tolees-21)
