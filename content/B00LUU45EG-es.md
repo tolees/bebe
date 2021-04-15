@@ -29,9 +29,9 @@ Tienes [Embudo para sacaleches Medela  talla L  27 mm ](https://www.amazon.es/dp
 ℹ️:
 
 - Medela tiene cinco tamaños de embudo diferentes disponibles para usar con tu extractor de leche ofreciéndote la máxima comodidad (S, M, L, XL, XXL).
-- Apoya la lactancia con los extractores de leche de Medela que te harán sentirte cómoda mientras te extraes leche.
-- Embudo talla L para sacaleches Medela.
 - Utiliza las bolsas de limpieza Quick Clean de Medela para esterilizar fácilmente al microondas y la crema para pezones de lanolina (Purelan) y protectores para pezones de Medela para el cuidado del pecho.
 - Se pueden usar con las botellas biberón de Medela y con las bolsas de almacenamiento de Medela para guardar y congelar la leche materna.
+- Apoya la lactancia con los extractores de leche de Medela que te harán sentirte cómoda mientras te extraes leche.
+- Embudo talla L para sacaleches Medela.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LUU45EG/?tag=tolees-21)
