@@ -28,11 +28,11 @@ Tienes [CalenduflorBaby Toallitas húmedas Bebé Mama Natura  Biodegradables con
 
 🔎:
 
-- Aptas para el uso en la cara y cuerpo del bebé
-- Cuida y limpia la piel de tu bebé en cada cambio de pañal
-- Cuidamos de la naturaleza, nuestro tejido está blanqueado sin cloro; biodegradables: aptas para el wc
-- Dermatológicamente testadas; sin alcohol
 - Dermatológicamente testadas; hipoalergénicas
 - Ingredientes: Aqua, Glycerin, Calendula officinalis flower extract, Phenoxyethanol, Polysorbate 20, Parfum, Benzoic acid, Disodium EDTA, Dehydroacetic acid, Sodium hydroxide, PEG/PPG-20/6 Dimethicone, Ethylexylglicerin, Butylphenyl methylpropional, Propylene glycol, Sodium benzoate, Potassium sorbate, Pentaerythrityl Tetra-di.t.butyl Hydroxyhydrocinnamate, Triisopropanolamine
+- Cuidamos de la naturaleza, nuestro tejido está blanqueado sin cloro; biodegradables: aptas para el wc
+- Cuida y limpia la piel de tu bebé en cada cambio de pañal
+- Dermatológicamente testadas; sin alcohol
+- Aptas para el uso en la cara y cuerpo del bebé
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08K3JB99R/?tag=tolees-21)
