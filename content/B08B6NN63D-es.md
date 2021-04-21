@@ -29,8 +29,8 @@ En este momento está [Nestlé Naturnes Bio Tarrina Manzana Mango Kiwi  A Partir
 🔎:
 
 - Para bebés a partir de los seis meses
-- Indicado para completar la alimentación de los bebés
 - Puré de frutas para bebés de manzana, mango y kiwi
+- Indicado para completar la alimentación de los bebés
 - Elaborado con fruta procedente de la agricultura ecológica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B6NN63D/?tag=tolees-21)
