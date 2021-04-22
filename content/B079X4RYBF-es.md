@@ -28,9 +28,9 @@ Tienes [Nenuco - Abracitos  Famosa 700014043 ](https://www.amazon.es/dp/B079X4RY
 
 🔎:
 
-- Se abraza a su almohada para dormir contigo
 - Muñeco blandito que mueve los brazos y balancea la cabeza
-- Desarrolla la coordinación ojo-mano
 - Estimula el ritmo, la atención y la imaginación
+- Desarrolla la coordinación ojo-mano
+- Se abraza a su almohada para dormir contigo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079X4RYBF/?tag=tolees-21)
