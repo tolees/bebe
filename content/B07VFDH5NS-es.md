@@ -29,8 +29,8 @@ Tienes [Colon Nenuco - Detergente para lavadora  adecuado para ropa blanca y de 
 ℹ️:
 
 - Fórmula original con la fragancia fresca y duradera de Nenuco que te transportará a tu infancia y al mundo de los bebés
-- Botella 100% reciclable
 - Detergente para la lavadora en formato gel con fragancia Nenuco
+- Botella 100% reciclable
 - Limpieza profunda incluso en agua fría, sin manchas, apto para ropa blanca y de color
 - Descubre el resto de detergentes y limpialavadoras de Colon para una colada optima
 
