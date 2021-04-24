@@ -28,10 +28,10 @@ Ahora mismo tienes [Maped 933600 X6 Color Peps Mi Primer Bebé Ceras para Colore
 
 🔎:
 
-- Cada crayons tiene una cara diferente emocional
+- Ceras fit juntos para un fácil almacenamiento
+- Suave ceras de colores brillantes con una zona de agarre grande y redondo para manos pequeñas
 - Adecuado para la edad 1 + cumple con las normas juguete
 - Fácil de aplicar color incluso con la presión más ligero de una joven niño
-- Suave ceras de colores brillantes con una zona de agarre grande y redondo para manos pequeñas
-- Ceras fit juntos para un fácil almacenamiento
+- Cada crayons tiene una cara diferente emocional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078H7PPYB/?tag=tolees-21)
