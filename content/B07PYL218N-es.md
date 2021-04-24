@@ -28,9 +28,9 @@ En este momento está [Fisher-Price Gimnasio sensorial llama  manta de juego par
 
 🔎:
 
+- 21 descubrimientos sensoriales para incentivar los sentidos del bebé
 - Alfombra de juego extragrande y lavable a máquina con un peluche de una llama y un cojín para el juego boca abajo
 - Gimnasio de actividades y peluche para estimular los sentidos
-- 21 descubrimientos sensoriales para incentivar los sentidos del bebé
 - Regalo original para recién nacido
 - 5 juguetes extraíbles con elementos para estimular los sentidos: una nutria musical que se ilumina, una nube perfumada, un espejo de reconocimiento, un mordedor de hoja y un perezoso de juguete
 
