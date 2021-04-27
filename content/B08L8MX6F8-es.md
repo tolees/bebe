@@ -28,10 +28,10 @@ En este momento está [Termometro Infrarrojos Wawech termometro digital sin cont
 
 🔎:
 
-- 👩‍👩‍👧【Pantalla OLED retroiluminada】Termómetro infrarrojo de frente con una pantalla OLED de alta calidad, puede ver claramente los resultados incluso en completa oscuridad. El termómetro infrarrojo tiene 3 pantallas en color y el verde indica la temperatura normal (34 ~ 37,4℃, 93,2 ~ 99,4 ℉). La pantalla amarilla significa fiebre leve (37.5 ~ 37.9℃, 99.5 ~ 100.3 ℉) y la pantalla roja significa fiebre alta (38.0 ~ 43℃, 100.4 ~ 109.4 ℉).
-- 👩‍👩‍👧【Termómetro multifuncional 2 en1 】El termómetro digital tiene 2 modos: termómetros de frente para adultos, niños y bebés, también puede medir la temperatura de habitaciones / objetos. ℃ y ℉ son fáciles de cambiar.
 - 👩‍👩‍👧【Termómetro infrarrojo de precisión】El termómetro digital infrarrojo ha pasado todas las certificaciones, es confiable y preciso. Simplemente presione el botón, puede obtener lecturas rápidas y precisas en 1 segundo.
 - 👩‍👩‍👧【Amplia aplicación】El termómetro infrarrojo para fiebre adopta una estructura de plástico ABS de alta densidad, equipado con 2 baterías AAA, liviano y portátil, adecuado para todas las edades, adecuado para hospitales, empresas, supermercados, escuelas, familias, etc.
 - 👩‍👩‍👧【Termómetro remoto】El termómetro remoto puede medir con precisión la temperatura dentro de una distancia de medición de 5-8 cm y tiene un timbre de alta temperatura, que puede evitar el contacto con infecciones de manera más efectiva. Se apaga automáticamente después de 30 segundos para ahorrar energía.
+- 👩‍👩‍👧【Pantalla OLED retroiluminada】Termómetro infrarrojo de frente con una pantalla OLED de alta calidad, puede ver claramente los resultados incluso en completa oscuridad. El termómetro infrarrojo tiene 3 pantallas en color y el verde indica la temperatura normal (34 ~ 37,4℃, 93,2 ~ 99,4 ℉). La pantalla amarilla significa fiebre leve (37.5 ~ 37.9℃, 99.5 ~ 100.3 ℉) y la pantalla roja significa fiebre alta (38.0 ~ 43℃, 100.4 ~ 109.4 ℉).
+- 👩‍👩‍👧【Termómetro multifuncional 2 en1 】El termómetro digital tiene 2 modos: termómetros de frente para adultos, niños y bebés, también puede medir la temperatura de habitaciones / objetos. ℃ y ℉ son fáciles de cambiar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L8MX6F8/?tag=tolees-21)
