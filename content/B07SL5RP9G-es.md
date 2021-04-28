@@ -28,10 +28,10 @@ Tienes [Chicco 06079516950000 Portaoggetti Retro Sedile  Neutro Juguete bilingü
 
 🔎:
 
-- Letras en ed extraíbles y encajables
-- 3 modos de juego
-- Juguete bilingüe español inglés
-- Inspirado en el método montessori
 - Aprender el alfabeto y la pronunciación
+- 3 modos de juego
+- Inspirado en el método montessori
+- Juguete bilingüe español inglés
+- Letras en ed extraíbles y encajables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SL5RP9G/?tag=tolees-21)
