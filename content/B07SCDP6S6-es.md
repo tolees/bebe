@@ -28,8 +28,8 @@ Está [adidas Advantage I  Sneaker Unisex bebé  Footwear White/Green/Grey  18 E
 
 ℹ️:
 
-- Corte regular
-- Cordones de zapatos
 - Suela de goma
+- Cordones de zapatos
+- Corte regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SCDP6S6/?tag=tolees-21)
