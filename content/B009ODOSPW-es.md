@@ -28,10 +28,10 @@ Tienes [Philips Avent Scf167/01 - Cojín Masajeador Grande Para Todos Los Extrac
 
 🔎:
 
-- Ajuste demasiado pequeño
-- Ajuste correcto
-- Elija el tamaño grande: el pezón toca las paredes del embudo
-- Cojín para extractor de leche grande
 - Embudo ancho para un ajuste cómodo
+- Ajuste demasiado pequeño
+- Elija el tamaño grande: el pezón toca las paredes del embudo
+- Ajuste correcto
+- Cojín para extractor de leche grande
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009ODOSPW/?tag=tolees-21)
