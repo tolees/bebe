@@ -28,9 +28,9 @@ En este momento está [Philips Avent Classic - Set De 2 Chupetes Decorados  Para
 
 🔎:
 
-- Tetina de silicona anatómica
+- Con anilla de silicona
 - Sin bpa
 - Se puede esterilizar
-- Con anilla de silicona
+- Tetina de silicona anatómica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01J3T1HC8/?tag=tolees-21)
