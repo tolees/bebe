@@ -28,10 +28,10 @@ Está [Mitosyl Crema Pañal Pomada Protectora  Previene T Trata las Irritaciones
 
 ℹ️:
 
-- Favorece la hidratación de la piel gracias a su fórmula óptima enriquecida con aceite de hígado de bacalao
 - Mitosyl Pomada protectora está recomendada para proteger la piel frente a irritaciones y escoceduras en la piel del bebé por rozaduras con el pañal
-- Actúa como un aislante de la piel frente a agentes irritantes, como heces u orina, para mantenerlo protegido durante más tiempo
 - Fórmula recomendada por pediatras para el cuidado de la piel delicada de tu bebé
+- Actúa como un aislante de la piel frente a agentes irritantes, como heces u orina, para mantenerlo protegido durante más tiempo
+- Favorece la hidratación de la piel gracias a su fórmula óptima enriquecida con aceite de hígado de bacalao
 - Contenido del paquete: 2 tubos de pomada de 145 gr y prospecto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PFNR7C6/?tag=tolees-21)

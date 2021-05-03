@@ -28,10 +28,10 @@ Ahora mismo tienes [Philips Avent SCF285/02 Esterilizador a Vapor Eléctrico 3 e
 
 🔎:
 
-- Adecuado para los biberones de cuello ancho y estrecho
-- Ciclo de 6 minutos con desconexión automática
-- Esterilización eficaz, elimina un 99,9% de gérmenes dañinos. Sin BPA
-- Tamaño ajustable
 - Esterilizador 3 en 1
+- Ciclo de 6 minutos con desconexión automática
+- Tamaño ajustable
+- Adecuado para los biberones de cuello ancho y estrecho
+- Esterilización eficaz, elimina un 99,9% de gérmenes dañinos. Sin BPA
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005DPC7DA/?tag=tolees-21)
