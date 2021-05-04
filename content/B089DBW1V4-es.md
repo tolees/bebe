@@ -28,9 +28,9 @@ Tienes [Elvie Pump - Sacaleches silencioso y portátil con aplicación – Sacal
 
 🔎:
 
+- Manos libres: Pequeño y ligero, Elvie Pump se lleva dentro de un sujetador de lactancia estándar, por lo que es un sacaleches verdaderamente práctico y manos libres. Nada que te ate ni que te ralentice.
 - Intuitivo: Elvie Pump cambia automáticamente del modo Estimulación al modo Extracción cuando detecta la segregación y realiza una pausa cuando la botella está llena. Una cosa menos en la que pensar.
 - Inteligente: Conéctate a la aplicación gratuita Elvie Pump para supervisar el volumen de leche en tiempo real, realizar un seguimiento del historial de extracción de cada pecho y controlar la extracción de forma remota. (Elvie Pump funciona con o sin la aplicación).
-- Manos libres: Pequeño y ligero, Elvie Pump se lleva dentro de un sujetador de lactancia estándar, por lo que es un sacaleches verdaderamente práctico y manos libres. Nada que te ate ni que te ralentice.
 - Silencioso: La revolucionaria tecnología elimina el ruido para que puedas extraer leche tranquilamente, como quieras, en casa, en el trabajo o sobre la marcha -en cualquier momento, en cualquier lugar.
 - Fácil de usar: Desde la configuración hasta la limpieza, el uso de Elvie Pump es sencillo: tan solo hay 5 piezas que limpiar y se monta en cuestión de segundos. Sin cables, sin cambiar de ropa, sin jaleos.
 
