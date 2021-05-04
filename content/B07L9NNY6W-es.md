@@ -28,10 +28,10 @@ Está [Philips Avent Vigilabebés con cámara SCD833/01 - Vigilabebés con víde
 
 ℹ️:
 
-- Alcance de hasta 300 m
+- Nanas relajantes para calmar al pequeño
 - Pantalla de 6,8 cm (2,7") de alta resolución con visión nocturna nítida
 - Conexión privada y segura con tecnología FHSS adaptable
 - Oiga a su bebé con un sonido claro
-- Nanas relajantes para calmar al pequeño
+- Alcance de hasta 300 m
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L9NNY6W/?tag=tolees-21)
