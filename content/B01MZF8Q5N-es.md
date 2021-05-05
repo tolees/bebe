@@ -28,10 +28,10 @@ Tienes [Star - Bañera Plegable Bebe Aqua. Plegado ultra compacto.](https://www.
 
 ℹ️:
 
-- Bañera plegable valida para bañeras y platos de ducha.
 - Muy cómoda para espacios reducidos ya que ocupa muy poco espacio. Con un simple gesto puedes plegar la bañera Flexi. Válida para utilizar tanto dentro como fuera de la propia bañera de tu casa desde el mismo nacimiento.
-- Dimensiones: Abierta 81 x 46 x 22 cm. / Cerrada 81 x 46 x 6 cm. / Capacidad: 36 litros. Peso: 2 Kg.
 - Debido a su poco peso, podrá ser colgada después de su uso.
+- Bañera plegable valida para bañeras y platos de ducha.
+- Dimensiones: Abierta 81 x 46 x 22 cm. / Cerrada 81 x 46 x 6 cm. / Capacidad: 36 litros. Peso: 2 Kg.
 - Perfecta para llevartela de viaje o a casa de los abuelos. Una vez plegada ocupa muy poco espacio.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MZF8Q5N/?tag=tolees-21)
