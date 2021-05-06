@@ -28,10 +28,10 @@ Tienes [Nenuco Canastilla Regalo Bebé Recién Nacido Con Colonia  Jabón de Ba�
 
 🔎:
 
-- El Pack Regalo Baby Shower de Nenuco está formado por un conjunto de productos para cuidar de tu bebé
 - La CESTITA de CARACOL te ayudará a TENER A MANO TODOS LOS PRODUCTOS para cuidar de tu bebé y será un regalo genial de baby shower, útil para que cualquier papá y mamá tengan a mano todo lo necesario
 - El CHAMPÚ EXTRA SUAVE DE NENUCO es óptimo para el baño de vuestro bebé ya que contiene MIEL Y CAMOMILA, FÁCIL DE ACLARAR y en formato 500 ml
-- Con LUTSINE ERYPLAST PASTA AL AGUA que calma, cuida y ayuda a proteger frente las causas de la dermatitis del pañal.
+- El Pack Regalo Baby Shower de Nenuco está formado por un conjunto de productos para cuidar de tu bebé
 - COLONIA DE NENUCO: Elaborado con una exclusiva selección de ingredientes que hacen de ella una fragancia muy , con el OLOR de Nenuco y en diferentes formatos para casa o para llevar.
+- Con LUTSINE ERYPLAST PASTA AL AGUA que calma, cuida y ayuda a proteger frente las causas de la dermatitis del pañal.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MRS9CTH/?tag=tolees-21)
