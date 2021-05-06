@@ -28,10 +28,10 @@ Ahora mismo tienes [Hero Baby - Papilla de Cereales sin Gluten y sin Azúcares A
 
 🔎:
 
+- Elegido "producto del año 2020" en la categoría de alimentación infantil, gracias a su sabor, olor, textura, eficacia, envase y calidad
 - Sin gluten, sin lactosa, sin azúcares añadidos ni producidos, sin aceite de palma, sin conservantes y sin colorantes
 - Las papillas de Hero Baby contribuyen al funcionamiento normal del sistema inmune y al correcto crecimiento de tu bebé
-- Con fibra, 7 vitaminas, calcio y hierro
-- Elegido "producto del año 2020" en la categoría de alimentación infantil, gracias a su sabor, olor, textura, eficacia, envase y calidad
 - Papilla de cereales nutritiva y sabrosa para bebés a partir de los 4 meses
+- Con fibra, 7 vitaminas, calcio y hierro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085YMTNP2/?tag=tolees-21)
