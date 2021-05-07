@@ -28,10 +28,10 @@ En este momento está [Suavinex - tarritos almacenaje leche materna 10 unidades.
 
 🔎:
 
-- Capacidad para 200 ml
-- Incorpora 10 unidades con tapa de rosca hermética anti-fuga
-- Formato apilable para ahorrar espacio al almacenar colocando los recipientes unos encima de otros
 - Recipientes para almacenaje, ideales para transportar la comida del bebé o almacenarla en el frigorífico o en el congelador
+- Formato apilable para ahorrar espacio al almacenar colocando los recipientes unos encima de otros
+- Incorpora 10 unidades con tapa de rosca hermética anti-fuga
+- Capacidad para 200 ml
 - Apto para lavavajillas y microondas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GVZ53CR/?tag=tolees-21)
