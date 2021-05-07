@@ -29,8 +29,8 @@ Ahora mismo tienes [TOPERSUN Vigilabebés Inalámbrico Monitor de Bebé Intelige
 🔎:
 
 - ❤ Larga distancia de transmisión: Distancias de transmisión mejoradas de 480ft a 900ft: ya sea que esté en la habitación contigua, en la cocina de abajo o en el patio al aire libre, los padres siempre pueden obtener un video estable. Nota: El soporte máximo es de 900ft. (En un lugar abierto)
-- ❤ Multi-Función : Nuestro vigilabebés tiene varias funciones como el monitoreo de imagen, información de temperatura de la habitación, o reproducción de música; además, el brillo es ajustable y la batería Li-ion recargable. Sin duda, el monitor inteligente, es la mejor para vigilar su bebé o como regalo de nacimiento
 - ❤ Pantalla LCD a Color : 3.2 pulgadas LCD color monitor, resolución de 320 x 240 píxeles. Vigilabebés Inalambrico con frecuencia 2,4 GHz digital, observe la dinámica del bebé en cualquier momento
+- ❤ Multi-Función : Nuestro vigilabebés tiene varias funciones como el monitoreo de imagen, información de temperatura de la habitación, o reproducción de música; además, el brillo es ajustable y la batería Li-ion recargable. Sin duda, el monitor inteligente, es la mejor para vigilar su bebé o como regalo de nacimiento
 - ❤ Visión Nocturna : La visión nocturna infrarroja incorporada le permitirá vigilar a sus hijos en la oscuridad, ya que La Luz de infrarrojos que emite es muy tenue y no resulta molesta, ayudando incluso a relajarse y evitar miedo a la oscuridad
 - ❤ Conversación bidireccional：La función de intercomunicación de dos vías le permite hablar con su bebé y consolarlos incluso si no está cerca. Esto ayuda a mantener a su bebé tranquilo
 
