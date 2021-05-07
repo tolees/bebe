@@ -28,9 +28,9 @@ Tienes [Dodot Manos Limpias & Go 18 Paquetes De 40 Unidades  720 Toallitas  Toal
 
 ℹ️:
 
+- Suaves con la piel del bebé, ayudando a mantener su piel hidratada y a prevenir irritaciones
 - Dermatológicamente testado
 - Fórmula con 2 veces más agentes de limpieza que una toallita normal de Dodot
-- Suaves con la piel del bebé, ayudando a mantener su piel hidratada y a prevenir irritaciones
 - Toallitas higienizantes de manos para toda la familia
 - Especialmente diseñadas para la limpieza de manos y cara cuando no es posible lavarse con agua y jabón
 - No contiene alcohol
