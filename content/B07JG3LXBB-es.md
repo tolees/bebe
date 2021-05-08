@@ -28,9 +28,9 @@ En este momento está [Safety 1st Koala Gandulita reclinable para bebé con func
 
 🔎:
 
+- Mecedora confortable y segura con asiento envolvente y acolchado
 - Hamaca fácil de plegar y llevar
 - Tiene función de hamaca mecedora y arco de juegos
-- Mecedora confortable y segura con asiento envolvente y acolchado
 - Entretenido, función mecedora y arco de juegos
 - Hamaca para bebé dispone de una sistema de bloqueo con 3 posiciones de reclinado
 
