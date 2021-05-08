@@ -30,8 +30,8 @@ Tienes [HOMCOM 26 Piezas Alfombra Puzzle para Niños 31x31 cm Colchoneta Suave 2
 
 - ✅Certificados: EN71-1, EN71-2?EN71-1-3,7P. Es totalmente seguro para los niños
 - ✅Hecho de resistente espuma EVA , facil de limpiar y de lavar
+- ✅Peso: 1,7 kg
 - ✅Dimensiones de cada pieza del rompecabezas: 31 x 31 cm , Superficie total: 2.41㎡
 - ✅Conjunto de 26 piezas compuestas de las letras del abecedario A-Z
-- ✅Peso: 1,7 kg
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DD9PX4W/?tag=tolees-21)
