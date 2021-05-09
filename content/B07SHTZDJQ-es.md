@@ -28,9 +28,9 @@ Ahora mismo tienes [Fisher-Price Little People Avión viaja conmigo  juguetes be
 
 🔎:
 
+- Juguete para niños y bebés a partir de 1 año
 - Juguete para niños que incluye un avión, una figura del piloto kurt, una figurita de emma y la maleta de viaje
 - Coloca al piloto kurt en su asiento para activar divertidos sonidos, canciones y luces
-- Juguete para niños y bebés a partir de 1 año
 - Avión de juguete con un botón de descubrimientos que acitva sonidos y frases haz girar la turbina y despega
 - Regalo óptimo para que los niños aprendan mientras se divierten
 
