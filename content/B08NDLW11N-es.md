@@ -29,13 +29,13 @@ Está [SUAVINEX Set Hidratación Edición Limitada: Loción Hidratante 300Ml + C
 ℹ️:
 
 - Ideal para bebés +0 meses.
-- Apto para pieles sensibles.
 - Set hidratación de bebé con lo necesario para su cuidado. Con loción hidratante 500ml + crema facial 50ml + bálsamo pediátrico labial.
-- Bálsamo pediátrico labial, 10ml - Hidrata, protege y ayuda a reparar irritaciones provocadas por roce o efectos del frío, viento o sequedad ambiental. 100% ingredientes de origen natural.
 - Loción hidratante, 300ml - Hidrata en profundidad la piel del cuerpo. Apta para pieles sensibles. 90% de ingredientes de origen natural.
 - Tu bebé siempre limpio y fresquito con nuestros productos de cosmética infantil.
 - Precioso set hidratación en una bonita caja plateada perfecta para regalo.
-- Crema facial, 50ml - Nutre en profundidad la piel del rostro, ideal frente al sil, viento o frío. Con SPF 15 y protección UV. 67% de ingredientes de origen natural.
 - Línea cosmética pediátrica en envases provenientes de materias primas renovables.
+- Bálsamo pediátrico labial, 10ml - Hidrata, protege y ayuda a reparar irritaciones provocadas por roce o efectos del frío, viento o sequedad ambiental. 100% ingredientes de origen natural.
+- Apto para pieles sensibles.
+- Crema facial, 50ml - Nutre en profundidad la piel del rostro, ideal frente al sil, viento o frío. Con SPF 15 y protección UV. 67% de ingredientes de origen natural.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NDLW11N/?tag=tolees-21)
