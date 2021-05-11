@@ -29,9 +29,9 @@ Ahora mismo tienes [LEMESO Parasol Carrito Bebe Infantil Parasol para Silla de P
 🔎:
 
 - Diseño cortinas de malla en los ambos lados para mantener el carrito fresco.
-- Hecho de tela elástica, se puede plegar cuando no ultilice, ocupa muy poco espacio.
 - Fácil de ajustar, con dos enganches bilaterales, elástica y coronada por una varilla de plástico duro, que le da rigidez al conjunto.
 - La sombrilla es universal, muy buena adaptabilidad a distintos carritos y sillas de paseo.
+- Hecho de tela elástica, se puede plegar cuando no ultilice, ocupa muy poco espacio.
 - Resistente y seguro, se protege bebé del sol, a prueba de viento y polvo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QPDFDPX/?tag=tolees-21)
