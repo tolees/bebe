@@ -28,14 +28,14 @@ En este momento está [Suavinex - Crema Embarazo Antiestrías para Embarazadas  
 
 🔎:
 
-- Crema antiestrías apta para pieles sensibles
-- Mejora la sensación de picor
-- Crema antiestrías Suavinex, 500ml
-- 95% de las embarazadas recomendaría el producto
-- Con 89% de ingredientes de origen natural
-- Contribuye a prevenir la formación de estrías y a potenciar la elasticidad
-- Clínicamente testada bajo control dermatológico
-- Con agradable olor
 - In gr e dientes: triterpenos de centella asiática, ácido hialurónico, dpg, colágeno y hiedra
+- Crema antiestrías Suavinex, 500ml
+- Mejora la sensación de picor
+- Crema antiestrías apta para pieles sensibles
+- Clínicamente testada bajo control dermatológico
+- Con 89% de ingredientes de origen natural
+- Con agradable olor
+- 95% de las embarazadas recomendaría el producto
+- Contribuye a prevenir la formación de estrías y a potenciar la elasticidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007NZI3KO/?tag=tolees-21)
