@@ -28,9 +28,9 @@ Ahora mismo tienes [Chicco Twist - Sillón para niños  transformable y desenfun
 
 🔎:
 
-- Es desmontable y se puede declinar en diferentes configuraciones
 - Reposabrazos fijos para mayor comodidad y de seguridad
-- Revestimiento completamente desenfundable para poder el lavar fácilmente
 - Adecuado para niños de 1 a 5 anos
+- Es desmontable y se puede declinar en diferentes configuraciones
+- Revestimiento completamente desenfundable para poder el lavar fácilmente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00MAG9CT2/?tag=tolees-21)
