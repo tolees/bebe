@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMCOM Caballito Balancín para Bebé de +18 Meses Suave con
 
 🔎:
 
-- ✅EMITE SONIDOS: presionando su pata se escucharán divertidos sonidos.
 - ✅BALANCÍN PARA BEBÉ CON FORMA DE CISNE: un balancín muy suave al tacto que es ideal como juguete y como elemento decorativo en el dormitorio infantil.
 - ✅MEDIDAS: 60x33x50 cm (LxANxAL). Soporta un peso máximo total de 40 kg.
-- ✅EDAD RECOMENDADA: para mayores de 18 meses. Utilizar bajo la supervisión de un adulto.
 - ✅CINTURÓN DE SEGURIDAD, RESPALDO Y REPOSAPIÉS: su asiento tiene un respaldo alto, igual que los laterales. Esto, junto al manillar redondeado y los reposapiés, ofrecen un lugar cómodo para sentarse.
+- ✅EDAD RECOMENDADA: para mayores de 18 meses. Utilizar bajo la supervisión de un adulto.
+- ✅EMITE SONIDOS: presionando su pata se escucharán divertidos sonidos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DXSMM7Y/?tag=tolees-21)
