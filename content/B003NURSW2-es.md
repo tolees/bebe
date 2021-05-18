@@ -29,8 +29,8 @@ Ahora mismo tienes [Nuby ID91121 - Vaso boquilla  colores surtidos  pack x 6 ](h
 🔎:
 
 - Plástico pp seguro, duradero y reutilizable; pack de 3 unidades
-- Para bebidas calientes o frías. 6 unidades
 - Se puede usar como taza abierta si se retira la tapa
+- Para bebidas calientes o frías. 6 unidades
 - Tapa encajable con boquilla abierta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003NURSW2/?tag=tolees-21)
