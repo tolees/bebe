@@ -28,9 +28,9 @@ Está [Faburo 100 * 42cm Alfombra Musical para niños  Alfombra de Piano de Tecl
 
 ℹ️:
 
-- Recibirá: Manta de música para niños (100 * 42 cm) * 1 piezas + destornillador (12 cm) * 1 piezas. Material: tela no tejida + fibra de poliéster + plástico + acero
 - ModesVarios modos: manta de gateo diseñada para bebés, patrones de animales, muy lindos; múltiples modos de música (y tamaño de sonido ajustable), ejercitar la mano y el cerebro del bebé, atraer la atención del bebé, cultivar pasatiempos.
 - Fácil de limpiar: respetuoso con el medio ambiente, resistente a las rasgaduras y a las arrugas. Puede limpiar la superficie de la manta musical con un paño húmedo y secarla. No debe empaparse en agua ni lavarse a máquina.
+- Recibirá: Manta de música para niños (100 * 42 cm) * 1 piezas + destornillador (12 cm) * 1 piezas. Material: tela no tejida + fibra de poliéster + plástico + acero
 - Steps Pasos de uso: después de instalar la batería, encienda el interruptor y presione directamente las teclas en el modo de música, la música sonará y se tocará con sensibilidad; tenga en cuenta que solo las teclas blancas del teclado tienen música y las teclas negras no tienen música. No puede presionar la posición correcta al mismo tiempo, debe presionar varias veces para encontrar la posición correcta.
 - Nota: El paquete no contiene baterías, debe comprar 3 baterías AA (baterías "AA"). Los niños deben usarse bajo la supervisión de adultos y prestar atención al destornillador después de su uso.
 
