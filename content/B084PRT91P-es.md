@@ -28,11 +28,11 @@ Está [Mama Bear - Disney - Toallitas biodegradables ultrasensibles  12x60 | 720
 
 ℹ️:
 
-- Tejido 100 % biodegradable y delicado con las pieles sensibles
 - Envase 100 % reciclable: en Mama Bear nos preocupa el planeta, por eso hemos eliminado la cubierta de plástico de nuestras toallitas para poder garantizar un reciclado completo
 - Probadas dermatológicamente. Evitan la aparición de rojeces
-- No contienen químicos: sin perfumes, parabenos ni fenoxietanol
 - Con toda la diversión y emoción de tus personajes Disney favoritos
+- Tejido 100 % biodegradable y delicado con las pieles sensibles
+- No contienen químicos: sin perfumes, parabenos ni fenoxietanol
 - Diseñadas específicamente para pieles sensibles
 - (12x60 | 720 Toallitas)
 - Con un 99,5 % de ingredientes naturales
