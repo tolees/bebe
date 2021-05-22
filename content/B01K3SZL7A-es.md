@@ -28,9 +28,9 @@ Ahora mismo tienes [Recaro Monza Nova 2 Seatfix 6151.21503.66 Silla de Coche  Gr
 
 🔎:
 
-- Advanced Side Protection: protección adicional en caso de impacto lateral
-- Reposacabezas regulable en 11 posiciones y en profundidad
 - Recaro Sound System: altavoces integrados al reposacabezas
 - Conectores Seatfix integrados
+- Reposacabezas regulable en 11 posiciones y en profundidad
+- Advanced Side Protection: protección adicional en caso de impacto lateral
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01K3SZL7A/?tag=tolees-21)
