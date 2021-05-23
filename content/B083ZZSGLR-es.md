@@ -29,9 +29,9 @@ En este momento está [Nuby Juguete flotante de baño de pulpo](https://www.amaz
 🔎:
 
 - Nuby - Pulpo flotante para baño
-- 3 anillos divertidos para lanzar los tentáculos del pulpo
-- Sin BPA
 - Ayuda a desarrollar la coordinación ojo-mano
+- 3 anillos divertidos para lanzar los tentáculos del pulpo
 - Ideal para la hora del baño o en la piscina
+- Sin BPA
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083ZZSGLR/?tag=tolees-21)

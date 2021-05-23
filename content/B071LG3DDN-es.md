@@ -28,10 +28,10 @@ En este momento está [kk Kinderkraft Trona Bebé 2 en 1 FINI  Silla Infantil  A
 
 🔎:
 
-- El reposapiés práctico y extraíble proporciona comodidad
 - El arnés de 5 puntos protege al niño en la silla
-- El revestimiento del asiento del cuero ecológico fácil de lavar
-- La bandeja ajustable en 3 niveles fácil Ita el envío al niño en la trona
 - Rempty esta trona compacta se puede transportar fácilmente gracias al agarre en el respaldo
+- El reposapiés práctico y extraíble proporciona comodidad
+- La bandeja ajustable en 3 niveles fácil Ita el envío al niño en la trona
+- El revestimiento del asiento del cuero ecológico fácil de lavar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071LG3DDN/?tag=tolees-21)
