@@ -28,10 +28,10 @@ En este momento está [AGRADO Champú Camomila Para Bebé Suave  Sin Lagrimas  A
 
 🔎:
 
-- Champú camomila para niños de 590ml con dosificador de dos alturas.
 - Esté champú infantil está testado dermatológicamente, oftalmológicamente y bajo control pediátrico, para una completa seguridad de tu bebé.
 - Champú sin lagrimas especial para bebés, no pica en los ojos en el caso de introducirse líquido por error.
-- Champú de bebé con fórmula suave de Camomila y acondicionadores para un acabado suave. Elaborado con agentes reengrasantes que ayudan a evitar la sequedad y con una composición que evita irritaciones en la piel del bebé.
 - Champú sin parabenos evitando exponer a tu bebé a dichas sustancias químicas
+- Champú de bebé con fórmula suave de Camomila y acondicionadores para un acabado suave. Elaborado con agentes reengrasantes que ayudan a evitar la sequedad y con una composición que evita irritaciones en la piel del bebé.
+- Champú camomila para niños de 590ml con dosificador de dos alturas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L3TRDRG/?tag=tolees-21)
