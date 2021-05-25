@@ -28,10 +28,10 @@ Está [HOMCOM Caballo Balancín para Bebé Mayores de 36 Meses Juguete Balancín
 
 ℹ️:
 
-- ✅EDAD RECOMENDADA: para mayores de 36 meses. Utilizar bajo la supervisión de un adulto.
-- ✅SONIDOS Y MOVIMIENTO: al presionar su oreja el caballito balancín relincha y emite sonidos de galope y música. Además, su boca y su cola se moverán. ¡A los niños les encantará!
 - ✅MEDIDAS: 65x32,5x61 cm (LxANxAL). Soporta un peso máximo total de 45 kg.
-- ✅BALANCÍN PARA BEBÉ CON FORMA DE CABALLO: un juguete muy divertido que encantará a los más peques. Su apariencia de caballito de peluche es muy amigable y tiene un tacto muy suave.
 - ✅REPOSAPIÉS: su cuerpo de peluche suave y acolchado junto al manillar redondeado y los reposapiés ofrecen un asiento cómodo.
+- ✅SONIDOS Y MOVIMIENTO: al presionar su oreja el caballito balancín relincha y emite sonidos de galope y música. Además, su boca y su cola se moverán. ¡A los niños les encantará!
+- ✅BALANCÍN PARA BEBÉ CON FORMA DE CABALLO: un juguete muy divertido que encantará a los más peques. Su apariencia de caballito de peluche es muy amigable y tiene un tacto muy suave.
+- ✅EDAD RECOMENDADA: para mayores de 36 meses. Utilizar bajo la supervisión de un adulto.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F18SG1C/?tag=tolees-21)
