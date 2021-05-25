@@ -28,10 +28,10 @@ Ahora mismo tienes [Suprcrne - Luz Giratoria de La Noche de La Estrella  Proyect
 
 🔎:
 
-- ✦【6 modos de proyección de luz】Blanco, Azul, Amarillo, Secuencial, Combinación, Desvanecimiento lento. Puede configurar el modo de color presionando el botón A. Presione una vez para encender el proyector de luz nocturna. Presione 2-6 veces para cambiar los efectos de luz. Pulse 7 veces para apagarlo.
-- ✦【Más lugares aplicables】Qué impresionante sería cuando traes un colorido cielo estrellado a cumpleaños, festivales, reuniones familiares o cualquier otra ocasión.
 - ✦【Crear Atmósfera de ensueño】Proyectando un hermoso cielo estrellado en las paredes y el techo de cualquier habitación, esta luz de cabecera transforma los cuartos de niños y las habitaciones en un santuario estrellado, conforta y calma a los niños, niñas y bebés.
 - ✦【Exquisita Decoración】Ya sea en el estante, en la mesita de noche o en el alféizar de la ventana, siempre se ve muy bien. También puede ponerlo en su jardín, en la casa del árbol para niños o en su tienda de campaña.
+- ✦【6 modos de proyección de luz】Blanco, Azul, Amarillo, Secuencial, Combinación, Desvanecimiento lento. Puede configurar el modo de color presionando el botón A. Presione una vez para encender el proyector de luz nocturna. Presione 2-6 veces para cambiar los efectos de luz. Pulse 7 veces para apagarlo.
 - ✦【Seguridad duradera y bebé Baby】Los juguetes de este planeta no solo son beneficiosos para que su hijo aprenda todo sobre nuestro sistema solar, sino también para que duerman. Teniendo en cuenta la seguridad de los niños, su construcción es robusta y proporciona un ambiente de juego seguro.
+- ✦【Más lugares aplicables】Qué impresionante sería cuando traes un colorido cielo estrellado a cumpleaños, festivales, reuniones familiares o cualquier otra ocasión.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VHQTRBR/?tag=tolees-21)
