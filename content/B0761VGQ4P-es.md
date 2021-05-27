@@ -28,11 +28,11 @@ Tienes [Dodot Toallitas Para Bebé 4 Paquetes  256 Toallitas](https://www.amazon
 
 🔎:
 
-- Fragancia fresca para una experiencia agradable a la hora de cambiar el pañal
-- Adecuado también para limpiar y refrescar manos y caras
-- Limpia e hidrata en cada pasada
 - Exclusiva textura con ondas deslizantes para una delicada limpieza de la piel
 - Gracias a su exclusiva loción ofrece la hidratación adecuada para la piel del bebé
+- Adecuado también para limpiar y refrescar manos y caras
+- Fragancia fresca para una experiencia agradable a la hora de cambiar el pañal
+- Limpia e hidrata en cada pasada
 - Ayudan a recuperar el ph natural de la piel instantáneamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0761VGQ4P/?tag=tolees-21)
