@@ -29,9 +29,9 @@ Tienes [Mega Bloks mesa construye y aprende color azul bloques de construcción 
 🔎:
 
 - Empareja y cuenta los bloques para aprender los colores y los números
-- Mesa de construcción plegable y portátil
-- Incluye dos vehículos con ruedas
-- Incluye 30 bloques de construcción y piezas especiales
 - Construye una ciudad con un mercado, una gasolinera, un semáforo y más sorpresas
+- Mesa de construcción plegable y portátil
+- Incluye 30 bloques de construcción y piezas especiales
+- Incluye dos vehículos con ruedas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MZI6R9X/?tag=tolees-21)
