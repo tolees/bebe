@@ -28,10 +28,10 @@ Ahora mismo tienes [Suavinex Canastilla Cosmética para Bebé Recién Nacido/Can
 
 🔎:
 
-- Siempre limpio y fresquito con nuestros productos de cosmética infantil
 - Suavinex canastilla cosmética para bebé recién nacido con los productos imprescindibles para el cuidado del bebé
-- Se presenta en una cuidada y bonita cesta con interior forrada de tela. Color rosa
-- Compuesta por: loción hidratante de 400ml, crema del pañal de 75ml, Baby Cologne de 100ml y un paquete de toallitas de 72 unidades
 - ¡Un regalo práctico y bonito a la vez!
+- Se presenta en una cuidada y bonita cesta con interior forrada de tela. Color rosa
+- Siempre limpio y fresquito con nuestros productos de cosmética infantil
+- Compuesta por: loción hidratante de 400ml, crema del pañal de 75ml, Baby Cologne de 100ml y un paquete de toallitas de 72 unidades
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B017TDWXPU/?tag=tolees-21)
