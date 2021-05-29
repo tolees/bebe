@@ -29,8 +29,8 @@ Ahora mismo tienes [Edge Entertainment Munchkin Panic-español.  EDGMP01 ](https
 🔎:
 
 - Paqueteage Dimensiones: 7.4 L x 29.8 H x 29.6 W (centimeters)
-- Munchkin panic - español
-- Paqueteage Weight: 1.34 kilograms
 - Number of players: 6
+- Paqueteage Weight: 1.34 kilograms
+- Munchkin panic - español
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01H7N97WE/?tag=tolees-21)
