@@ -28,7 +28,7 @@ Ahora mismo tienes [Adidas Zx Flux - Zapatillas para Bebés  Color Negro  Negro/
 
 🔎:
 
-- TORSION para estabilización adaptable en la zona media del pie
 - Plantilla OrthoLite para mayor comodidad
+- TORSION para estabilización adaptable en la zona media del pie
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NNNX4H2/?tag=tolees-21)
