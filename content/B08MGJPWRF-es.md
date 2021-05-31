@@ -29,11 +29,11 @@ En este momento está [Almirón Advance 2  Leche de Continuación en Polvo para 
 🔎:
 
 - Con el HMO 3´GL, oligosacárido presente en la leche humana que proviene de nuestro proceso único
-- Pack de 3 Unidades de 1.2kg
-- Indicada a partir de los 6 meses
 - Contiene LCPs Omega-3 (DHA* y ALA* que contribuye al desarrollo cerebral y de los tejidos nerviosos) y Omega-6 (AA).
-- Con Vitaminas C y D que contribuyen al normal funcionamiento del sistema inmunitario
-- Contenido de cada caja: 2 bolsas de 600gr de producto y un cacito
+- Pack de 3 Unidades de 1.2kg
 - Basada en 40 años de investigación, nuestro equipo de expertos ha desarrollado la leche de continuación Almirón Advance 2
+- Con Vitaminas C y D que contribuyen al normal funcionamiento del sistema inmunitario
+- Indicada a partir de los 6 meses
+- Contenido de cada caja: 2 bolsas de 600gr de producto y un cacito
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MGJPWRF/?tag=tolees-21)
