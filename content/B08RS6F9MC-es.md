@@ -29,10 +29,10 @@ Tienes [Nenuco - Cura Sana  muñeca para Jugar a los médicos con tu bebé  con 
 🔎:
 
 - Incluye 5 accesorios diferentes para jugar a los médicos: tiritas de colores, algodones, vendas y un stick anti chichones
+- Juguete recomendado a niños a partir de 3 años
+- Al no tener sistema electrónico se puede sumergir, pero es un producto no especificado para agua como otros juguetes de la gama Nenuco
 - Ayuda al desarrollo afectivo y emocional, la imitación de roles y fomenta la imaginación
 - Muñeco de 35 centímetros de cuerpo duro y con pelo rubio, con ropa intercambiable
-- Al no tener sistema electrónico se puede sumergir, pero es un producto no especificado para agua como otros juguetes de la gama Nenuco
-- Juguete recomendado a niños a partir de 3 años
 - Además contiene unas gasas especiales que se convierten en escayola cuando las mojas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RS6F9MC/?tag=tolees-21)
