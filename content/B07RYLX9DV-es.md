@@ -29,9 +29,9 @@ Tienes [Johnson s Baby - Baby Dulces Sueños - Loción suave para ayudar a que l
 🔎:
 
 - Crema hidratante para niños
-- Crema sin sulfatos, colorantes ni ftalatos
-- Nuestra fórmula de Suavidad, clínicamente probada, ha sido diseñada específicamente para la delicada piel de los bebés
 - Crema hipoalergénica y probada por pediatras y dermatólogos
 - Crema enriquecida con esencias relajantes NaturalCalm para ayudar a calmar al bebé antes de dormir
+- Crema sin sulfatos, colorantes ni ftalatos
+- Nuestra fórmula de Suavidad, clínicamente probada, ha sido diseñada específicamente para la delicada piel de los bebés
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RYLX9DV/?tag=tolees-21)
