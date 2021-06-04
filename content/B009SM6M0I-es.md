@@ -28,10 +28,10 @@ Tienes [Mitosyl - Pomada Protectora - Previene y trata las irritaciones de la pi
 
 ℹ️:
 
-- Contenido del paquete: pomada de 145 gr y prospecto
-- Actúa como un aislante de la piel frente a agentes irritantes, como heces u orina, para mantenerlo protegido durante más tiempo
-- Fórmula recomendada por pediatras para el cuidado de la piel delicada de tu bebé
 - Favorece la hidratación de la piel gracias a su fórmula óptima enriquecida con aceite de hígado de bacalao
 - Mitosyl Pomada protectora está recomendada para proteger la piel frente a irritaciones y escoceduras en la piel del bebé por rozaduras con el pañal
+- Fórmula recomendada por pediatras para el cuidado de la piel delicada de tu bebé
+- Contenido del paquete: pomada de 145 gr y prospecto
+- Actúa como un aislante de la piel frente a agentes irritantes, como heces u orina, para mantenerlo protegido durante más tiempo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B009SM6M0I/?tag=tolees-21)
