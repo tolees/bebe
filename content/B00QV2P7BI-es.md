@@ -28,8 +28,8 @@ Ahora mismo tienes [Munchkin - Animalitos de granja lanzachorros  8 unidades](ht
 
 🔎:
 
-- Los animalitos vienen en un tubo transparente para regalar y guardarlos fácilmente
 - Incluye ocho animalitos de granja lanzachorros flotantes Vivos colores interactivos
+- Los animalitos vienen en un tubo transparente para regalar y guardarlos fácilmente
 - Ayudan a desarrollar las habilidades motoras finas del bebé. Son fáciles de agarrar y apretar para sus manitas
 - Una divertida manera de aprender los nombres y los sonidos de los animales en el baño
 - Hacen burbujas debajo del agua y se puede jugar con ellos de mil maneras en la bañera
