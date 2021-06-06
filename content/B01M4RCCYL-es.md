@@ -30,7 +30,7 @@ Tienes [Simple Joys by Carter s Baby paquete de 8 body de manga corta  Blanco  B
 
 - Calidad de Carter, precios bajos diarios y embalaje sin complicaciones, exclusivamente para los miembros de Amazon.
 - Carter’s es la marca líder en ventas de ropa para niños pequeños en los EE. UU. Diferentes generaciones de familias estadounidenses confían en Carters para hacer la vida más fácil, ofreciendo una amplia gama de estilos a un gran precio.
-- Ocho body de manga corta en algodón suave para bebé con hombros expandibles.
 - Broches sin níquel en paneles reforzados.
+- Ocho body de manga corta en algodón suave para bebé con hombros expandibles.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M4RCCYL/?tag=tolees-21)
