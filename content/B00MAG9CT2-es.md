@@ -28,11 +28,11 @@ Ahora mismo tienes [Chicco Twist Sillón Infantil Convertible en Chaise Longue y
 
 🔎:
 
+- ASIENTO CON 3 CONFIGURACIONES: Twist de Chicco se transforma con un simple movimiento: es un sillón para leer o ver la TV, una chaise longue para relajarse durante el día, y un sofá para echarse una siesta placentera
 - UN APRECIADO REGALO: el sofá infantil Chicco Twist es el regalo adecuado para el primer cumpleaños de un niño u otra ocasión especial; Un regalo original que acompañará al niño durante mucho tiempo
+- DESENFUNDABLE Y LAVABLE: la funda de la butaca Twist de Chicco puede quitarse y es lavable en la lavadora para mantener la silla siempre limpia
 - SILLÓN NIÑO CONVERTIBLE: Chicco Twist es el pequeño sillón para niños a partir de 12 meses, con 3 configuraciones diferentes para disfrutar cada momento de relax: asiento, sofá y chaise longue
 - MÁXIMA COMODIDAD: la butaca Chicco Twist es cómoda y acogedora, hecha completamente de material blando, muy ligera y fácil de mover, incluso para los más pequeños
 - DISEÑO COLORIDO: el estilo moderno y original y los vivos colores hacen de Twist el sillón óptima para la habitación del niño, el salón o la zona de juegos; Ocupa muy poco espacio gracias a su pequeño tamaño
-- ASIENTO CON 3 CONFIGURACIONES: Twist de Chicco se transforma con un simple movimiento: es un sillón para leer o ver la TV, una chaise longue para relajarse durante el día, y un sofá para echarse una siesta placentera
-- DESENFUNDABLE Y LAVABLE: la funda de la butaca Twist de Chicco puede quitarse y es lavable en la lavadora para mantener la silla siempre limpia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00MAG9CT2/?tag=tolees-21)
