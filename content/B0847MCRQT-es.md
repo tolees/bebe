@@ -30,10 +30,10 @@ Ahora mismo tienes [BÉABA Juego de Vajilla en Silicona Infantil  Ventosa resist
 
 - LIMPIEZA : Facil de limpiar, a mano o en lavavajillas
 - SIN BPA : Conforme a la reglamentació en en vigor, sin PVC ni ftalatos
+- SEGURIDAD : Ventosa debajo de los platos y el cuenco para que se adhieran a la mesa y se reduzca la posibilidad de incidentes. Ventosa discreta para ayudar a los padres a despegarla facilmente
 - ERGONÓMICO : El diseño y la forma han sido pensados para ayudar a guiar la recolección de alimentos
+- MATERIAL : 100% Silicona
 - PRÁCTICO : Compatible con microondas y lavavajillas
 - VAJILLA DE SILICONA : Todo lo que un bebé y los padres necesitan para empezar a diversificar la alimentación, Incluye 1 Plato + 1 Bol + 1 Taza + 1 Cuchara de Aprendizaje
-- MATERIAL : 100% Silicona
-- SEGURIDAD : Ventosa debajo de los platos y el cuenco para que se adhieran a la mesa y se reduzca la posibilidad de incidentes. Ventosa discreta para ayudar a los padres a despegarla facilmente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0847MCRQT/?tag=tolees-21)
