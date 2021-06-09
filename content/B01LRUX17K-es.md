@@ -28,10 +28,10 @@ Ahora mismo tienes [Hauck Cuna de Viaje Sleep N Play Center  de Nacimiento hasta
 
 🔎:
 
-- Ventana red: la red permite que la cuna este constantemente ventilada y que el aire circule de forma natural; su hijo se pasara el día jugando y usted podrá controlarlo de cualquier ángulo de la habitación
 - Plegado: la cuna de viaje ligera de peso es fácil de plegar ahorrando espacio vaya donde vayal lleva incluida su propia bolsa de transporte con asas para protegerla de suicidad y de rotura
-- Accesorios extras: para mayor comodidad puede combinar la cuna de viaje SLEEP AND PLAY CENTER con nuestros colchones de espuma HAUCK SLEEPER asi como la sabana BED ME de la misma marca HAUCK
-- Óptimo para los viajes: proporciona movilidad y su bebé no tiene que adaptarse a camas y entornos desconocidos; el cambiador que se fija de forma rapida a la cuna les fácilitara el trabajo en los momentos de cambios de panales de su bebé
+- Ventana red: la red permite que la cuna este constantemente ventilada y que el aire circule de forma natural; su hijo se pasara el día jugando y usted podrá controlarlo de cualquier ángulo de la habitación
 - Divertida y versátil: a cremallera lateral de la cuna de viaje, la cual solo se puede abrir desde fuera le gustara sobre todo a los niños ya más mayores ya que podrán entrar y salir y divertirse en los momentos de ocio y juego
+- Óptimo para los viajes: proporciona movilidad y su bebé no tiene que adaptarse a camas y entornos desconocidos; el cambiador que se fija de forma rapida a la cuna les fácilitara el trabajo en los momentos de cambios de panales de su bebé
+- Accesorios extras: para mayor comodidad puede combinar la cuna de viaje SLEEP AND PLAY CENTER con nuestros colchones de espuma HAUCK SLEEPER asi como la sabana BED ME de la misma marca HAUCK
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LRUX17K/?tag=tolees-21)
