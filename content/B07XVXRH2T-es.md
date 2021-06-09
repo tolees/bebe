@@ -28,9 +28,9 @@ Ahora mismo tienes [Cybex Sirona M2 I-Size Silla de Coche grupo 0+/1  Granite Ne
 
 🔎:
 
-- Máxima seguridad: Protección integrada contra impactos laterales (Sistema L.S.P.), Estructura con alta absorción de impactos, Homologado según la norma UN R129 o I-size, Seguridad en sentido contrario a la marcha hasta los 105 cm de altura
-- Reductor extraíble para recién nacido, Reposacabezas ajustable en altura con 12 posiciones, Reclinable con una sola mano, Prácticas guías del arnés
 - Instalación fácil de un clic solo con la Base M ISOFIX (no incluida), Contra la marcha hasta los 105 cm (4 años aproximativamente), En el sentido de la marcha desde los 76 cm y 16 meses, Accesorios no incluidos: Funda de verano, Portavasos, Base M ISOFIX
+- Reductor extraíble para recién nacido, Reposacabezas ajustable en altura con 12 posiciones, Reclinable con una sola mano, Prácticas guías del arnés
 - Silla de coche robusta y de calidad en contra de la marcha, Sin Base M, Para niños de hasta 105;cm aprox. (aprox. 4 años), RACE, Octubre 2016, Bueno, 2,2
+- Máxima seguridad: Protección integrada contra impactos laterales (Sistema L.S.P.), Estructura con alta absorción de impactos, Homologado según la norma UN R129 o I-size, Seguridad en sentido contrario a la marcha hasta los 105 cm de altura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XVXRH2T/?tag=tolees-21)
