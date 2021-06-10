@@ -28,10 +28,10 @@ Tienes [Safety 1st Barrera de cama portátil y extensible  Barandilla cama plega
 
 ℹ️:
 
-- Riel con marco metálico y tejido de malla para el control
 - Fácil instalación y fijación al colchón de cuna
-- Barandilla adecuada para colchones de más de 156 cm de largo y con un grosor de 10 a 24 cm
+- Riel con marco metálico y tejido de malla para el control
 - Barandilla de cama de viaje plegable: se pliega y estira para facilitar su transporte
+- Barandilla adecuada para colchones de más de 156 cm de largo y con un grosor de 10 a 24 cm
 - Barrera de cama portatil. Dimensiones del producto abierto: 106 x 37 x 42,5 cm
 - Barrera de cama anticaída adecuada para sujetar al niño y evitar que se caiga de la cama mientras duerme
 
