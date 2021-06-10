@@ -28,9 +28,9 @@ Tienes [Huggies Little Swimmers - Huggies - Bañadores desechables  talla 3-4   
 
 🔎:
 
-- Diseños Disney
-- No se hinchan con el agua
 - Apertura y cierre Facil
 - Para el mar o la piscina
+- No se hinchan con el agua
+- Diseños Disney
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M0RTP4X/?tag=tolees-21)
