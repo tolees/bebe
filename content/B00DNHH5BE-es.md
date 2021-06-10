@@ -28,10 +28,10 @@ Tienes [WELEDA Crema Facial de Malva Blanca  1x 50 ml ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Cuidado facial 100% natural: Sin aceites esenciales ni perfume y con ingredientes que nutren, calman y protegen la piel con un manto protector frente a las agrasiones externas.
-- Adecuada para niños: Nutre intensamente y evita la descamación de la piel del rostro del bebé fortaleciendo al mismo tiempo las defensas naturales de la piel.
 - Excelente calidad WELEDA: Con Extracto de Malva Blanca BIO y Extracto de Pensamiento Silvestre.
-- Adecuada para piel atópica e hipersensible: La crema sin perfume es ideal para la piel hipersensible y atópica del bebé y del adulto. Nutre, hidrata y alivia el picor.
+- Adecuada para niños: Nutre intensamente y evita la descamación de la piel del rostro del bebé fortaleciendo al mismo tiempo las defensas naturales de la piel.
+- Cuidado facial 100% natural: Sin aceites esenciales ni perfume y con ingredientes que nutren, calman y protegen la piel con un manto protector frente a las agrasiones externas.
 - Contenido: 1 x WELEDA Crema Facial de Malva Blanca
+- Adecuada para piel atópica e hipersensible: La crema sin perfume es ideal para la piel hipersensible y atópica del bebé y del adulto. Nutre, hidrata y alivia el picor.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DNHH5BE/?tag=tolees-21)
