@@ -28,8 +28,8 @@ Está [CocoBear Termómetro Digital Para Bebés Termómetro Sin Contacto  Termó
 
 ℹ️:
 
-- La Mayoría de Las Grabaciones - los conjuntos de memoria permiten almacenar 32 datos para detectar una pequeña diferencia. Presionar el botón MEMO puede ayudarlo a leer los datos almacenados.
 - TERMÓMETRO MULTIMODO: el termómetro digital está diseñado para todas las edades, adultos, bebés y ancianos. No solo es compatible con la función de la frente, sino que puede tomar la temperatura de la habitación / objeto. ℃ y ℉ son fácilmente conmutables. Está equipado con una pantalla digital LED clara y grandes botones de operación.
+- La Mayoría de Las Grabaciones - los conjuntos de memoria permiten almacenar 32 datos para detectar una pequeña diferencia. Presionar el botón MEMO puede ayudarlo a leer los datos almacenados.
 - Seguro y Preciso - la seguridad y la precisión son los requisitos más fundamentales y primordiales de nuestro equipo. Con la tecnología de detección de temperatura por infrarrojos de alta tecnología, este dispositivo puede medir con seguridad y precisión la temperatura corporal del bebé y los adultos. Su seguridad y precisión han sido clínicamente validadas.
 - Simple y Rápido - con una operación de tecla, simplemente presione el botón para comenzar a medir, y el resultado se mostrará en un segundo. La pantalla LCD hace que las lecturas sean simples y claras.
 - Consejos - Si tiene algún problema, no dude en contactarnos a través de Amazon
