@@ -28,8 +28,8 @@ Está [Desconocido - My Other Me Me-204221 Disfraz de vampiro bebé para niño  
 
 ℹ️:
 
-- Diseño exclusivo fabricado con materiales de alta calidad (lavable en seco)
 - Incluye: camisa, pantalón y capa
+- Diseño exclusivo fabricado con materiales de alta calidad (lavable en seco)
 - Material: poliéster
 - Talla: 7-12 meses
 
