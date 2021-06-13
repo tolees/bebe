@@ -29,8 +29,8 @@ En este momento está [Fisher-Price Little People Granja cuida a los animalitos 
 🔎:
 
 - Requiere montaje por parte de un adulto, se necesita un destornillador de estrella (no incluido)
-- Juguete para niños y bebés a partir de 1 año
 - al pulsar el botón , se activan divertidas canciones, sonidos de animales y frases, el botón también sirve para encender la luz y abrir las puertas del establo
+- Juguete para niños y bebés a partir de 1 año
 - toca la campana para avisar de que es la hora de comer
 - regalo óptimo para niños pequeños que incluye la figura del granjero jed y cuatro animales: un cerdito, una gallina, un caballo y una vaca con su ternero
 
