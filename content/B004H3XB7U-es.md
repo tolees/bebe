@@ -28,10 +28,10 @@ Ahora mismo tienes [Intex 56585EU - Flotador hinchable bebé 70 cm circular de 6
 
 🔎:
 
-- Tiene asiento y respaldo de apoyo para mayor comodidad del bebé y un diámetro de 70 cm
 - El flotador está fabricado con vinilo resistente y tiene 4 cámaras de aire
 - Flotador hinchable Intex para bebé con forma circular y de color amarillo
 - Incluye kit para reparar pequeños poros y pinchazos
 - Diseñado para ser utilizado por bebés de 6 meses a 1 año y para soportar un máximo de 11 kg
+- Tiene asiento y respaldo de apoyo para mayor comodidad del bebé y un diámetro de 70 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004H3XB7U/?tag=tolees-21)
