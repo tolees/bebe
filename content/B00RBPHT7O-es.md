@@ -28,10 +28,10 @@ Ahora mismo tienes [Jané Formula Kid Andador Primeros Pasos  de 6 Meses hasta 1
 
 🔎:
 
-- Andador apto para niños de 6 meses hasta 12 kg de peso
-- Incluye protector flexible alrededor de la base inferior
 - Apto para el parqué
 - Tapizado desenfundable, lavable, superacolchado y muy envolvente
 - Asiento regulable en 3 posiciones de altura
+- Andador apto para niños de 6 meses hasta 12 kg de peso
+- Incluye protector flexible alrededor de la base inferior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00RBPHT7O/?tag=tolees-21)
