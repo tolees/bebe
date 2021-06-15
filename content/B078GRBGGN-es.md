@@ -32,7 +32,7 @@ En este momento está [Asalvo  Silla de coche grupo 2/3 Isofix](https://www.amaz
 - Sentido de la marcha con sistema Isofix
 - Reposacabezas ajustable en altura
 - Protección cervical y lateral contra impactos
-- Respaldo desmontable
 - Asiento ancho y cómodo
+- Respaldo desmontable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078GRBGGN/?tag=tolees-21)
