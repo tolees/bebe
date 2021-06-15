@@ -28,9 +28,9 @@ Tienes [Colchon de cuna Viscoelastico con Funda Star Ibaby. Optimo para el sueñ
 
 ℹ️:
 
-- ✅ La adaptabilidad del material del colchon de cuna favorece la circulación sanguínea y reduce la agitación nocturna permitiendo mantenerse más tiempo en fase óptima de descanso.
-- ✅ Material transpirable formado por estructura de células abiertas que permite la libre circulación del aire en su núcleo garantizando unas especiales condiciones higiénicas.
 - ✅ No favorece la proliferación de ácaros. Atérmico, no transmite frío ni calor.
+- ✅ La adaptabilidad del material del colchon de cuna favorece la circulación sanguínea y reduce la agitación nocturna permitiendo mantenerse más tiempo en fase óptima de descanso.
 - ✅ ** TOP VENTAS ** El material viscoelástico del colchón de cuna tiene MEMORIA INTELIGENTE, se adapta mientras hay presión y siempre vuelve a su postura natural de forma lenta y suave.
+- ✅ Material transpirable formado por estructura de células abiertas que permite la libre circulación del aire en su núcleo garantizando unas especiales condiciones higiénicas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01AT3FPC0/?tag=tolees-21)
