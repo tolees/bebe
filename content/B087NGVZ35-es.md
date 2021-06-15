@@ -28,10 +28,10 @@ Tienes [Babify Air Plus 2.0 Silla de Paseo hasta 22 Kg/Reclinable con barra de S
 
 ℹ️:
 
-- ④ Incluye barra delantera, arneses acolchados para hombros, separapiernas y colchoneta de viscofoam.
-- ③ Arnés de seguridad de 5 puntos con acolchado de Soft Touch que proporciona seguridad y protección con varias posiciones de reclinado para el confort del niño.
-- ② Sistema de plegado Quick-Fold que le permite plegar la silla de paseo con una sola mano; chasis de Aluminio anonizado; ruedas delanteras 360º con bloqueo y amortiguación independiente.
 - ① La Silla de Paseo Babify Air 2.0 con solo 6,7 kg es la silla ideal para tu peque ! La gran capota extensible se puede tirar hacia adelante protegiendo a su hijo aún mejor contra el sol, el viento y la lluvia
+- ③ Arnés de seguridad de 5 puntos con acolchado de Soft Touch que proporciona seguridad y protección con varias posiciones de reclinado para el confort del niño.
+- ④ Incluye barra delantera, arneses acolchados para hombros, separapiernas y colchoneta de viscofoam.
+- ② Sistema de plegado Quick-Fold que le permite plegar la silla de paseo con una sola mano; chasis de Aluminio anonizado; ruedas delanteras 360º con bloqueo y amortiguación independiente.
 - Color Negro. Medidas plegada 70 x 52 x 30 cm.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B087NGVZ35/?tag=tolees-21)
