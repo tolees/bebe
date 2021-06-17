@@ -28,9 +28,9 @@ Ahora mismo tienes [Babify Dual Plus Trona Convertible 2 en 1 - Bandeja Extraibl
 
 🔎:
 
+- ✔ Doble altura Simplemente añada ó retire las patas. La trona Duo se puede colocar en dos alturas: se puede usar como trona con reposapies o como sillita cuando el peque crezca.
 - ✔ Lo que la hace aún mejor, es el asiento de foam ultracomodo y de facil limpieza.
 - ✔ La Trona Duo es única por su diseño y ademas es una trona muy práctica para tu bebé.
-- ✔ Doble altura Simplemente añada ó retire las patas. La trona Duo se puede colocar en dos alturas: se puede usar como trona con reposapies o como sillita cuando el peque crezca.
 - ✔ La trona Star Ibaby Duo es adecuada desde que tu bebé empieza a comer y posteriormente la podras utilizar como sillita hasta que sea muy mayor, ya que las patas son desmontables, por lo que es una inversión fantástica.
 - ✔ Una característica muy útil que a los papás les encantará es la bandeja extraible para poder limpiarla facilmente y para acercar la trona a la mesa cuando el bebé ya coma con vosotros.
 
