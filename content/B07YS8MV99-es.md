@@ -28,8 +28,8 @@ Tienes [Safety 1st Manga Fix Elevador Silla de Coche Isofix  Sillita de auto par
 
 🔎:
 
-- Elevador para uso de 6 años a 10-12 años (22-36 kg), de instalación fácil y segura a través de 2 conectores isofix
 - Gran asiento con acolchado suave en el asiento y apoyabrazos para una mayor comodidad
+- Elevador para uso de 6 años a 10-12 años (22-36 kg), de instalación fácil y segura a través de 2 conectores isofix
 - Extra seguridad mediante guía de cinturón ajustable para una buena posición diagonal del cinturón al nivel del hombro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YS8MV99/?tag=tolees-21)
