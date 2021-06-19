@@ -31,7 +31,7 @@ Está [Cybex Silver Solution X-Fix Silla de Coche Grupo 2/3  15-36 kg   desde ap
 - Silla de coche de calidad duradera y diseño moderno para niños desde los 3 hasta los 12 años aprox. (15 36 kg), apta para coches sin y con ISOFIX
 - Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema ISOFIX (opcional) para una mayor estabilidad, funda lavable a máquina (30°c), accesorios disponibles no incluidos: funda de verano
 - Reposacabezas ajustable en altura con 11 posiciones, respaldo reclinable, comodidad en el asiento
-- Contenido: 1 silla para coche
 - Máxima seguridad protección integrada contra impactos laterales (sistema l.s.p.), reposacabezas reclinable en 3 posiciones
+- Contenido: 1 silla para coche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FAO6VDQ/?tag=tolees-21)
