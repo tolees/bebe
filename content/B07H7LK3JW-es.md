@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Luz Nocturna Infantil OMERIL Luz Quitami con un 30.02 % de descuento'
-date: 2021-06-14 10:04:14
+date: 2021-06-21 01:09:16
 image: 'https://m.media-amazon.com/images/I/41I+ZgGVRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'OMERIL'
 buyurl: 'https://www.amazon.es/dp/B07H7LK3JW/?tag=tolees-21'
 descuento: '30.02'
-average: '13.5117307692309'
+average: '13.5207547169813'
 ---
 
 En este momento está [Luz Nocturna Infantil OMERIL Luz Quitamiedos con Control Remoto  Función de Temporización y 3 Brillo Ajustable  Luz Noche Enchufe para Habitación Bebé  Dormitorio  Sala  Garaje  Baño  Pasillos](https://www.amazon.es/dp/B07H7LK3JW/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
