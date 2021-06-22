@@ -28,10 +28,10 @@ Está [BRITAX RÖMER Silla Coche KIDFIX2 S  con Protecciones Laterales  Niño de
 
 ℹ️:
 
-- SICT ajustable, protección superior ante impactos laterales
 - Reposacabezas y respaldo en forma de V fácilmente ajustables
-- Silla coche 2 en 1, los padres pueden quitar el respaldo cuando el niño mida 135 cm, para óptima flexibilidad
+- SICT ajustable, protección superior ante impactos laterales
 - SecureGuard ayuda a proteger la delicada zona abdominal del niño; fácil de usar, incluso él puede hacerlo
+- Silla coche 2 en 1, los padres pueden quitar el respaldo cuando el niño mida 135 cm, para óptima flexibilidad
 - Hecho en Alemania
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K7VPLW6/?tag=tolees-21)
