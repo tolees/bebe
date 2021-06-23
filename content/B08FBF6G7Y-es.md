@@ -28,7 +28,7 @@ Ahora mismo tienes [Petit Bateau A001000 Ropa Interior  Multicolor  24 Meses par
 
 🔎:
 
-- Lote de 3 cajas con tirantes para bebé o niña
 - 3 braguitas con tirantes en el lado del material icónico de Petit Barteau
+- Lote de 3 cajas con tirantes para bebé o niña
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FBF6G7Y/?tag=tolees-21)
