@@ -28,10 +28,10 @@ Ahora mismo tienes [Babymoov - Swoon Motion  BALANCÍN eléctrico para bebés 3 
 
 🔎:
 
-- BALANCEO ELÉCTRICO: el Swoon Motion ofrece un balanceo lateral o hacia adelante y hacia atrás. También puede utilizarse como columpio fijo si lo desea.
-- CÓMODO: este columpio tiene un asiento de algodón ajustable (2 posiciones) y gira 360°. El respaldo se ajusta y se incluye un reductor extraíble para recién nacidos.
 - INNOVACIÓN: el columpio tiene 5 velocidades de balanceo, duración programable (10, 20 / 30 min) y un detector de movimiento.
-- FÁCIL MANTENIMIENTO: el asiento del columpio y el reductor son desmontables y lavables a máquina a 30º.
+- CÓMODO: este columpio tiene un asiento de algodón ajustable (2 posiciones) y gira 360°. El respaldo se ajusta y se incluye un reductor extraíble para recién nacidos.
 - COMPLETO : 8 canciones de cuna disponibles (melodías y sonidos de la naturaleza). El volumen es ajustable en el pie del columpio
+- FÁCIL MANTENIMIENTO: el asiento del columpio y el reductor son desmontables y lavables a máquina a 30º.
+- BALANCEO ELÉCTRICO: el Swoon Motion ofrece un balanceo lateral o hacia adelante y hacia atrás. También puede utilizarse como columpio fijo si lo desea.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00N8YZ7CG/?tag=tolees-21)
