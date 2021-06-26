@@ -28,10 +28,10 @@ Está [Chicco - Esterilizador microondas de hasta 5 biberones en 3 minutos](http
 
 ℹ️:
 
+- Capacidad de hasta 5 biberones
 - Elimina hasta un 99,9% de gérmenes
+- Rápido: 3 minutos
 - Tamaño compacto de microondas
 - Protección 24 horas
-- Capacidad de hasta 5 biberones
-- Rápido: 3 minutos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00SN4GKI6/?tag=tolees-21)
