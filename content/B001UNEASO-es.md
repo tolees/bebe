@@ -29,14 +29,14 @@ Está [Munchkin Lindam Extensión para barrera de seguridad  Blanco  7 cm](https
 ℹ️:
 
 - Disponible en blanco o plateado
-- ¡Nota! Compatible con las puertas Lindam y Munchkin (no funciona con puertas más antiguas)
-- Fácil instalación sin taladrar
-- La posibilidad de extender su barrera de seguridad Lindam
-- Puede utilizar un maximum de cuatro extensiones de 7 cm con una barrera de seguridad Lindam (dos a cada lado)
-- Paquete de 1
-- Al medir su pasaje, mida desde el punto más angosto, como el zócalo
-- Extensión de 7 cm
-- Compatible con todas las rejillas protectoras Munchkin con cierres de presión
 - Extiende su rejilla en 7 cm: se puede combinar con otras extensiones para una longitud máxima de 117 cm
+- Compatible con todas las rejillas protectoras Munchkin con cierres de presión
+- Puede utilizar un maximum de cuatro extensiones de 7 cm con una barrera de seguridad Lindam (dos a cada lado)
+- Fácil instalación sin taladrar
+- ¡Nota! Compatible con las puertas Lindam y Munchkin (no funciona con puertas más antiguas)
+- Paquete de 1
+- La posibilidad de extender su barrera de seguridad Lindam
+- Extensión de 7 cm
+- Al medir su pasaje, mida desde el punto más angosto, como el zócalo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001UNEASO/?tag=tolees-21)

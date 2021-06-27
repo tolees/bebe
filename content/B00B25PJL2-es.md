@@ -28,10 +28,10 @@ Ahora mismo tienes [WELEDA Aceite de Caléndula para Bebé  1x 200 ml ](https://
 
 🔎:
 
-- Para masajes suaves: Este aceite envuelve al bebé en una ligera capa protectora que ayuda a mantener la temperatura corporal y favorece las funciones protectoras naturales de la piel.
 - Excelente calidad WELEDA: Con Extracto de Flores de Caléndula BIO y Aceite de Almendra Dulce BIO.
-- Ideal para el cuidado diario: Perfecto para usarlo después del baño y/o para mimarlos con un masaje relajante que al mismo tiempo previene el desecamiento cutáneo y mantiene la piel suave.
 - Calidad natural de WELEDA: Suave cuidado corporal 100% natural a base de Almendra Dulce, Caléndula y Manzanilla BIO.
+- Ideal para el cuidado diario: Perfecto para usarlo después del baño y/o para mimarlos con un masaje relajante que al mismo tiempo previene el desecamiento cutáneo y mantiene la piel suave.
 - Contenido: 1 x WELEDA Aceite de Caléndula para Bebé
+- Para masajes suaves: Este aceite envuelve al bebé en una ligera capa protectora que ayuda a mantener la temperatura corporal y favorece las funciones protectoras naturales de la piel.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00B25PJL2/?tag=tolees-21)
