@@ -28,10 +28,10 @@ Está [Philips Avent Scd809/03 - Set De Biberón Anti-Colic  Azul](https://www.a
 
 ℹ️:
 
-- Set Anti-colic de biberón y chupete
-- Capacidad: 260 ml
 - Tetina ultrasuave diseñada para imitar el tacto del pecho
+- Capacidad: 260 ml
 - Enganche natural gracias a la tetina más ancha con forma de pecho
+- Set Anti-colic de biberón y chupete
 - Sin BPA y con forma ergonómica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GZVYF6V/?tag=tolees-21)

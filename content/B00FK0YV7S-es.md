@@ -28,10 +28,10 @@ Ahora mismo tienes [Clair de Lune - Manta para bebé  tejido con acolchado a cí
 
 🔎:
 
-- Color: blanco
-- Incluye sábanas.
 - Composición: 100% poliéster.
-- Instrucciones de lavado: lavable a máquina, máximo 40 ºC.
+- Incluye sábanas.
 - Tamaño: 70 cm de ancho x 100 cm de largo
+- Instrucciones de lavado: lavable a máquina, máximo 40 ºC.
+- Color: blanco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FK0YV7S/?tag=tolees-21)
