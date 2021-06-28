@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMCOM Cochecito de Bebé 2 en 1 Silla de Paseo y Capazo par
 
 🔎:
 
-- ✅MÁXIMA SEGURIDAD: Cinturón de seguridad de 5 puntos para que tu hijo vaya atado en todo momento para mayor seguridad. Con neumáticos EVA grandes con amortiguación para una conducción suave y agradable. Incluye freno mediante palanca en el mismo manillar para poderlo manejar cómodamente
-- ✅PLEGABLE Y RESISTENTE: Cochecito plegable con capota extraíble para facilitar su almacenaje y transporte, ideal para llevarlo en el maletero del coche. Con chasis resistente de metal y tejido de lino sintético, transpirable y agradable al tacto. Con cesta inferior para tener a mano lo imprescindible para el cuidado de tu bebé
-- ✅AJUSTABLE: Con respaldo completamente ajustable y reposapiés regulable en 2 posiciones. La capota puede plegarse y extenderse en 3 posiciones diferentes permitiendo un ajuste óptimo en días de viento, sol o para poner y sacar tu bebé cómodamente del capazo sin que te moleste
 - ✅2 EN 1: Cochecito de bebé que además se puede utilizar como cochecito con capazo o silla de paseo. Adecuado para niños de 0 a 36 meses. Dirección del capazo reversible para colocar según necesidades o gustos
+- ✅PLEGABLE Y RESISTENTE: Cochecito plegable con capota extraíble para facilitar su almacenaje y transporte, ideal para llevarlo en el maletero del coche. Con chasis resistente de metal y tejido de lino sintético, transpirable y agradable al tacto. Con cesta inferior para tener a mano lo imprescindible para el cuidado de tu bebé
+- ✅MÁXIMA SEGURIDAD: Cinturón de seguridad de 5 puntos para que tu hijo vaya atado en todo momento para mayor seguridad. Con neumáticos EVA grandes con amortiguación para una conducción suave y agradable. Incluye freno mediante palanca en el mismo manillar para poderlo manejar cómodamente
+- ✅AJUSTABLE: Con respaldo completamente ajustable y reposapiés regulable en 2 posiciones. La capota puede plegarse y extenderse en 3 posiciones diferentes permitiendo un ajuste óptimo en días de viento, sol o para poner y sacar tu bebé cómodamente del capazo sin que te moleste
 - ✅MEDIDAS TOTALES: 80x51x102 cm (LxANxAL); Medidas plegadas: 49,5x28,5x89 cm (LxANxAL); Medidas del asiento: 36x20x55 cm (LxANxAL); Edad recomendada: 0-36 meses; Peso máximo soportado: 15 kg; Certificaciones: EN1888 y EN71-3
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B095HVWMT7/?tag=tolees-21)
