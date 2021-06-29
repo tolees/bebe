@@ -28,10 +28,10 @@ Ahora mismo tienes [Nuby Andador Interactivo para Bebés con Luces y Sonidos  An
 
 🔎:
 
+- Composición del material: Plástico
+- ESTIMULA LOS SENTIDOS: Sensor de movimiento que activa melodías y sonidos cuando se mueve
+- REGALO IDEAL PARA NIÑAS Y NIÑOS a PARTIR DE 6 MESES: Incluye diferentes elementos manipulables
 - APOYO IDEAL EN LOS PRIMEROS PASOS DE TU BEBÉ: Correpasillos 3 en 1: andador y juguetes extraíbles con sonidos
 - FAVORECE EL DESARROLLO del BEBÉ: Incluye 3 juguetes encajables para que descubra el nombre de las formas y un mando que activa diferentes sonidos
-- ESTIMULA LOS SENTIDOS: Sensor de movimiento que activa melodías y sonidos cuando se mueve
-- Composición del material: Plástico
-- REGALO IDEAL PARA NIÑAS Y NIÑOS a PARTIR DE 6 MESES: Incluye diferentes elementos manipulables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VDM777J/?tag=tolees-21)

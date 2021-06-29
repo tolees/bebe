@@ -28,9 +28,9 @@ Tienes [Play Scout 30185 - Silla de coche  grupo 0+/1/2  0 - 25 kg   Negro y gri
 
 ℹ️:
 
-- Sillas de coche unisex infantil
-- Fácil de usar
 - Sillas de coche y accesorios play
 - Sistema de instalación: mediante cinturón de seguridad del coche (SIN isofix)
+- Sillas de coche unisex infantil
+- Fácil de usar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00O1TNK0S/?tag=tolees-21)
