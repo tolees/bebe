@@ -29,9 +29,9 @@ En este momento está [KONKY Mini Picadora de eléctrica Recargable  250ML Picad
 🔎:
 
 - 【Material de grado alimenticio】El molinillo de alimentos está hecho de materiales ABS, PP y PC de grado alimenticio, que no contienen BPA, no son tóxicos y son respetuosos con el medio ambiente. Las cuchillas afiladas de acero inoxidable integradas son anticorrosivas y resistentes a altas temperaturas.
+- 【Carga USB】Equipado con una batería recargable de 1200 mAh incorporada. Solo cárguela durante 3 horas y podrá disfrutar de más de 1 mes de corte sin cable. El picador se puede alimentar de varias formas, como carga con banco de energía, adaptador de CA, computadora y computadora portátil.
 - 【Operación de un Toque】Simplemente coloque alimentos o ingredientes en la mini picadora, cierre la tapa y comience el proceso de alimentos con un solo clic. Ahorre tiempo y energía, libere su mano.
 - 【Portátil y Fácil de limpiar】Una vez finalizado el corte, puede quitar la cuchilla y enjuagar la cuchilla y el tazón con agua corriente, todo el cuerpo es impermeable y fácil de limpiar. Esta picadora de ajo es de tamaño compacto y conveniente de transportar, ideal para comidas caseras y picnics al aire libre.
-- 【Carga USB】Equipado con una batería recargable de 1200 mAh incorporada. Solo cárguela durante 3 horas y podrá disfrutar de más de 1 mes de corte sin cable. El picador se puede alimentar de varias formas, como carga con banco de energía, adaptador de CA, computadora y computadora portátil.
 - 【Ampliamente utilizado y multifuncional】Las 3 cuchillas reforzadas no solo pueden picar ajo, jengibre, chile, pimientos, cacahuetes, verduras, nueces, carne, cebollas, frutas, etc., sino que también pueden preparar alimentos complementarios, jugos, batidos, postres, moothies, etc. (Cortar los ingredientes en trozos pequeños antes de picar).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PCPDFWF/?tag=tolees-21)
