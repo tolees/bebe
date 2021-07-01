@@ -28,9 +28,9 @@ En este momento está [Asalvo  Silla de coche grupo 2/3 Isofix](https://www.amaz
 
 🔎:
 
-- Asiento ancho y cómodo
 - Sentido de la marcha con sistema Isofix
 - Protección cervical y lateral contra impactos
+- Asiento ancho y cómodo
 - Reposacabezas ajustable en altura
 - Grupo 2-3 desde los 15 kg hasta 36kg
 - Respaldo desmontable
