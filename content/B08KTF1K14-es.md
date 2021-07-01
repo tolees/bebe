@@ -29,9 +29,9 @@ Tienes [Interbaby - Trona de Viaje Disney Mickey GEO  MK022 ](https://www.amazon
 🔎:
 
 - Trona portátil muy ligera convertible en bolso con asa regulable para su transporte
-- El tejido de la trona Disney es impermeable y se desenfunda con facilidad su lavado
-- Medidas cerrada: 11,5x26x30 cm (alto x ancho x profundo)
 - Viaje Disney modelo Mickey GEO para bebés de 6 a 36 meses o hasta 15 kilos
+- El tejido de la trona Disney es impermeable y se desenfunda con facilidad su lavado
 - Medidas abierta: 35x26x30 cm (alto x ancho x profundo)
+- Medidas cerrada: 11,5x26x30 cm (alto x ancho x profundo)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KTF1K14/?tag=tolees-21)

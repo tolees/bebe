@@ -28,11 +28,11 @@ Ahora mismo tienes [Safety 1st Barrera de cama portátil y extensible  Barandill
 
 🔎:
 
-- Barrera de cama anticaída adecuada para sujetar al niño y evitar que se caiga de la cama mientras duerme
 - Barandilla de cama de viaje plegable: se pliega y estira para facilitar su transporte
 - Riel con marco metálico y tejido de malla para el control
+- Barrera de cama anticaída adecuada para sujetar al niño y evitar que se caiga de la cama mientras duerme
+- Barandilla adecuada para colchones de más de 156 cm de largo y con un grosor de 10 a 24 cm
 - Barrera de cama portatil. Dimensiones del producto abierto: 106 x 37 x 42,5 cm
 - Fácil instalación y fijación al colchón de cuna
-- Barandilla adecuada para colchones de más de 156 cm de largo y con un grosor de 10 a 24 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0187EEUHO/?tag=tolees-21)
