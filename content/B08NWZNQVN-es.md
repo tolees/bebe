@@ -28,12 +28,12 @@ En este momento está [Mama Bear - Disney - Crema solar para bebé FPS 50  Alta 
 
 🔎:
 
-- FPS 50 – Protección alta
-- Paquete de 4 x 100ml
 - Alta protección UVA / UVB
-- Ayuda a proteger la piel sensible del bebé de las quemaduras solares y los daños a la piel
-- Con bisabolol y vitamina E
 - Muy buena compatibilidad con la piel, dermatológicamente testado
+- Paquete de 4 x 100ml
 - Fórmula resistente al agua
+- Con bisabolol y vitamina E
+- FPS 50 – Protección alta
+- Ayuda a proteger la piel sensible del bebé de las quemaduras solares y los daños a la piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NWZNQVN/?tag=tolees-21)
