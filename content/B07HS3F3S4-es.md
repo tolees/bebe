@@ -28,10 +28,10 @@ Tienes [Safety 1st Road Safe Silla de coche grupo 2/3  reclinable en 2 posición
 
 🔎:
 
-- Reposacabezas protector y respaldo reclinable con 2 posiciones para más seguridad y comodidad
-- Silla para coche ligera (2, 8 kg) para cambiarla de coche fácilmente
+- Rempty esta silla para coche ligera crece con el niño gracias a su reposacabezas ajustable con 6 posiciones
 - Instalación fácil y segura con el cinturón gracias a sus guías de cinturón accesibles
 - Silla de coche para niños de 15 a 36 kg (de 3 a 10-12 años aproximadamente)
-- Rempty esta silla para coche ligera crece con el niño gracias a su reposacabezas ajustable con 6 posiciones
+- Reposacabezas protector y respaldo reclinable con 2 posiciones para más seguridad y comodidad
+- Silla para coche ligera (2, 8 kg) para cambiarla de coche fácilmente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HS3F3S4/?tag=tolees-21)

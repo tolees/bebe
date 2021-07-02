@@ -28,10 +28,10 @@ Ahora mismo tienes [SF SAVINO FILIPPO - trona para silla taburete antilop IKEA B
 
 🔎:
 
+- trona/Ideal para la cocina y en el Salón, recomendado para actividades de servicio público, Como Bar restaurante Hotel etc...
 - Ideal para el uso Diario.
+- medidas: Ancho: 56 cm, profundidad: 62 cm, altura: 90 cm anchura del asiento: 25 cm Profundidad Asiento: 22 cm altura del asiento: cm. Carga Máxima: 15 kg
 - características: patas de acero, pintura Epoxi Poliéster en polvo, pigmentado/Asiento y Respaldo de Resina/cinturones de seguridad para mantener bien SU bebé hasta EL Asiento/bandeja extraíble con borde levantado. conforme A La NORMA en 14988: 2017, un requisito Especificado del CEN, EL de la Junta de la normalización Europea.
 - gracias A SU altura estándar SE adapta a todas las mesas.
-- medidas: Ancho: 56 cm, profundidad: 62 cm, altura: 90 cm anchura del asiento: 25 cm Profundidad Asiento: 22 cm altura del asiento: cm. Carga Máxima: 15 kg
-- trona/Ideal para la cocina y en el Salón, recomendado para actividades de servicio público, Como Bar restaurante Hotel etc...
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K7YPRYC/?tag=tolees-21)
