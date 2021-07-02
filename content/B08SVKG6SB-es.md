@@ -28,10 +28,10 @@ Está [DeFacto BabyBoy Regular Fıt - Body de manga corta para bebé BUZ MAVIIN 
 
 ℹ️:
 
+- ✅ Alta calidad: cuerpo de manga corta para bebé con un tejido suave 100% algodón que es compatible con la piel sensible de tu bebé y disfruta de los momentos más hermosos.
+- Tamaño: el tamaño es de Estados Unidos. Por favor, lee la información de tallas en la descripción del producto para elegir tu propio tamaño
 - Instrucciones de lavado: lavar por separado. Producto de lavado desde el interior hacia el exterior. Utilice el detergente recomendado para pintura. Planchado. No lo dejes mojado. Por favor, sécala mientras se coloca en un suelo plano. Debido a la construcción de hilos especiales, la ropa puede ser rugosa.
 - ✅ Material: DeFacto BabyBoy de manga corta Snap cuerpo fabricado en algodón 100%. Tejido transpirable, cómodo en la piel.
-- ✅ Alta calidad: cuerpo de manga corta para bebé con un tejido suave 100% algodón que es compatible con la piel sensible de tu bebé y disfruta de los momentos más hermosos.
 - Ocasión: nuestro traje de bebé es adecuado para su nieto, hijo, sobrino, ducha de bebé, ropa para el hogar, fiesta de cumpleaños, fiesta, vacaciones, dormir, día informal, fotografía, deportes, Navidad.
-- Tamaño: el tamaño es de Estados Unidos. Por favor, lee la información de tallas en la descripción del producto para elegir tu propio tamaño
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SVKG6SB/?tag=tolees-21)
