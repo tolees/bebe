@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger Baby Skateboard tee S/S Camisa  Blanco  74 cm para Bebés
 
 ℹ️:
 
-- Este es un producto auténtico y original de Tommy Hilfiger.
 - Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
+- Este es un producto auténtico y original de Tommy Hilfiger.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CBN845P/?tag=tolees-21)
