@@ -28,9 +28,9 @@ Está [OKBABY - Bandeja Ok bebé 38238440 Wave nuevo estilo  Verde](https://www.
 
 ℹ️:
 
-- Amplio espacio de baño con dos posiciones diferentes
 - Integral ergonómico moldeado para apoyo
 - Termómetro de agua fácil de leer y un indicador de nivel máximo de agua
+- Amplio espacio de baño con dos posiciones diferentes
 - Indicador de nivel de agua con sistema de drenaje rápido a través de su tapa de rosca con llave
 - Incluye integral del respaldo de goma antideslizante
 
