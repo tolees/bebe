@@ -28,9 +28,9 @@ Está [Mr. Wonderful WOA09002UN - Muselina para bebés](https://www.amazon.es/dp
 
 ℹ️:
 
-- Diseño divertido y moderno
 - Diseñado en Barcelona con mucho amor
 - Fácil de limpiar
 - Material resistente
+- Diseño divertido y moderno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CGS9J6N/?tag=tolees-21)
