@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicco discos absorbe lactancia 60 u al 31.95 % de descuento'
-date: 2021-06-26 09:18:24
+date: 2021-07-03 13:54:31
 image: 'https://m.media-amazon.com/images/I/41jTmlkxb4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Chicco'
 buyurl: 'https://www.amazon.es/dp/B07DGG7VHT/?tag=tolees-21'
 descuento: '31.95'
-average: '7.19'
+average: '6.8725'
 ---
 
 Ahora mismo tienes [Chicco discos absorbe lactancia 60 u](https://www.amazon.es/dp/B07DGG7VHT/?tag=tolees-21) a 5.92 EUR (original: 8.7 EUR) (31.95 %  de descuento) en el siguiente enlace!
