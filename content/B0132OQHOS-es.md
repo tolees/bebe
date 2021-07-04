@@ -29,9 +29,9 @@ Ahora mismo tienes [Chicco Arco de juegos para trona Chicco Polly Progres5 y Pol
 🔎:
 
 - ¡Atención! Solamente vas a recibir la caja de cambios y la barra de reproducción (la silla se vende por separado)
+- Las tres opciones de ajuste diferentes se adaptan a la posición del asiento
+- Compatible con la trona Polly Progres5
 - Entretiene al niño desde los primeros días de vida
 - Promueve las habilidades motoras del niño
-- Compatible con la trona Polly Progres5
-- Las tres opciones de ajuste diferentes se adaptan a la posición del asiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0132OQHOS/?tag=tolees-21)
