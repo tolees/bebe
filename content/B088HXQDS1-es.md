@@ -28,10 +28,10 @@ Está [Hero Solo - Tarrito Eco de Patata  Zanahoria y Salmón para Bebés a Part
 
 ℹ️:
 
-- No incluye aceite de palma, almidón, ni sal añadida. Tampoco conservantes ni colorantes
+- Descubre la amplia gama de Hero Solo: ingredientes ECO y nada más
 - Alimento a base de puré de patata, zanahoria y salmón para bebés a partir de 8 meses
 - Conservación y esterilización natural al baño María
+- No incluye aceite de palma, almidón, ni sal añadida. Tampoco conservantes ni colorantes
 - Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
-- Descubre la amplia gama de Hero Solo: ingredientes ECO y nada más
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088HXQDS1/?tag=tolees-21)
