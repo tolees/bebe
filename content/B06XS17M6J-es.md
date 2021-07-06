@@ -28,10 +28,10 @@ Está [Boba | Mochila Portabebés Boba Air  Ergonómica y Adaptable con Tejido A
 
 ℹ️:
 
-- PLEGABLE - Muy ligera y autoalmacenbale, no ocupa ni pesa nada. Te la llevarás a cualquier parte y será un gran recurso en tu día a día y tus viajes.
 - CONTENIDO - Mochila portabebés ultraligera Boba Air + capucha para sujetar o proteger la cabeza del niño cuando está dormido
 - AJUSTABLE - Muy fácil de ajustar. El cinturón se adapta al portador y es de talla única ajustándose muy bien tanto a personas delgadas y pequeñas como de tallas grandes. Es adecuada para bebés y niños desde 4 meses hasta 3 años aproximadamente (7-15kg
 - CÓMODA - Incluye correas de malla transpirable y ligeramente acolchadas. Así que podrás usarla durante más tiempo con comodidad, aberturas acolchadas de las piernas y un asiento más profundo y confortable para el bebé.
 - 100% NYLON - La mochila portabebés de Boba está compuesto del mejor nylon certificado. Su tejido resulta adecuado tanto para invierno como para las altas temperaturas de verano. Gracias a este material, la mochila es ultraligera y de secado ultrarápido
+- PLEGABLE - Muy ligera y autoalmacenbale, no ocupa ni pesa nada. Te la llevarás a cualquier parte y será un gran recurso en tu día a día y tus viajes.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XS17M6J/?tag=tolees-21)

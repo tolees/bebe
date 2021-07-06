@@ -29,7 +29,7 @@ Tienes [Yammy Crema Ecológica De Calabacín Para Bebés A Partir De +4 Meses 25
 ℹ️:
 
 - Sin azúcares añadidos, sin conservantes ni espesantes
-- 100% ecológico y 100% naturales. Elaborado artesanalemente
 - Nutricionalmente aptas para bebés de 4 meses
+- 100% ecológico y 100% naturales. Elaborado artesanalemente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0846JX5NQ/?tag=tolees-21)

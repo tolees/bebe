@@ -28,9 +28,9 @@ En este momento está [Safety 1st Cierre de seguridad para armarios  color blanc
 
 🔎:
 
-- Cerradura compatible con todo tipo de puertas de armario, con manijas o pomos
-- Fácil de instalar sin necesidad de realizar ningún agujero
 - Cerradura de seguridad universal para evitar que los niños accedan a armarios, taquillas y aparatos electrodomésticos
+- Fácil de instalar sin necesidad de realizar ningún agujero
 - Para garantizar un nivel de seguridad, la cerradura está equipada con un dispositivo de seguridad que indica el cierre correcto de la puerta
+- Cerradura compatible con todo tipo de puertas de armario, con manijas o pomos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002FABV88/?tag=tolees-21)
