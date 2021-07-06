@@ -28,15 +28,15 @@ Tienes [Miniland Baby - Vigilabebé](https://www.amazon.es/dp/B01EEN9A4A/?tag=to
 
 🔎:
 
-- La unidad de los padres puede funcionar en la corriente eléctrica o con una batería de litio recargable
-- El digimonitor de 3.5¨ es cómodo para llevar a cualquier lugar
-- Tipo conexión: USB output; AV output jack
-- Tiene una bolsa para guardar y transportar
 - Compatibilidades del vigilabebés: Windows XP, Windows 7 , Mac OX 10.0-10.7
-- Zoom 4 posiciones
-- Puede llevarlo colgado al cuello gracias a su asa integrada
-- Compatibilidades de eMyBaby: IOS Mínimo: iPhone 4, RAM:512MB - iPad – iPad Mini; Android Mínimo: Sistema operativo: 2.3.3, RAM: 512MB
-- Permite ver al bebé desde cualquier lugar, empleando su ordenador, tablet o Smartphone, a través de eMyBaby, aplicación exclusiva de Miniland Baby
+- El digimonitor de 3.5¨ es cómodo para llevar a cualquier lugar
 - Activación por voz con sensibilidad ajustable
+- Permite ver al bebé desde cualquier lugar, empleando su ordenador, tablet o Smartphone, a través de eMyBaby, aplicación exclusiva de Miniland Baby
+- Compatibilidades de eMyBaby: IOS Mínimo: iPhone 4, RAM:512MB - iPad – iPad Mini; Android Mínimo: Sistema operativo: 2.3.3, RAM: 512MB
+- Tiene una bolsa para guardar y transportar
+- Zoom 4 posiciones
+- Tipo conexión: USB output; AV output jack
+- La unidad de los padres puede funcionar en la corriente eléctrica o con una batería de litio recargable
+- Puede llevarlo colgado al cuello gracias a su asa integrada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01EEN9A4A/?tag=tolees-21)
