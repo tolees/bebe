@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMVR72N-es i-baby Manta Bebé Mantas Infantiles Para Cuna Cama...'
 sku: 'B07MMVR72N-es'
-tags: [ 'bebé', ]
+tags: [ 'bebé','nacido','recién', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

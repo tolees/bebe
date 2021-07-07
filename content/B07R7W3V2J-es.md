@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7W3V2J-es MAM Original 0+ 2 unidades Chupete de látex para recién...'
 sku: 'B07R7W3V2J-es'
-tags: [ 'chupete', ]
+tags: [ 'chupete','nacido','recién', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

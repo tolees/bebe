@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFTX7Y8-es i-baby Manta Bebé Grande Mantas Infantiles Para Cuna Cama...'
 sku: 'B07MFTX7Y8-es'
-tags: [ 'bebé', ]
+tags: [ 'bebé','nacido','recién', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S39H4QK-es LA Active Tobillera Calcetines Antideslizantes - 6 Pares -...'
 sku: 'B07S39H4QK-es'
-tags: [ 'bebé', ]
+tags: [ 'bebé','nacido','recién', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

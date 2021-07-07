@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CR4NRSY-es Gorro de bebé para recién Nacido Diademas Bebe Unidades...'
 sku: 'B08CR4NRSY-es'
-tags: [ 'bebe','bebé', ]
+tags: [ 'bebe','bebé','nacido','recién', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

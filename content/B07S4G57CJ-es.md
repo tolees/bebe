@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4G57CJ-es LA Active Polainas Antideslizantes Agarre – 3 Pares – Bebé...'
 sku: 'B07S4G57CJ-es'
-tags: [ 'bebé', ]
+tags: [ 'bebé','nacido','recién', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

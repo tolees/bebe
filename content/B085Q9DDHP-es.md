@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Q9DDHP-es Aspirador Nasal Bebes Aspirador Nasal Aspirador Nasal Bebe...'
 sku: 'B085Q9DDHP-es'
-tags: [ 'bebe', ]
+tags: [ 'bebe','nacido','recién', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

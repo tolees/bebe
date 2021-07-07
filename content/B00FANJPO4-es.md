@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FANJPO4-es Cybex Silver - Portabebé Aton en contra de la marcha...'
 sku: 'B00FANJPO4-es'
-tags: [ 'cybex','portabebé', ]
+tags: [ 'cybex','nacido','portabebé','recién', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

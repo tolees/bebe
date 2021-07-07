@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9QGMKX-es DAYNEW 5 Pares de Calcetines Antideslizantes para bebé...'
 sku: 'B07Y9QGMKX-es'
-tags: [ 'bebé', ]
+tags: [ 'bebé','nacido','recién', ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

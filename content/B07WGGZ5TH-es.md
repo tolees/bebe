@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGGZ5TH-es Manta Dragón Bebe Personalizada con Nombre. Regalo Bebé...'
 sku: 'B07WGGZ5TH-es'
-tags: [ 'bebe','bebé', ]
+tags: [ 'bebe','bebé','nacido','recién', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F93X1YV-es Philips Avent Biberón Natural SCF036/17 - Biberón de 330...'
 sku: 'B07F93X1YV-es'
-tags: [ 'avent','biberón', ]
+tags: [ 'avent','biberón','nacido','recién', ]
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

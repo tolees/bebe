@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005MXJUFG-es Hauck Sit N Relax - Hamaquita balancin y trona para recién...'
 sku: 'B005MXJUFG-es'
-tags: [ 'hauck','trona', ]
+tags: [ 'hauck','nacido','recién','trona', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

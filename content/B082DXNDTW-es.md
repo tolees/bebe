@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082DXNDTW-es WISHTIME Sonajeros de Bebe Juguetes de Mordedor Infante...'
 sku: 'B082DXNDTW-es'
-tags: [ 'bebe', ]
+tags: [ 'bebe','nacido','recién', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

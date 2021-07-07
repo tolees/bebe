@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RNGTHD-es Precioso lindo oso patrón de dibujos animados almohada...'
 sku: 'B084RNGTHD-es'
-tags: [ 'bebé', ]
+tags: [ 'bebé','nacido','recién', ]
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

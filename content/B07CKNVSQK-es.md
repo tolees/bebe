@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKNVSQK-es Miracle Baby Mantas de Muselina Suave 70% Bambú 30%...'
 sku: 'B07CKNVSQK-es'
-tags: [ 'bebe','muselina', ]
+tags: [ 'bebe','muselina','nacido','recién', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88
