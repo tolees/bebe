@@ -30,8 +30,8 @@ En este momento está [Fisher-Price Orinal Cuá Cuá 3 en 1  orinal para bebé +
 
 - La base se transforma en un resistente taburete para niños de hasta 45 kg
 - El asiento de aprendizaje se desmonta para ajustarse a la mayoría de lavabos de adulto, no se recomienda usarlo sobre inodoros forrados o acolchados
-- Emite 4 melodías que premian los éxitos del niño
 - Tiene 3 funciones: orinal para niños, asiento que se coloca en la taza del váter, taburete para alcanzar la pila y lavarse las manitas
+- Emite 4 melodías que premian los éxitos del niño
 - Viene con un protector antisalpicaduras extraíble para niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003TO2CC8/?tag=tolees-21)
