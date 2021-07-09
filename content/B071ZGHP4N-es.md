@@ -28,10 +28,10 @@ Tienes [Sacaleches manual  extractor de leche Harmony Medela](https://www.amazon
 
 🔎:
 
-- Extracción manual en 2 fases que consiste en la estimulación y la extracción
-- Fácil de usar y limpiar con las bolsas Quick Clean de Medela
 - Sacaleches manual Harmony de Medela: ideal para la extracción de leche del pecho de forma ocasional durante la lactancia
+- Fácil de usar y limpiar con las bolsas Quick Clean de Medela
 - Ligero, discreto y cómodo para llevar de viaje: fácil de montar
+- Extracción manual en 2 fases que consiste en la estimulación y la extracción
 - También están disponibles las pezoneras y la crema de lanonina (Purelan) de Medela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071ZGHP4N/?tag=tolees-21)
