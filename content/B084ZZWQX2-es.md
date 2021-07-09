@@ -28,10 +28,10 @@ Ahora mismo tienes [Boba Mochila Portabebés 4GS  Ergonómica y Adaptable con Te
 
 🔎:
 
+- CONTENIDO - Mochila portabebés + Adaptador para recién nacidos + Capucha para sostener la cabezaa.  
 - 100% ALGODÓN - La mochila portabebés de Boba está compuesto del mejor algodón biológico certificado. Su tejido resulta adecuado tanto para invierno como para las altas temperaturas de verano. Es además una mochila muy ligera
 - AJUSTABLE - El cinturón se adapta al portador y es de talla única, con lo que se adapta muy bien tanto a personas delgadas y pequeñas como a las de talla grande
 - HASTA 20 KG - Mochila de porteo ideal para bebés de 5 a 18 meses (de 0 a 5 meses con el adaptador), soportando el peso del bebé de 7 hasta 20 kg (3,5 hasta 7 kg con adaptador)
 - AJUSTABLE - El cinturón se adapta al portador y es de talla única, con lo que se adapta muy bien tanto a personas delgadas y pequeñas como a las de talla grande
-- CONTENIDO - Mochila portabebés + Adaptador para recién nacidos + Capucha para sostener la cabezaa.  
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084ZZWQX2/?tag=tolees-21)
