@@ -28,10 +28,10 @@ Tienes [Hero Baby - Bolsita de Fruta con Manzana y Plátano  Sin Azúcares Añad
 
 🔎:
 
-- Descubre la amplia gama de bolsitas de fruta, perfectas para complementar sus comidas de la forma más divertida
-- Alimento a base de puré y zumo de frutas para bebés a partir de los 4 meses
-- Conservación y esterilización natural al baño María
 - Elaboradas con la mejor selección de frutas de la huerta de Murcia, 100 % natural. No incluye aceite de palma, gluten, leche ni azúcares añadidos
 - Su formato de bolsita no necesita frío, además de ser muy cómodo para transportar y consumir, solo hay que abrir y disfrutar
+- Alimento a base de puré y zumo de frutas para bebés a partir de los 4 meses
+- Conservación y esterilización natural al baño María
+- Descubre la amplia gama de bolsitas de fruta, perfectas para complementar sus comidas de la forma más divertida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086LVP79R/?tag=tolees-21)
