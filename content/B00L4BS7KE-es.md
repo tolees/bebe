@@ -28,8 +28,8 @@ Ahora mismo tienes [Polisport-Bobike Fahrradsitz Hinten Junior Classic  Portabe
 
 🔎:
 
-- One Size
-- Bobike Junior Classic rear childseat - urban black
 - Black - urban black
+- Bobike Junior Classic rear childseat - urban black
+- One Size
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00L4BS7KE/?tag=tolees-21)
