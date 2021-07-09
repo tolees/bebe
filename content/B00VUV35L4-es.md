@@ -28,12 +28,12 @@ Tienes [Ecus Kids Colchón de Minicuna Capazo Organic  Colchón Para Minicuna de
 
 🔎:
 
+- Certificado Oeko Tex | Libre sustancias perjudiciales para salud | Nº Certificado 2017OK0745
 - Made in Spain | Europe | Todos los productos de Ecus Kids están desarrollados y fabricados íntegramente en España
+- Prevención Plagiocefalia 8/10 | Prevención Asfixia 8/10 | Orgánico
+- Núcleo interior del colchón de cuna | Espuma Soja | Acolchado exterior del colchón de cuna | Con Algodón Organico
 - Acolchado exterior del colchón de minicuna | Lavable
 - Colchón para minicuna con tratamientos | Antibacterianos e Hipoalergénicos
 - 5 años de garantia ante defectos de fabricación | 30 noches de prueba | Sin costes de devolución
-- Certificado Oeko Tex | Libre sustancias perjudiciales para salud | Nº Certificado 2017OK0745
-- Prevención Plagiocefalia 8/10 | Prevención Asfixia 8/10 | Orgánico
-- Núcleo interior del colchón de cuna | Espuma Soja | Acolchado exterior del colchón de cuna | Con Algodón Organico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VUV35L4/?tag=tolees-21)
