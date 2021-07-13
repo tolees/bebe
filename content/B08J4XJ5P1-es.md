@@ -28,10 +28,10 @@ Está [Hauck Cuna de Viaje Sleep N Play Go  para Bebes y Niños de Nacimiento ha
 
 ℹ️:
 
-- VERSATIL - La cremallera lateral de la cuna, la cual solo se puede abrir desde fuera le gustara sobre todo a los niños mayores ya que podrán entrar, salir y divertirse en los momentos de ocio y juego
-- VENTANAS RED - La red permite que la cuna este constantemente ventilada y que que su hijo se pasara el día jugando y usted podrá controlarlo de cualquier ángulo de la habitación
-- PLEGADO - La cuna de viaje ligera de peso es fácil de plegar ahorrando espacio vaya donde vaya; lleva incluida su propia bolsa de transporte con asas para protegerla de suicidad y de rotura
 - Óptimo PARA CASA Y LOS VIAJES - La cuna es un óptimo compañero para casa, para los viajes con la familia; proporciona movilidad y su bebe no tiene que adaptarse a camas y entornos desconocidos
+- VERSATIL - La cremallera lateral de la cuna, la cual solo se puede abrir desde fuera le gustara sobre todo a los niños mayores ya que podrán entrar, salir y divertirse en los momentos de ocio y juego
+- PLEGADO - La cuna de viaje ligera de peso es fácil de plegar ahorrando espacio vaya donde vaya; lleva incluida su propia bolsa de transporte con asas para protegerla de suicidad y de rotura
+- VENTANAS RED - La red permite que la cuna este constantemente ventilada y que que su hijo se pasara el día jugando y usted podrá controlarlo de cualquier ángulo de la habitación
 - ACCESORIOS EXTRAS - para mayor comodidad puede combinar la cuna de viaje SLEEP AND GO PLUS con nuestros colchones de espuma HAUCK SLEEPER asi como la sabana BED ME de la misma marca Hauck
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J4XJ5P1/?tag=tolees-21)
