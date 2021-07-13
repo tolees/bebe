@@ -28,10 +28,10 @@ Tienes [BÉABA Cuchara de aprendizaje para Bebé y Niño  Silicona  Secunda infa
 
 🔎:
 
-- SILICONA FLEXIBLE: No hay riesgo de lesión para las encías del bebé
-- HIGIÉNICA: Reposacuchara para evitar el contacto con la mesa y asegurar limpieza e higiene
 - ERGONÓMICA: Forma de la parte cóncava adaptada a la boca del niño, más ancha que las cucharas de la 1.ª infancia
-- CUCHARA DE SILICONA: Mango más corto con reposacucharas para que el bebé aprenda a comer como los mayores
+- HIGIÉNICA: Reposacuchara para evitar el contacto con la mesa y asegurar limpieza e higiene
 - LIMPIEZA FÁCIL: Punta y funda integral de silicona para lavarla a mano o en el lavavajillas
+- SILICONA FLEXIBLE: No hay riesgo de lesión para las encías del bebé
+- CUCHARA DE SILICONA: Mango más corto con reposacucharas para que el bebé aprenda a comer como los mayores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079NBQMHJ/?tag=tolees-21)
