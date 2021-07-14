@@ -29,9 +29,9 @@ Ahora mismo tienes [Nuby - Nûby - Juguete de Baño Pulpo Flotante con Anillos  
 🔎:
 
 - Ayuda al desarrollo de la coordinación mano-ojo
-- Desde 18 meses
 - Versión embolsada sin packaging
-- El pulpo y los anillos flotan en el agua
+- Desde 18 meses
 - Utilizar bajo la supervisión de un adulto
+- El pulpo y los anillos flotan en el agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NFHF772/?tag=tolees-21)
