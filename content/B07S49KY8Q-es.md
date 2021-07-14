@@ -28,9 +28,9 @@ En este momento está [Dr. Brown s Options +  Biberón de boca ancha  270ml  col
 
 🔎:
 
-- Probado clínicamente para reducir los cólicos, reflujos, eructos y gases
 - Tetina parecida al pecho materno
-- Anticólicos
 - Nº1 recomendado por pediatras en los EE.Uu.
+- Anticólicos
+- Probado clínicamente para reducir los cólicos, reflujos, eructos y gases
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S49KY8Q/?tag=tolees-21)
