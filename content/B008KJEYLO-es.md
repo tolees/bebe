@@ -29,9 +29,9 @@ En este momento está [WaterWipes Mega Value Box - 720 toallitas para bebé](htt
 🔎:
 
 - 99,9% de agua y una gota de extracto de fruta
-- Adecuado para su uso en recién nacidos
-- Sin fragancia ni alcohol
 - Hipoalergénico
+- Sin fragancia ni alcohol
 - La Asociación Nacional de Eccema ha otorgado el sello de aceptación a WaterWipes
+- Adecuado para su uso en recién nacidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008KJEYLO/?tag=tolees-21)
