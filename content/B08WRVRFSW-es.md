@@ -29,9 +29,9 @@ En este momento está [SUAVINEX 401314 - Suavinex  Organizador Tela Para Bebés 
 🔎:
 
 - Loción Hidratante 300ml - Nutre en profundidad la piel del cuerpo del bebé.
-- Nueva Baby Cologne 100ml - con su fórmula baja en alcohol, es un aroma fresco y delicado. la colonia de bebé Nº1 en ventas en farmacias de España.
-- Gel-Champú Syndet 300ml - Limpia de forma especialmente suave piel y cabello. Fórmula Sin Jabón.
 - Organizador de cosmética de bebé apto para pieles sensibles. Para bebés +0 meses.
 - Precioso organizador de tela con Gel-Champú Syndet 300ml + Pomada Intensiva 75ml + Nueva Baby Cologne 100ml + Loción Hidratante 300ml.
+- Nueva Baby Cologne 100ml - con su fórmula baja en alcohol, es un aroma fresco y delicado. la colonia de bebé Nº1 en ventas en farmacias de España.
+- Gel-Champú Syndet 300ml - Limpia de forma especialmente suave piel y cabello. Fórmula Sin Jabón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WRVRFSW/?tag=tolees-21)
