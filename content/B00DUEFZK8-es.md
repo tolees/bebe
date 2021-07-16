@@ -28,10 +28,10 @@ En este momento está [Philips Avent SCF297/05 - Pack de 5 bolsas esterilizadora
 
 🔎:
 
-- Fácil de usar
-- Casilla de verificación
 - Esterilización rápida y eficaz en el microondas
 - Ventana de visualización
 - 5 bolsas para microondas
+- Fácil de usar
+- Casilla de verificación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DUEFZK8/?tag=tolees-21)
