@@ -28,11 +28,11 @@ Está [CYBEX Silver Silla de coche para niños Solution X  Grupo 2/3 1536 kg  De
 
 ℹ️:
 
-- Reposacabezas ajustable en altura con 11 posiciones, Respaldo reclinable, Comodidad en el asiento
-- Fácil de fijar al asiento del coche con el cinturón de seguridad, Funda lavable a máquina 30 grados Celsius
-- Contenido 1 silla para coche
 - Contenido 1 Silla para coche Solution X, Material funda 100% Poliéster, Dimensiones LxPxA 41 x 47 x 64 cm, Peso 5.7 kg, Color Rumba Red
+- Contenido 1 silla para coche
+- Fácil de fijar al asiento del coche con el cinturón de seguridad, Funda lavable a máquina 30 grados Celsius
 - Adecuada seguridad Protección integrada contra impactos laterales Sistema L.S.P., Reposacabezas reclinable en 3 posiciones
 - Silla de coche de calidad duradera, diseño adecuado y ligera Para niños desde los 3 hasta los 12 años aprox. 1536 kg
+- Reposacabezas ajustable en altura con 11 posiciones, Respaldo reclinable, Comodidad en el asiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FAO6QEA/?tag=tolees-21)
