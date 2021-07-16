@@ -28,10 +28,10 @@ Ahora mismo tienes [Chicco Set Up 012 Silla de Coche Reclinable Bebés de 0-25 k
 
 🔎:
 
-- GRUPO 1 (9-18 KG): en sentido a la marcha, este asiento para niños puede ser instalado con los cinturones de seguridad de 3 puntos del coche (universal) o con el sistema Isofix (universal)
 - GRUPO 2 (15-25 KG): puede instalarse con los cinturones de seguridad de 3 puntos del coche (universal) o con los cinturones de seguridad de 3 puntos y el sistema Top Tether (semi-universal)
 - SILLA DE COCHE RECLINABLE: la sillita se transforma a medida que tu hijo crece, desde el nacimiento hasta aproximadamente 6 años de edad (0-25 Kg.); el asiento es reclinable para el máximo confort del niño durante los viajes en coche
-- INSTALACIÓN ISOFIX: instalación más segura, más fácil y más rápida gracias al sistema Isofix Top Tether. Sin Isofix, la silla también puede ser instalado con los cinturones de seguridad del coche (Grupo 1 y 2)
 - GRUPO 0+ (0-13 KG): se instala en sentido contrario a la marcha - a contramarcha - mirando hacia atrás (con airbags desactivados). Viene equipada con un cómodo cojín reductor para bebés de hasta 9 kg
+- GRUPO 1 (9-18 KG): en sentido a la marcha, este asiento para niños puede ser instalado con los cinturones de seguridad de 3 puntos del coche (universal) o con el sistema Isofix (universal)
+- INSTALACIÓN ISOFIX: instalación más segura, más fácil y más rápida gracias al sistema Isofix Top Tether. Sin Isofix, la silla también puede ser instalado con los cinturones de seguridad del coche (Grupo 1 y 2)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GXDYRNN/?tag=tolees-21)
