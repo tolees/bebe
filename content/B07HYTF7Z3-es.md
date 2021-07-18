@@ -28,10 +28,10 @@ En este momento está [Cybex Silver Pallas M-Fix 519001097 Silla de Coche Grupo 
 
 🔎:
 
+- Silla de coche estable y duradera de alta calidad, Para niños desde 9 meses hasta 12 años aprox. (9-36 kg), Apta para coches sin y con ISOFIX, RACE, Mayo 2015, Bueno, 2,1
 - Máxima seguridad - Cojín de seguridad regulable, reposacabezas reclinable en 3 posiciones, protección integrada contra impactos laterales (sistema l.s.p.), estructura con alta absorción de impactos
 - Respaldo regulable en altura con 12 posiciones y reclinable con una mano, se transforma fácilmente en la silla de coche solution m-fix para niños a partir de 3 años (grupo 2/3) al retirar el cojín de seguridad y la base, sistema de ventilación óptimo
-- Silla de coche estable y duradera de alta calidad, Para niños desde 9 meses hasta 12 años aprox. (9-36 kg), Apta para coches sin y con ISOFIX, RACE, Mayo 2015, Bueno, 2,1
-- Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema isofix (opcional) para una mayor estabilidad, funda lavable a máquina (30°c), accesorios disponibles no incluidos: funda de verano y portavasos
 - Contenido: 1 silla de coche pallas m-fix con sistema isofix connect (anclaje isofix) e instrucciones de montaje, material funda: 100% poliéster, dimensiones (lxpxa): 43 x 54 x 70 cm, peso: 9,3 kg, color: gray rabbit
+- Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema isofix (opcional) para una mayor estabilidad, funda lavable a máquina (30°c), accesorios disponibles no incluidos: funda de verano y portavasos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HYTF7Z3/?tag=tolees-21)
