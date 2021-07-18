@@ -28,10 +28,10 @@ Tienes [Chicco- Lanzador Ferrari  Multicolor  Artsana Spain 00009565000000 ](htt
 
 🔎:
 
+- Con exclusivo Ferrari F12 TDF amarillo
 - ¡Lanza el coche y evita los conos y llévate el trofeo!
 - Pista de coches bajo licencia Ferrari
 - Sonidos auténticos de Ferrari
 - Incluye 1 coche 4 conos y 1 trofeo
-- Con exclusivo Ferrari F12 TDF amarillo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079ZG3H4J/?tag=tolees-21)
