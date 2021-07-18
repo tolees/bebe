@@ -28,8 +28,8 @@ En este momento está [Chicco- Big & Small Juguete electrónico  00007700000000 
 
 🔎:
 
-- Interactúa con los niños
 - Con luces y sonidos
+- Interactúa con los niños
 - Con actividades manuales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01BH8X6Q8/?tag=tolees-21)
