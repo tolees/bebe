@@ -29,8 +29,8 @@ Tienes [Smash Up - Munchkin  juego de cartas  Edge Entertainment EDGSU07    colo
 ℹ️:
 
 - Recomendado a partir de 14 años de edad
-- Juego de mesa en Español
 - Smash Up es el juego en el que cada jugador une dos facciones realmente diferentes y trata de aplastar a los demás
+- Juego de mesa en Español
 - Juego de 2 a 4 jugadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06Y2C2B5Y/?tag=tolees-21)
