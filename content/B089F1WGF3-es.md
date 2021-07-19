@@ -28,14 +28,14 @@ En este momento está [Suavinex toallitas bebé dermohidratantes 864 unidades  a
 
 🔎:
 
-- Línea cosmética pediátrica en envases provenientes de materias primas renovables
-- Set 12x packs toallitas dermohidratantes para bebés Suavinex, 864 unidades
-- Ingredientes: aloe vera, camomila, aceites vegetales y ceras de origen natural
-- Tiene 96% de ingredientes de origen natural
+- Aptas para manos y cara
 - Aptas para el contenedor de residuos orgánicos, no desechables a través del W.C.
+- Tiene 96% de ingredientes de origen natural
+- Set 12x packs toallitas dermohidratantes para bebés Suavinex, 864 unidades
 - Limpian de forma suave la piel del bebé
 - Aptas para pieles sensibles y atópicas
 - Tu bebé siempre limpio y fresquito con nuestros productos de cosmética infantil
-- Aptas para manos y cara
+- Línea cosmética pediátrica en envases provenientes de materias primas renovables
+- Ingredientes: aloe vera, camomila, aceites vegetales y ceras de origen natural
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089F1WGF3/?tag=tolees-21)
