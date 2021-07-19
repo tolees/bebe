@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Béaba 915009 - Hamaca para bebé  regulab al 16.22 % de descuento'
-date: 2020-02-24 14:08:16
-image: 'https://m.media-amazon.com/images/I/512KqnCf8SL._AC_._SL400_.jpg'
+title: 'BÉABA Hamaca Bébé Up & Down I  Ajustable al 44.71 % de descuento'
+date: 2021-07-19 10:09:04
+image: 'https://m.media-amazon.com/images/I/512KqnCf8SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00E1GX77C-es Béaba 915009 - Hamaca para bebé regulable en altura'
+slug: 'B00E1GX77C-es BÉABA Hamaca Bébé Up & Down I Ajustable con una Simple...'
 sku: 'B00E1GX77C-es'
-tags: [ 'bebé', ]
-actualPrice: 116.46 EUR
+tags: [ 'Actividad y entretenimiento','Bebé','Sillas mecedoras','bebé','bebés','béaba', ]
+actualPrice: 76.85 EUR
 currency: EUR
-price: 116.46
+price: 76.85
 comparePrice: 139.0 EUR
-prodname: 'Béaba 915009 - Hamaca para bebé  regulable en altura'
+prodname: 'BÉABA Hamaca Bébé Up & Down I  Ajustable con una Simple Presión  4 Alturas  3 Inclinaciones  para Bebés y Niños  Reductor de Bebé  Ultracómoda  Balancín  Gris'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Béaba'
 buyurl: 'https://www.amazon.es/dp/B00E1GX77C/?tag=tolees-21'
-descuento: '16.22'
-average: '116.46'
+descuento: '44.71'
+average: '103.256666666667'
 ---
 
-Ahora mismo tienes [Béaba 915009 - Hamaca para bebé  regulable en altura](https://www.amazon.es/dp/B00E1GX77C/?tag=tolees-21) a 116.46 EUR (original: 139.0 EUR) (16.22 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BÉABA Hamaca Bébé Up & Down I  Ajustable con una Simple Presión  4 Alturas  3 Inclinaciones  para Bebés y Niños  Reductor de Bebé  Ultracómoda  Balancín  Gris](https://www.amazon.es/dp/B00E1GX77C/?tag=tolees-21) a 76.85 EUR (original: 139.0 EUR) (44.71 %  de descuento) en el siguiente enlace!
 
-[![Béaba 915009 - Hamaca para bebé  regulab](https://m.media-amazon.com/images/I/512KqnCf8SL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00E1GX77C/?tag=tolees-21)
+[![BÉABA Hamaca Bébé Up & Down I  Ajustable](https://m.media-amazon.com/images/I/512KqnCf8SL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00E1GX77C/?tag=tolees-21)
 
 🔎:
 
+- CÓMODA: Asiento de microesferas y acolchado lateral. Posibilidad de utilizar la hamaca en la versión clásica
+- USO: Desde el nacimiento hasta los 6 meses (máximo 9 kg)
+- SEGURO : gran estabilidad, arnés de 5 puntos para mecer al bebe con seguridad
+- CUATRO POSICIONES: Hamaca de altura e inclinación ajustables mediante una simple presión. Regulable 4 alturas. Asas de transporte para facilitar el traslado
+- ERGONOMICA: La hamaca Up & Down, moderna y práctica, es la primera que dispone de una posición alta para que el bebé descubra el mundo que le rodea
+- HIGIÉNICA: Funda y collarín desmontables para facilitar la limpieza
+- COJIN REDUCTOR : ergonómico y muy cómodo para el bebé. Cuña de cabeza integrada para un soporte óptimo. Utilización de 0 - 3 meses
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00E1GX77C/?tag=tolees-21)
