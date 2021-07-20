@@ -29,9 +29,9 @@ Tienes [Relaxdays  Plateado  29 x 24 cm Marco de Fotos de bebé  Primer año  12
 🔎:
 
 - Momentos inolvidables: captura los primeros doce meses de la vida de tu bebé
-- Un año: regalo perfecto para un recién nacido o bautizo
 - Decorativo: este marco de fotos es perfecto para colocar en el salón o dormitorio infantil
-- Detalles básicos: superficie de 29 x 24 cm; foto grande de 10 x 8 cm; fotos pequeñas de 4, 5 x 3, 5 cm
 - 3d: decorado con motivos infantiles en 3d; balancín, carrito de bebé, biberón y cuchara
+- Un año: regalo perfecto para un recién nacido o bautizo
+- Detalles básicos: superficie de 29 x 24 cm; foto grande de 10 x 8 cm; fotos pequeñas de 4, 5 x 3, 5 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GPQV4CB/?tag=tolees-21)
