@@ -29,7 +29,7 @@ En este momento está [Safety 1st - Bloqueador De Armarios Corredera Gris  Dorel
 🔎:
 
 - Se adapta a todo tipo de armarios
-- Sistema regulable
 - Con sistema Secure Tech, indica el cierre correcto del dispositivo
+- Sistema regulable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B009ETBO8K/?tag=tolees-21)
