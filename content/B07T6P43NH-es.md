@@ -28,10 +28,10 @@ En este momento está [kk Kinderkraft Trona Bebé PINI  Silla Alta  Ergonómica 
 
 🔎:
 
-- Fácil de mantener limpio
-- Adecuada para niños desde 6 meses hasta 5 años
-- Bandeja ajustable, plegable y doble
 - Trona compacta que se puede plegar rápida y fácilmente sin desmontar las piezas
+- Bandeja ajustable, plegable y doble
+- Fácil de mantener limpio
 - Rempty esta trona funcional se cambia de forma rápida y sencilla, sin necesidad de usar herramientas, en una silla para un niño más grande
+- Adecuada para niños desde 6 meses hasta 5 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T6P43NH/?tag=tolees-21)
