@@ -28,10 +28,10 @@ Tienes [Chicco Lamparita Dulces Sueños - Lámpara quita miedos anti oscuridad  
 
 ℹ️:
 
-- Lámpara de noche con luces y melodías
-- Ideal para mesita de noche
 - Funciona a pilas para llevárselo a cualquier parte
+- Lámpara de noche con luces y melodías
 - 10 minutos de música clasica o new age
+- Ideal para mesita de noche
 - Se activa girando el osito
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QH65GT5/?tag=tolees-21)
