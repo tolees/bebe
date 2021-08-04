@@ -28,10 +28,10 @@ Ahora mismo tienes [VTech - Fisher-Price Maracas musicales  juguete y sonajero p
 
 🔎:
 
-- Regalo original para bebes a partir de 3 meses
+- Cuentas de colores
 - Pompones suaves
+- Regalo original para bebes a partir de 3 meses
 - Sonidos de sonajero
 - Tienen el tamaño óptimo para las manitas de los más pequeños
-- Cuentas de colores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FBW7CNA/?tag=tolees-21)
