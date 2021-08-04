@@ -28,11 +28,11 @@ Está [Nenuco - hAPPy School  juega a ser profesor  juego interactivo de la escu
 
 ℹ️:
 
-- Incluye una bebé Nenuco de 35 centímetros de cuerpo duro y pelito rubio
 - El set contiene un pupitre, una chapa para el nombre y unas gafas de juguete para tu peque y divertidos accesorios como la pizarra, el rotulador y el borrador
-- Objeto no indicado para meter en el agua
-- El juguete se conecta a una App de ejercicios y juegos con la que interactúa
-- Juguete no es apropiado para menores de 3 años
 - Lleva pilas incluidas
+- Incluye una bebé Nenuco de 35 centímetros de cuerpo duro y pelito rubio
+- Objeto no indicado para meter en el agua
+- Juguete no es apropiado para menores de 3 años
+- El juguete se conecta a una App de ejercicios y juegos con la que interactúa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IIHJX1I/?tag=tolees-21)
