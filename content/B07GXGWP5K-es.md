@@ -29,9 +29,9 @@ Tienes [Hauck Minicuna de Colecho Sleep N Care Plus  para Bebes desde el Nacimie
 ℹ️:
 
 - Organizador: puede aprovechar el espacio libre que se encuentra debajo de la colchoneta; la cremallera le dará acceso al espacio de almacenaje para guardar la ropita del bebe, los peluches y accesorios; además dispone de 2 bolsos laterales
-- Accesorios: para mayor comodidad puede combinar la cuna de viaje con los colchones de espuma Hauck SLEEPER asi como la sábana BED ME de la misma marca Hauck
-- Compacto y ligero: nuestra minicuna tiene un plegado fácil y rapido: lleva incluida su propia bolsa de transporte que la protege de suciedad y de roturas
 - Multifunción: minicuna para recien nacidos con una superficie de 80 x 44 cm; apta como cuna colecho ya que dispone de una barandilla lateral que comodamente podrá bajar; no ocupa espacio en su dormitorio, en sus viajes o en sus próximas vacaciones
+- Accesorios: para mayor comodidad puede combinar la cuna de viaje con los colchones de espuma Hauck SLEEPER asi como la sábana BED ME de la misma marca Hauck
 - Moderna y cómoda: adecuada compañera para casa o sus viajes en familia; con ruedas para mayor libertad de desplazamiento de una habitacion a otra
+- Compacto y ligero: nuestra minicuna tiene un plegado fácil y rapido: lleva incluida su propia bolsa de transporte que la protege de suciedad y de roturas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07GXGWP5K/?tag=tolees-21)
