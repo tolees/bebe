@@ -28,10 +28,10 @@ En este momento está [Chicco - Barra de alivio post picaduras mosquito para beb
 
 🔎:
 
-- Fórmula natural con extracto de zanthoxylum y mentol para una sensación de frescor
-- Sin amoniaco
-- No deja manchas ni marcas de grasa
-- Sin alcohol
 - Ideal para aliviar el picor tras picadura de mosquitos
+- No deja manchas ni marcas de grasa
+- Fórmula natural con extracto de zanthoxylum y mentol para una sensación de frescor
+- Sin alcohol
+- Sin amoniaco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BYR8TWH/?tag=tolees-21)
