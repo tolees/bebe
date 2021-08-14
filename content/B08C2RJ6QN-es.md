@@ -28,10 +28,10 @@ Está [HOMCOM Trona para Bebés 3 en 1 para Mayores de 6 Meses Transformable en 
 
 ℹ️:
 
-- RESPALDO AJUSTABLE CON CINTURÓN: perfecto para que tu bebé siempre esté en la postura más cómoda. Podrás reclinar el respaldo en 3 ángulos diferentes.
 - EDAD RECOMENDADA: mayores de 6 meses.
 - BANDEJA EXTRAÍBLE: cuando no la necesites, o para limpiarla fácilmente, la puedes quitar. La bandeja es ideal para apoyar la comida del bebé o para dejarle su juguete favorito.
-- TRONA PARA BEBÉS DISEÑO 3 EN 1: ideal para dar de comer a tu bebé de forma cómoda para los dos. Además, cuando crezca se convierte en una silla y una mesa para que dibuje y juegue. Es un mueble que te servirá mucho tiempo.
 - MEDIDAS: La trona mide 57x59x105 cm (LxANxAL) y soporta un peso máximo de 50 kg. Utilizándola como silla y mesa, por separado, la mesa mide 58x54x57 cm (LxANxAL) y soporta un peso máximo de 25 kg. La silla mide 42x37x72 cm (LxANxAL) y soporta también 25 kg como máximo.
+- RESPALDO AJUSTABLE CON CINTURÓN: perfecto para que tu bebé siempre esté en la postura más cómoda. Podrás reclinar el respaldo en 3 ángulos diferentes.
+- TRONA PARA BEBÉS DISEÑO 3 EN 1: ideal para dar de comer a tu bebé de forma cómoda para los dos. Además, cuando crezca se convierte en una silla y una mesa para que dibuje y juegue. Es un mueble que te servirá mucho tiempo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C2RJ6QN/?tag=tolees-21)
