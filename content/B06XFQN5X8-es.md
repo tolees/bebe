@@ -30,8 +30,8 @@ En este momento está [WELEDA Desodorante Roll-On de Citrus  1x 50 ml ](https://
 
 - Excelente calidad WELEDA: Con Extracto de Raiz de Regaliz y Aceites Esenciales Naturales .
 - Previene los olores corporales desagradables: El desodorante sin sales de aluminio protege sin obstruir los poros, no afectando así a las funciones de regulación natural de la piel.
-- Contenido: 1 x WELEDA Desodorante Roll-on de Citrus
-- 24h de protección: Su fórmula con Aceites Esenciales Naturales tiene propiedades antimicrobianas y neutraliza los malos olores corporales, proporcionando una protección eficaz de hasta 24h.
 - Efecto energizante: Su fragancia cítrica proporciona una sensación energizante y de frescor. El desodorante en formato roll-on es unisex e ideal durante el embarazo, la lactancia y el deporte.
+- 24h de protección: Su fórmula con Aceites Esenciales Naturales tiene propiedades antimicrobianas y neutraliza los malos olores corporales, proporcionando una protección eficaz de hasta 24h.
+- Contenido: 1 x WELEDA Desodorante Roll-on de Citrus
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XFQN5X8/?tag=tolees-21)
