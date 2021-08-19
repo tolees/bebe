@@ -28,9 +28,9 @@ Tienes [Chicco Flashy  Multicolor  Talla Única Musicales   Xilófono para Niño
 
 ℹ️:
 
+- 8 Canciones Tradicionales + 1Bastón Incluído
 - Modo Free Style y Libre
 - 2 Modos De Juego
-- 8 Canciones Tradicionales + 1Bastón Incluído
 - Flashy te enseña notas musicales, la escala musical y la secuencia de sonidos
 - Juguete musical con 3 modos dejuego
 
