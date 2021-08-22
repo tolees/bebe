@@ -31,8 +31,8 @@ Está [Suavinex 306731 Cubo Metalizado de Cosmética Regalo para Recién Nacido 
 - COSMÉTICA con INGREDIENTES DE ORIGEN NATURAL- Línea cosmética pediátrica en envases provenientes de materias primas renovables, formulas más naturales con un 88% - 96% de ingredientes de origen natural
 - APTA PARA PIELES SENSIBLES - Línea cosmética apta para pieles sensibles a utilizar desde el 1er día de vida, con fórmulas Clínicamente testadas: bajo control dermatológico, pediátrico y oftalmológico(3)
 - CAJA METALIZADA REGALO - Tu bebé siempre limpio y fresquito con nuestros productos de cosmética infantil, todo en un cuidado y bonito cubo metálico perfecto para regalar
-- REGALO BABY SHOWER - Canastilla de cosmética regalo para recién nacido con los productos imprescindibles para el cuidado del bebé, canastilla con diseños en tonos mostaza. ¡Un regalo práctico y bonito a la vez
 - COLOR - Rosa
+- REGALO BABY SHOWER - Canastilla de cosmética regalo para recién nacido con los productos imprescindibles para el cuidado del bebé, canastilla con diseños en tonos mostaza. ¡Un regalo práctico y bonito a la vez
 - COMPLETA CANASTILLA DE BEBÉ - Colonia Baby Cologne 100ml baja en alcohol, no mancha la ropa, gel-champú Syndet 500ml con 88% de ingredientes de origen natural, pomada intensiva de pañal 75ml ayuda a calmar las irritaciones, con 89% de ingredientes de origen natural, pack de toallitas 25ud dermohidratantes, 100% biodegradables
 - (3) En el caso de Gel-Champú Syndet y Gel-Champú Espumoso
 
