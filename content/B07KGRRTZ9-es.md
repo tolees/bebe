@@ -28,10 +28,10 @@ Tienes [Safety 1st Calidoo Cuna Colecho e Cuna de viaje 2 en 1  regulable en alt
 
 🔎:
 
+- Fijación segura a la mayoría de camas con 2 correas incluidas y ajustable a la altura de la cama
+- Fácil de transportar y guardar
 - Puede utilizarse como parque y como cuna de viaje
 - Colchón reclinado acolchado para mejorar la digestión del bebé
-- Fijación segura a la mayoría de camas con 2 correas incluidas y ajustable a la altura de la cama
 - 4 ventanas con rejilla para una buena ventilación
-- Fácil de transportar y guardar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KGRRTZ9/?tag=tolees-21)
