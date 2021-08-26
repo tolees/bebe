@@ -28,10 +28,10 @@ Ahora mismo tienes [Philips Avent SCD713/00 - Vigilabebes con privacidad y segur
 
 🔎:
 
-- Vigilabebes con tecnología DECT que garantiza cero interferencias y una privacidad total
+- Modo ecológico inteligente de bajo consumo para minimizar las transmisiones
 - Luz NOCTURNA y nanas relajantes para calmar al pequeño
 - Alcance de hasta 330 m*
+- Vigilabebes con tecnología DECT que garantiza cero interferencias y una privacidad total
 - Controle la temperatura de la habitación del bebé y defina alertas
-- Modo ecológico inteligente de bajo consumo para minimizar las transmisiones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BJTBQM2/?tag=tolees-21)
