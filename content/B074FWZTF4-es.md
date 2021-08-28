@@ -28,8 +28,8 @@ Tienes [Lictin 8 Unisexos Baberos Impermeable EVA para Bebé con Dibujos Animado
 
 🔎:
 
-- 1.Con el Diseño de bolsillo reversible para capturar el alimento
 - 4.Size: 45cm (L) x 29cm (W), adecuado para bebé de 6 meses a 6 años
+- 1.Con el Diseño de bolsillo reversible para capturar el alimento
 - 3.Fácil de limpiar: Ayuda a proteger la ropa de los niños de la pintura al óleo, acuarela puños elásticos, a prueba de agua. Mejor protección para su bebé.
 - 5.El paquete incluye:8 pzas baberos impermeables
 - 2.Material de EVA, impermeable y fácil de limpiar
