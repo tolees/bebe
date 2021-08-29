@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hauck Cuna de Viaje Dream N Play  para B al 20.18 % de rebaja'
-date: 2021-08-05 16:35:16
+date: 2021-08-29 15:04:16
 image: 'https://m.media-amazon.com/images/I/41RwHp4phxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hauck'
 buyurl: 'https://www.amazon.es/dp/B004AHLMEM/?tag=tolees-21'
 descuento: '20.18'
-average: '38.9258064516129'
+average: '38.95625'
 ---
 
 Tienes [Hauck Cuna de Viaje Dream N Play  para Bebes y Niños de Nacimiento hasta 15 kg  120 x 60 cm  Plegable  Compacta  Ligera  Incluido Bolsa de Transporte  Azul](https://www.amazon.es/dp/B004AHLMEM/?tag=tolees-21) con precio final de  39.9 EUR (original: 49.99 EUR) (20.18 %  de rebaja) aqui!
