@@ -29,8 +29,8 @@ Tienes [Munchkin Esterilizador Plus de Biberones y Chupetes con Luz Uv  Portáti
 🔎:
 
 - Elimina las bacterias causantes del mal olor y esteriliza sin emplear agentes químicos nocivos
-- Para recargarla, conecta el cable USB que se incluye a un cargador portátil, el cargador de coche o un ordenador portátil
 - Elimina con total seguridad estafilococos, E. coli, VSR, salmonela, klebsiella, influenza (gripe) y otros gérmenes comunes
 - Funciona con una batería de iones de litio recargable que ofrece más de 100 usos por carga completa
+- Para recargarla, conecta el cable USB que se incluye a un cargador portátil, el cargador de coche o un ordenador portátil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B091DKWR24/?tag=tolees-21)
