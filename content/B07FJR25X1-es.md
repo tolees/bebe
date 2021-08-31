@@ -28,10 +28,10 @@ Está [Hauck Rapid 4X Silla de paseo ligera desde nacimiento hasta 25 kg  Niños
 
 ℹ️:
 
-- Uso duradero: la silla de paseo tiene una vida útil mucho más prolongado que otras sillas similares; es apta de 0 meses y soporta un peso hasta 25 kg (accesorio opcional de capazo blando o grupo 0+ de HAUCK)
-- Seguridad máxima: la silla de paseo esta equipada con el sistema de arnés de 5-puntos cumpliendo así con las normativas de seguridad EN1888
 - A parte de las pruebas exigidas por la normativa en seguridad infantil realiza la casa HAUCK pruebas voluntarias sobre aspectos químicos y técnicos de los materiales utilizados en nuestros productos
+- Uso duradero: la silla de paseo tiene una vida útil mucho más prolongado que otras sillas similares; es apta de 0 meses y soporta un peso hasta 25 kg (accesorio opcional de capazo blando o grupo 0+ de HAUCK)
 - Posiciones: el respaldo y reposapiés se pueden ajustar individualmente para ofrecerle máxima comodidad al niño; capota amplia con protección solar, amortiguación en todas las ruedas, arnés de 5-puntos
+- Seguridad máxima: la silla de paseo esta equipada con el sistema de arnés de 5-puntos cumpliendo así con las normativas de seguridad EN1888
 - Fácil plegado: la silla de paseo tiene un plegado rápido y fácil con solo una mano; reducido en tamaño que ahorra espacio en casa, avión y maletero de coche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FJR25X1/?tag=tolees-21)
