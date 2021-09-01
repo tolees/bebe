@@ -28,9 +28,9 @@ En este momento está [Suavinex - Set Cepillo recién nacido fibras muy suaves +
 
 🔎:
 
-- Decorado con unos graciosos pollitos
 - Set de cepillo y peine ideal para el aseo díario de los más pequeños
-- Fibras muy suaves y cantos redondeados para mayor seguridad
+- Decorado con unos graciosos pollitos
 - modelo: 3162384
+- Fibras muy suaves y cantos redondeados para mayor seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007NZI3MW/?tag=tolees-21)
