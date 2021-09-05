@@ -28,16 +28,16 @@ Está [Chicco London Silla de Paseo Ligera y Plegable desde 0 Meses hasta 15 Kg 
 
 ℹ️:
 
-- CARRO BEBÉ LONDON: London es una silla de paseo para bebés extremadamente versátil que combina comodidad y protección para el niño; La delgada estructura con cuatro ruedas dobles y es estable y moderna
-- Cierre compacto tipo paraguas
 - RESPALDO RECLINABLE: el respaldo se puede reclinar en 4 posiciones con solo una mano; Gracias al reposapiés ajustable, el carrito London es también óptima para los más pequeños
-- SILLA DE PASEO ULTRA-LIGERA: ligera y fácil de manejar, la sillita Chicco London solo pesa 7; 2 kg y es óptima para llevar de viaje o para el día a día en el transporte público o de paseo por el parque
-- DESDE EL NACIMIENTO HASTA LOS 3 AÑOS: el cochecito London de Chicco está aprobado para niños, desde recién nacidos hasta los 15 Kg (unos 3 años aprox; )
-- Respaldo reclinable en 4 posiciones
-- COMODIDAD Y SEGURIDAD: el robusto respaldo, el asiento ancho y cómodo, el cinturón de cinco puntos y la barra de seguridad acolchada, garantizan que tu hijo goce de comodidad y seguridad en cada paseo
+- Cierre compacto tipo paraguas
 - Compacta y manejable
 - Reposapiés regulable
-- Práctica y fácil de usar
 - FÁCIL DE CERRAR: el cochecito se cierra fácilmente y queda compacto gracias al práctico cierre tipo paraguas; la bara de seguridads se pliega y el sistema de autobloqueo evita que el carro se abra accidentalmente
+- Práctica y fácil de usar
+- CARRO BEBÉ LONDON: London es una silla de paseo para bebés extremadamente versátil que combina comodidad y protección para el niño; La delgada estructura con cuatro ruedas dobles y es estable y moderna
+- COMODIDAD Y SEGURIDAD: el robusto respaldo, el asiento ancho y cómodo, el cinturón de cinco puntos y la barra de seguridad acolchada, garantizan que tu hijo goce de comodidad y seguridad en cada paseo
+- DESDE EL NACIMIENTO HASTA LOS 3 AÑOS: el cochecito London de Chicco está aprobado para niños, desde recién nacidos hasta los 15 Kg (unos 3 años aprox; )
+- SILLA DE PASEO ULTRA-LIGERA: ligera y fácil de manejar, la sillita Chicco London solo pesa 7; 2 kg y es óptima para llevar de viaje o para el día a día en el transporte público o de paseo por el parque
+- Respaldo reclinable en 4 posiciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LYTFESY/?tag=tolees-21)

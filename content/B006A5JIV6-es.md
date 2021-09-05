@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Denenes jabon muy suave  600 ml al 26.87 % de descuento'
-date: 2021-09-03 08:40:33
+date: 2021-09-05 07:37:07
 image: 'https://m.media-amazon.com/images/I/319iEQ8Mt+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Denenes jabon muy suave  600 ml](https://www.amazon.es/dp/B006A5JIV6/?tag
 
 ℹ️:
 
-- Tipo de producto: jabon
 - Marca - Denenes
+- Tipo de producto: jabon
 - Género - Unisex
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006A5JIV6/?tag=tolees-21)
