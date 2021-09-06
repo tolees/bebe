@@ -28,11 +28,11 @@ Está [BÉABA Tarros de Conservación para Bebé  Tupper en Cristal  Resistente 
 
 ℹ️:
 
-- RESISTANTE: Resistente al calor y a los cambios de temperatura, calentamiento, congelación, esterilización
-- ALTA CALIDAD: Tarros de conservación hechos en vidrio extrarresistente. No se deteriora con el tiempo, sin coloración, sin deformación
 - PRÁCTICO: Incluye un indicador de dosificación y es fácilmente lavable en un lavavajillas
-- FÁCIL: Tapa flexible y fácil de cerrar, hermético para preservar los sabores y aromas
-- INCLUYE: 1 tarro de 150ml más de 1 tarro de 250ml más de 1 tarro de 400 m
 - FABRICACION EN EUROPA : fabricado en Francia
+- RESISTANTE: Resistente al calor y a los cambios de temperatura, calentamiento, congelación, esterilización
+- INCLUYE: 1 tarro de 150ml más de 1 tarro de 250ml más de 1 tarro de 400 m
+- FÁCIL: Tapa flexible y fácil de cerrar, hermético para preservar los sabores y aromas
+- ALTA CALIDAD: Tarros de conservación hechos en vidrio extrarresistente. No se deteriora con el tiempo, sin coloración, sin deformación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BG31ZLL/?tag=tolees-21)
