@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Beurer FT 13 Termómetro Digital Flexible al 23.70 % de descuento'
+date: 2021-09-08 10:45:09
+image: 'https://m.media-amazon.com/images/I/31SZ+v+yU0L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01L7PPFAQ-es Beurer FT 13 Termómetro Digital Flexible a Prueba de Agua...'
+sku: 'B01L7PPFAQ-es'
+tags: [ 'Monitores de diagnóstico y salud','Salud y cuidado personal','Suministros y equipamiento médico','Termómetros médicos','Termómetros orales','Termómetros y accesorios','bebés','beurer', ]
+actualPrice: 4.54 EUR
+currency: EUR
+price: 4.54
+comparePrice: 5.95 EUR
+prodname: 'Beurer FT 13 Termómetro Digital Flexible a Prueba de Agua con Alerta de Fiebre Óptica y Sonora  Medición de Fiebre Cómoda para Bebés  Niños y Adultos'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Beurer'
+buyurl: 'https://www.amazon.es/dp/B01L7PPFAQ/?tag=tolees-21'
+descuento: '23.70'
+average: '5.245'
+---
+
+Ahora mismo tienes [Beurer FT 13 Termómetro Digital Flexible a Prueba de Agua con Alerta de Fiebre Óptica y Sonora  Medición de Fiebre Cómoda para Bebés  Niños y Adultos](https://www.amazon.es/dp/B01L7PPFAQ/?tag=tolees-21) a 4.54 EUR (original: 5.95 EUR) (23.70 %  de descuento) en el siguiente enlace!
+
+[![Beurer FT 13 Termómetro Digital Flexible](https://m.media-amazon.com/images/I/31SZ+v+yU0L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01L7PPFAQ/?tag=tolees-21)
+
+🔎:
+
+- Alarma de fiebre: indicación de temperaturas normales y altas gracias a los indicadores LED: verde = todo está bien, rojo = alarma de fiebre. El termómetro también tiene una alarma sonora de 37.8 ° C
+- Práctico: equipado con una parada automática y con la visualización de la temperatura en la pantalla en ° C y ° F. El termómetro se puede limpiar fácilmente en agua o en una solución desinfectante
+- Flexible e impermeable: el dispositivo es impermeable y extraflexible, perfecto para la medición rectal, oral o axilar de su bebé o niño
+- Seguro: para la paz y seguridad de su familia en casa, el termómetro Beurer FT 13 no contiene mercurio ni vidrio
+- Función de memoria: visualización del último valor medido para seguir la evolución de la temperatura de su cuerpo con facilidad
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B01L7PPFAQ/?tag=tolees-21)
