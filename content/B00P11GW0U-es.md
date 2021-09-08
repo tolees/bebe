@@ -28,9 +28,9 @@ Tienes [Johnson s Baby Bastoncillos para Bebé con extremos de algodón 100% pur
 
 ℹ️:
 
-- Cuando se trata de tu bebé, no debe quedar ningún rincón sin limpiar, por lo que nuestros bastoncillos de algodón tienen una forma ideal
-- Cuando se trata de tu bebé, no debe quedar ningún rincón sin limpiar, por lo que nuestros bastoncillos de algodón tienen una forma ideal
 - 100% puro algodón
 - Suaves y delicados
+- Cuando se trata de tu bebé, no debe quedar ningún rincón sin limpiar, por lo que nuestros bastoncillos de algodón tienen una forma ideal
+- Cuando se trata de tu bebé, no debe quedar ningún rincón sin limpiar, por lo que nuestros bastoncillos de algodón tienen una forma ideal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00P11GW0U/?tag=tolees-21)
