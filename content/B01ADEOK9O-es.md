@@ -28,12 +28,12 @@ Tienes [Suavinex – Loción Hidratante Corporal para Bebés. Apta para Pieles S
 
 🔎:
 
-- Apta para pieles sensibles
 - Loción hidratante con textura ligera y de fácil absorción
 - Clínicamente testada bajo control dermatológico, oftalmológico y pediátrico
+- 90% de ingredientes de origen natural
 - Hidrata en profundidad la piel del cuerpo del bebé
 - Loción hidratante con textura ligera y de fácil absorción
 - Loción hidratante corporal Suavinex para bebés, 750ml
-- 90% de ingredientes de origen natural
+- Apta para pieles sensibles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01ADEOK9O/?tag=tolees-21)
