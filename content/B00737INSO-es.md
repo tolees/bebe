@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weleda - 8520 - Jabón Caléndula Pastilla al 23.52 % de descuento'
-date: 2021-08-30 15:28:27
+date: 2021-09-11 12:24:58
 image: 'https://m.media-amazon.com/images/I/31O64fgl4mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WELEDA'
 buyurl: 'https://www.amazon.es/dp/B00737INSO/?tag=tolees-21'
 descuento: '23.52'
-average: '6.115'
+average: '5.84333333333333'
 ---
 
 Ahora mismo tienes [Weleda - 8520 - Jabón Caléndula Pastilla Weleda 100 g](https://www.amazon.es/dp/B00737INSO/?tag=tolees-21) a 5.3 EUR (original: 6.93 EUR) (23.52 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Weleda - 8520 - Jabón Caléndula Pastilla Weleda 100 g](htt
 
 🔎:
 
-- Jabón vegetal de caléndula para pieles delicadas y sensibles
-- Contiene extractos de caléndula y manzanilla biológicas
 - Recomendado para niños
 - Testado dermatológicamente
+- Jabón vegetal de caléndula para pieles delicadas y sensibles
+- Contiene extractos de caléndula y manzanilla biológicas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00737INSO/?tag=tolees-21)
