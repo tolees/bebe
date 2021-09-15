@@ -28,14 +28,14 @@ En este momento está [SUAVINEX Neceser Tela de Viaje para Bebés con Baby Colog
 
 🔎:
 
-- Neceser de tela ideal para llevar de viaje.
-- Crema Pañal 75ml - Protege de posibles irritaciones provocadas por el uso del pañal.
-- Precioso neceser de tela formato viaje con todos los productos básicos para el cuidado de tu bebé: Gel-Champú Espumoso 100ml + Crema Pañal 75ml + Nueva Baby Cologne 500ml + Loción Hidratante 100ml.
-- Nuestros envases de cosmética (tubos y botellas) están fabricados con material biobasado que proviene de materias primas renovables: caña de azúcar de origen sostenible.
-- Loción Hidratante 100ml - Nutre en profundidad la piel del cuerpo del bebé.
-- Tu bebé siempre limpio y fresquito con nuestros productos de cosmética infantil.
-- Gel-Champú Espumoso 100ml - Limpia con delicadeza la piel y el cabello del bebé. No pica en los ojos. con aroma a la fragancia Suavinex Baby Cologne.
 - Neceser de cosmética de bebé apto para pieles sensibles. Para bebés +0 meses.
+- Precioso neceser de tela formato viaje con todos los productos básicos para el cuidado de tu bebé: Gel-Champú Espumoso 100ml + Crema Pañal 75ml + Nueva Baby Cologne 500ml + Loción Hidratante 100ml.
+- Loción Hidratante 100ml - Nutre en profundidad la piel del cuerpo del bebé.
 - Nueva Baby Cologne 50ml: con su fórmula baja en alcohol, es un aroma fresco y delicado, con unos toques de notas cítricas y esencias de flores blancas y almizcles.
+- Tu bebé siempre limpio y fresquito con nuestros productos de cosmética infantil.
+- Neceser de tela ideal para llevar de viaje.
+- Nuestros envases de cosmética (tubos y botellas) están fabricados con material biobasado que proviene de materias primas renovables: caña de azúcar de origen sostenible.
+- Gel-Champú Espumoso 100ml - Limpia con delicadeza la piel y el cabello del bebé. No pica en los ojos. con aroma a la fragancia Suavinex Baby Cologne.
+- Crema Pañal 75ml - Protege de posibles irritaciones provocadas por el uso del pañal.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WRB1GL8/?tag=tolees-21)
