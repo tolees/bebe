@@ -28,10 +28,10 @@ Ahora mismo tienes [Béaba  Recipiente Babycook Original y Original Plus  para C
 
 🔎:
 
+- Capacidad de 300 gr
+- Cocine al vapor arroz, pasta o granos en su Babycook Original u Original Plus
+- No se puede usar con Babycook (Solo) o Babyook Plus (Duo)
 - Colocar dentro de la jarra bbk original
 - Lavado a mano o lavavajillas
-- Cocine al vapor arroz, pasta o granos en su Babycook Original u Original Plus
-- Capacidad de 300 gr
-- No se puede usar con Babycook (Solo) o Babyook Plus (Duo)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B019W2FRCM/?tag=tolees-21)
