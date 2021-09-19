@@ -29,9 +29,9 @@ Ahora mismo tienes [Sinhaklóho Libro/ Diario/ Agenda del Embarazo Semana a Sema
 🔎:
 
 - ⌛〖Semana a Semana〗: Desde los primeros síntomas hasta la semana 40. Cada semana la embarazada podrá sentarse a pensar y escribir sus emociones, pensamientos, su estado de ánimo… logrando así dejar para el futuro un testimonio único de su embarazo. Cada una de las secciones trimestrales tiene una página introductoria en la que contamos lo más relevante de ese trimestre.
-- 🎈〖Originalidad y Diversión〗: 8 hojas con pegatinas para decorar el álbum aún más bonito: 2 de estas hojas son pegatinas de frutas y verduras correspondientes al tamaño del feto en cada semana de embarazo, y una es alimentos prohibidos durante el embarazo.
 - ️🔎〖La precisión del contenido〗: Todos los textos y datos médicos han sido supervisados por profesionales de la Salud para garantizar su actualidad y veracidad.
 - 📝〖El Diario de embarazo más completo y personal〗: Vas a encontrar tanto información útil de cada una de las etapas, como espacios para inmortalizar tus sensaciones, emociones, cambios, expectativas, inquietudes… y huecos en los que pegar fotografías de la evolución de tu embarazo a través de este viaje.
 - 📔〖Diseñado por Sinhaklóho en formato grande y tapa dura〗: Con unas medidas de 20×30 cm, 52 páginas, encuadernación con wire-o e impresión a todo color, su formato es ideal para poder escribir y pegar fotografías y ecografías en él con total comodidad.Ideal como regalo para embarazada o para ti, si estás en la dulce espera.
+- 🎈〖Originalidad y Diversión〗: 8 hojas con pegatinas para decorar el álbum aún más bonito: 2 de estas hojas son pegatinas de frutas y verduras correspondientes al tamaño del feto en cada semana de embarazo, y una es alimentos prohibidos durante el embarazo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08V9C2T2H/?tag=tolees-21)
