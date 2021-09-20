@@ -28,8 +28,8 @@ Tienes [Sparco GR Silla de Coche Giratorio SK600I  Isofix  Negro/Gris 0 hasta 36
 
 🔎:
 
-- Sistema de fijación Isofix
 - Aprobado según el Reglamento núm. 44, 04
 - Grupos 0 + 1 + 2 + 3 (0-36kg)
+- Sistema de fijación Isofix
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KGS9V4T/?tag=tolees-21)
