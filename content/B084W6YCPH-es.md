@@ -28,15 +28,15 @@ Está [Nutribén Ecopotitos Menú completo con Ingredientes ecológicos- Desde l
 
 ℹ️:
 
-- Nutribén crece contigo por eso ha creado un nuevo formato para los ecopotitos con la boca más ancha para facilitar la introducción de la cuchara
 - Elaborado con ingredientes ecológicos
-- Contienen azúcares naturalmente presentes
-- Los ecopotitos ofrecen una alimentación completa y equilibrada, ofreciendo la máxima calidad y seguridad
-- No contienen sal, ni azúcares añadidos.
+- Nutribén crece contigo por eso ha creado un nuevo formato para los ecopotitos con la boca más ancha para facilitar la introducción de la cuchara
 - Nuevo envase de etiqueta transparente
-- No contienen aditivos, colorantes, ni conservantes
-- Sin aceite de palma
+- Los ecopotitos ofrecen una alimentación completa y equilibrada, ofreciendo la máxima calidad y seguridad
+- Contienen azúcares naturalmente presentes
+- No contienen sal, ni azúcares añadidos.
 - Con aceite de oliva virgen extra de origen ecológico
+- No contienen aditivos, colorantes, ni conservantes
 - Los ecopotitos están certificados con los sellos de la agricultura ecológica, de la unión europea y de la comunidad de madrid
+- Sin aceite de palma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084W6YCPH/?tag=tolees-21)
