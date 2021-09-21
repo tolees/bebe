@@ -28,11 +28,11 @@ En este momento está [Maxi-Cosi Kore Silla de Coche Grupo 2/3 ISOFIX i-Size  15
 
 🔎:
 
-- Seguridad: instalación ISOFIX y protecciones laterales SPS Plus con amortiguadores de fibra de vidrio y material absorbente de impactos
-- Funda lavable a máquina (30º) y funda de verano en algodón transpirable disponible vendo por separado
-- Crece con el niño: se ajusta tanto a la altura como al ancho para adaptarse a su crecimiento
-- Gracias al diseño abierto de la Kore i-Size, su pequeño puede coger y abrocharse el cinturón de seguridad en solo unos segundos
-- Confort: asiento cómodo con acolchado extra para la comodidad del niño
 - Silla de coche Grupo 2/3 ISOFIX para niños desde 3.5 hasta 12 años (15 - 36 kg; 100 - 150 cm) homologada bajo normativa ECE R129 i-Size
+- Funda lavable a máquina (30º) y funda de verano en algodón transpirable disponible vendo por separado
+- Gracias al diseño abierto de la Kore i-Size, su pequeño puede coger y abrocharse el cinturón de seguridad en solo unos segundos
+- Crece con el niño: se ajusta tanto a la altura como al ancho para adaptarse a su crecimiento
+- Confort: asiento cómodo con acolchado extra para la comodidad del niño
+- Seguridad: instalación ISOFIX y protecciones laterales SPS Plus con amortiguadores de fibra de vidrio y material absorbente de impactos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RS6KP8C/?tag=tolees-21)
