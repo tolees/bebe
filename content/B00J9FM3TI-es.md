@@ -28,10 +28,10 @@ En este momento está [Dodot Toallitas para Bebé Sensitive - Paquete de 4 x 54 
 
 🔎:
 
-- El amor es una cuestión de piel
 - Ayuda a recuperar el pH natural de la piel de tu bebé, evitando irritaciones
-- Tejido extra grueso y con grabados para una limpieza más suave
 - Especial para piel sensible
 - Suave y resistente
+- Tejido extra grueso y con grabados para una limpieza más suave
+- El amor es una cuestión de piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J9FM3TI/?tag=tolees-21)
