@@ -28,10 +28,10 @@ Ahora mismo tienes [Chicco Ballenita Nada y Salpica - Juguete de Baño para el A
 
 🔎:
 
-- Divertido juguete para la bañera
-- Con efecto Fuente
 - Diversión en la hora del baño
 - Botón on/off
 - Nada y salpican en el agua
+- Divertido juguete para la bañera
+- Con efecto Fuente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N4LXV7L/?tag=tolees-21)
