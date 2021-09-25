@@ -28,8 +28,8 @@ Está [Chicco Bicicleta Ferrari  Bebés Unisex  Multicolor  M](https://www.amazo
 
 ℹ️:
 
-- Manillar y asiento ajustables, asiento suave.
 - Logos y colores oficiales de Ferrari.
+- Manillar y asiento ajustables, asiento suave.
 - El niño disfrutará del primer viaje con toda la pasión y la velocidad de Ferrari.
 - Marco de metal y tamaño, marco de metal ultraligero, ruedas de protección contra pinchazos.
 - Esta bicicleta ayuda a desarrollar el equilibrio necesario en dos ruedas para poder conducir más tarde una auténtica bicicleta con pedales.
