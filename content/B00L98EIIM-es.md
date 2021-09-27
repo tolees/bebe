@@ -28,10 +28,10 @@ En este momento está [Blevit Plus Duplo 8 Cereales y Galletas María - Papilla 
 
 🔎:
 
-- ¿QUÉ CONTIENE ESTE PAQUETE? La caja de Blevit Plus Duplo 8 Cereales y Galletas María contiene 600 gramos de papilla para bebé.
-- ¿CÓMO DISOLVER? Biberones: Añade 1 ó 2 cucharadas soperas rasas de producto a una o varias de las tomas diarias. Papillas: Pon en un plato 200 ml de leche caliente para lactantes o de continuación (por ej. Blemil) y añade 8 cucharadas soperas rasas.
-- CONTIENE GLUTEN, CONTIENE LECHE: Alto contenido en calcio y hierro y fuente de 13 vitaminas, para ayudar a cubrir las necesidades del bebé de estos micronutrientes esenciales.
-- DOBLE NUTRICIÓN Y EXTRA DE ENERGÍA: Su alto contenido de cereales (Cebada, Centeno, Arroz, Maíz, Mijo, Avena y Sorgo) combinado con los FOS y las vitaminas, favorece la digestión al tiempo que llena de energía a tu bebé.
 - TODA LA FIBRA DE LOS CEREALES Y EL SABOR DE LAS GALLETAS MARÍA: Las galletas maría dan a la papilla un elevado valor nutricional y, combinadas con los cereales, la convierten en una excelente fuente de energía con un delicioso sabor y textura.
+- CONTIENE GLUTEN, CONTIENE LECHE: Alto contenido en calcio y hierro y fuente de 13 vitaminas, para ayudar a cubrir las necesidades del bebé de estos micronutrientes esenciales.
+- ¿CÓMO DISOLVER? Biberones: Añade 1 ó 2 cucharadas soperas rasas de producto a una o varias de las tomas diarias. Papillas: Pon en un plato 200 ml de leche caliente para lactantes o de continuación (por ej. Blemil) y añade 8 cucharadas soperas rasas.
+- DOBLE NUTRICIÓN Y EXTRA DE ENERGÍA: Su alto contenido de cereales (Cebada, Centeno, Arroz, Maíz, Mijo, Avena y Sorgo) combinado con los FOS y las vitaminas, favorece la digestión al tiempo que llena de energía a tu bebé.
+- ¿QUÉ CONTIENE ESTE PAQUETE? La caja de Blevit Plus Duplo 8 Cereales y Galletas María contiene 600 gramos de papilla para bebé.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00L98EIIM/?tag=tolees-21)
