@@ -28,10 +28,10 @@ Tienes [BIBS Lote de 2 chupetes de color sin BPA  con forma de cerezo  caucho na
 
 🔎:
 
-- Tenemos más de 40 años de historia con productos fabricados en Dinamarca. Nos centramos en productos de alta calidad, con diseño estético y nos centramos en ofrecer un comienzo colorido
-- Bibs Colour es el chupete original con visera redonda y pezones redondos. El pezón redondo y el escudo mate ligero están diseñados para imitar la forma del pecho materno.
 - 100% libre de BPA, PVC y ftalatos. Certificado EN1400 + A2.
-- Diseñado y fabricado en Dinamarca/UE.
 - Recomendado por matronas para ayudar a la lactancia natural.
+- Bibs Colour es el chupete original con visera redonda y pezones redondos. El pezón redondo y el escudo mate ligero están diseñados para imitar la forma del pecho materno.
+- Tenemos más de 40 años de historia con productos fabricados en Dinamarca. Nos centramos en productos de alta calidad, con diseño estético y nos centramos en ofrecer un comienzo colorido
+- Diseñado y fabricado en Dinamarca/UE.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08YJ84RWK/?tag=tolees-21)
