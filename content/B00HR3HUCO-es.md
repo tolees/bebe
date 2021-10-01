@@ -28,11 +28,11 @@ En este momento está [Almirón Galletas sin Gluten para Disolver en el Biberón
 
 🔎:
 
-- Contienen Calcio, necesario para el crecimiento y desarrollo normal de los huesos
-- Almirón Galletitas Sin Gluten son un complemento nutritivo ideal en el inicio de la alimentación complementaria
-- Textura especialmente pensada para disolver las galletas en el biberón
-- Elaboradas con maíz, cereal muy nutritivo que por su naturaleza no contiene gluten
-- Con Hierro que contribuye al desarrollo cognitivo normal de los niños
 - Indicadas a partir de los 4 meses
+- Almirón Galletitas Sin Gluten son un complemento nutritivo ideal en el inicio de la alimentación complementaria
+- Contienen Calcio, necesario para el crecimiento y desarrollo normal de los huesos
+- Con Hierro que contribuye al desarrollo cognitivo normal de los niños
+- Elaboradas con maíz, cereal muy nutritivo que por su naturaleza no contiene gluten
+- Textura especialmente pensada para disolver las galletas en el biberón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HR3HUCO/?tag=tolees-21)
