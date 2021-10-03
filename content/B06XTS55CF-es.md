@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.31 % en Chicco- Food Truck Bilingüe  00007416000'
-date: 2021-09-12 09:15:03
+date: 2021-10-03 18:46:53
 image: 'https://m.media-amazon.com/images/I/41BBlElf7+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
