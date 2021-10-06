@@ -29,13 +29,13 @@ Tienes [Suavinex – Pomada Intensiva de pañal para bebés  Cuidado Intenso par
 🔎:
 
 - 94% de los padres afirma que ayuda a prevenir la irritación En la zona del pañal y 95% de los padres afirma que aísla la piel del culito de la humedad***.
-- Cuidado intenso para pieles muy sensibles y con alta tendencia a la irritación.
-- 89% ingredientes de origen natural.
 - Ingredientes: óxido de zinc, dióxido de titanio, manteca de karité, aceite de ricino, cera carnauba, tocoferol y cera de abeja.
+- 89% ingredientes de origen natural.
+- Cuidado intenso para pieles muy sensibles y con alta tendencia a la irritación.
 - Textura de pomada untosa.
-- Ayuda a calmar las irritaciones y a restaurar la barrera cutánea.
 - Pomada intensiva del pañal para bebés suavinex, 75ml.
 - Eficacia testada clínicamente*. más preventiva y calmante que la crema del pañal líder en España y que la crema del pañal líder en Italia*.
+- Ayuda a calmar las irritaciones y a restaurar la barrera cutánea.
 - Supera en eficacia a marcas líderes europeas**.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H98NP4F/?tag=tolees-21)
