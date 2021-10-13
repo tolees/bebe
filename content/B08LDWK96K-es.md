@@ -28,10 +28,10 @@ Está [Fisher-Price Perezoso Cojín con música y vibraciones relajantes para be
 
 ℹ️:
 
-- Carita de perezoso grande que hace ruiditos con "pelo" suave para que el bebé la explore
+- Lavable a máquina sin la unidad electrónica. Para bebés a partir del nacimiento
 - Incluye 2 juguetes que pueden colocarse en diferentes lugares: un mordedor de hoja sin BPA y unas cuentas de colores
 - Cojín para jugar bocabajo de temática de animales con música y vibraciones relajantes
 - Reproduce hasta 10 minutos de música y vibraciones para relajar y reconfortar al bebé
-- Lavable a máquina sin la unidad electrónica. Para bebés a partir del nacimiento
+- Carita de perezoso grande que hace ruiditos con "pelo" suave para que el bebé la explore
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LDWK96K/?tag=tolees-21)
