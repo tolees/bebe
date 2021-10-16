@@ -28,10 +28,10 @@ Está [Enfamil Complete 2 - Fórmula leche infantil de continuación para lactan
 
 ℹ️:
 
-- CON ZINC, CALCIO Y VITAMINA: contiene Calcio y vitamina D, para el desarrollo de los huesos, así como Zinc que es esencial para el crecimiento
 - LÍDER EN INNOVACIÓN CIENTÍFICA: Enfamil es experto en evidencia científica, así lo demuestran los resultados de 14 publicaciones que apoyan que el DHA presente en Enfamil 1 y 2; líder en innovación científica en DHA y desarrollo visual
-- CON HIERRO Y ALA PARA EL DESARROLLO COGNITIVO: contiene Hierro y Ala, un ácido graso esencial que contribuye al desarrollo cognitivo normal
-- CON VITAMINAS A, C Y D PARA EL SISTEMA INMUNITARIO: contiene vitamina A, C y D para favorecer el normal funcionamiento del sistema inmunitario
 - CON DHA QUE CONTRIBUYE AL DESARROLLO VISUAL: Enfamil Complete 2 ha sido la primera leche de continuación en aportar un nivel del 0.3 % de DHA (Omega 3), que contribuye al desarrollo visual normal de tu bebé hasta los 12 meses de edad
+- CON VITAMINAS A, C Y D PARA EL SISTEMA INMUNITARIO: contiene vitamina A, C y D para favorecer el normal funcionamiento del sistema inmunitario
+- CON ZINC, CALCIO Y VITAMINA: contiene Calcio y vitamina D, para el desarrollo de los huesos, así como Zinc que es esencial para el crecimiento
+- CON HIERRO Y ALA PARA EL DESARROLLO COGNITIVO: contiene Hierro y Ala, un ácido graso esencial que contribuye al desarrollo cognitivo normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0846K6JBC/?tag=tolees-21)
