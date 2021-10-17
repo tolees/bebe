@@ -28,8 +28,8 @@ En este momento está [adidas Tensaur  Road Running Shoe Unisex bebé  Cloud Whi
 
 🔎:
 
+- Ajuste normal
 - Extra duradero
 - Parte superior textil
-- Ajuste normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVTVQRN/?tag=tolees-21)
