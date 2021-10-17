@@ -28,10 +28,10 @@ Ahora mismo tienes [Nenuco de Famosa- Ay qué pipí  Muñeco bebé  para niños 
 
 🔎:
 
-- Tendrán que recostar a nenuco en su cambiador y ponerle su pañal; si le dan de beber nenuco aguanta el pipí pero si le tumban y aprietan sus piernecitas, hace pipí con un chorrito
-- Nenuco es un muñeco niño de cuerpo duro y mide 35 cm; viste con un body azul que se cierra fácilmente; se puede vestir y desvestir
 - Nenuco ay qué pipí. Es un chico y hace pipí como los bebés de verdad
+- Nenuco es un muñeco niño de cuerpo duro y mide 35 cm; viste con un body azul que se cierra fácilmente; se puede vestir y desvestir
 - Incluye 6 accesorios: un biberón, un divertido cambiador con instrucciones, botecito con crema, polvos de talco, toallitas y un pañal de tela reutilizable
 - Recomendado para mayores de 3 años; nno tiene pilas ni batería y se puede usar en la bañera
+- Tendrán que recostar a nenuco en su cambiador y ponerle su pañal; si le dan de beber nenuco aguanta el pipí pero si le tumban y aprietan sus piernecitas, hace pipí con un chorrito
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0837G2YLB/?tag=tolees-21)
