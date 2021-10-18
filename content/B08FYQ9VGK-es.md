@@ -28,9 +28,9 @@ Tienes [Havaianas Brasil Logo II  Chanclas Unisex bebé  Pink Flux  23/24](https
 
 🔎:
 
-- Encaja bien
 - Impermeable
-- Cómodo y duradero
+- Encaja bien
 - Ligero
+- Cómodo y duradero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FYQ9VGK/?tag=tolees-21)
