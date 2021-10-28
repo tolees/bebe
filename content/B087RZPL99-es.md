@@ -28,10 +28,10 @@ Tienes [Chicco- Funky El Piano De La Orquesta Musicales  Multicolor  Mediano  00
 
 🔎:
 
-- 20 Canciones Y 5 Géneros Musicales
+- Juguete musical con 3 modos dejuego
 - 9 Canciones .2 Bastones Incluidos
 - Los niños pueden descubrir las notas musicales, reconocer los sonidos típicos de cada instrumento musical dentro de la orquesta y aprender el sentido del ritmo
 - 2 Tambores Con Luces + Un Platillo. 30 Sonidos Diferentes
-- Juguete musical con 3 modos dejuego
+- 20 Canciones Y 5 Géneros Musicales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087RZPL99/?tag=tolees-21)
