@@ -28,10 +28,10 @@ En este momento está [Interbaby 00916-02 - Manta Espiral para Bebés en Color R
 
 🔎:
 
-- Medidas: 80x110 cm
-- Viene dentro de una cajita perfecta para regalar.
-- Fabricada en coralina.
 - Manta para bebés en color rosa con tacto aterciopelado y relieve con forma de estrellas.
 - Es una mantita extrasuave muy agradable y confortable, con el reverso acabado en espiral, perfecta para abrigar a los bebés.
+- Fabricada en coralina.
+- Viene dentro de una cajita perfecta para regalar.
+- Medidas: 80x110 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XX6G38P/?tag=tolees-21)
