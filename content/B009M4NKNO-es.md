@@ -28,9 +28,9 @@ Tienes [Suavinex - Perfume Niña La Petite Chic Vaporizador. Perfume Infantil Pa
 
 🔎:
 
-- Con la Petite chic, para niña, descubrirás una esencia floral y afrutada, con el azahar como protagonista
-- Su delicada fragancia baja en alcohol, es ideal para perfumarle antes de salir de paseo
 - Baja en alcohol; no mancha la ropa; ideal para bebés y la pueden usar las mamás
+- Su delicada fragancia baja en alcohol, es ideal para perfumarle antes de salir de paseo
+- Con la Petite chic, para niña, descubrirás una esencia floral y afrutada, con el azahar como protagonista
 - Se presenta en un práctico frasco vaporizador para una dosificación más cómoda y segura que no mancha, por lo que puede ser aplicada también sobre la ropa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009M4NKNO/?tag=tolees-21)
