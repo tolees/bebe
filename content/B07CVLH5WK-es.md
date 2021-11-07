@@ -28,10 +28,10 @@ Tienes [Motorola Baby MBP482 - Vigilabebés vídeo con pantalla LCD a color de 2
 
 ℹ️:
 
-- Pantalla a color de 2.4" con zoom remoto y encriptación de datos segura
-- Toda obstrucción existente entre las unidades reducirá el alcance de forma significativa
 - Visión nocturna por infrarrojos y micrófono de alta sensibilidad
-- Tecnología inalámbrica 2.4GHz FHSS con alcance de hasta 300m
 - Modo eco y control de volumen con indicador visual de nivel acústico
+- Toda obstrucción existente entre las unidades reducirá el alcance de forma significativa
+- Tecnología inalámbrica 2.4GHz FHSS con alcance de hasta 300m
+- Pantalla a color de 2.4" con zoom remoto y encriptación de datos segura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CVLH5WK/?tag=tolees-21)
