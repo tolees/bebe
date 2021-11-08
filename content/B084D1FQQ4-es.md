@@ -28,10 +28,10 @@ Tienes [Foppapedretti - Iturn duoFix Silla de coche giratoria 360° grupo 0+/1/2
 
 🔎:
 
+- Asiento de automóvil aprobado para niños desde el nacimiento hasta los 12 años aproximadamente; grupo 0 + / 1/2/3
 - Grupo 0+ (0-13 kg): asiento orientado en sentido contrario al de marcha, reclinable horizontalmente; para bebés desde el nacimiento hasta los 9 meses es necesario utilizar el reductor suministrado
+- Sistema de acoplamiento Duofix, permite la instalación del asiento tanto a través del sistema isofix como del cinturón de 3 puntos suministrado con el vehículo
 - Grupo 1/2/3 posicionado en el sentido de la marcha; cumple con la normativa europea ece r44 / ​​04
 - Asiento giratorio 360 °, facilita la adaptación del niño por parte de los padres gracias al asiento que gira hacia la puerta del coche
-- Sistema de acoplamiento Duofix, permite la instalación del asiento tanto a través del sistema isofix como del cinturón de 3 puntos suministrado con el vehículo
-- Asiento de automóvil aprobado para niños desde el nacimiento hasta los 12 años aproximadamente; grupo 0 + / 1/2/3
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084D1FQQ4/?tag=tolees-21)
