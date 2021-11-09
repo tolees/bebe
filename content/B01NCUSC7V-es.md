@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price Baby s First Blocks al 45.57 % de descuento'
-date: 2021-11-07 23:44:06
+date: 2021-11-09 05:51:52
 image: 'https://m.media-amazon.com/images/I/41sGIW4NLNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B01NCUSC7V/?tag=tolees-21'
 descuento: '45.57'
-average: '10.4859289617493'
+average: '10.4766212534067'
 ---
 
 Ahora mismo tienes [Fisher-Price Baby s First Blocks](https://www.amazon.es/dp/B01NCUSC7V/?tag=tolees-21) a 7.07 EUR (original: 12.99 EUR) (45.57 %  de descuento) en el siguiente enlace!
