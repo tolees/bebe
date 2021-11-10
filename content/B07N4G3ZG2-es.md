@@ -29,9 +29,9 @@ Ahora mismo tienes [Educa - Baby Juego con Formas Geométricas para Bebés  Mult
 🔎:
 
 - La colección Baby Educativos estimula la fijación de la atención, desarrolla la psicomotricidad, curiosidad e imaginación
-- Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
 - Baby Form, diferencia e identifica las figuras geométricas básicas
-- Contenido: 4 bandejas y 12 piezas integradas
+- Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
 - Recomendado a partir de 24 meses
+- Contenido: 4 bandejas y 12 piezas integradas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N4G3ZG2/?tag=tolees-21)
