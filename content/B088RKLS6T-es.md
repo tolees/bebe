@@ -30,8 +30,8 @@ Está [Puma Future Z 4.1 FG/AG Jr  Zapatillas de Fútbol Unisex bebé  Black/Asp
 
 - Las Zapatillas de fútbol de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de la lado el estilo
 - Calzado deportivo de la marca Puma
-- Practica tu deporte favorito gracias a las Zapatillas de fútbol de Puma. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
-- Zapatillas de fútbol ideales para Fútbol de Unisex Infantil
 - Zapatillas de fútbol FUTURE Z 2.1 FG/AG J (106394-02)
+- Zapatillas de fútbol ideales para Fútbol de Unisex Infantil
+- Practica tu deporte favorito gracias a las Zapatillas de fútbol de Puma. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088RKLS6T/?tag=tolees-21)
