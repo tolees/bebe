@@ -28,8 +28,8 @@ Está [PUMA Smash V2 L V Inf  Zapatillas Unisex bebé  Blanco  22 EU](https://ww
 
 ℹ️:
 
-- Plantilla extraíble para niños
 - Kinder-Fit: plantilla extraíble de Puma para estilos de niños (tallas 10-2.5)
+- Plantilla extraíble para niños
 - Banda de Puma clásica en el lateral
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MQZ6SQY/?tag=tolees-21)
