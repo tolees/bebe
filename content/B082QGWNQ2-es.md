@@ -28,10 +28,10 @@ Ahora mismo tienes [Tommee Tippee Grofriend Recargable USB  con Sensor de Llanto
 
 🔎:
 
-- Los bebés duermen mejor con el duermebebés, con luz y sonido Tommee Tippee
-- Luz nocturna regulable: puedes configurar la luz con forma de corazón situada en la barriga de los duermebebés
-- Tecnología inteligente Cry sensor: si el bebé llora, el duermebebés con luz y sonido e producirá 20 minutos de sonidos relajantes o nanas para que el bebé se vuelva a dormir
-- Recargable mediante USB: el duermebebés con luz y sonido se puede cargar con un cable USB, de manera al no tener que cambiar las pilas de manera periódica
 - 6 sonidos relajantes naturales: puedes configurar al duermebebé para que reproduzca cualquiera de los 6 sonidos relajantes naturales disponibles
+- Luz nocturna regulable: puedes configurar la luz con forma de corazón situada en la barriga de los duermebebés
+- Los bebés duermen mejor con el duermebebés, con luz y sonido Tommee Tippee
+- Recargable mediante USB: el duermebebés con luz y sonido se puede cargar con un cable USB, de manera al no tener que cambiar las pilas de manera periódica
+- Tecnología inteligente Cry sensor: si el bebé llora, el duermebebés con luz y sonido e producirá 20 minutos de sonidos relajantes o nanas para que el bebé se vuelva a dormir
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082QGWNQ2/?tag=tolees-21)
