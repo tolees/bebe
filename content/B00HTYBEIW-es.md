@@ -28,10 +28,10 @@ Tienes [HAMAX Portabebe Caress Portaequipajes Gris/Bl/Ne](https://www.amazon.es/
 
 ℹ️:
 
-- Suspensión integrada para la máxima comodidad de su hijo
-- Diámetro del tubo 10 - 20 mm
-- Aprobado por la norma DIN EN14344
 - Adecuado para las bicicletas eléctricas
+- Diámetro del tubo 10 - 20 mm
+- Suspensión integrada para la máxima comodidad de su hijo
+- Aprobado por la norma DIN EN14344
 - Permite la instalación del asiento sobre portaequipajes existente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HTYBEIW/?tag=tolees-21)
