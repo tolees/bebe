@@ -28,10 +28,10 @@ En este momento está [Phiraggit Splash Mat  51"Splat Mat debajo de la trona  an
 
 🔎:
 
-- 【Antideslizante e Impermeable】 - Su tejido trasero tiene un material antideslizante para mantener la trona en su lugar y evitar que se deslice. La función antideslizante asegura que la alfombra no se amontone debajo de la silla alta o en su piso.
-- 【GARANTÍA DE DEVOLUCIÓN DE DINERO DEL 100%】: Si no está 100% satisfecho con nuestro producto, ofrecemos una garantía de devolución de dinero de 30 días y un reemplazo de por vida para los artículos defectuosos.
 - 【Tapete multiusos: el tapete para niños Phiraggit de 51 x 51 pulgadas es una excelente adición a la lista de artículos esenciales para bebés y niños pequeños de todos los padres. Funciona como tapete de juego, tapete para trona para niños y tapete para picnic al aire libre. Es liviano y ocupa menos espacio en la bolsa, por lo que puede llevarlo a cualquier parte.
+- 【GARANTÍA DE DEVOLUCIÓN DE DINERO DEL 100%】: Si no está 100% satisfecho con nuestro producto, ofrecemos una garantía de devolución de dinero de 30 días y un reemplazo de por vida para los artículos defectuosos.
 - 【Seguro para niños】: nuestro tapete resistente al agua para bebés está hecho de poliéster, sin plomo, sin PVC, sin BPA, sin olor, no tóxico y es lo suficientemente suave para los niños.
 - 【Fácil de limpiar】: el tapete de la silla alta es impermeable y resistente a las manchas, por lo que no tiene que preocuparse por una limpieza profunda. Simplemente puede sacudir o limpiar la alfombra con un paño húmedo para facilitar la limpieza. También se puede lavar a máquina y es resistente, por lo que puede soportar una gran cantidad de desgaste.
+- 【Antideslizante e Impermeable】 - Su tejido trasero tiene un material antideslizante para mantener la trona en su lugar y evitar que se deslice. La función antideslizante asegura que la alfombra no se amontone debajo de la silla alta o en su piso.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HYNDBYN/?tag=tolees-21)
