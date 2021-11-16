@@ -28,10 +28,10 @@ Tienes [Safety 1st Timba Trona de madera con bandeja  Trona evolutiva para niño
 
 ℹ️:
 
-- El asiento de la trona de madera es totalmente ajustable y tiene un reposapiés
+- Silla comedor con elevador y arnés desmontable para niños mayores (3-10 años)
 - Trona para bebés con arnés de seguridad de 3 puntos para una óptima seguridad
 - Trona de madera infantil y evolutiva que crece con el niño desde los 6 meses hasta los 10 años
-- Silla comedor con elevador y arnés desmontable para niños mayores (3-10 años)
+- El asiento de la trona de madera es totalmente ajustable y tiene un reposapiés
 - Trona con bandeja desmontable, óptima para que el niño se siente a la mesa con el resto de la familia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NRSTEZO/?tag=tolees-21)
