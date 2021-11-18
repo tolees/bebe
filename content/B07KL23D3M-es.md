@@ -30,7 +30,7 @@ En este momento está [Safety 1st Keeny Trona evolutiva  Trona bebé compacta  p
 
 - Fácil de limpiar (el asiento se limpia con una esponja)
 - Ideal para espacios pequeños
-- Fácil de transportar y guardar (ultra compacta con 63x62x23 cm) y de plegado compacto
 - Crece con el niño (bandeja regulable en 4 posiciones de profundidad)
+- Fácil de transportar y guardar (ultra compacta con 63x62x23 cm) y de plegado compacto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KL23D3M/?tag=tolees-21)

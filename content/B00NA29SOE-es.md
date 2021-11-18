@@ -30,7 +30,7 @@ Tienes [Bébé Confort MiloFix - Funda de verano  color gris](https://www.amazon
 
 - Fácilmente montable en la silla de auto; funda lavable
 - Funda de rizo 100% algodón
-- Preparada para evacuar la humedad de la transpiración
 - Lavable a máquina
+- Preparada para evacuar la humedad de la transpiración
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00NA29SOE/?tag=tolees-21)

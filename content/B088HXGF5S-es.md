@@ -28,10 +28,10 @@ Tienes [Hero Solo Tarritos Ecológicos de Pera y Plátano - Para Bebés a Partir
 
 ℹ️:
 
-- Descubre la amplia gama de Hero Solo: ingredientes ECO y nada más
-- No incluye aceite de palma, almidón, ni azúcar añadido. Tampoco conservantes ni colorantes
 - Conservación y esterilización natural al baño María
-- Alimento a base de puré de frutas para bebés a partir de 4 meses
+- Descubre la amplia gama de Hero Solo: ingredientes ECO y nada más
 - Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
+- No incluye aceite de palma, almidón, ni azúcar añadido. Tampoco conservantes ni colorantes
+- Alimento a base de puré de frutas para bebés a partir de 4 meses
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088HXGF5S/?tag=tolees-21)

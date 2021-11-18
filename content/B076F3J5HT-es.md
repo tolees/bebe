@@ -28,9 +28,9 @@ Tienes [Hero Solo Bolsitas Ecológicas de Plátano  Pera y Naranja - Para Bebés
 
 ℹ️:
 
-- Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
-- Alimento a base de puré de frutas para bebés a partir de los 4 meses
 - Descubre la amplia gama de Hero Solo: ingredientes ECO y nada más
+- Alimento a base de puré de frutas para bebés a partir de los 4 meses
+- Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
 - No incluye gluten, ni aceite de palma ni azúcares añadidos. Tampoco conservantes ni colorantes
 - Conservación y esterilización natural al baño María
 
