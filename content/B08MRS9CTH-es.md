@@ -28,10 +28,10 @@ Tienes [Nenuco Canastilla Regalo Bebé Recién Nacido Set Higiene Con Colonia  J
 
 🔎:
 
+- KIT HIGIENE BEBÉ COMPLETO: El Pack Regalo Baby Shower de Nenuco está formado por un conjunto de productos para cuidar de tu bebé
 - COLONIA DE NENUCO: Elaborado con una selección de ingredientes que hacen de ella una fragancia muy especial, con el OLOR de Nenuco y en diferentes formatos para casa o para llevar (Formatos de 600 ml, 200 ml cristal y 240 ml Spray)
+- DISFRUTA DE UNA RUTINA DE BAÑO COMPLETA: Con el jabón de baño con leche de almendras y champú suave de NENUCO es óptimo para el baño de vuestro bebé en formatos de 750 ml y 500 ml respectivamente. Termina la rutina con la leche hidratante con olor a Nenuco de 400 ml
 - CON UNA CESTITA DE CARACOL: Te ayudará a tener a mano todos los productos para cuidar de tu bebé y será un regalo óptimo de baby shower, útil para que cualquier papá y mamá tengan a mano todo lo necesario
 - CON LUTSINE ERYPLAST PASTA AL AGUA 75 gramos: Calma, cuida y ayuda a proteger el culito de tu bebé frente las causas de la dermatitis del pañal
-- DISFRUTA DE UNA RUTINA DE BAÑO COMPLETA: Con el jabón de baño con leche de almendras y champú suave de NENUCO es óptimo para el baño de vuestro bebé en formatos de 750 ml y 500 ml respectivamente. Termina la rutina con la leche hidratante con olor a Nenuco de 400 ml
-- KIT HIGIENE BEBÉ COMPLETO: El Pack Regalo Baby Shower de Nenuco está formado por un conjunto de productos para cuidar de tu bebé
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MRS9CTH/?tag=tolees-21)
