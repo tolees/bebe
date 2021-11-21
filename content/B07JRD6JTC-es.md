@@ -28,11 +28,11 @@ Está [Jané Rider  Silla de Paseo  de 6 meses a 15 kg  con Bolso  Muselina y Pl
 
 ℹ️:
 
-- Hamaca reversible
-- Suspensión trasera con amortiguador regulable según el peso del niño
-- Chasis ligero en aluminio
-- Anclaje Pro-fix compatible con capazos y portabebés Jané
 - Composición del material: Algodón y Poliéster
+- Chasis ligero en aluminio
+- Hamaca reversible
 - Manillar de PU leather regulable en 7 posiciones
+- Suspensión trasera con amortiguador regulable según el peso del niño
+- Anclaje Pro-fix compatible con capazos y portabebés Jané
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JRD6JTC/?tag=tolees-21)
