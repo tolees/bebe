@@ -28,9 +28,9 @@ Tienes [Asalvo Dinamic - Silla de paseo  color rojo](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Reposapiés ajustable
-- Peso máximo 15 kg
-- Respaldo de 5 posiciones
 - Marco de acero
+- Reposapiés ajustable
+- Respaldo de 5 posiciones
+- Peso máximo 15 kg
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N49CEC9/?tag=tolees-21)
