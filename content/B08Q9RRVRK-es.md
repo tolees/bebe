@@ -28,10 +28,10 @@ Tienes [Munchkin Hamaca Bebé Ligera con Bluetooth  Balanceo Natural en Cinco Ve
 
 🔎:
 
-- Ligera y portátil, se monta y desmonta en segundos para guardarla o transportarla.
-- Para bebés de entre 2,2 y 9 kg (5-20 lb) que no puedan levantarse de la hamaca sin ayuda.
 - El panel táctil es inteligente, intuitivo y fácil de usar.
 - Gracias a la función de bluetooth, puedes reproducir la música favorita de tu hijo desde el teléfono.
 - Simula el balanceo lateral natural de los padres en cinco velocidades distintas.
+- Para bebés de entre 2,2 y 9 kg (5-20 lb) que no puedan levantarse de la hamaca sin ayuda.
+- Ligera y portátil, se monta y desmonta en segundos para guardarla o transportarla.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08Q9RRVRK/?tag=tolees-21)
