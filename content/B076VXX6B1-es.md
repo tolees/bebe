@@ -28,10 +28,10 @@ Está [Maxi-Cosi Adorra Carrito bebé recién nacido hasta 3.5 años  cochecito 
 
 ℹ️:
 
-- Cochecito Ligero de maniobrar y transportar (pesa menos de 12 kg) y además es reversible: cambia el sentido de la hamaca en tan solo 2 clics
-- Cochecito reclinable en posición acostada, cómodo y envolvente con una gran hamaca generosamente acolchada y gran capota extensible
 - Cochecito compacto: se pliega sin agacharste y se mantiene de pie une vez plegado
-- Apoyabrazos extraíble, burbuja de lluvia y gran cestilla de compras incluida
 - Carrito de bebé desde el nacimiento hasta los 3.5 años; puedes encajar un capazo o un portabebés de Maxi Cosi en 2 clicks
+- Cochecito Ligero de maniobrar y transportar (pesa menos de 12 kg) y además es reversible: cambia el sentido de la hamaca en tan solo 2 clics
+- Apoyabrazos extraíble, burbuja de lluvia y gran cestilla de compras incluida
+- Cochecito reclinable en posición acostada, cómodo y envolvente con una gran hamaca generosamente acolchada y gran capota extensible
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076VXX6B1/?tag=tolees-21)
