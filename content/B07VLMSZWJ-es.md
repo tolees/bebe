@@ -29,9 +29,9 @@ Ahora mismo tienes [Carioca Set Baby 1+ | Set Colores con Rotuladores Super Lava
 🔎:
 
 - Set BABY TEDDY CRAYONS: Caja con 6 ceras de colores con forma de osito. Colores vivos y brillantes. Super divertidos para estimular la creatividad de los bebés ya que cada color identifica una emoción diferente. Entrenan el agarre digital de los pequeños
-- Contenido Kit: 6 rotuladores Baby Teddy Markers, 10 Baby Maxi Lápices 3in1 y 6 ceras Baby con forma de osito
 - Consejos: Aptos para niños a partir de 1 año. No son tóxicos. Máxima eguridad para la mayor diversión
-- Set BABY TEDDY MARKERS: 6 Rotuladores con punta redondeada y bloqueada para la máxima seguridad de los niños y niñas. Tinta con formula super lavable. Punta maxi para colorear grandes superficies sin esfuerzo. Tinta no toxica a base de agua y sin gluten
+- Contenido Kit: 6 rotuladores Baby Teddy Markers, 10 Baby Maxi Lápices 3in1 y 6 ceras Baby con forma de osito
 - Set BABY 3IN1: Kit de 10 maxi lápices con cuerpo grande y mina gruesa de Ø10mm, fáciles de agarrar y de utilizar por niños y niñas pequeños a partir de 12 meses. Los lápices son 3 en 1: láìz, cera y acuarela si los mezclas con agua y un pincel. Incluye un sacapuntas maxi en la caja
+- Set BABY TEDDY MARKERS: 6 Rotuladores con punta redondeada y bloqueada para la máxima seguridad de los niños y niñas. Tinta con formula super lavable. Punta maxi para colorear grandes superficies sin esfuerzo. Tinta no toxica a base de agua y sin gluten
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VLMSZWJ/?tag=tolees-21)
