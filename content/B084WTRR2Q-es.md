@@ -29,10 +29,10 @@ Ahora mismo tienes [Maxi-Cosi Mica Silla De Coche Giratoria 360° Isofix  Silla 
 🔎:
 
 - Seguridad: silla de coche Isofix con indicadores sonoros y visuales de correcta instalación y tecnología C-CELL para proteger contra impactos laterales
-- Silla de coche giratoria 360° isofix para bebés desde nacimiento hasta 4 años (61 - 105 cm), homologada bajo la normativa i-Size (R129)
-- Seguridad i-Size:Silla de coche contramarcha desde el nacimiento hasta los 4 años para una protección adicional para la cabeza y el cuello
 - Funda lavable a máquina (30º) y extraíble sin necesidad de desmontaje del arnés
+- Silla de coche giratoria 360° isofix para bebés desde nacimiento hasta 4 años (61 - 105 cm), homologada bajo la normativa i-Size (R129)
 - Silla de auto reclinable de 5 posiciones (también gira en una posición reclinada) con cuerpo ventilado para garantizar la temperatura corporal correcta del niño
+- Seguridad i-Size:Silla de coche contramarcha desde el nacimiento hasta los 4 años para una protección adicional para la cabeza y el cuello
 - Comodidad 0- 4 años gracias al reductor de bebé incluido y al reposacabezas Memory Foam. Los cinturones y el reposacabezas se ajustan en altura para adaptarse al crecimiento del niño.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084WTRR2Q/?tag=tolees-21)
