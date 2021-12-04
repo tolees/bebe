@@ -28,9 +28,9 @@ Ahora mismo tienes [Chicco Next2moon - Proyector de cuna con luces y sonidos  m�
 
 🔎:
 
+- 3 ciclos de tiempo diferentes
+- Con luces y melodías: clásica o naturaleza
 - Proyecta historias en color
 - Proyector para cuna o mesita de noche
-- Con luces y melodías: clásica o naturaleza
-- 3 ciclos de tiempo diferentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SL5QG2J/?tag=tolees-21)
