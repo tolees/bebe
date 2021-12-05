@@ -28,10 +28,10 @@ Tienes [Dodot Toallitas Cuidado Total Aqua para Bebé  99% Agua  100% Fibras de 
 
 🔎:
 
-- Toallitas para bebé con 100% fibras de origen vegetal y 0% plástico
-- Testadas dermatológicamente y aprobadas por Dermatólogos del Skin Health Alliance
-- Fórmula única con algodón premium. Suave como una pluma en la delicada piel del bebé
 - Elaboradas con 99% de agua y 0% plástico para una limpieza delicada
+- Testadas dermatológicamente y aprobadas por Dermatólogos del Skin Health Alliance
+- Toallitas para bebé con 100% fibras de origen vegetal y 0% plástico
+- Fórmula única con algodón premium. Suave como una pluma en la delicada piel del bebé
 - 0% perfume y alcohol
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B09GPJHCQL/?tag=tolees-21)
