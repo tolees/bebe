@@ -29,10 +29,10 @@ En este momento está [Nenuco - Nadador  este divertido juguete nada como un beb
 🔎:
 
 - Funciona con tres pilas AAA no incluidas
-- Nenuco de 35 cm, cuerpo duro especial sumergible y piernas articuladas
 - Nenuco es juego con un alto valor pedagógico
 - Recomendado para niños a partir de 3 años
 - Incluye varios accesorios: gafas, gorro, bañador y churrito ajustable - flotador
+- Nenuco de 35 cm, cuerpo duro especial sumergible y piernas articuladas
 - Se puede usar en la piscina o en la bañera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079SG3PF8/?tag=tolees-21)
