@@ -29,8 +29,8 @@ Ahora mismo tienes [Clementoni-55164 - Mi Primera Moto - juguete bebé con sonid
 🔎:
 
 - Desarrolla la imaginación y creatividad
-- ¡En castellano e inglés!
 - Colorida moto con centro de actividades que guiará al niño mientras aprende las primeras letras y los números
 - Número de jugadores: 1 o más
+- ¡En castellano e inglés!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XCQH52Y/?tag=tolees-21)
