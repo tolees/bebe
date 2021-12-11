@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Britax Römer Kidfix  Silla de coche grup con un 19.98 % de descuento'
+title: 'Britax Römer Kidfix  Silla de coche grupo 2/3 Isofix  negro  Cosmos Black '
 date: 2020-01-03 16:21:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31wnBgWrmrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.98'
 average: '119.95'
 ---
 
-En este momento está [Britax Römer Kidfix  Silla de coche grupo 2/3 Isofix  negro  Cosmos Black ](https://www.amazon.es/dp/B079ZGR43J/?tag=tolees-21) a 119.95 EUR (original: 149.9 EUR) (19.98 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) a {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de descuento) en el siguiente enlace!
 
-[![Britax Römer Kidfix  Silla de coche grup](https://images-eu.ssl-images-amazon.com/images/I/31wnBgWrmrL._SL400_.jpg)](https://www.amazon.es/dp/B079ZGR43J/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B079ZGR43J/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})
