@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - tren musical fácil de construir para aprender el abecedario
-- conjunto de juego de 50 piezas que incluye tres bases con ruedas, bloques de construcción y formas especiales de tren
-- bloques de construcción para bebés y niños hasta 5 años
 - aprieta la chimenea para activar sonidos y música
 - regalo óptimo de mega bloks para aprender mientras construyes
+- bloques de construcción para bebés y niños hasta 5 años
+- conjunto de juego de 50 piezas que incluye tres bases con ruedas, bloques de construcción y formas especiales de tren
 
 [🛒 Comprar!!!]({{< param buyurl >}})
