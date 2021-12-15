@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Mando con forma de rueda y 4 botones de dirección
+- Se adapta a todo tipo de superficies
 - Vehículo Radio Control
 - El mando se encaja en el coche
 - Salta obstáculos en cualquier superficies
-- Se adapta a todo tipo de superficies
-- Mando con forma de rueda y 4 botones de dirección
 
 [🛒 Visítala!!!]({{< param buyurl >}})
