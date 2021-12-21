@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Efecto libro y etiquetas para jugar
-- Fácil de agarrar
-- Muy llamativo
-- Se puede lavar a máquina
 - Diferentes texturas
+- Muy llamativo
+- Fácil de agarrar
+- Efecto libro y etiquetas para jugar
+- Se puede lavar a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
