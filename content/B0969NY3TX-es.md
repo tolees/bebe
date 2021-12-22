@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado en Francia
-- Adecuado a partir de 3 años
-- Asiento bebé confort rosa para muñecos de hasta 42 cm
-- Medidas: 32x25x35cm
 - para muñecos hasta 42cm
+- Asiento bebé confort rosa para muñecos de hasta 42 cm
+- Fabricado en Francia
+- Medidas: 32x25x35cm
+- Adecuado a partir de 3 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
