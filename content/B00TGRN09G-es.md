@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con sonido de motor y frenos
-- Recorre hasta 10 metros
-- Cuanto más presiones, más distancia recorren
-- Efecto de carga turbo touch rácil y rápido
 - Vehículo bajo licencia Fiat 500
+- Con sonido de motor y frenos
+- Efecto de carga turbo touch rácil y rápido
+- Cuanto más presiones, más distancia recorren
+- Recorre hasta 10 metros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
