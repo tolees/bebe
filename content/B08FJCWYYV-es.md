@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Certificaciones: OEKO-TEK y CertiPUR
-- Tejido Strech blanco Aloe Vera de 200 gramos por ambas caras.
 - Núcleo con 9 cm de espumación de densidad suave de 23 kg/m3.
-- Platabanda color gris en tejido 3D acolchado con fibra de 150 gramos.
 - Acolchado en contínuo con fibra de 150 gramos y 0.5cm de espuma supersuave.
+- Tejido Strech blanco Aloe Vera de 200 gramos por ambas caras.
+- Certificaciones: OEKO-TEK y CertiPUR
+- Platabanda color gris en tejido 3D acolchado con fibra de 150 gramos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
