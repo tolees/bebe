@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye un biberón con asas (se puede llenar de agua), un chupete, accesorios para peinar su cabello con mechas y un conjunto de ropa reversible compuesto por antifaz, capa y babero, patucos, braguita y faldita con brilli brilli
-- La muñeca es articulada en cabeza y extremidades, emite luz y sonido a través del medallón de su pecho, funciona con 2xAAA (no incluidas), + 3 años
-- Las Super Cute Little Babies son adorables muñecas bebés que se transforman en poderosas Superheroínas para proteger el planeta, ¡colecciónalas!
 - Muñeca Superheroína Gabi: alegre y llena de luz, colecciona gafas de sol y protección solar. Domina el Poder del Sol, ¡dale de comer para activar su medallón!
+- La muñeca es articulada en cabeza y extremidades, emite luz y sonido a través del medallón de su pecho, funciona con 2xAAA (no incluidas), + 3 años
 - Cada muñeca Super Cute Little Babies domina un poder relacionado con los elementos: Poder del Agua, Poder de la Flora, Poder del Sol, Poder del Viento y Poder del Hielo
+- Las Super Cute Little Babies son adorables muñecas bebés que se transforman en poderosas Superheroínas para proteger el planeta, ¡colecciónalas!
+- Incluye un biberón con asas (se puede llenar de agua), un chupete, accesorios para peinar su cabello con mechas y un conjunto de ropa reversible compuesto por antifaz, capa y babero, patucos, braguita y faldita con brilli brilli
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
