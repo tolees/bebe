@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El aspirador nasal aspira suavemente para una limpieza completa, previniendo la acumulación de moco y sus posibles complicaciones
-- Spray nasal de agua de mar 100% natural, aspirador nasal y recambios indicados para la limpieza nasal diaria del bebé, que alivia la congestión nasal y aporta hidratación
-- El pack incluye un spray nasal para bebés desde el primer día, un aspirador nasal para la mucosidad y 20 recambios
 - El spray nasal limpia las fosas nasales del bebé facilitando la eliminación del moco y protegiendo su sistema respiratorio
+- El aspirador nasal aspira suavemente para una limpieza completa, previniendo la acumulación de moco y sus posibles complicaciones
+- El pack incluye un spray nasal para bebés desde el primer día, un aspirador nasal para la mucosidad y 20 recambios
+- Spray nasal de agua de mar 100% natural, aspirador nasal y recambios indicados para la limpieza nasal diaria del bebé, que alivia la congestión nasal y aporta hidratación
 - Contiene recambios con filtros absorbentes para el aspirador nasal de Rhinomer Baby
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
