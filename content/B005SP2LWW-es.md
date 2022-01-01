@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 👶 ADAPTABILIDAD: se ajusta perfectamente al cuerpo del bebé y respeta su posición natural. Es fácil y práctico de utilizar, ya que una vez anudado el fular, podemos poner y sacar al bebé sin necesidad de desanudarlo.
-- 👶 LAVABLE: lavar a máquina en agua fría. No secar en secadora; no se recomienda el uso de suavizante.
-- 👶 SEGURO: el ajuste del fular es completamente seguro y la posición que permite es la adecuada para el desarrollo del bebé. Se puede realizar variedad de anudados en posición delante, a la cadera y a la espalda.
 - 👶 INTUITIVO: el Boba Wrap resulta muy fácil de utilizar por todo tipo de papás y mamás pues se puede realizar un sencillo nudo de base (preanudado) y colocar luego al bebé en varias posiciones sin necesidad de quitarse el fular.
+- 👶 ADAPTABILIDAD: se ajusta perfectamente al cuerpo del bebé y respeta su posición natural. Es fácil y práctico de utilizar, ya que una vez anudado el fular, podemos poner y sacar al bebé sin necesidad de desanudarlo.
+- 👶 SEGURO: el ajuste del fular es completamente seguro y la posición que permite es la adecuada para el desarrollo del bebé. Se puede realizar variedad de anudados en posición delante, a la cadera y a la espalda.
 - 👶 IDEAL PARA RECIÉN NACIDOS: el Boba Wrap es el portabebé ideal para el porteo de recién nacidos pues permite su uso con bebés o niños hasta el año. Con el suave tejido de Boba Wrap nunca hay puntos de presión en el bebé y por ello es utilizado para método canguro en hospitales.
+- 👶 LAVABLE: lavar a máquina en agua fría. No secar en secadora; no se recomienda el uso de suavizante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
