@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 180 ml y 240 ml
-- 20 recipientes
-- 20 tapas
 - 1 cuchara
+- 180 ml y 240 ml
 - Incluye un libro de recetas
+- 20 tapas
+- 20 recipientes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

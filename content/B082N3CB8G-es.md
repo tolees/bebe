@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Su loción libre de alcohol ayuda a prevenir la irritación de la piel
+- Testadas dermatológicamente, sin perfume y 0% de fenoxietanol, parabenos y alcohol
+- Ayudan instantáneamente a recuperar el pH natural en pieles delicadas
 - Apropiadas desde el primer día porque están especialmente diseñadas para la piel del recién nacido
 - Limpia de manera eficaz la piel gracias a su textura extra gruesa y suave
-- Ayudan instantáneamente a recuperar el pH natural en pieles delicadas
-- Testadas dermatológicamente, sin perfume y 0% de fenoxietanol, parabenos y alcohol
 
 [🛒 Aquí!!!]({{< param buyurl >}})
