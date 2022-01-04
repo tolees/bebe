@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: 1 vigilabebés DECT Philips Avent y un cargador miniUSB
-- NOTA: No dañe el enchufe para recargar el producto
 - Sonido y vídeo nítidos: oirás si el bebé se ríe, balbucea o tiene hipo con total claridad.
-- Pantalla a color de 3,5" con zoom: verás a tu bebé por la noche con la visión nocturna automática.
-- Privacidad, seguridad y adaptación con A-FHSS: conexión privada y segura con tu bebé.
+- NOTA: No dañe el enchufe para recargar el producto
 - Tiempo de funcionamiento de la unidad de padres: superior, hasta 10 hours
+- Pantalla a color de 3,5" con zoom: verás a tu bebé por la noche con la visión nocturna automática.
+- Incluye: 1 vigilabebés DECT Philips Avent y un cargador miniUSB
+- Privacidad, seguridad y adaptación con A-FHSS: conexión privada y segura con tu bebé.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
