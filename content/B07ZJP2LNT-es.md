@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicco- Juguete bebé  00010001000000 '
-date: 2022-01-01 10:43:57
+date: 2022-01-06 11:22:22
 image: 'https://m.media-amazon.com/images/I/41ecNhb0ZtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Chicco'
 buyurl: 'https://www.amazon.es/dp/B07ZJP2LNT/?tag=tolees-21'
 descuento: '15.91'
-average: '14.03'
+average: '14.3388888888889'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
