@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo libre: pensado para los conductores expertos (+18 meses), en el modo de Conducción Libre puedes quitar los ruedines para que los niños se muevan con libertad y comiencen la aventura
 - Crece con el niño: esta moto para niñas y niños de Chicco está diseñada para crecer con tu hijo gracias a los cómodos ruedines que permiten usar la moto como correpasillos para bebé y que podrás quitar cuando el niño sepa mantener el equilibrio
-- Vespa Primavera: la moto infantil de Chicco con el singular diseño de la Vespa Primavera permitirá que los niños vivan aventuras y momentos de diversión con libertad
-- Panel electrónico: con detalles y sonidos para ofrecer una experiencia completa; gira la llave para oír rugir el motor o comprueba el depósito de gasolina y juega con los botones de sonidos y las luces de colores que posee el manillar
+- Modo libre: pensado para los conductores expertos (+18 meses), en el modo de Conducción Libre puedes quitar los ruedines para que los niños se muevan con libertad y comiencen la aventura
 - Modo óptimo: diseñado para los pequeños (+12 meses), el modo Conducción Fácil te permite colocar los ruedines para tener seguridad y estabilidad de los niños cuando se suban a la moto
+- Panel electrónico: con detalles y sonidos para ofrecer una experiencia completa; gira la llave para oír rugir el motor o comprueba el depósito de gasolina y juega con los botones de sonidos y las luces de colores que posee el manillar
+- Vespa Primavera: la moto infantil de Chicco con el singular diseño de la Vespa Primavera permitirá que los niños vivan aventuras y momentos de diversión con libertad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
