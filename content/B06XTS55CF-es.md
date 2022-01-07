@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enseña el alfabeto, números, colores y diferentes comidas
-- 18 actividades electrónicas y manuales
-- 5 accesorios: hamburguesa apilable, sartén, espátula y cubiertos
-- Vehículo de grandes dimensiones
 - Centro de actividades bilingüe
+- Enseña el alfabeto, números, colores y diferentes comidas
+- Vehículo de grandes dimensiones
+- 5 accesorios: hamburguesa apilable, sartén, espátula y cubiertos
+- 18 actividades electrónicas y manuales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
