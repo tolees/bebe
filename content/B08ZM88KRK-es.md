@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- FRASES Y SONIDOS: Dulces frases, sonidos y movimientos. Al presionar o deslizar la tortuga, oirá tiernas respuestas mientras la cabeza de la tortuga se balancea y las alas de la mariposa aletean
 - VERSIÓN ESPAÑOLA
 - ASA EXTRAÍBLE: Fácil de encajar y desencajar para cambiar el modo de juego (Jugar sentado o Jugar andando)
-- TORTUGA ANDARINA: Tortuga con asa para empujar con voces canciones y melodías
-- CANCIONES Y MELODÍAS: Más de 45 canciones, melodías, frases y sonidos
-- VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
-- FRASES Y SONIDOS: Dulces frases, sonidos y movimientos. Al presionar o deslizar la tortuga, oirá tiernas respuestas mientras la cabeza de la tortuga se balancea y las alas de la mariposa aletean
 - BOTONES LUMINOSOS: Botones luminosos para aprender números y palabras nuevas
+- TORTUGA ANDARINA: Tortuga con asa para empujar con voces canciones y melodías
+- VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
+- CANCIONES Y MELODÍAS: Más de 45 canciones, melodías, frases y sonidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
