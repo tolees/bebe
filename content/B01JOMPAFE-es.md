@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommee Tippee Kit de Biberones para Recién Nacidos Closer to Nature  Biberón Anti-Cólicos  Transparente'
-date: 2022-01-15 19:18:19
+date: 2022-01-20 17:18:25
 image: 'https://m.media-amazon.com/images/I/51D+QYmcxKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommee Tippee'
 buyurl: 'https://www.amazon.es/dp/B01JOMPAFE/?tag=tolees-21'
 descuento: '45.96'
-average: '19.2513333333334'
+average: '19.2975000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
