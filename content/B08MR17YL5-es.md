@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de gamuza
 - Suela de goma que no deja marcas
 - Kinder-Fit: Plantilla extraíble de Puma para niños (tallas 10-2.5)
-- Parte superior de gamuza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
