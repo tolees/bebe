@@ -31,7 +31,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Contenido: 1 silla de coche solution m-fix con sistema isofix connect (anclaje isofix) e instrucciones de montaje, material funda: 100% poliéster, dimensiones (lxpxa): 40,5 x 54 x 62,5 cm, peso: 6,2 kg, color: gray rabbit
 - Máxima seguridad - Protección integrada contra impactos laterales (sistema l.s.p.), reposacabezas reclinable en 3 posiciones, estructura con alta absorción de impactos
 - Reposacabezas ajustable en altura con 12 posiciones, respaldo reclinable, asiento extra amplio y profundo
-- Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema isofix (opcional) para una mayor estabilidad, funda lavable a máquina (30°c), accesorios disponibles no incluidos: funda de verano, portavasos
 - Silla de coche estable y duradera de alta calidad, Para niños desde los 3 hasta los 12 años aprox. (15-36 kg), Apta para coches sin y con ISOFIX, RACE, Mayo 2015, Bueno, 1,8
+- Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema isofix (opcional) para una mayor estabilidad, funda lavable a máquina (30°c), accesorios disponibles no incluidos: funda de verano, portavasos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
