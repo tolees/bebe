@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se activa girando el osito
 - Lámpara de noche con luces y melodías
 - Funciona a pilas para llevárselo a cualquier parte
-- 10 minutos de música clasica o new age
 - Ideal para mesita de noche
-- Se activa girando el osito
+- 10 minutos de música clasica o new age
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
