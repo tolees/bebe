@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
 - Alimento a base de vegetales y carne de ternera para bebés a partir de 6 meses
+- Conservación y esterilización natural al baño María
 - Descubre la amplia gama de Hero Solo: ingredientes eco y nada más
 - No incluye aceite de palma, almidón, ni sal añadida; tampoco conservantes ni colorantes
-- Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
-- Conservación y esterilización natural al baño María
 
 [🛒 Visítala!!!]({{< param buyurl >}})
