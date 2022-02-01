@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wansview Cámara IP WiFi  1080P Cámara Vigilancia WiFi con Visión Noturna Detección de Movimiento  Audio Bidireccional  Compatible con Alexa  Cámara de Seguridad Bebé Mascotas  Q6  NO Tiene autonomía '
-date: 2022-01-31 01:20:18
+date: 2022-02-01 01:29:58
 image: 'https://m.media-amazon.com/images/I/415YdeJB7qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'wansview'
 buyurl: 'https://www.amazon.es/dp/B082G7KWR3/?tag=tolees-21'
 descuento: '15.01'
-average: '28.7340000000001'
+average: '28.7092366412215'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
