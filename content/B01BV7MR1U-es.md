@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 4 botones de dirección
+- Vehículo transformable en robot
+- Se puede manejar en las dos posiciones desde el mando
 - Se transforma en 3 pasos
 - Transformación manual para potenciar la coordinación del niño
-- Se puede manejar en las dos posiciones desde el mando
-- Vehículo transformable en robot
-- 4 botones de dirección
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

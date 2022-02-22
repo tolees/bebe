@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Testadas dermatológicamente, sin perfume y 0% de fenoxietanol, parabenos y alcohol
+- Contienen materiales de origen vegetal
 - Apropiadas para la delicada piel del recién nacido, incluyendo culito, manos, pies y cara
 - Elaboradas con 99% de agua para una limpieza delicada
 - Con algodón orgánico que ofrece un contacto suave con la piel
 - El 1% restante está formado por ingredientes delicados que ayudan a mantener y recuperar el pH de la piel y evitan irritaciones
-- Testadas dermatológicamente, sin perfume y 0% de fenoxietanol, parabenos y alcohol
-- Contienen materiales de origen vegetal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
