@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funciona con 3 pilas AA (incluidas)
 - Juguete empotrable electrónico con efectos de sonido
+- Funciona con 3 pilas AA (incluidas)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
