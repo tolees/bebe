@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lámpara de noche con luces y melodías
 - 10 minutos de música clasica o new age
 - Funciona a pilas para llevárselo a cualquier parte
-- Ideal para mesita de noche
 - Se activa girando el osito
-- Lámpara de noche con luces y melodías
+- Ideal para mesita de noche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
