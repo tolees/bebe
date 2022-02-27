@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en la versión para niño o niña
-- Nuevo diseño para entretener al bebé
-- El clásico sonajero Chicco
-- Sonajero clásico de Chicco
-- Diseño con forma de tulipán
 - Versión para niño y para niña
+- Sonajero clásico de Chicco
+- El clásico sonajero Chicco
+- Nuevo diseño para entretener al bebé
+- Diseño con forma de tulipán
+- Disponible en la versión para niño o niña
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
