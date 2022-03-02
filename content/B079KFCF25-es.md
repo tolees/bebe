@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un juego manual que estimula el desarrollo desde la primera infancia
-- El camión se puede reconfigurar en forma de pista de carreras acrobática
-- Viene con ocho bloques de construcción y tres tramos de pista que se pueden montar de diferentes maneras
 - Un juguete optimo para manos pequeñas
-- El práctico camión permite guardar en su interior todos los bloques de construcción y el coche de carreras
+- Un juego manual que estimula el desarrollo desde la primera infancia
+- Viene con ocho bloques de construcción y tres tramos de pista que se pueden montar de diferentes maneras
 - Camión de competición construible con ruedas que giran de verdad
 - Incluye un coche de carreras fácil de construir que emite cinco sonidos de competición
+- El camión se puede reconfigurar en forma de pista de carreras acrobática
+- El práctico camión permite guardar en su interior todos los bloques de construcción y el coche de carreras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
