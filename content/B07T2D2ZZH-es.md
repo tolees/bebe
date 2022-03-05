@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Mueve al tiburón y observa como se mueven su cabeza y sus aletas con movimientos realistas como si estuviera en el agua
 - Abre la boca del tiburón, observa cómo se traga entero al buceador, y luego recupera la figura y vuelve a empezar
-- Aprieta la plataforma de activación para que abra la enorme boca
 - Para niños de 3 a 8 años
 - Tiburón grande de juguete con figura de buceador, jaula y accesorios
+- Aprieta la plataforma de activación para que abra la enorme boca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
