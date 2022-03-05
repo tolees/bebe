@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Alcanza hasta 10 metros de distancia
+- Bajo licencia Abarth
 - 2 modos de juego: turbo touch o ruedas libres
 - Cuanto más lo cargues, más lejos llegará
-- Bajo licencia Abarth
 - Packaging exclusivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
