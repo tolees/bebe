@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para los primeros abrazos del bebé
-- Colores neutrales
 - Lavable a máquina
+- Colores neutrales
+- Ideal para los primeros abrazos del bebé
 - Mantita con tierna cabeza de osito
 - Tejido suave
 
