@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fácil de transportar y guardar (ultra compacta con 63x62x23 cm) y de plegado compacto
 - Crece con el niño (bandeja regulable en 4 posiciones de profundidad)
 - Fácil de limpiar (el asiento se limpia con una esponja)
-- Fácil de transportar y guardar (ultra compacta con 63x62x23 cm) y de plegado compacto
 - Ideal para espacios pequeños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
