@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sonidos preciosos
 - Instrumentos musicales educativos
 - Instrumentos innovadores
-- Sonidos preciosos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
