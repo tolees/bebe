@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Su loción libre de alcohol ayuda a prevenir la irritación de la piel
 - Ayuda instantáneamente a recuperar el pH natural en pieles delicadas: máxima protección de la piel de Dodot
+- Testadas dermatológicamente y 0% de fenoxietanol, parabenos y alcohol
+- Su loción libre de alcohol ayuda a prevenir la irritación de la piel
 - Fragancia fresca para una experiencia agradable a la hora de cambiar el pañal
 - Limpian de manera eficaz la piel gracias a su textura extra gruesa y suave
-- Testadas dermatológicamente y 0% de fenoxietanol, parabenos y alcohol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
