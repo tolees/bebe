@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
-- Tejido suave
 - Ideal para los primeros abrazos del bebé
-- Colores neutrales
+- Tejido suave
+- Lavable a máquina
 - Mantita con tierna cabeza de osito
+- Colores neutrales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
