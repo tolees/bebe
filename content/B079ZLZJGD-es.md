@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Coleccionable
-- Carga por retroceso
 - Inspirada en diseño vespa
-- Pequeña moto bajo licencia Vespa
 - Diseño infantil
+- Pequeña moto bajo licencia Vespa
+- Carga por retroceso
+- Coleccionable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
