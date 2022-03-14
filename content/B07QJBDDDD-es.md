@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Radio Control Chicco
 - Mando 4 funciones
+- Radio Control Chicco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
