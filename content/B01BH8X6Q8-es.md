@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con luces y sonidos
-- Interactúa con los niños
 - Con actividades manuales
+- Interactúa con los niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
