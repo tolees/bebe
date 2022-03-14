@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para niños de 3 a 8 años
-- Por qué tiene este producto embalaje reducido: Hemos trabajado mucho para reducir el tamaño y los materiales innecesarios en nuestro embalaje duradero, minimizando los desechos y las emisiones
-- Los niños pueden recrearbatallas medievales épicas con este castillo de Imaginext repleto de acción.
-- Dos lados de juego para que los niños exploren, incluidas dos trampillas y una mazmorra en la parte posterior.
-- Gira y presiona las plataformas de activación para que comience la acción: las defensas se suben y bajan, la torre se pliega y las garras de león agarran y derriban a los invasores.
 - El conjunto de juego incluye 1 figura de rey, un trono y 2 accesorios de batalla.
+- Gira y presiona las plataformas de activación para que comience la acción: las defensas se suben y bajan, la torre se pliega y las garras de león agarran y derriban a los invasores.
+- Dos lados de juego para que los niños exploren, incluidas dos trampillas y una mazmorra en la parte posterior.
+- Los niños pueden recrearbatallas medievales épicas con este castillo de Imaginext repleto de acción.
+- Por qué tiene este producto embalaje reducido: Hemos trabajado mucho para reducir el tamaño y los materiales innecesarios en nuestro embalaje duradero, minimizando los desechos y las emisiones
+- Para niños de 3 a 8 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
