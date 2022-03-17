@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rolimate Juego Interactivo Whack A Frog Cumpleaños 2 3 4 5 6 7 años Actividades para niños y niñas Juegos Juguete con 2 martillos para niños Bebés Niños pequeños Juguetes de Desarrollo'
-date: 2022-03-14 19:52:18
+date: 2022-03-17 03:08:43
 image: 'https://m.media-amazon.com/images/I/515aovDaAyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rolimate'
 buyurl: 'https://www.amazon.es/dp/B07ZF9H8DT/?tag=tolees-21'
 descuento: '30.24'
-average: '31.76'
+average: '31.7455510204081'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
