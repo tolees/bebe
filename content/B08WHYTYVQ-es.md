@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LUCES & MELODIAS: New Age se activan y desactivan presionando la bellota en la barriga de la ardilla
-- LUZ: Su barriga se ilumina
 - RELLENO: suave para abrazar y abrazar sin parar
+- LUCES & MELODIAS: New Age se activan y desactivan presionando la bellota en la barriga de la ardilla
 - RELAJACIÓN: óptima para relajar al bebé
+- LUZ: Su barriga se ilumina
 - TEMPORIZADOR: Ciclo automático de luz y música durante 15 o 30 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
