@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicco- Coche R/C Rocky Crossover con Mando ERGONOMICO DE 4 DIRECCIONES 18X12X13 CMS  Multicolor  9729000000 '
-date: 2022-03-14 20:36:41
+date: 2022-03-19 14:15:48
 image: 'https://m.media-amazon.com/images/I/41YoltoTS5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Chicco'
 buyurl: 'https://www.amazon.es/dp/B07QJBDDDD/?tag=tolees-21'
 descuento: '30.73'
-average: '25.4063636363636'
+average: '25.1883333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mando 4 funciones
 - Radio Control Chicco
+- Mando 4 funciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
