@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - CLIP-CLOP: Escucha el clip-clop de las pezuñas conforme te meces. No se requieren de baterias, esta mecedora de unicornio funciona con el simple movimiento del niño.
 - MANUBRIOS DE MADERA: madera natural en los manubrios y en la patas de la mecedora de aspecto clásico! Trépate y agárrate!
+- SUAVIDAD Y COMODIDAD: a los niños les encantará la suavidad y la esponjoso textura de Dilly. Este montable es un clásico para los niños.
 - DILLY DALLY es un clásico peluche mecedor de unicornio de textura suave, directo del bosque encantado.
 - MECEDORA DE RODEO: es una colección única de los juguetes montables. Echa un vistazo a los demás ROCKERS; caballo, oveja y unicornio.
-- SUAVIDAD Y COMODIDAD: a los niños les encantará la suavidad y la esponjoso textura de Dilly. Este montable es un clásico para los niños.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
