@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Aprende palabras, colores, frases cortas, canciones infantiles, etc.
+- Juguete bilingüe: español-inglés
+- Luces y sonidos
 - Con 24 actividades
 - Con anillo para colocar en el cochecito
-- Juguete bilingüe: español-inglés
-- Aprende palabras, colores, frases cortas, canciones infantiles, etc.
-- Luces y sonidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
