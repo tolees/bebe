@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price Tito Robotito  Robot Aprendizaje 3 en 1  Juguete interactivo con luces y sonidos  regalo para bebés +6 meses  Mattel HCK45 '
-date: 2022-03-20 09:47:43
+date: 2022-03-23 04:49:00
 image: 'https://m.media-amazon.com/images/I/41YhOzNR6eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B08WKBZQ25/?tag=tolees-21'
 descuento: '21.90'
-average: '42.9231578947369'
+average: '43.0238461538462'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
