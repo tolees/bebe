@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - se encenderá una luz en la zona del babero simulando que la ropa se ha manchado
 - Nenuco es un muñeco electrónico y llorará después de tomarse el biberón, luego eructará cuando le des palmaditas en la espalda
 - Nenuco, ¿un eructito? necesita tu ayuda porque después de comer necesita eructar!
-- Accesorios incluidos: un biberón mágico, una percha, un vestido extra y un orinal rosa
 - luego hará sonidos de bebé y sonidos de la hora de ir al baño cuando le sientes en su orinal
+- Accesorios incluidos: un biberón mágico, una percha, un vestido extra y un orinal rosa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
