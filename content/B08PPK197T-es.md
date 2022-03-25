@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
-- Parte superior de gran calidad y comodidad
 - Suela duradera
+- Parte superior de gran calidad y comodidad
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
