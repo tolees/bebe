@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ocupa poco espacio
 - Bandeja extensible
 - Compatible con todos los biberones, tetinas y chupetes
 - Con varillas para mejor sujeción y distribución de accesorios
-- Ocupa poco espacio
 - Escurre despúes de lavarlos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
