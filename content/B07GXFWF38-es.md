@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carro 3 en 1 apto desde el nacimiento del bebe; silla de auto de 0 meses a 13 kg con anclaje para base Isofix de la marca HAUCK (opcional) capazo amplio y silla de paseo ligera
 - Asiento ancho, varias posiciones en respaldo y reposapiés, capota amplia con protección UV y amortiguación en ruedas; se define como silla ligera por sus ruedas delanteras giratorias que facilitan el manejo en cuidad
 - Seguridad máxima: silla de auto con un sistema de seguridad de arnés de 3-puntos y sistema anti-choque lateral patentado cumpliendo así con normativa ECE 44/04; silla de paseo con certificación EN 1888
 - Sistema de viaje practico: fácil montaje del Grupo 0 sobre el chassis y listo para ir de compras, carro y silla de paseo ligeros aptos desde nacimiento hasta los 13k g, con su peso de solo 4 kg es fácil de transportar
+- Carro 3 en 1 apto desde el nacimiento del bebe; silla de auto de 0 meses a 13 kg con anclaje para base Isofix de la marca HAUCK (opcional) capazo amplio y silla de paseo ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
