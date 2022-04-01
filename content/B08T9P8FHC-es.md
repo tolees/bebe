@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De 1 a 2 horas por partida
-- Explora los Reinos Mortales: mata monstruos, roba tesoros y ¡traiciona a tus amigos!
 - En la batalla por los Reinos Mortales, matar a un monstruo y quitarle sus bienes es una victoria. Pero ten cuidado, porque tus amigos creen que tú eres el monstruo…
-- De 3 a 6 jugadores
+- Explora los Reinos Mortales: mata monstruos, roba tesoros y ¡traiciona a tus amigos!
 - A partir de 10 años de edad
+- De 3 a 6 jugadores
+- De 1 a 2 horas por partida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
