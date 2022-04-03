@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 accesorios: hamburguesa apilable, sartén, espátula y cubiertos
 - 18 actividades electrónicas y manuales
-- Vehículo de grandes dimensiones
-- Enseña el alfabeto, números, colores y diferentes comidas
+- 5 accesorios: hamburguesa apilable, sartén, espátula y cubiertos
 - Centro de actividades bilingüe
+- Enseña el alfabeto, números, colores y diferentes comidas
+- Vehículo de grandes dimensiones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
