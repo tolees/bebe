@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hidrata y protege la delicada piel del bebé con aceite de coco
-- Fórmula única a base de agua que protege el pH natural de la piel
-- 0% alcohol y colorantes
 - Dermatológicamente testado y aprobado por dermatólogos de Skin Health Alliance
+- Fórmula única a base de agua que protege el pH natural de la piel
+- Hidrata y protege la delicada piel del bebé con aceite de coco
+- 0% alcohol y colorantes
 - Toallitas para bebés con fibras 100% de origen vegetal obtenidas de forma sostenible, 0% plástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
