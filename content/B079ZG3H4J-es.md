@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con exclusivo Ferrari F12 TDF amarillo
+- Sonidos auténticos de Ferrari
 - ¡Lanza el coche y evita los conos y llévate el trofeo!
 - Pista de coches bajo licencia Ferrari
-- Sonidos auténticos de Ferrari
 - Incluye 1 coche 4 conos y 1 trofeo
-- Con exclusivo Ferrari F12 TDF amarillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
