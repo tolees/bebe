@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste normal
-- Parte superior textil
 - Extra duradero
+- Parte superior textil
+- Ajuste normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
