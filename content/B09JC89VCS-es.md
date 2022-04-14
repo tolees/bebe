@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sin aceite de palma
-- Con acido linolénico y hierro: Que contribuye al desarrollo cerebral y del sistema nervioso y al desarrollo cognitivo y la formación de hemoglobina y glóbulos rojos
-- Enriquecida con A-Lactoalbúmina: Enriquecida con esta proteína, que es mayoritaria de la leche materna
 - Nutribén Pro-alfa continuación está elaborada para asegurar una alimentación infantil completa y un equilibrio nutricional adecuado desde los 6 hasta los 12 meses
+- Con acido linolénico y hierro: Que contribuye al desarrollo cerebral y del sistema nervioso y al desarrollo cognitivo y la formación de hemoglobina y glóbulos rojos
 - Con Vitamina A, C, D, Selenio y Zinc: Que contribuyen al correcto funcionamiento del sistema inmune y fomentan el correcto desarrollo de huesos y dientes
+- Enriquecida con A-Lactoalbúmina: Enriquecida con esta proteína, que es mayoritaria de la leche materna
 
 [🛒 Comprar!!!]({{< param buyurl >}})
