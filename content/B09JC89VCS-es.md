@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los productos Nutribén son nacionales, elaborados en nuestra planta de Madrid. Es una de las fábricas de fórmulas infantiles más modernas del mundo, que cuenta con la tecnología más avanzada para garantizar los máximos estándares de calidad
-- Contribuye al desarrollo cerebral y del sistema nervioso gracias al ácido α-linolénico
-- Enriquecida en vitamina A y D que ayudan al normal funcionamiento del sistema inmune
-- Enriquecida en hierro que favorece el desarrollo cognitivo y la formación de hemoglobina y glóbulos rojos
 - Fórmula de etapa 2 para lactantes desde los 6 meses hasta los 12 meses. Formato ahorro, 2 unidades de 1200 g
+- Enriquecida en vitamina A y D que ayudan al normal funcionamiento del sistema inmune
+- Contribuye al desarrollo cerebral y del sistema nervioso gracias al ácido α-linolénico
+- Enriquecida en hierro que favorece el desarrollo cognitivo y la formación de hemoglobina y glóbulos rojos
 - Enriquecida con la proteína alfa-lactoalbúmina, que es mayoritaria de la leche materna y previene la sobrecarga renal
+- Los productos Nutribén son nacionales, elaborados en nuestra planta de Madrid. Es una de las fábricas de fórmulas infantiles más modernas del mundo, que cuenta con la tecnología más avanzada para garantizar los máximos estándares de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
