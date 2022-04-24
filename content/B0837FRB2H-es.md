@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye un chupete
-- Sillita mecedora para nenuco
 - Recomendado para niñas y niños mayores de 2 años
+- Sillita mecedora para nenuco
 - Muñeco no incluido
+- Incluye un chupete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
