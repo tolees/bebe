@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Solo hay que pulsar un botón (izquierda o derecha) del mando para hacer que el vehículo avance Y gire al mismo tiempo.
-- Control remoto fácil de manejar
-- Conducción en 4 sentidos: adelante, atrás, izquierda y derecha
-- 2 velocidades controladas por los padres: para principiantes y para expertos
 - La función de apagado automático ayuda a ahorrar batería
+- Control remoto fácil de manejar
+- 2 velocidades controladas por los padres: para principiantes y para expertos
+- Conducción en 4 sentidos: adelante, atrás, izquierda y derecha
+- Solo hay que pulsar un botón (izquierda o derecha) del mando para hacer que el vehículo avance Y gire al mismo tiempo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
