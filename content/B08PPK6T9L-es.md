@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Perforado 3 tiras
 - Corte regular
 - Cordones de zapatos
-- Perforado 3 tiras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
