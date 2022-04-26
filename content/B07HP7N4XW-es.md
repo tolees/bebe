@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño funcional
-- Creado siguiendo los más altos estándares de la marca Edge Entertainment
-- Munchkin Gloom - Español
 - Diseñado para ofrecer una excelente experiencia al cliente
+- Diseño funcional
+- Munchkin Gloom - Español
+- Creado siguiendo los más altos estándares de la marca Edge Entertainment
 
 [🛒 Comprar!!!]({{< param buyurl >}})
