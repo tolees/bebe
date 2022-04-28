@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price Lumalou Lámpara Rutinas de Sueño - Producto para Bebés - 3 en 1 - Interactivo - Smart Connect App - Regalo para Niños de 0-8 Años'
-date: 2022-04-27 12:15:14
+date: 2022-04-28 15:48:22
 image: 'https://m.media-amazon.com/images/I/31wn3Q4PaNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B08TWZQG6M/?tag=tolees-21'
 descuento: '60.67'
-average: '51.0133333333333'
+average: '48.0925'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
