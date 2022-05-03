@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Scout, capazo de plegado muy reducido, ideal para los primeros paseos
 - Chasis fabricado en aluminio, robusto y estable
 - Suspensión en paralelogramo, tecnología sofisticada que absorbe incluso las vibraciones más pequeñas
 - Portabebé AIR i-size, homologado para el auto. Muy ligero, solo 2, 9kg.
-- Scout, capazo de plegado muy reducido, ideal para los primeros paseos
 - Elegancia deportiva con diseño atemporal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
