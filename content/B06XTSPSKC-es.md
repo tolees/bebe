@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Riégalo para que giren la flor y el resto de elementos
+- Desarrolla su coordinación manual
 - Regadera incluida
 - Divertido juego de agua
-- Desarrolla su coordinación manual
+- Riégalo para que giren la flor y el resto de elementos
 - Con 2 ventosas para fijarlo a la pared
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
