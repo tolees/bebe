@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Limpia sin resecar la piel delicada del bebé
-- Probado por pediatras y dermatólogos
 - La fórmula No Llores Más evita las lágrimas y es tan suave para los ojos como el agua más pura
-- Fórmula libre de colorantes, ftalatos, sulfatos, alcohol y jabón
 - Limpia la delicada piel del bebé, creando una rutina de limpieza y diversión con burbujas
+- Fórmula libre de colorantes, ftalatos, sulfatos, alcohol y jabón
+- Probado por pediatras y dermatólogos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
