@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicco- Radiocontrol  00007823000000 '
-date: 2022-05-05 20:25:35
+date: 2022-05-13 02:20:10
 image: 'https://m.media-amazon.com/images/I/411qLtSdiOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Chicco'
 buyurl: 'https://www.amazon.es/dp/B01BV7MR1U/?tag=tolees-21'
 descuento: '20.13'
-average: '33.4019999999999'
+average: '33.2690909090909'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 botones de dirección
-- Transformación manual para potenciar la coordinación del niño
-- Se transforma en 3 pasos
 - Vehículo transformable en robot
 - Se puede manejar en las dos posiciones desde el mando
+- Se transforma en 3 pasos
+- Transformación manual para potenciar la coordinación del niño
+- 4 botones de dirección
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
