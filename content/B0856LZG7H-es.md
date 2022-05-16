@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Botas Bebé Niño Pablosky Azul 84432 18'
-date: 2022-05-03 21:30:02
+date: 2022-05-16 19:45:02
 image: 'https://m.media-amazon.com/images/I/41D+rnyNR3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0856LZG7H-es Botas Bebé Niño Pablosky Azul 84432 18'
 sku: 'B0856LZG7H-es'
 tags: [ 'Botitas y patucos para niños','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','pablosky','🇪🇸', ]
-actualPrice: 27.16 EUR
+actualPrice: 25.95 EUR
 currency: EUR
-price: 27.16
+price: 25.95
 comparePrice: 55.0 EUR
 prodname: 'Botas Bebé Niño Pablosky Azul 84432 18'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pablosky'
 buyurl: 'https://www.amazon.es/dp/B0856LZG7H/?tag=tolees-21'
-descuento: '50.62'
-average: '27.6'
+descuento: '52.82'
+average: '27.05'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
