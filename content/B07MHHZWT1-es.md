@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CUIDADO, LIMPIEZA Y SUAVIDAD: Cuida de tu bebé, limpiando y aportando suavidad a su delicada piel
-- SUAVIDAD: Respeto de la higiene diaria del bebé; es de fácil aclarado
-- CON EXTRACTO DE ALOE VERA Y VITAMINA E
-- ESTÍMULA SUS SENTIDOS: Su característico olor a limpio estimulará los sentidos de vuestro bebé y hará del baño un momento realmente especial y agradable; óptimo para el aseo del bebé
 - TESTADO DERMATOLÓGICAMENTE: Su fórmula ha sido clínicamente testada bajo estricto control dermatológico
+- CON EXTRACTO DE ALOE VERA Y VITAMINA E
+- SUAVIDAD: Respeto de la higiene diaria del bebé; es de fácil aclarado
+- CUIDADO, LIMPIEZA Y SUAVIDAD: Cuida de tu bebé, limpiando y aportando suavidad a su delicada piel
+- ESTÍMULA SUS SENTIDOS: Su característico olor a limpio estimulará los sentidos de vuestro bebé y hará del baño un momento realmente especial y agradable; óptimo para el aseo del bebé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
