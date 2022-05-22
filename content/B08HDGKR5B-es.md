@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido de envío: 1x Medela Crema para pezones Purelan de Medela de 37 g con instrucciones de uso
 - De origen ético: Purelan se produce en colaboración con granjas libres de mulas y preocupadas por el bienestar de los animales
-- Apto para bebés: Purelan es seguro para ti y tu bebé, no contiene aditivos, conservantes, fragancias ni aromas y no es necesario retirarlo antes de la lactancia
-- Alivio rápido: la textura de nuestra fórmula Purelan con lanolina pura de grado médico imita la capacidad natural de la piel de almacenar humedad para retener más del doble de su peso en agua
 - Multiuso: el efecto profundamente hidratante de la lanolina también es adecuado para los labios agrietados y la piel seca, apto para adultos y niños, y para la piel sensible
+- Alivio rápido: la textura de nuestra fórmula Purelan con lanolina pura de grado médico imita la capacidad natural de la piel de almacenar humedad para retener más del doble de su peso en agua
+- Apto para bebés: Purelan es seguro para ti y tu bebé, no contiene aditivos, conservantes, fragancias ni aromas y no es necesario retirarlo antes de la lactancia
+- Contenido de envío: 1x Medela Crema para pezones Purelan de Medela de 37 g con instrucciones de uso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
