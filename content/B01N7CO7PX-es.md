@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ASIENTO GRANDE Y ACOLCHADO- Este alzador está dotado con un asiento grande y acolchado.
+- CON ISOFIX- Alzador de coche con ISOFIX
 - ALZADOR GRUPO 3 - Desde los 22 hasta los 36 Kg
 - ACCESORIO DE RESPALDO - El respaldo es una de las características primordiales puesto que dota de comodidad extra al alzador
-- CON ISOFIX- Alzador de coche con ISOFIX
 
 [🛒 Visítala!!!]({{< param buyurl >}})
