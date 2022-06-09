@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Seguro y fácil de limpiar
-- Apto para fruta, verdura, carne y pescado
 - Cocina al vapor y prepara comida casera para tu bebé en cuestión de minutos
 - Cuece al vapor en el cesto especial, licua en la jarra o combina ambas funciones para conseguir comidas con texturas diferentes
+- Apto para fruta, verdura, carne y pescado
 - Pasa fácilmente de cocinar al vapor a licuar los alimentos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
