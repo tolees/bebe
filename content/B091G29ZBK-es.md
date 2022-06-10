@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SIN ALCOHOL: No irrita ni reseca su delicada piel
 - HIPOALERGÉNICA: Formulado específicamente para la delicada piel de tu bebé
-- PH EQUILIBRADO: Adecuada para su uso en cuerpo y cabello
 - con OLOR a NENUCO: Estimula sus sentidos gracias a su fragancia única y a tus mimos cariñosos
 - AGUA DE COLONIA NENUCO SENSITIVE: Perfuma y refresca la piel de tu bebé para su cuidado diario
+- PH EQUILIBRADO: Adecuada para su uso en cuerpo y cabello
+- SIN ALCOHOL: No irrita ni reseca su delicada piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
