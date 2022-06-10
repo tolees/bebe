@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye: arrocero, cesto para alimentos de 1, 1 litros, espátula para remover, jarra de acero inoxidable de 1, 7 litros y tapa con sistema de seguridad
-- La forma y la disposición de las cuchillas junto con las hendiduras de la jarra permiten optimizar el triturado, llevando los alimentos siempre al centro para que tenga una consistencia homogénea
-- Apagado automático
-- Jarra y cuchillas de acero inoxidable anti-gérmenes/anti-bacterias y resistente a altas temperaturas
-- Súper rápido; dispone de un sistema patentado que optimiza el tiempo de generación de vapor y lo convierte en un aparato energéticamente eficiente
-- Opción Refill; ahora no es necesario interrumpir la cocción ni quitar la jarra para rellenar el tanque
 - Muy fácil de utilizar y de limpiar
 - Con 5 funciones: cocinar al vapor, triturar, calentar, descongelar e incluso esterilizar pequeños accesorios
+- La forma y la disposición de las cuchillas junto con las hendiduras de la jarra permiten optimizar el triturado, llevando los alimentos siempre al centro para que tenga una consistencia homogénea
+- Súper rápido; dispone de un sistema patentado que optimiza el tiempo de generación de vapor y lo convierte en un aparato energéticamente eficiente
+- Apagado automático
+- Incluye: arrocero, cesto para alimentos de 1, 1 litros, espátula para remover, jarra de acero inoxidable de 1, 7 litros y tapa con sistema de seguridad
+- Jarra y cuchillas de acero inoxidable anti-gérmenes/anti-bacterias y resistente a altas temperaturas
+- Opción Refill; ahora no es necesario interrumpir la cocción ni quitar la jarra para rellenar el tanque
 
 [🛒 Aquí!!!]({{< param buyurl >}})
