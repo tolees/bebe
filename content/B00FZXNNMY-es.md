@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consolida la resistencia de la delicada piel del bebé
 - Complejo de tensioactivos extra suaves para una limpieza cuidadosa que no provoca deshidratación
-- Con el pH de 5,5 se ha demostrado clínicamente que Baby Sebamed favorece el desarrollo del manto ácido
+- Consolida la resistencia de la delicada piel del bebé
 - Para dar un baño completo a tu bebé. Puede usarse para bañar al bebé una vez que ha caído el cordón umbilical
-- Los extractos de plantas medicinales calman, hidratan y protegen la delicada piel frente a la inflamación y la irritación
-- No contiene compuestos nitro-almizclados, formaldehído, nitrosaminas ni dioxano
 - Sin aditivos ni colorantes
 - 100% sin jabón ni agentes alcalinos
+- Los extractos de plantas medicinales calman, hidratan y protegen la delicada piel frente a la inflamación y la irritación
+- No contiene compuestos nitro-almizclados, formaldehído, nitrosaminas ni dioxano
+- Con el pH de 5,5 se ha demostrado clínicamente que Baby Sebamed favorece el desarrollo del manto ácido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
