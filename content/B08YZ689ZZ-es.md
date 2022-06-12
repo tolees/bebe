@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Edición de muñecas procedentes de diferentes partes del mundo vestidas con sus trajes típicos
-- Muñeca con traje típico de Mongolia
 - Producto de alta calidad
 - Hay muchísimas para coleccionar
+- Edición de muñecas procedentes de diferentes partes del mundo vestidas con sus trajes típicos
+- Muñeca con traje típico de Mongolia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
