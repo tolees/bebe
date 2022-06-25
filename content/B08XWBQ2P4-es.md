@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin etiquetas. Sin complicaciones. Solo la calidad Carter que conoces + amas, exclusivamente en Amazon.
 - Juego de 6 bodies a juego
+- Sin etiquetas. Sin complicaciones. Solo la calidad Carter que conoces + amas, exclusivamente en Amazon.
 - Puños fáciles de poner
 - Paquete de 4 unidades, así siempre hay un extra
 
