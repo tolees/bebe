@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alimentado con Hybridrive technonogy las baterías duran hasta 3 veces más
 - Se pliega hasta quedar plano para facilitar el transporte
-- Funcionamiento silencioso Whisperquiet
 - La almohadilla y el apoyacabeza son lavables en lavadora
+- Funcionamiento silencioso Whisperquiet
+- Alimentado con Hybridrive technonogy las baterías duran hasta 3 veces más
 - 5 velocidades de balanceo, 6 melodías y 3 sonidos de la naturaleza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
