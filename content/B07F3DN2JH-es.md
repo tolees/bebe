@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - APTO PARA PIELES SENSIBLES Y CON TENDENCIA ATÓPICA. TESTADO BAJO CONTROL DERMATOLÓGICO Y PEDIÁTRICO.
-- RESULTADOS - Refuerza la Función Barrera. Reduce rojeces y tirantez.Hidratación y Confort. Calma y actúa como Antiséptico Natural.
-- ACCIÓN HIDRATANTE Y REPARADORA - La crema facial para bebé hidrata, protege frente a las agresiones externas y refuerza la función barrera previniendo y tratando rojeces, irritación, picor y sequedad.
-- SIN GLUTEN – SIN PARABENES – Sin proteínas del huevo ni la leche – Sin derivados de frutos secos. Hipoalergénico y con Perfume 100% Natural
 - 99.2% DE INGREDIENTES DE ORIGEN NATURAL - Certificado por Ecorcert. Con Insaponificables del aceite de oliva, extracto de margarita azul, manteca de Cupuaçú y Bisabolol Orgánico.
+- ACCIÓN HIDRATANTE Y REPARADORA - La crema facial para bebé hidrata, protege frente a las agresiones externas y refuerza la función barrera previniendo y tratando rojeces, irritación, picor y sequedad.
+- RESULTADOS - Refuerza la Función Barrera. Reduce rojeces y tirantez.Hidratación y Confort. Calma y actúa como Antiséptico Natural.
+- SIN GLUTEN – SIN PARABENES – Sin proteínas del huevo ni la leche – Sin derivados de frutos secos. Hipoalergénico y con Perfume 100% Natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
