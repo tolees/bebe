@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suavidad y textura óptima
-- Hipoalergénica, clínicamente probada
 - 99% agua pura, sin perfumes
 - 100% fibras naturales sin plástico
+- Hipoalergénica, clínicamente probada
 - Pack reciclable
+- Suavidad y textura óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

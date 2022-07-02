@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseñado para adaptarse: la forma ovalada del embudo PersonalFit Flex, con su borde suave y flexible, puede girar 360 grados, para que puedas adaptar fácilmente su posición a la forma de tu pecho
 - Expresión cómoda y eficaz: para mayor comodidad y mejor flujo de leche, la protección contra el desbordamiento mientras tanto evita que la leche se derrame en el tubo y el motor
-- Contenido de envío: 1x Medela Extractor de leche eléctrico doble, 4 embudos PersonalFit Flex, 1 tubo, 4 biberones de 150 ml, 2 soportes para biberones, 1 adaptador USB, 1 bolsa, 1 nevera
 - Controla el progreso a través de la aplicación: conecta el Freestyle Flex a la aplicación MyMedela, que podrás descargar en tu smartphone para registrar y controlar el progreso de la extracción
 - Extrae leche en cualquier lugar: Freestyle Flex de Medela, compacto, ligero y portátil, tiene una batería recargable integrada que dura hasta ocho sesiones de bombeo doble con una carga completa
+- Contenido de envío: 1x Medela Extractor de leche eléctrico doble, 4 embudos PersonalFit Flex, 1 tubo, 4 biberones de 150 ml, 2 soportes para biberones, 1 adaptador USB, 1 bolsa, 1 nevera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
