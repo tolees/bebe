@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Termómetro multifuncional: no solo puede medir la temperatura corporal (frente y orejas), sino también medir la temperatura de los objetos y el medio ambiente
 - 20 grupos de memoria: registra 20 lecturas para rastrear y monitorear mejor las fluctuaciones de temperatura, y también para prestar atención a la salud de los miembros de la familia a tiempo, la lectura de datos es muy conveniente.
+- Termómetro multifuncional: no solo puede medir la temperatura corporal (frente y orejas), sino también medir la temperatura de los objetos y el medio ambiente
 - Lectura instantánea: presione la tecla de medición y el resultado se emitirá en un segundo. No necesita esperar, puede cuidar a su bebé con un termómetro tanto en interiores como en exteriores, lo que le permite pasar más tiempo con su familia.
 - Alarma de fiebre: 2 colores de recordatorio inteligente de fiebre (verde significa normal, rojo significa fiebre), pantalla LED de alta definición, números claros, pueden evaluar la salud del bebé a tiempo.
 
