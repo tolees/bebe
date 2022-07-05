@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con extractos de algodón, pantenol y vitamina E, para un cuidado extra de la piel
+- Fórmula hipoalergénica testada dermatológicamente, sin parabenos y sin alcohol
+- Con SPF50+, protege contra los rayos UVB, UVA y efectos de los infrarrojos y minimiza los efectos del sol a largo plazo
 - Su difusión en pistola permite una aplicación cómoda, rápida y práctica para proteger del sol a los más pequeños, incluso en pieles muy claras, sensibles y e incluso atópicas
 - Leche de protección solar especialmente indicado para niños con piel sensible o atópica
-- Con extractos de algodón, pantenol y vitamina E, para un cuidado extra de la piel
-- Con SPF50+, protege contra los rayos UVB, UVA y efectos de los infrarrojos y minimiza los efectos del sol a largo plazo
-- Fórmula hipoalergénica testada dermatológicamente, sin parabenos y sin alcohol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
