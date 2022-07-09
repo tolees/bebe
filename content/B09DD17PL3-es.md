@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sandalias Bebé Niño Pablosky Azul 9721 19'
-date: 2022-07-08 07:05:26
+date: 2022-07-09 18:13:10
 image: 'https://m.media-amazon.com/images/I/51LtaE-W0wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09DD17PL3-es Sandalias Bebé Niño Pablosky Azul 9721 19'
 sku: 'B09DD17PL3-es'
 tags: [ 'Sandalias para niños','Zapatos','Zapatos para bebés','Zapatos para niños','Zapatos y complementos','bebé','pablosky','🇪🇸', ]
-actualPrice: 34.97 EUR
+actualPrice: 39.95 EUR
 currency: EUR
-price: 34.97
+price: 39.95
 comparePrice: 50.0 EUR
 prodname: 'Sandalias Bebé Niño Pablosky Azul 9721 19'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pablosky'
 buyurl: 'https://www.amazon.es/dp/B09DD17PL3/?tag=tolees-21'
-descuento: '30.06'
-average: '34.97'
+descuento: '20.10'
+average: '37.46'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Para desarrollar la imaginación y crear historias a la hora del baño
+- Libro de baño de 8 páginas con marioneta, solapas y bolsillos
 - Elidou el Elefante con libro de baño y rompecabezas de baño
 - Juego de juguetes de baño para bebés
-- Libro de baño de 8 páginas con marioneta, solapas y bolsillos
-- Para desarrollar la imaginación y crear historias a la hora del baño
 - Puzzle de baño de 7 piezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
