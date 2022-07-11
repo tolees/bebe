@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Interruptor de encendido y apagado
-- 3 instrumentos musicales coloridos y divertidos para entretener a los pequeños músicos con efectos de luz y sonidos.
-- Sonidos alegres y melodías
-- 3 botones para presionar
 - Divertidos efectos de colores
+- Sonidos alegres y melodías
+- 3 instrumentos musicales coloridos y divertidos para entretener a los pequeños músicos con efectos de luz y sonidos.
+- Interruptor de encendido y apagado
+- 3 botones para presionar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
