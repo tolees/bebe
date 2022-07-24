@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro de cuero
 - Suela de goma
 - Parte superior de cuero
+- Forro de cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
