@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
 - Parte superior de malla tejida
 - Ajuste perfecto
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
