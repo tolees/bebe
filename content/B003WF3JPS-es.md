@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fragancia Baby Cologne 100ml para bebés.
-- Te sorprenderá por su fresco y delicado aroma, bajo en alcohol, que combina las mejores notas de frutos cítricos, flores blancas y almizcles.
-- Respeta y refresca la piel de tú bebé
-- Colonia suavinex con una fórmula baja en alcohol.
-- Para bebés, mamás y papás. ¡Que bonito compartir la misma fragancia!
-- Ideal para cualquier momento del día.
 - No mancha la ropa. Perfecta para aplicar en la ropa.
+- Ideal para cualquier momento del día.
+- Para bebés, mamás y papás. ¡Que bonito compartir la misma fragancia!
 - Se presenta en un práctico frasco vaporizador para una dosificación más cómoda y segura que no mancha, por lo que puede ser aplicada también sobre la ropa.
+- Fragancia Baby Cologne 100ml para bebés.
+- Colonia suavinex con una fórmula baja en alcohol.
+- Respeta y refresca la piel de tú bebé
+- Te sorprenderá por su fresco y delicado aroma, bajo en alcohol, que combina las mejores notas de frutos cítricos, flores blancas y almizcles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
