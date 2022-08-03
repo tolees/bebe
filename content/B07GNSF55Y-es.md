@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño: Princess Mimi by Depesche
 - Para almacenar los dientes de leche
 - Tamaño: aprox. 4,9 x 4,9 x 2,6 cm
-- Diseño: Princess Mimi by Depesche
 - Pequeño bote de metal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
