@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Calzado fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Botas Graviton AC Inf gray
-- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Botas para practicar Tiempo libre y sportwear de Unisex Infantil
+- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Calzado Gris de la marca Puma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
