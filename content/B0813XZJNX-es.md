@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El forro de Jersey
-- Prácticos cierres de velcro para facilitar la entrada y salida; la clásica puntera de goma
 - Material superior: cuero
+- Prácticos cierres de velcro para facilitar la entrada y salida; la clásica puntera de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
