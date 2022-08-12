@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Colores neutrales
-- Fácil de fijar a la cuna
-- Tejido suave
 - Carrillón de cuna
+- Tejido suave
 - Con canción de cuna
+- Fácil de fijar a la cuna
 
 [🛒 Visítala!!!]({{< param buyurl >}})
