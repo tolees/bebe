@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muñeco bebé no incluido
-- Una vez abierta, la altura de la sillita es de 54 cm aproximadamente
-- La sillita de metal de Nenuco es plegable
 - En la sillita caben todos los muñecos de Nenuco
 - La edad recomendada para este producto es a partir de 2 años
+- La sillita de metal de Nenuco es plegable
+- Muñeco bebé no incluido
+- Una vez abierta, la altura de la sillita es de 54 cm aproximadamente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
