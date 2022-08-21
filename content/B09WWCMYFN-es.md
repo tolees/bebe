@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 24 horas de hidratación: La leche hidratante de Nenuco aporta 24 horas de hidratación a la piel del bebé
-- Agua de colonia Nenuco: El Agua de Colonia Nenuco con su fragancia de siempre cuidará de vuestro bebé y de toda la familia a diario
 - Con manteca de Karité: Contiene manteca De Karité
 - Con el olor de Nenuco: Disfrutad de esta fragancia que, junto con vuestros mimos que tanto le gustan, estimulará sus sentidos y creará momentos especiales
+- 24 horas de hidratación: La leche hidratante de Nenuco aporta 24 horas de hidratación a la piel del bebé
+- Agua de colonia Nenuco: El Agua de Colonia Nenuco con su fragancia de siempre cuidará de vuestro bebé y de toda la familia a diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})

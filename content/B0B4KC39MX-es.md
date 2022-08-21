@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CON EXTRACTO DE ALOE VERA
+- GAMA HIPOALERGÉNICA*: Formulado específicamente para la delicada piel de tu bebé
 - CON OLOR A NENUCO: Estimula sus sentidos gracias a su fragancia y a tus mimos cariñosos
 - AGUA DE COLONIA NENUCO SENSITIVE: Perfuma y refresca la piel de tu bebé para su cuidado diario
-- GAMA HIPOALERGÉNICA*: Formulado específicamente para la delicada piel de tu bebé
 - con OLOR a NENUCO: Estimula sus sentidos gracias a su fragancia y a tus mimos cariñosos
+- CON EXTRACTO DE ALOE VERA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

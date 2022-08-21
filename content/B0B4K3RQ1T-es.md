@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - LECHE HIDRATANTE: su Textura Es Cremosa Y De Fácil Absorción, Lo Que Hará De Un Masaje Un Placer Sensorial Completo
-- FORMATO SPRAY ÓPTIMO PARA LLEVAR DE 240 ml: Formato pequeño
 - JABÓN LÍQUIDO: su característico olor a Nenuco estimulará los sentidos de vuestro bebé y hará del baño un momento realmente único y agradable
-- AGUA DE COLONIA NENUCO: El Agua de Colonia Nenuco con su fragancia de siempre cuidará de vuestro bebé y de toda la familia a diario
 - OLOR ORIGINAL y bienestar en el cuidado diario y de toda la familia
+- FORMATO SPRAY ÓPTIMO PARA LLEVAR DE 240 ml: Formato pequeño
+- AGUA DE COLONIA NENUCO: El Agua de Colonia Nenuco con su fragancia de siempre cuidará de vuestro bebé y de toda la familia a diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
