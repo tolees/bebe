@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AGUA DE COLONIA NENUCO: El Agua de Colonia Nenuco con su fragancia de siempre cuidará de vuestro bebé y de toda la familia a diario. El pH Neutro de la colonia respetará la suavidad de su delicada piel
-- RUTINA DE HIGIENE PARA TU BEBÉ COMPLETA CON NENUCO: El pack incluye Jabón Liquido Ultra Suave para Cuerpo y Cabello, Leche Hidratante y Agua de Colonia Nenuco
-- JABÓN LÍQUIDO ULTRA SUAVE NENUCO: Cuida de tu bebé, limpiando y aportando suavidad a su delicada piel. Con extracto de Aloe Vera y Vitamina E
 - TESTADO DERMATOLÓGICAMENTE: Todas las formulas han sido clínicamente testadas bajo estricto control dermatológico
 - LECHE HIDRATANTE NENUCO: La leche hidratante de Nenuco aporta 24 horas de hidratación a la piel del bebé. Textura cremosa, de fácil absorción y contiene manteca de karité.
+- JABÓN LÍQUIDO ULTRA SUAVE NENUCO: Cuida de tu bebé, limpiando y aportando suavidad a su delicada piel. Con extracto de Aloe Vera y Vitamina E
+- RUTINA DE HIGIENE PARA TU BEBÉ COMPLETA CON NENUCO: El pack incluye Jabón Liquido Ultra Suave para Cuerpo y Cabello, Leche Hidratante y Agua de Colonia Nenuco
+- AGUA DE COLONIA NENUCO: El Agua de Colonia Nenuco con su fragancia de siempre cuidará de vuestro bebé y de toda la familia a diario. El pH Neutro de la colonia respetará la suavidad de su delicada piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
