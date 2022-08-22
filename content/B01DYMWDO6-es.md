@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MEDIDAS: 63 cm x 37 cm.
-- Con dos lazos para sujetar alrededor del cuello
 - ECONOMICO: Mas barato que lavar y limpiar
 - CANTIDAD: Bolsa de 100 unidades
 - MUY UTIL: Evita manchas en comidas, para viajes, no ensucia ropa
+- Con dos lazos para sujetar alrededor del cuello
+- MEDIDAS: 63 cm x 37 cm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
