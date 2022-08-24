@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiempo de funcionamiento de la unidad de padres: superior, hasta 10 hours
-- Privacidad, seguridad y adaptación con A-FHSS: conexión privada y segura con tu bebé
 - Sonido y vídeo nítidos: oirás si el bebé se ríe, balbucea o tiene hipo con claridad
-- Pantalla a color de 3,5" con zoom: verás a tu bebé por la noche con la visión nocturna automática
 - Incluye: 1 vigilabebés DECT Philips Avent y un cargador miniUSB
+- Privacidad, seguridad y adaptación con A-FHSS: conexión privada y segura con tu bebé
+- Tiempo de funcionamiento de la unidad de padres: superior, hasta 10 hours
+- Pantalla a color de 3,5" con zoom: verás a tu bebé por la noche con la visión nocturna automática
 
 [🛒 Visítala!!!]({{< param buyurl >}})
