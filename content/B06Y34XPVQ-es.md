@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EL CULITO DE TU BEBÉ PROTEGIDO: Ayudarás a mantener el culito de tu bebé protegido de la irritación, enrojecimiento y escoceduras que puede producir el pañal
 - HIPOALERGÉNICO, SIN PERFUME Y TESTADO PEDIÁTRICAMENTE: Formulado para minimizar los riesgos de reacciones alérgicas; fórmula base testada
 - MANTIENE LA ZONA SECA Y PROTEGIDA: Eryplast Pasta al Agua forma una barrera transpirable sobre la piel del bebé que ayuda a absorber la orina y a mantener la zona seca y protegida
 - CALMA, CUIDA Y AYUDA A PROTEGER: Eryplast Pasta al agua calma, cuida y ayuda a proteger frente a las causas de la dermatitis del pañal
 - ACCIÓN ANTI-ENZIMÁTICA: Ayuda a neutralizar los irritantes que pueden causar la dermatitis del pañal
+- EL CULITO DE TU BEBÉ PROTEGIDO: Ayudarás a mantener el culito de tu bebé protegido de la irritación, enrojecimiento y escoceduras que puede producir el pañal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
