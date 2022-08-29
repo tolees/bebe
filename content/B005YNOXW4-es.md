@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crema para el cultito del bebé con fórmula con triple acción regenera, protege y reduce la fricción, para que la aplicación sea más agradable para el bebé
-- Bepanthol Bebé es una crema para el cuidado de la piel del bebé fácil de aplicar, que ejerce una barrera transpirable y transparente, reparando la piel y protegiendo de las irritaciones y rojeces del culito de tu bebé
 - Aplicar una abundante capa sobre la piel limpia y seca del área del pañal de tu bebé y extiende la pomada realizando un suave masaje
-- Esta crema protectora para bebés puede usarse en cada cambio de pañal ya que no contiene perfume, ni colorantes ni conservantes y está clínicamente testada incluso en bebés prematuros; también puede usarla la mamá para la protección y cuidado del pezón, especialmente durante la lactancia; se recomienda limpiar con agua antes de cada toma
 - Contiene Emolientes, que forman una barrera protectora que evita la deshidratación y aísla de sustancias irritantes, y Pantenol (provitamina B5), que favorece la regeneración natural de la piel
+- Bepanthol Bebé es una crema para el cuidado de la piel del bebé fácil de aplicar, que ejerce una barrera transpirable y transparente, reparando la piel y protegiendo de las irritaciones y rojeces del culito de tu bebé
+- Esta crema protectora para bebés puede usarse en cada cambio de pañal ya que no contiene perfume, ni colorantes ni conservantes y está clínicamente testada incluso en bebés prematuros; también puede usarla la mamá para la protección y cuidado del pezón, especialmente durante la lactancia; se recomienda limpiar con agua antes de cada toma
+- Crema para el cultito del bebé con fórmula con triple acción regenera, protege y reduce la fricción, para que la aplicación sea más agradable para el bebé
 
 [🛒 Comprar!!!]({{< param buyurl >}})
