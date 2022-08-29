@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fácil de fijar a la cuna
 - Carrillón de cuna
 - Colores neutrales
-- Con canción de cuna
-- Fácil de fijar a la cuna
 - Tejido suave
+- Con canción de cuna
 
 [🛒 Visítala!!!]({{< param buyurl >}})
