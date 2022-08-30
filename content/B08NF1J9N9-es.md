@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pijama para bebé de Star Wars
 - ¡Nada en la galaxia es tan lindo como este conjunto de pijama Baby Yoda!
 - ¡Completo con un sombrero a juego con The Child y orejas 3D!
 - Este todo en uno marrón de Star Wars presenta a la adorable criatura Baby Yoda y un cierre de botón automático y hombros envolventes
 - Mercancía de Star Wars con licencia oficial
-- Pijama para bebé de Star Wars
 
 [🛒 Comprar!!!]({{< param buyurl >}})
