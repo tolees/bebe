@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nutribén Innova 2 está elaborada para alimentar a niños de 6 a 12 meses de edad. Este pack incluye 6 unidades de 800g (4800g) con cacito dosificador en la tapa
 - Enriquecida con la proteína alfa-lactoalbúmina, que es mayoritaria de la leche materna y previene la sobrecarga renal
+- Contiene el paraprobiótico BPL1, que ayuda a prevenir la obesidad infantil y DHA que ayuda a la maduración del sistema nervioso central
+- Nutribén Innova 2 está elaborada para alimentar a niños de 6 a 12 meses de edad. Este pack incluye 6 unidades de 800g (4800g) con cacito dosificador en la tapa
 - Con DHA que ayuda a la maduración del sistema nervioso central y de la retina, y vitamina A que contribuye al correcto funcionamiento del sistema inmune
 - Sin aceite de palma y con una mezcla de grasa láctea y aceites vegetales que nos permite mejorar el sabor y olor de nuestras fórmulas y mejorar el perfil de ácidos grasos tomando como modelo la leche materna
-- Contiene el paraprobiótico BPL1, que ayuda a prevenir la obesidad infantil y DHA que ayuda a la maduración del sistema nervioso central
 
 [🛒 Aquí!!!]({{< param buyurl >}})
