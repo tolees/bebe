@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRITAX RÖMER Silla Coche KIDFIX2 S con Protecciones Laterales Niño de 15 a 36 kg Grupo 2/3 de 3 5 a 12 Años  Cosmos Black  67-85 x 54 x 39 cm'
-date: 2022-09-01 12:34:45
+date: 2022-09-06 16:44:35
 image: 'https://m.media-amazon.com/images/I/41cPeVOWq6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Britax Römer'
 buyurl: 'https://www.amazon.es/dp/B07K7VPLW6/?tag=tolees-21'
 descuento: '15.08'
-average: '152.9'
+average: '152.460555555556'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SICT ajustable, protección superior ante impactos laterales
+- SecureGuard ayuda a proteger la delicada zona abdominal del niño; fácil de usar, incluso él puede hacerlo
 - Reposacabezas y respaldo en forma de V fácil ajustables
 - Hecho en Alemania
-- SecureGuard ayuda a proteger la delicada zona abdominal del niño; fácil de usar, incluso él puede hacerlo
 - Silla coche 2 en 1, los padres pueden quitar el respaldo cuando el niño mida 135 cm, para óptima flexibilidad
-- SICT ajustable, protección superior ante impactos laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
