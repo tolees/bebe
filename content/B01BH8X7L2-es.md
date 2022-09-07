@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con luces y sonidos
 - Carga de retroceso y efecto turbo touch
-- Mini-vehículo electrónico
 - Coleccionable
 - Las luces se activan cuando acelera
+- Mini-vehículo electrónico
+- Con luces y sonidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
