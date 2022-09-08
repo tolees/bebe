@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ZONA DE COCINA: con un cazo y 3 moldes extraíbles (salero, pimentero y aceitera) para divertirse inventando recetas en la cocina; con canciones infantiles y sonidos típicos de la cocina
-- ZONA DE HUERTO: 2 moldes extraíbles (zanahoria y tomate) y 5 botones para divertirse con dulces melodías y aprender los nombres de las verduras del huerto, tanto en español como en inglés
-- JUGUETES PARA NIÑOS: descubre el universo de juguetes Chicco, lleno de diversión y con una gran variedad de juguetes infantiles y productos para regalar a niños y niñas
-- ZONA ARTÍSTICA: con la pizarra mágica, los niños pueden dibujar y escribir lo que prefieran usando su imaginación; Es fácil de borrar y tiene un lápiz ergonómico para las manos de los niños
-- ESPAÑOL E INGLÉS: Hobbies Primeras Actividades de Chicco es la mesa de actividades para niños que les enseña una gran variedad de contenido en dos lenguas, con más de 60 palabras, frases, canciones y sonidos divertidos, divididos en 4 áreas temáticas
-- MESA DE ACTIVIDADES PARA NIÑOS: la mesa de actividades Hobbies Primeras Actividades, bilingüe en español e inglés, tiene muchas actividades electrónicas y manuales con las que estimular la creatividad; Las patas son extraíbles para poder jugar incluso sentado
 - ZONA DE MÚSICA: con una partitura musical de 4 páginas y un piano con 3 botones luminosos, ayuda a tu hijo a conocer el instrumento, sus sonidos, y a componer sus primeras melodías
+- ZONA DE HUERTO: 2 moldes extraíbles (zanahoria y tomate) y 5 botones para divertirse con dulces melodías y aprender los nombres de las verduras del huerto, tanto en español como en inglés
+- MESA DE ACTIVIDADES PARA NIÑOS: la mesa de actividades Hobbies Primeras Actividades, bilingüe en español e inglés, tiene muchas actividades electrónicas y manuales con las que estimular la creatividad; Las patas son extraíbles para poder jugar incluso sentado
+- ZONA DE COCINA: con un cazo y 3 moldes extraíbles (salero, pimentero y aceitera) para divertirse inventando recetas en la cocina; con canciones infantiles y sonidos típicos de la cocina
+- ESPAÑOL E INGLÉS: Hobbies Primeras Actividades de Chicco es la mesa de actividades para niños que les enseña una gran variedad de contenido en dos lenguas, con más de 60 palabras, frases, canciones y sonidos divertidos, divididos en 4 áreas temáticas
+- ZONA ARTÍSTICA: con la pizarra mágica, los niños pueden dibujar y escribir lo que prefieran usando su imaginación; Es fácil de borrar y tiene un lápiz ergonómico para las manos de los niños
+- JUGUETES PARA NIÑOS: descubre el universo de juguetes Chicco, lleno de diversión y con una gran variedad de juguetes infantiles y productos para regalar a niños y niñas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
