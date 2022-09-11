@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 14 NIVELES: Nuestro sacaleches Doble tiene 5 niveles de succión repetida y rápida + 9 niveles con una succión más lenta y prolongada, podrá elegir el que mejor se adapte a sus necesidades. Con nuestro nuevo sistema del cuello, los sacaleches edibaby son más anchos adaptándose así mejor a todo tipo de pechos.
 - RECARGABLE Y GRAN CAPACIDAD: Podrá cargarlo donde quiera, a través de una toma de corriente, una batería portátil o incluso su ordenador. Gran capacidad tanto de la batería 1600mAh y de la botella 150ml, con la cual dispondrá de capacidad de sobra.
-- ANTIRREFLUJO Y SIN BPA: Dispone de una válvula de silicona que separa el aire y la leche, esta protege el reflujo de la leche materna. Podrá dar a su bebé leche fresca y de calidad hasta varias horas después de la extracción. Está fabricado en silicona libre de BPA.
 - EXTRACCIÓN DOBLE: El uso de un extractor de leche doble es la mejor manera de maximizar la cantidad de leche extraída. Las sesiones de extracción doble suponen un aumento significativo en el volumen de leche, un 18 % más de media .
+- ANTIRREFLUJO Y SIN BPA: Dispone de una válvula de silicona que separa el aire y la leche, esta protege el reflujo de la leche materna. Podrá dar a su bebé leche fresca y de calidad hasta varias horas después de la extracción. Está fabricado en silicona libre de BPA.
 - TOTAL GARANTÍA: no se preocupe, los productos edibaby disponen de garantía europea, si tiene algún problema antes o después de realizar el pedido, no dude en hacérnoslo saber.
+- 14 NIVELES: Nuestro sacaleches Doble tiene 5 niveles de succión repetida y rápida + 9 niveles con una succión más lenta y prolongada, podrá elegir el que mejor se adapte a sus necesidades. Con nuestro nuevo sistema del cuello, los sacaleches edibaby son más anchos adaptándose así mejor a todo tipo de pechos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
