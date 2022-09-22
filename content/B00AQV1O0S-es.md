@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se incluyen enzimas digestivas para garantizar una digestión adecuada de carbohidratos y proteínas
 - Este producto está formulado para su uso con: loros de bebé (incluyendo periquitos, amapolas, cacatúas, cacatúas, guacamayos, amazonas, grises africanas y otras psittacinas) y passerinas para bebés
+- Se incluyen enzimas digestivas para garantizar una digestión adecuada de carbohidratos y proteínas
 - Contiene probióticos para fomentar una población saludable de microorganismos intestinales
 - La fórmula exacta de alimentación a mano tiene sabores e ingredientes compatibles con la conversión exacta y dietas diarias exactas para adultos para ayudar a reducir las molestias digestivas durante el destete
 - Fórmula equilibrada de alto nutrientes que ayuda a los bebés a crecer más rápido, destete antes y a desarrollar un plumaje más fuerte y brillante
