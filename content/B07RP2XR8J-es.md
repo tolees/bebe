@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Funda lavable a máquina (30º) y funda de verano en algodón transpirable disponible vendo por separado
-- Seguridad: instalación ISOFIX y protecciones laterales SPS Plus con amortiguadores de fibra de vidrio y material absorbente de impactos
 - Silla de coche grupo 2/3 ISOFIX para niños desde 3.5 hasta 12 años, 15 - 36 kg; 100 - 150 cm, homologada bajo normativa ECE R129 i-Size
-- Confort: asiento cómodo con acolchado extra para la comodidad del niño
-- Crece con el niño: se ajusta tanto a la altura como al ancho para adaptarse a su crecimiento
 - Gracias al diseño abierto de la Kore i-Size, su pequeño puede coger y abrocharse el cinturón de seguridad en solo unos segundos
+- Confort: asiento cómodo con acolchado extra para la comodidad del niño
+- Seguridad: instalación ISOFIX y protecciones laterales SPS Plus con amortiguadores de fibra de vidrio y material absorbente de impactos
+- Crece con el niño: se ajusta tanto a la altura como al ancho para adaptarse a su crecimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
