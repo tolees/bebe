@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juguete de encajables para bebés y niños
 - Con 2 puertas para extraer todas las piezas
 - Con divertido martillo para golpear las piezas
 - 4 formas diferentes y 2 bolas
 - Desarrolla las habilidades cognitivas del bebé
+- Juguete de encajables para bebés y niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
