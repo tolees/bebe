@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puedes encajar y desencajar
-- Diferentes texturas
 - Estimula la coordinación manual
+- Diferentes texturas
 - Diferentes anillas de colores
+- Puedes encajar y desencajar
 - Libre de tinta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
