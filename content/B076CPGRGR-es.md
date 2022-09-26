@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PewinGo- Kit de Marco Para Manos y Huellas de bebé para niño y niña - marcos de arcilla y madera - No se agrieta al secar'
-date: 2022-09-25 00:34:11
+date: 2022-09-26 07:37:39
 image: 'https://m.media-amazon.com/images/I/31PbxehJ+BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PewinGo'
 buyurl: 'https://www.amazon.es/dp/B076CPGRGR/?tag=tolees-21'
 descuento: '26.93'
-average: '19.2837090909088'
+average: '19.2826449275359'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
