@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - a lo largo del recorrido, los niños pueden manejar los pasos a nivel, detenerse para repostar y pasar el coche por los rodillos de lavado.
-- dentro de la línea play for future, de juguetes 100% sostenibles y respetuosos con el medioambiente.
 - El sistema de ascenso manual lleva al coche de nuevo al principio de la ruta, como en un garaje real
 - Un garaje repleto de actividades mecánicas para divertirse sin parar deslizando el coche por la pista hecho con materiales 100% reciclados.
 - a partir de 18 meses.
+- dentro de la línea play for future, de juguetes 100% sostenibles y respetuosos con el medioambiente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

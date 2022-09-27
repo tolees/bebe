@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Posiciones: Silla principal con reclinado de tumbado, reposapiés ajustable y capota XL. Silla secundaria con reclinación reposo. Manillar ajustable de altura y plegado fácil y rápido
 - Sillas desmontables: Uso como carro gemelar o silla de paseo individual, apto para niños como para recién nacidos (accesorio opcional de capazo blando 2en1 de HAUCK)
 - Calidad: A parte de las pruebas exigidas por la normativa en seguridad infantil realiza la casa HAUCK pruebas voluntarias sobre aspectos químicos y técnicos
 - Ruedas: Las ruedas grandes y giratorias hacen que sea una silla gemelar fácil de manejar. La amortiguación de las ruedas hacen que se adapten a todo tipo de terrenos
+- Posiciones: Silla principal con reclinado de tumbado, reposapiés ajustable y capota XL. Silla secundaria con reclinación reposo. Manillar ajustable de altura y plegado fácil y rápido
 - Opcion silla de auto: Puede combinar el carro Freerider con nuestra silla auto ZERO PLUS de la marca HAUCK transformando el carro en un aliado de viajes. Anclajes van integrados en el carro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
