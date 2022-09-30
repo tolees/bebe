@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Set de recién nacido con 4 biberones, chupete y escobilla
-- Sin BPA y con forma ergonómica
 - De 0 a 12 meses
-- Enganche natural gracias a la tetina más ancha con forma de pecho
+- Sin BPA y con forma ergonómica
 - Tetina ultrasuave diseñada para imitar el tacto del pecho
+- Set de recién nacido con 4 biberones, chupete y escobilla
+- Enganche natural gracias a la tetina más ancha con forma de pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
