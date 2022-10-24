@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Indicada a partir de los 12 meses
 - Sin aceite de palma
-- Fórmula de crecimiento en polvo
 - Ayuda al normal funcionamiento del sistema inmunitario gracias a las vitaminas C y D
+- Fórmula de crecimiento en polvo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
