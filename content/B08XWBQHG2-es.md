@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mangas largas
-- Paquete de 4 por lo que siempre hay un extra
-- Puños acanalados de ajuste cómodo
-- Sin etiquetas. Sin complicaciones. Solo la calidad de Carter que conoces + amas, exclusivamente en Amazon.
 - Broches sin níquel en paneles reforzados
+- Puños acanalados de ajuste cómodo
+- Mangas largas
+- Sin etiquetas. Sin complicaciones. Solo la calidad de Carter que conoces + amas, exclusivamente en Amazon.
+- Paquete de 4 por lo que siempre hay un extra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
