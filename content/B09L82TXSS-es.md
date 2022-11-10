@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño de manga larga
-- Una marca de Amazon
 - Tejido de punto gofrado suave y transpirable
 - Dos bolsillos en la parte delantera
+- Diseño de manga larga
 - Corte relajado para ofrecer comodidad mientras duermes
+- Una marca de Amazon
 - Cinturón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

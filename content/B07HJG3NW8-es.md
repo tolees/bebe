@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una marca de Amazon
 - Tessuto lavorato a maglia a nido d’ape traspirante e morbido
+- Una marca de Amazon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
