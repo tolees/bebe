@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - También con 6 accesorios, clavos y tuercas, para una diversión completa e interactiva
-- Desarrolla la imaginación y creatividad
 - Estimula la habilidad manual
+- Desarrolla la imaginación y creatividad
 - Banco de trabajo para jugar con 3 herramientas: un martillo, un destornillador y una llave inglesa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
