@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxi-Cosi RodiFix AirProtect Silla Coche Grupo 2-3 isofix  reclinable en 2 posiciones  regulable en altura y anchura  para niños 3 5 - 12 años  Color Authentic Graphite'
-date: 2022-11-18 12:41:46
+date: 2022-11-19 15:32:23
 image: 'https://m.media-amazon.com/images/I/41ZMLLwldPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Maxi-Cosi'
 buyurl: 'https://www.amazon.es/dp/B07ZL3DL4F/?tag=tolees-21'
 descuento: '31.25'
-average: '140.822'
+average: '135.683333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - SEGURIDAD: tecnología Air Protect aplicada en el cabezal para reducir más de un 20% el riesgo de lesiones en la cabeza y Sistema de protección lateral SPS
 - SILLA COCHE ISOFIX para un montaje seguro y estable en el automóvil con indicadores visuales de correcta instalación
-- CONFORT: Silla coche reclinable en 2 posiciones y Regulable en altura y anchura para crecer con tu hijo
 - FUNDA LAVABLE a máquina (30º) y funda de verano en algodon transpirable disponible vendo por separado
 - SILLA DE COCHE GRUPO 2/3 ISOFIX para niños desde 3.5 hasta 12 años (15 - 36 kg) homologada a R44/04
+- CONFORT: Silla coche reclinable en 2 posiciones y Regulable en altura y anchura para crecer con tu hijo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
