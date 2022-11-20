@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SEGURIDAD: tecnología Air Protect aplicada en el cabezal para reducir más de un 20% el riesgo de lesiones en la cabeza y Sistema de protección lateral SPS
-- CONFORT: Silla coche reclinable en 2 posiciones y Regulable en altura y anchura para crecer con tu hijo
 - FUNDA LAVABLE a máquina (30º) y funda de verano en algodon transpirable disponible vendo por separado
 - SILLA DE COCHE GRUPO 2/3 ISOFIX para niños desde 3.5 hasta 12 años (15 - 36 kg) homologada a R44/04
+- CONFORT: Silla coche reclinable en 2 posiciones y Regulable en altura y anchura para crecer con tu hijo
 - SILLA COCHE ISOFIX para un montaje seguro y estable en el automóvil con indicadores visuales de correcta instalación
+- SEGURIDAD: tecnología Air Protect aplicada en el cabezal para reducir más de un 20% el riesgo de lesiones en la cabeza y Sistema de protección lateral SPS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
