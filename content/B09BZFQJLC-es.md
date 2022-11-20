@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 3 niveles de aprendizaje de Smart Stages enseñan el alfabeto, los números y los colores
-- Tira del suave calcetín que tiene el perrito en la boca para ver cómo mueve su cola, agita su cabeza y se desplaza hacia atrás y hacia delante para animar a que el bebé gatee y lo persiga
-- Ayuda a desarrollar la motricidad gruesa, el equilibrio y la coordinación. Para bebés y niños de entre 6 y 36 meses
 - Perro electrónico de juguete con orejas y cola suaves y movimientos realistas para ayudar a que el bebé gatee
 - Presiona los 2 botones que se iluminan o tira del calcetín para escuchar más de 55 canciones, sonidos y frases educativos
+- Ayuda a desarrollar la motricidad gruesa, el equilibrio y la coordinación. Para bebés y niños de entre 6 y 36 meses
+- Tira del suave calcetín que tiene el perrito en la boca para ver cómo mueve su cola, agita su cabeza y se desplaza hacia atrás y hacia delante para animar a que el bebé gatee y lo persiga
+- 3 niveles de aprendizaje de Smart Stages enseñan el alfabeto, los números y los colores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
