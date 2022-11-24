@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxi-Cosi CabrioFix Silla coche bebé grupo 0+  reductor recién nacidos  sistema de protección lateral  capota solar  portabebés 0-12 meses  0-13 kg   color Essential Black'
-date: 2022-11-21 06:05:31
+date: 2022-11-24 12:28:14
 image: 'https://m.media-amazon.com/images/I/31M1jhKNbrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Maxi-Cosi'
 buyurl: 'https://www.amazon.es/dp/B07ZDP8NKT/?tag=tolees-21'
 descuento: '60.90'
-average: '81.2686956521738'
+average: '80.7987499999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
