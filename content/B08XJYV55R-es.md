@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica
 - Leggins ajustados a la pierna
 - Úselo fuera y dentro de la casa
 - Cintura elástica
 - Conjunto compuesto por 3 leggins largos en primavera y colores lisos
+- Cintura elástica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
