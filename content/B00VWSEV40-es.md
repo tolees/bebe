@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ecus Kids Colchón De Cuna Ecus Pigü | Colchón Para Cuna Antiplagiocefalia  Bebé Máxima Frescura  color Blanco Y Gris  140x70x12 cm  3900 g'
-date: 2022-11-25 08:04:25
+date: 2022-11-29 17:06:19
 image: 'https://m.media-amazon.com/images/I/310PD8zj3OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Prevención Plagiocefalia 8/10 | Prevención Asfixia 8/10
 - Colchón de cuna con tratamientos | Antibacterianos e Hipoalergénicos
 - Acolchado exterior del colchón de cuna | Lavable
+- Made in Spain | Europe | Todos los productos de Ecus Kids están desarrollados y fabricados íntegramente en España
+- Núcleo interior del colchón de cuna | Espuma Soja | Acolchado exterior del colchón de cuna | Con Algodón Organico
 - Certificado Oeko Tex | Libre sustancias perjudiciales para salud | Nº Certificado 2017OK0745
 - 5 años de garantia ante defectos de fabricación | 30 noches de prueba | Sin costes de devolución
-- Made in Spain | Europe | Todos los productos de Ecus Kids están desarrollados y fabricados íntegramente en España
-- Prevención Plagiocefalia 8/10 | Prevención Asfixia 8/10
-- Núcleo interior del colchón de cuna | Espuma Soja | Acolchado exterior del colchón de cuna | Con Algodón Organico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
