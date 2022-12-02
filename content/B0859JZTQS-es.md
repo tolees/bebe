@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'deAO Mi Primera Muñeca Bebé Conjunto Incluye Muñeca de 14” con Pijama  Cuna con Móvil y Ropa de Cama  Trona  Sonajero  Orinal y Más Accesorios  Multicolor 2 '
-date: 2022-12-01 10:29:17
+date: 2022-12-02 10:50:58
 image: 'https://m.media-amazon.com/images/I/51FGruXR-0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'deAO'
 buyurl: 'https://www.amazon.es/dp/B0859JZTQS/?tag=tolees-21'
 descuento: '23.67'
-average: '33.2566666666667'
+average: '33.365'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
