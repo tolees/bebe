@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Es una idea perfecta para regalar a bebés y recién nacidos.
 - Está fabricado en microfibra de última generación para mayor confort del bebé. Medidas: 80 x110cm.
-- Es una manta con dos texturas diferenciadas, por un lado tiene un agradable y suave tacto de nido de abeja y en el anverso un cálido tacto de borreguito.
 - Mantita para bebés modelo Nido de Abeja con borreguito en color beige.
+- Es una manta con dos texturas diferenciadas, por un lado tiene un agradable y suave tacto de nido de abeja y en el anverso un cálido tacto de borreguito.
 - Mantita perfecta para arropar al bebé, taparlo en el carrito o la silla de paseo, arrullarlo y abrigarlo siempre que lo necesites.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
