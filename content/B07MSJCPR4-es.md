@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Luz nocturna con proyección y rotación: La lámpara puede ser como una luz de noche, viene con 7 diferentes luces. El proyector de cielo estrellado crea un hermoso cielo nocturno de la luna y estrellas en el techo o la pared, con una rotación de 360 °, proporcionando un cielo estrellado de ensueño, creando un efecto de iluminación nocturna pacífica y romántica.
-- Decorativo y portátil: la lámpara de proyección para niños es un gran regalo para la habitación de los niños. Es la decoración perfecta para sus amigos en pasillos, salones, bodas, fiestas de cumpleaños, etc. Crea un fondo hermoso. Por lo tanto, las luces románticas y hermosas noches se pueden mover a cualquier lugar.
-- 3 modos de funcionamiento: modo de luz nocturna cálida (presione el botón A y presione nuevamente para apagarlo); cambie el modo de color de la luz (use los botones rojo verde y azul del botón B); gire el modo de luz (presione Botón inferior C gira la luz).
-- Lo que ofrecemos: no dude en contactarnos por correo electrónico si tiene alguna inquietud o pregunta con respecto al proyector de cielo estrellado.
 - Fuente de alimentación conveniente: las luces de las estrellas están equipadas con cable USB, carga, bajo voltaje y conveniente. También puede ser alimentado por 4 baterías AAA (sin incluir las baterías).
+- 3 modos de funcionamiento: modo de luz nocturna cálida (presione el botón A y presione nuevamente para apagarlo); cambie el modo de color de la luz (use los botones rojo verde y azul del botón B); gire el modo de luz (presione Botón inferior C gira la luz).
+- Decorativo y portátil: la lámpara de proyección para niños es un gran regalo para la habitación de los niños. Es la decoración perfecta para sus amigos en pasillos, salones, bodas, fiestas de cumpleaños, etc. Crea un fondo hermoso. Por lo tanto, las luces románticas y hermosas noches se pueden mover a cualquier lugar.
+- Luz nocturna con proyección y rotación: La lámpara puede ser como una luz de noche, viene con 7 diferentes luces. El proyector de cielo estrellado crea un hermoso cielo nocturno de la luna y estrellas en el techo o la pared, con una rotación de 360 °, proporcionando un cielo estrellado de ensueño, creando un efecto de iluminación nocturna pacífica y romántica.
+- Lo que ofrecemos: no dude en contactarnos por correo electrónico si tiene alguna inquietud o pregunta con respecto al proyector de cielo estrellado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
