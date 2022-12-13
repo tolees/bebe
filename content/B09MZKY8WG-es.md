@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Biberón con amplias aperturas que facilitan el llenado y la limpieza, tapa protectora a prueba de derrames que funciona como taza medidora y con tetina 1 de flujo lento recomendado a partir de 0 meses
-- Fácil desmontaje para su limpieza y esterilización, sistema de auto-esterilización en 3 minutos al microondas
-- Validado en tests con madres de bebés con cólicos: estudio de campo, Austria 2011, testado con 73 mamás con bebé con cólicos - Estudio de mercado, USA 2010, testado con 35 mamás con bebé con cólicos
 - Tetina de silicona ultra suave patentada SkinSoftTM aceptada por el 94% de los bebés por su tacto suave y forma que simulan el pezón de la madre, Estudio de mercado 2009-2020 testado con 1,572 bebés
+- Fácil desmontaje para su limpieza y esterilización, sistema de auto-esterilización en 3 minutos al microondas
 - Composición del material: Plástico
 - Reduce cólicos y regurgitaciones gracias al innovador Sistema Anti-colic, base patentada con orificios de ventilación que evitan que el bebé trague aire, confirmado por 8 de cada 10 madres
+- Validado en tests con madres de bebés con cólicos: estudio de campo, Austria 2011, testado con 73 mamás con bebé con cólicos - Estudio de mercado, USA 2010, testado con 35 mamás con bebé con cólicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
