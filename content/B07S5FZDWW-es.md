@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Set regalo de ropita para recién nacido, fabricado 100% Algodón para cuidar de la delicada piel del bebé.
 - Incluye: 1 par de manoplas, un babero, un gorrito de primera puesta, una camisa y una polaina.
-- Pack regalo para bebés “Primera Puesta” 5 Piezas, con un original estampado. Muy útil para los primeros días en el hospital.
 - Talla Única de 0-6 meses.
 - El set de bebé viene en una bonita caja perfecta para regalo.
+- Set regalo de ropita para recién nacido, fabricado 100% Algodón para cuidar de la delicada piel del bebé.
+- Pack regalo para bebés “Primera Puesta” 5 Piezas, con un original estampado. Muy útil para los primeros días en el hospital.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
