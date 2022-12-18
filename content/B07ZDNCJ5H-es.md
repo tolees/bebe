@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gracias a la variedad de accesorios - bolsa bandolera, cuna de viaj, saco de dormir, un plato de plástico, cubiertos, botellitas para el aseo, biberón y chupete - se te ocurrirán mil ideas
-- Set de accesorios para muñeca grande en colores modernos y frescos
 - La cuna de viaje es para muñecas con un tamaño de hasta 46 cm
+- Set de accesorios para muñeca grande en colores modernos y frescos
+- Gracias a la variedad de accesorios - bolsa bandolera, cuna de viaj, saco de dormir, un plato de plástico, cubiertos, botellitas para el aseo, biberón y chupete - se te ocurrirán mil ideas
 - La bolsa bandolera incluida ofrece espacio, por ejemplo para utensilios de muñecos
 - El saco de dormir es perfecto para dormir la muñeca
 
