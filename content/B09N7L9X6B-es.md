@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comodidad
 - Transpirable
+- Comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
