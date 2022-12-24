@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TESTADO DERMATOLÓGICAMENTE: Su fórmula ha sido clínicamente testada bajo estricto control dermatológico
-- FORMATO EFICIENTE: 6 unidades x 600 ml
 - CON EL OLOR DE NENUCO: Disfrutad de esta fragancia que, junto con vuestros mimos que tanto le gustan, estimulará sus sentidos y creará momentos especiales
-- AGUA DE COLONIA NENUCO: El Agua de Colonia Nenuco con su fragancia de siempre cuidará de vuestro bebé y de toda la familia a diario
 - PH NEUTRO: El PH Neutro de la colonia respetará la suavidad de su delicada piel
+- FORMATO EFICIENTE: 6 unidades x 600 ml
+- AGUA DE COLONIA NENUCO: El Agua de Colonia Nenuco con su fragancia de siempre cuidará de vuestro bebé y de toda la familia a diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
