@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 0% perfume y alcohol
-- Fórmula única con algodón premium. Suave como una pluma en la delicada piel del bebé
 - Elaboradas con 99% de agua y 0% plástico para una limpieza delicada
-- Toallitas para bebé con 100% fibras de origen vegetal y 0% plástico
 - Testadas dermatológicamente y aprobadas por Dermatólogos del Skin Health Alliance
+- 0% perfume y alcohol
+- Toallitas para bebé con 100% fibras de origen vegetal y 0% plástico
+- Fórmula única con algodón premium. Suave como una pluma en la delicada piel del bebé
 
 [🛒 Comprar!!!]({{< param buyurl >}})
