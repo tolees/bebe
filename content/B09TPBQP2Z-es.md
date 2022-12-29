@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LINFUN KIDS Mesa de Actividades para bebés con Sonidos y Luces Juguetes Musicales Centro de Actividades de Aprendizaje Juguetes Educación Regalos para Niños Niñas 1 Años'
-date: 2022-12-27 19:57:45
+date: 2022-12-29 13:29:32
 image: 'https://m.media-amazon.com/images/I/51mQdwsOT4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LINFUN KIDS'
 buyurl: 'https://www.amazon.es/dp/B09TPBQP2Z/?tag=tolees-21'
 descuento: '23.01'
-average: '29.415'
+average: '28.9284615384615'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
