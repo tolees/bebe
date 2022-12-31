@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con muchos accesorios divertidos como su piruleta, que les encanta tomarse
-- Amicicci son unos pequeños bebés muy flexibles hechos hechos de un material blandito y divertido; Son casi como un bebé de verdad
 - Un juguete muy divertido que encantará a los niños y niñas pequeños de la casa a los que les gusten las muñecas desde los 3 años de edad
 - La colección night outfit trae bonitos pijamas para la hora de dormir que se pueden quitar y poner y un chupete para ayudarles a dormir
+- Con muchos accesorios divertidos como su piruleta, que les encanta tomarse
+- Amicicci son unos pequeños bebés muy flexibles hechos hechos de un material blandito y divertido; Son casi como un bebé de verdad
 - Pueden meterse la mano o el pie en la boquita y estirarse. En la colección hay niñas y niños
 - Los Amicicci hacen increíbles movimientos flexibles y hacen expresiones faciales tiernas y divertidas al presionarle las mejillas
 
