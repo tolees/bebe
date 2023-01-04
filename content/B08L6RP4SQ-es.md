@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTECCIÓN TOTAL: el sistema de seguridad lateral garantiza la seguridad en impactos laterales. El cojín reductor acolchado, para verano e invierno, es una suave protección añadida para el niño
+- GRUPO 1 (9-18 KG): la silla se instala en la dirección de la marcha con el sistema Isofix y el cinturón de seguridad de 3 puntos del coche. El niño se asegura con el arnés de 5 puntos del asiento
 - SILLA DE COCHE RECLINABLE: la sillita se transforma para acompañar el crecimiento del bebé, desde el nacimiento hasta los 12 años (0-36 kg). Se reclina en 3 posiciones para el máximo confort
 - GRUPO 2/3 (15-36 KG): gracias al reposacabezas ajustable, la silla acompaña el crecimiento del niño. Se instala con el sistema Isofix y el niño se asegura con el cinturón de 3 puntos del coche
 - GRUPO 0+ (0-13 KG): la silla de coche puede instalarse con el sistema Isofix y Top Tether para ofrecer la máxima seguridad, o con los conectores Isofix y el cinturón de 3 puntos del coche
-- GRUPO 1 (9-18 KG): la silla se instala en la dirección de la marcha con el sistema Isofix y el cinturón de seguridad de 3 puntos del coche. El niño se asegura con el arnés de 5 puntos del asiento
+- PROTECCIÓN TOTAL: el sistema de seguridad lateral garantiza la seguridad en impactos laterales. El cojín reductor acolchado, para verano e invierno, es una suave protección añadida para el niño
 
 [🛒 Comprar!!!]({{< param buyurl >}})
