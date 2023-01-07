@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GHB Vigilabebés Inalambrico Bebé Monitor Inteligente con LCD 2.4 Pulgadas'
-date: 2022-12-30 10:01:26
+date: 2023-01-07 10:31:23
 image: 'https://m.media-amazon.com/images/I/41p8LTF5xaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GHB'
 buyurl: 'https://www.amazon.es/dp/B08DJ4P2JL/?tag=tolees-21'
 descuento: '16.67'
-average: '53.75375'
+average: '54.1205882352941'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
