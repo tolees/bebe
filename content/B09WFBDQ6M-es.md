@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playgro Juguete de baño 3 amigos flotantes  impermeable/sin suciedad'
-date: 2023-01-07 09:21:26
+date: 2023-01-08 09:27:37
 image: 'https://m.media-amazon.com/images/I/41RlhzRYAZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playgro'
 buyurl: 'https://www.amazon.es/dp/B09WFBDQ6M/?tag=tolees-21'
 descuento: '30.79'
-average: '8.8023076923077'
+average: '8.81571428571429'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
