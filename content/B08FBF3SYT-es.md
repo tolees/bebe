@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tamaño: 6 m y 6 m a 12 m para un ajuste creciente
 - Un paquete de mamelucos de manga corta con el logotipo de Levis Housemark en la parte delantera
 - Los juegos de cajas de regalo Levis son perfectos para la próxima generación de innovadores
-- Tamaño: 6 m y 6 m a 12 m para un ajuste creciente
 - Características de los mamelucos: cuello redondo, hombros solapados y cierres a presión a lo largo de la entrepierna
 
 [🛒 Aquí!!!]({{< param buyurl >}})
