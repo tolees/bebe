@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su fórmula ha sido clínicamente testada bajo control dermatológico
 - El pH neutro de la colonia respetará la suavidad de la piel delicada
-- Viene en un contenedor grande y conveniente
 - Tiene una fragancia fresca y suave que es de larga duración
+- Su fórmula ha sido clínicamente testada bajo control dermatológico
+- Viene en un contenedor grande y conveniente
 - Es adecuado para el uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
