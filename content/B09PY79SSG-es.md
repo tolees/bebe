@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanlebi Bolos Infantile  Juego de Bolos con 10 Alfileres y 2 Bolas  Juguetes Educativos y Juegos Aire Libre para Bebé Niños Niñas Bebé 2 3 4 Años'
-date: 2023-01-19 06:47:28
+date: 2023-01-23 10:14:46
 image: 'https://m.media-amazon.com/images/I/61NDcdaBhqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sanlebi'
 buyurl: 'https://www.amazon.es/dp/B09PY79SSG/?tag=tolees-21'
 descuento: '29.42'
-average: '23.7130769230769'
+average: '23.7328571428571'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
