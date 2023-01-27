@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iHealth no-touch termómetro de la frente  termómetro infrarrojo digital para adultos y niños  sin contacto termómetro para bebés con 3 sensores ultrasensibles  pt3 '
-date: 2023-01-23 07:05:10
+date: 2023-01-27 12:10:25
 image: 'https://m.media-amazon.com/images/I/21tI2q5rMXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B075QQ8VZW-es iHealth no-touch termómetro de la frente termómetro...'
 sku: 'B075QQ8VZW-es'
 tags: [ 'Monitores de diagnóstico y salud','Salud y cuidado personal','Suministros y equipamiento médico','Termómetros de frente','Termómetros médicos','Termómetros y accesorios','bebés','ihealth','🇪🇸', ]
-actualPrice: 20.5 EUR
+actualPrice: 45.22 EUR
 currency: EUR
-price: 20.5
+price: 45.22
 comparePrice: 79.95 EUR
 prodname: 'iHealth no-touch termómetro de la frente  termómetro infrarrojo digital para adultos y niños  sin contacto termómetro para bebés con 3 sensores ultrasensibles  pt3 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'iHealth'
 buyurl: 'https://www.amazon.es/dp/B075QQ8VZW/?tag=tolees-21'
-descuento: '74.36'
-average: '39.4761111111111'
+descuento: '43.44'
+average: '39.7784210526316'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
