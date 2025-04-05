@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata y alisa la piel
-- Rápida absorción
 - Mejora la elasticidad
+- Rápida absorción
+- Hidrata y alisa la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B002HRTVO0{{</world>}}

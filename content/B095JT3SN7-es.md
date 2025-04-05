@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - PELUCHE INTERACTIVO: Juego del descubrimiento para jugar padres e hijos
+- DA DE COMER A LA MASCOTA: cuando acercas la zanahoria a la boca del pony, éste come
 - PARA CUIDAR Y ABRAZAR: cuando acaricias la cabeza del caballito, él hace ruidos con alegría
 - JUEGO CUCÚ-TRAS: Al taparle los ojos se entristece, y al destaparlos, ¡se pone contento
-- DA DE COMER A LA MASCOTA: cuando acercas la zanahoria a la boca del pony, éste come
 - Cuando ve al niño sonrie
 
 [🛒 Visítala!!!]({{< param buyurl >}})

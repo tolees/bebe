@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ambientador Air Wick en formato spray
 - Fragancia Nenuco, tan fresca y ligera que te transportará al mundo de los bebés
-- Descubre el resto de fragancias y ambientadores de Air Wick
 - Actúan en cuestión de segundos, aportando a tu hogar una fragancia fresca y duradera con tan solo una difusión
+- Ambientador Air Wick en formato spray
+- Descubre el resto de fragancias y ambientadores de Air Wick
 - Neutraliza los malos olores sin dejar residuos húmedos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

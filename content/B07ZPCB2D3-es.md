@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ultra ligero (plegado dentro de una super pequeña bolsa, equipado con un asa y un elástico para llevarlo a todas partes)
 - Saco cómodo, cálido y transpirable (hecho de relleno técnico sustans de fibra a base de plantas renovables certificado por oeko text)
+- Ultra ligero (plegado dentro de una super pequeña bolsa, equipado con un asa y un elástico para llevarlo a todas partes)
 - Compatible con la mayoría de los cochecitos (instalado con arnés de 5 puntos, varios niveles de ajuste posible)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

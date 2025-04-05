@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptimos para cualquier momento del día por sus sabores variados: 6 x guiso de pollo con judías verdes; 6 x crema de patatas, puerro y zanahoria; 6 x verduritas con lenguado; 6 x manzana, naranja, plátano y pera Williams
 - Sin aditivos, colorantes ni conservantes y sin sal añadida acorde con las recomendaciones pediátricas
+- Óptimos para cualquier momento del día por sus sabores variados: 6 x guiso de pollo con judías verdes; 6 x crema de patatas, puerro y zanahoria; 6 x verduritas con lenguado; 6 x manzana, naranja, plátano y pera Williams
 - Los potitos Nutribén son un alimento infantil destinado a bebés desde los 6 meses. Este pack incluye 24 potitos en sabores variados elaborados con ingredientes de buena calidad
 - Están creados para alimentar a tu bebé dentro de una dieta variada siguiendo las recomendaciones de la ESPGHAN y siendo sometidos a más de 1.000 controles de calidad
 - Preparados con aceite de oliva 100% virgen extra, carne, fruta y vegetales frescos; y sin aceite de palma

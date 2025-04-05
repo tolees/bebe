@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✅ ACCESORIOS: portavasos, mosquitera, protector de lluvia, cubrepiés, bolsa para los padres, reductor suave para el asiento y el capazo, adaptadores*
-- ✅ LIGERA DE LLEVAR: las ruedas grandes e hinchables tienen amortiguación. Las ruedas delanteras rotan 360 grados y cuentan con un bloqueo para rodar en línea recta. Este carrito bebé es muy manejable y se lleva fácilmente tanto por ciudad como por los caminos rurales. Junto a las ruedas traseras hay un freno central STOP & RIDE de lo más cómodo.
 - ✅ MULTIFUNCIONAL: carrito 3 en 1 para niños desde 0 meses hasta 22 kg. Asiento 2 en 1: el capazo se transforma fácilmente en silla de paseo. El kit también incluye una silla de coche de 0-13 kg y adaptadores universales para crear un TRAVEL SYSTEM. El manillar se puede regular en 8 posiciones para adaptarlo a la estatura de los padres.
 - ✅ ASIENTO 2 EN 1: el capazo se puede transformar fácilmente en una silla de paseo. El kit incluye un reductor suave para aumentar la comodidad durante el viaje. El asiento de la silla de paseo se puede instalar a contramarcha o a favor de la marcha, y posee una regulación de 3 niveles, posición tumbada incluida.
+- ✅ ACCESORIOS: portavasos, mosquitera, protector de lluvia, cubrepiés, bolsa para los padres, reductor suave para el asiento y el capazo, adaptadores*
+- ✅ LIGERA DE LLEVAR: las ruedas grandes e hinchables tienen amortiguación. Las ruedas delanteras rotan 360 grados y cuentan con un bloqueo para rodar en línea recta. Este carrito bebé es muy manejable y se lleva fácilmente tanto por ciudad como por los caminos rurales. Junto a las ruedas traseras hay un freno central STOP & RIDE de lo más cómodo.
 - ✅ PARA CUALQUIER CLIMA: el carrito 3 en 1 XMOOV tiene una capota grande y extensible hecha de material impermeable con filtro UPF50+. Protege de maravilla contra la lluvia, el viento y el calor. Además, la capota cuenta con una extensión adicional, un panel de ventilación y una ventanita para tener el peque a la vista.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

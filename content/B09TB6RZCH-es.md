@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Miden 35 centímetros, tienen ropa intercambiable y se pueden meter en el agua
-- Juguete indicado para niños y niñas pequeños a artir de 3 años de edad
 - Hay 3 muñecas diferentes: africana, caucásica y asiática
+- Juguete indicado para niños y niñas pequeños a artir de 3 años de edad
+- Miden 35 centímetros, tienen ropa intercambiable y se pueden meter en el agua
 - Nenucos del mundo es la nueva gama de los muñecos Nenuco con rasgos de diferentes etnias
 - Llevan puesto un vestido con dibujos de flores rosas, de estilo muy primaveral y peinadas con accesorios diferentes a juego
 

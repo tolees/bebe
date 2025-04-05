@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Especialmente formulado para la piel frágil de los más pequeños.
 - Fotoprotector fluido para el rostro y el cuerpo de niños y bebés con filtros 100% minerales.
 - Protege frente a la radiación UV indirecta.
-- Especialmente formulado para la piel frágil de los más pequeños.
-- Proporciona una alta protección solar frente a la radiación UVB/UVA.
 - Recomendado para niños y bebés mayores de 6 meses de edad, apto para piel atópica y sensible. Mineral oil-free, sin perfume.
+- Proporciona una alta protección solar frente a la radiación UVB/UVA.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E0PUYGK{{</world>}}

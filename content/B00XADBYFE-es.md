@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Con una textura y olor suave
 - Deja la piel hidratada
-- Con extracto de aloe vera
 - Es suave con la piel de los niños
 - Jabón líquido para niños
+- Con extracto de aloe vera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XADBYFE{{</world>}}

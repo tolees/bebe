@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- No aplicar la colonia directamente sobre el bebé. Echar un poco de la colonia en la palma de nuestras manos para luego frotarlas, y posteriormente tocar al pequeño en aquellas zonas que se deseen aromatizar
+- La primera fragancia para bebés de la marca Tous indicada para pieles atópicas
 - Las notas de salida son bergamota, mandarina y nerolí; las notas de corazón son pera, manzana y flor de naranjo; las notas de fondo son cedro, almizcle y petit grain
 - Colonia Tous con fragancia floral almizclada para bebé, no contiene alcohol
-- La primera fragancia para bebés de la marca Tous indicada para pieles atópicas
-- No aplicar la colonia directamente sobre el bebé. Echar un poco de la colonia en la palma de nuestras manos para luego frotarlas, y posteriormente tocar al pequeño en aquellas zonas que se deseen aromatizar
 - Vaporizador de 100ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

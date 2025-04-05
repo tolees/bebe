@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones del producto: 19 x 10 x 8,5 cm
 - Número de modelo del producto: T23631
 - Incontinencia de la higiene, el calor, y después de las operaciones cuando se viaja
+- Dimensiones del producto: 19 x 10 x 8,5 cm
 - 12 Pañales Perros ultra absorbentes, XS-S
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

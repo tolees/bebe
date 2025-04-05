@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte de piel sintética
-- Mediasuela con amortiguación para una pisada cómoda
 - Cierre de velcro
 - Horma clásica
+- Mediasuela con amortiguación para una pisada cómoda
 - Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

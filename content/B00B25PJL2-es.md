@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Es ideal para usarlo después del baño, ya que previene el desecamiento cutáneo y mantiene la piel suave
-- Aplicar unas gotas del aceite sobre la piel ligeramente húmeda y masajea suavemente hasta su completa absorción
 - Aceite corporal vegano de Caléndula 100% natural para bebés que cuida y protege su delicada piel
 - Este aceite a base de almendra dulce, caléndula y manzanilla BIO calman y alivian la delicada piel del bebé
 - El aceite dejará la piel de tu bebé más hidratada; además, la protegerá de las agresiones externas y estimulará la actividad celular de su piel
+- Aplicar unas gotas del aceite sobre la piel ligeramente húmeda y masajea suavemente hasta su completa absorción
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00B25PJL2{{</world>}}

@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Luz de la figura 3D: el niño también conocido como "Baby Yoda" es el personaje de la serie de televisión original de Star Wars Disney The Mandalorian. Cuando se oscurece, gira el interruptor para encender la luz LED.
 - Producto oficial: este coleccionable de calidad es una adición única a cualquier conjunto de fans. Regala esta genial mercancía de coleccionista a madres, padres, fanáticos, niños, niños y niñas que aman la diversión de la cultura pop.
 - Ilumina la noche: utiliza esta luz de noche como lámpara de escritorio en la mesita de noche junto a tu cama. Es una manera perfecta de iluminar la cueva de tu hombre, dormitorio, guardería, sala de juegos o cine en casa temático.
-- Regalo original: para aquellos que buscan artículos novedosos y todas las cosas geek, locos y únicos, estamos orgullosos de crear juguetes, tazas, coleccionables y novedades más vendidas.
 - El icono del niño: de pie 15 cm de alto y alimentado por 2 pilas AAA (no incluidas), puedes colocar la luz de escritorio para niños en cualquier lugar de tu casa o llevarlo contigo cuando te alojes.
+- Regalo original: para aquellos que buscan artículos novedosos y todas las cosas geek, locos y únicos, estamos orgullosos de crear juguetes, tazas, coleccionables y novedades más vendidas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0887QSHD2{{</world>}}

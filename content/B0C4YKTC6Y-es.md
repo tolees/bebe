@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CON FILTRO UV400 de categoría 3. Cuentan con un amplio espectro de protección
-- ERGONÓMICAS. La montura está especialmente diseñada para bebés de 0 a 12 meses, cuyo puente de la nariz no está completamente formado todavía
-- POLARIZADAS. Gafas de sol para bebés de 0 a 12 meses polarizadas, filtran los rayos de sol para disminuir el deslumbramiento y mejoran el contraste con la luz intensa
 - PROTECCIÓN UVA Y UVB. Protegen al 100% de los rayos UVA y UVB
+- CON FILTRO UV400 de categoría 3. Cuentan con un amplio espectro de protección
+- POLARIZADAS. Gafas de sol para bebés de 0 a 12 meses polarizadas, filtran los rayos de sol para disminuir el deslumbramiento y mejoran el contraste con la luz intensa
+- ERGONÓMICAS. La montura está especialmente diseñada para bebés de 0 a 12 meses, cuyo puente de la nariz no está completamente formado todavía
 - AJUSTE PERFECTO. Se ajustan a la fisionomía de la cara y proporcionan una sujeción total sin apretar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

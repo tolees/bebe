@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paquete de 2 vestidos con divertidos estampados y purpurina
 - Fácil de poner y quitar
+- Paquete de 2 vestidos con divertidos estampados y purpurina
 - Calidad de confianza Carter, todos los días y embalaje sin complicaciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
