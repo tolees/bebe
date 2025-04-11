@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La talla 22 corresponde a una longitud de pie de 136 mm
 - Sandalia apta tanto para el mar como para la piscina
 - Sandalia semicerrada Chicco con cierre ajustable en el tobillo
 - Sandalia de PVC. Los zapatos Chicco son cómodos, flexibles, ligeros, transpirables y prácticos
+- La talla 22 corresponde a una longitud de pie de 136 mm
 - Sandalia blanca apta tanto para niñas como para niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

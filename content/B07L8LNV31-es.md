@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con tapa protectora
-- Borde 360 antiderrame en silicona
 - 240ml
+- Borde 360 antiderrame en silicona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07L8LNV31{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Descubre la Fórmula Evolution | El último avance de Laboratorios Ordesa en leche de continuación. Resulta una excelente alternativa para lactancia mixta y transición al biberón. Primera fórmula infantil española con proteína A2, IM1 PRO, 5 HMOs y proteínas bioactivas presentes en la leche materna.
 - A Tener en Cuenta | El biberón debe ser preparado inmediatamente antes de su uso. Una vez preparado, se recomienda consumirlo antes de una hora. No reutilizar el contenido del biberón después de la toma.
 - Importante | La leche materna es el mejor alimento para el lactante durante los primeros meses de vida y cuando no sea posible, le corresponderá al pediatra o profesional sanitario que realice el seguimiento de su crecimiento y desarrollo recomendar la más indicada.
-- Descubre la Fórmula Evolution | El último avance de Laboratorios Ordesa en leche de continuación. Resulta una excelente alternativa para lactancia mixta y transición al biberón. Primera fórmula infantil española con proteína A2, IM1 PRO, 5 HMOs y proteínas bioactivas presentes en la leche materna.
-- Contenido del Envase |El envase contiene 3 botes 1200g de leche de continuación en polvo.
 - Edad | Leche de continuación desde los 6 meses.
+- Contenido del Envase |El envase contiene 3 botes 1200g de leche de continuación en polvo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJRQ285F{{</world>}}

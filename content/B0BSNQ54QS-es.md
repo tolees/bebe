@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela acolchada para absorber los golpes y aportar comodidad
 - Ajuste regular
+- Suela acolchada para absorber los golpes y aportar comodidad
 - Calcetines versátiles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ¡ganará el Munchkin más famoso!
-- Juego de Mesa en Español
-- Con una duración de 60-90 Minutos por partida
-- Recomendado a Partir de 14 Años de Edad
 - Juego de 2 a 5 Jugadores
+- Recomendado a Partir de 14 Años de Edad
+- Con una duración de 60-90 Minutos por partida
+- Juego de Mesa en Español
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08H2JJ7CB{{</world>}}

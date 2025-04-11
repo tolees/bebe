@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiernos trozos en gelatina con calabacín
 - Con pavo
 - Sin adición de colorantes, aromatizantes o conservantes artificiales
+- Tiernos trozos en gelatina con calabacín
 - Alimento completo para gatitos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

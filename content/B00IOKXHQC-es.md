@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Potencia 2200 W
 - Filtro anticalcáreo extraíble, lavable
 - 1,7 L de capacidad
-- Almacenamiento de cables
 - inalámbrico
+- Almacenamiento de cables
+- Potencia 2200 W
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IOKXHQC{{</world>}}

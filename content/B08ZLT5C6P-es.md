@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
-- Poliéster 100 %
 - Corte normal
+- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 - Logotipo del PUMA estampado por transferencia de calor en la pierna izquierda
+- Poliéster 100 %
 - Cinturilla elástica con cordón de ajuste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

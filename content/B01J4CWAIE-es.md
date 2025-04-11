@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Para una adecuada protección e hidratación de la piel del bebé
-- Para piel normal
 - Fortalece y protege la barrera cutánea
+- Para piel normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01J4CWAIE{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuando ve al niño sonrie
 - PARA CUIDAR Y ABRAZAR: cuando acaricias la cabeza del caballito, él hace ruidos con alegría
-- DA DE COMER A LA MASCOTA: cuando acercas la zanahoria a la boca del pony, éste come
 - JUEGO CUCÚ-TRAS: Al taparle los ojos se entristece, y al destaparlos, ¡se pone contento
+- Cuando ve al niño sonrie
 - PELUCHE INTERACTIVO: Juego del descubrimiento para jugar padres e hijos
+- DA DE COMER A LA MASCOTA: cuando acercas la zanahoria a la boca del pony, éste come
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B095JT3SN7{{</world>}}

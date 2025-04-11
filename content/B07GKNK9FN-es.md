@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Gorro con forro polar.
+- Dobladillo fluido
 - Algodón suave
 - Los broches fuertes en las piernas son fáciles como uno,dos,tres
 - Sin etiquetas sin complicaciones, solo la calidad de Carter que conoces
-- Dobladillo fluido
-- Gorro con forro polar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07GKNK9FN{{</world>}}

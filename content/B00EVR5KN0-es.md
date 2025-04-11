@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SE PUEDE COMBINAR CON OTRAS EXTENSIONES: se pueden añadir una o más extensiones de 14 cm, o seleccionar modelos de 7 y 28 cm, hasta cubrir la longitud deseada (extensión máxima alcanzable: 136 cm)
-- MONTAJE EN ESCALERAS: si la puerta extensible de 14 cm se va a instalar en una escalera, recomendamos la compra del adaptador de soporte en Y Safety 1st adecuado (se vende por separado).
-- VARIANTES DISPONIBLES: las extensiones de puerta de metal blanco también están disponibles en 7 cm y 28 cm (se venden por separado)
 - EXTENSION DE PUERTA: Extensión de 14 cm compatible con las puertas de seguridad Safety 1st Easy Close Metal, Flat Step y Auto Close
+- VARIANTES DISPONIBLES: las extensiones de puerta de metal blanco también están disponibles en 7 cm y 28 cm (se venden por separado)
+- MONTAJE EN ESCALERAS: si la puerta extensible de 14 cm se va a instalar en una escalera, recomendamos la compra del adaptador de soporte en Y Safety 1st adecuado (se vende por separado).
+- SE PUEDE COMBINAR CON OTRAS EXTENSIONES: se pueden añadir una o más extensiones de 14 cm, o seleccionar modelos de 7 y 28 cm, hasta cubrir la longitud deseada (extensión máxima alcanzable: 136 cm)
 - INSTALACIÓN FÁCIL Y RÁPIDA: encaje a presión, sin necesidad de taladrar, para una instalación sencilla con un sellado sólido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

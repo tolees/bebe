@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - También adecuado para ir a la playa.
-- Vestido blanco con todo tipo de peces.
-- Cómoda apertura con botones en la espalda.
 - Vestido Chicco con mangas cortas de popelina.
+- Cómoda apertura con botones en la espalda.
+- Vestido blanco con todo tipo de peces.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2W8W52F{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sillita de coche estable y de alta calidad, Para niños de aprox. 3 meses a 4 años, Máx. 18 kg, 61 - 105 cm (A partir de 45 cm con el adaptador para recién nacidos)
-- Posición de entrada y salida fácil y cómoda para la espalda gracias al mecanismo de giro de 360°, Reposacabezas ajustable en altura en 12 posiciones, Ajuste de asiento/reclinación con una sola mano, Práctico soporte para el cinturón de seguridad
 - Fácil instalación con un solo clic con ISOFIX, Orientación hacia atrás hasta 15 meses/76 cm, Orientación hacia adelante opcional, Accesorios disponibles: Kit SensorSafe 4 en 1, Funda para recién nacidos, Funda de verano, Portavasos
 - Máxima seguridad: Protección integrada contra impactos laterales (Sistema L.S.P.), Estructura con alta absorción de impactos, Tecnología de reducción de energía para proteger el cuello del niño, Norma de seguridad UN R129/03
+- Posición de entrada y salida fácil y cómoda para la espalda gracias al mecanismo de giro de 360°, Reposacabezas ajustable en altura en 12 posiciones, Ajuste de asiento/reclinación con una sola mano, Práctico soporte para el cinturón de seguridad
 - Contenido: 1 Sillita para coche Sirona S2 i-Size, Dimensiones: 71 x 44 x 68 cm, Peso: 13,9 kg, Color: Gris (Soho Grey)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

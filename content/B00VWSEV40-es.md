@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colchón de cuna con tratamientos | Antibacterianos e Hipoalergénicos
-- Certificado Oeko Tex | Libre sustancias perjudiciales para salud | Nº Certificado 2017OK0745
-- Núcleo interior del colchón de cuna | Espuma Soja | Acolchado exterior del colchón de cuna | Con Algodón Organico
-- Prevención Plagiocefalia 8/10 | Prevención Asfixia 8/10
-- Made in Spain | Europe | Todos los productos de Ecus Kids están desarrollados y fabricados íntegramente en España
 - Acolchado exterior del colchón de cuna | Lavable
+- Prevención Plagiocefalia 8/10 | Prevención Asfixia 8/10
+- Núcleo interior del colchón de cuna | Espuma Soja | Acolchado exterior del colchón de cuna | Con Algodón Organico
+- Made in Spain | Europe | Todos los productos de Ecus Kids están desarrollados y fabricados íntegramente en España
+- Colchón de cuna con tratamientos | Antibacterianos e Hipoalergénicos
 - 5 años de garantia ante defectos de fabricación | 30 noches de prueba | Sin costes de devolución
+- Certificado Oeko Tex | Libre sustancias perjudiciales para salud | Nº Certificado 2017OK0745
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00VWSEV40{{</world>}}

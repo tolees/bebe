@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estuche de viaje esterilizador
 - Sin BPA
+- Estuche de viaje esterilizador
 - Diseñado para un desarrollo bucal natural
 - Chupete ultra soft: 2 pcs
 

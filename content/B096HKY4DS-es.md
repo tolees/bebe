@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre con velcro
 - Tiene tacón plano
+- Cierre con velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096HKY4DS{{</world>}}

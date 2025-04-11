@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Horma clásica
 - Cierre de velcro
-- Mediasuela con amortiguación para una pisada cómoda
 - Suela de goma
+- Mediasuela con amortiguación para una pisada cómoda
 - Parte de piel sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})

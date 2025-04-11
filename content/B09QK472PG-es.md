@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No resistente al agua
 - Material exterior: vaquero
+- No resistente al agua
 - Algodón
-- Ajuste: normal
 - Ligero, bolsillos
+- Ajuste: normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QK472PG{{</world>}}

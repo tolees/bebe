@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PREVIENE LA CARIES: El gel dental Lacer Infantil previene la caries de forma eficaz desde la aparición del primer diente, con 1.400ppm de ion fluoruro, la dosis adecuada para prevenir la caries en niños y niñas de 6 meses a 6 años, siguiendo la recomendación de la SEOP y la IAPD
+- GEL DENTAL INFANTIL: especialmente indicada para niños y niñas a partir de 6+ años. Ofrece un alto grado de seguridad frente a la ingestión parcial del producto en los niños más pequeños
+- PROTEGE: Escudo protector contra la caries además de cuidar los dientes de leche. La acción anticaries del Flúor se potencia con la incorporación del Calcio
 - LACER: Lacer, que nació en 1949, tiene el propósito de mejorar la salud de las personas cada día, cuidando de su bienestar. Porque nos importa la salud integral y del planeta, siempre con calidad y rigurosidad en nuestra actuación
 - MODO DE USO: A partir de 6 años, aplicar sobre el cepillo dental una cantidad del tamaño de un guisante y cepillar durante un mínimo de 2 minutos para obtener una limpieza óptima. Uso después de cada comida
-- PREVIENE LA CARIES: El gel dental Lacer Infantil previene la caries de forma eficaz desde la aparición del primer diente, con 1.400ppm de ion fluoruro, la dosis adecuada para prevenir la caries en niños y niñas de 6 meses a 6 años, siguiendo la recomendación de la SEOP y la IAPD
-- PROTEGE: Escudo protector contra la caries además de cuidar los dientes de leche. La acción anticaries del Flúor se potencia con la incorporación del Calcio
-- GEL DENTAL INFANTIL: especialmente indicada para niños y niñas a partir de 6+ años. Ofrece un alto grado de seguridad frente a la ingestión parcial del producto en los niños más pequeños
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B009M4N7XC{{</world>}}
