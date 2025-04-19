@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alimento a base de puré de frutas para bebés a partir de 4 meses
 - Descubre la amplia gama de Hero Solo: ingredientes ECO y nada más
 - No incluye aceite de palma, almidón, ni azúcar añadido. Tampoco conservantes ni colorantes
-- Conservación y esterilización natural al baño María
-- Alimento a base de puré de frutas para bebés a partir de 4 meses
 - Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
+- Conservación y esterilización natural al baño María
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B088HXGF5S{{</world>}}

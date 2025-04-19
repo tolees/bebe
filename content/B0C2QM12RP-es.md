@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forro textil
-- Mediasuela Cloudfoam
 - Cordones elásticos y correa autoadherente
-- Horma clásica
+- Mediasuela Cloudfoam
 - Parte de malla
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QM12RP{{</world>}}

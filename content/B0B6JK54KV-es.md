@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin conservantes ni colorantes
 - Es de fácil disolución
-- Papilla 8 Cereales está elaborada para diversificar la dieta del bebé
 - Es una papilla instantánea
+- Sin conservantes ni colorantes
+- Papilla 8 Cereales está elaborada para diversificar la dieta del bebé
 - Tratamiento exclusivo por calor que nos permite conservar el sabor original de los cereales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

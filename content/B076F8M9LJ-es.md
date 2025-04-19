@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Twistshake biberón anticólico 260ml pastel rosa (78255)
-- Lactancia y alimentación TWISTSHAKE
 - Biberones Unisex Infantil
+- Lactancia y alimentación TWISTSHAKE
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076F8M9LJ{{</world>}}

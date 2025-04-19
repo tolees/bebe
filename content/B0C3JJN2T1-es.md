@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela y mediasuela de EVA de una sola pieza
 - Horma clásica
 - Cierre autoadherente
-- Suela y mediasuela de EVA de una sola pieza
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Decora e ilumina la habitación del bebé
 - Tejido suave de terciopelo
-- Luz nocturna infantil
 - Desenfundable y lavable
+- Luz nocturna infantil
+- Decora e ilumina la habitación del bebé
 - Cambio de color automático
 
 [🛒 Aquí!!!]({{< param buyurl >}})

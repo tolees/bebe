@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CREMA DEL PAÑAL, 75 ml. Protege de posibles irritaciones provocadas por el uso del pañal
-- CHUPETE ZERO ZERO, en talla 0/6 Meses. Chupete apto para pieles sensibles e hipoalergénico, dermatológicamente testado. Con diseño aireado para que el chupete tenga un menor contacto con la piel del bebé. Chupete con tetina fisiológica SX Pro, que respeta el desarrollo bucodental del bebé. Chupete de silicona de grado médico
-- REGALO BEBÉ. Canastilla bebé recién nacido con los esenciales para llevar al hospital y usar durante los primeros días
 - BABY COLOGNE, 100ml. La colonia de bebé Baby Cologne es el aroma para bebé (y mamá) preferido por los consumidores*. Con notas de frutos cítricos combinadas con flores blancas y almizcles. Baja en alcohol, por lo que no mancha la ropa
+- CON MALETA DE MIMBRE que incluye Chupete Zero Zero 0/6 Meses + Baby Cologne 100 ml + Toallitas 72 uds + Crema Pañal 75 ml + Loción Hidratante Corporal en una bonita maleta - cesta de mimbre. Ideal como regalo de recién nacido. La maleta de nacimiento se puede usar después para guardar los recuerdos del bebé
 - LOCIÓN HIDRATANTE, 300 ml. Hidrata en profundidad la piel del cuerpo del bebé. Con textura ligera y de fácil absorción
 - TOALLITAS DERMOHIDRATANTES 72 uds. Limpian de forma suave la piel del bebé. Aptas también para las manitas y la carita del bebé
-- CON MALETA DE MIMBRE que incluye Chupete Zero Zero 0/6 Meses + Baby Cologne 100 ml + Toallitas 72 uds + Crema Pañal 75 ml + Loción Hidratante Corporal en una bonita maleta - cesta de mimbre. Ideal como regalo de recién nacido. La maleta de nacimiento se puede usar después para guardar los recuerdos del bebé
+- CREMA DEL PAÑAL, 75 ml. Protege de posibles irritaciones provocadas por el uso del pañal
 - ENVASES BIOBASADOS. Fabricados con materiales provenientes de materias primas renovables: caña de azúcar de origen sostenible
 - APTO PARA PIELES SENSIBLES. Los productos de cosmética pediátrica de Suavinex se pueden utilizar desde el primer día y son aptos para pieles sensibles
+- CHUPETE ZERO ZERO, en talla 0/6 Meses. Chupete apto para pieles sensibles e hipoalergénico, dermatológicamente testado. Con diseño aireado para que el chupete tenga un menor contacto con la piel del bebé. Chupete con tetina fisiológica SX Pro, que respeta el desarrollo bucodental del bebé. Chupete de silicona de grado médico
+- REGALO BEBÉ. Canastilla bebé recién nacido con los esenciales para llevar al hospital y usar durante los primeros días
 - INGREDIENTES DE ORIGEN NATURAL. Los productos de cosmética pediátrica de esta canastilla contienen entre un 90% y un 96% de ingredientes de origen natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

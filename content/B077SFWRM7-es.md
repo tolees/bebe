@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Asiento con mullido extra
 - Elevador de grupo 2-3 para uso desde los 15 kg hasta los 36 kg con los que la silla siempre queda fija al asiento del coche, facilitando el uso
 - Producto de calidad
+- Asiento con mullido extra
 - Incorpora conectores isofix regulables
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material superior: sintético
 - Cierre: goma
 - Material interior: textil
+- Material superior: sintético
 - Forma del tacón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

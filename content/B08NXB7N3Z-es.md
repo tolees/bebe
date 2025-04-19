@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido del envío: 1 asiento de coche Pallas G i-Size, material de la funda 100% poliéster, dimensiones (largo x ancho x alto) 40,5 x 59,5 x 59,0 cm, peso 8,9 kg, color azul río - turquesa
 - Reposacabezas ajustable en 3 direcciones patentado, protección integrada contra impactos laterales (sistema L.S.P.)
 - Fácil fijación en el coche con ISOFIX y Top Tether, sistema de hebilla fácil de usar, funda extraíble, lavable a máquina (30 °C), accesorios opcionales, funda de verano y portavasos
+- Contenido del envío: 1 asiento de coche Pallas G i-Size, material de la funda 100% poliéster, dimensiones (largo x ancho x alto) 40,5 x 59,5 x 59,0 cm, peso 8,9 kg, color azul río - turquesa
 - Posición reclinable ajustable con una mano, sistema de circulación de aire para temperaturas agradables
 - Asiento infantil robusto y de alta calidad con una larga vida útil: para niños de aproximadamente 15 meses a aproximadamente 12 años (9-50 kg)
 

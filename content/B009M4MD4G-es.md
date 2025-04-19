@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con dermatitis atópica: Adecuada para bebés con pieles extremadamente sensibles.
-- Hidratación profunda: Sebamed Baby Leche Corporal, 750ml, especial para piel sensible de bebés.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
+- Hidratación profunda: Sebamed Baby Leche Corporal, 750ml, especial para piel sensible de bebés.
+- Compatible con dermatitis atópica: Adecuada para bebés con pieles extremadamente sensibles.
 - Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 - Ingredientes calmantes: Enriquecida con Camomila y Alantíona, alivia y repara la piel.
 

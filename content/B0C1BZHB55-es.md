@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Para bebés a partir de 6 meses
 - Sin aceite de palma ni almidones
+- El envase se debe guardar en lugar fresco y seco
 - Una vez abierto el envase, se conserva 24 horas en el frigorífico
 - Consumir directamente, no añadir sal o azúcar
-- El envase se debe guardar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1BZHB55{{</world>}}

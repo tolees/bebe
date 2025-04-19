@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Sandalia de PVC
 - Sandalia de playa Chicco con correa de velcro
-- La talla 22 corresponde a una longitud de pie de 136 mm
 - Los zapatos Chicco son cómodos, flexibles, ligeros, transpirables y prácticos
+- La talla 22 corresponde a una longitud de pie de 136 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098NWZHNP{{</world>}}

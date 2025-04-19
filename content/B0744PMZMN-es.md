@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Dobladillo fluido
 - Calidad de Carter, diarios y embalaje sin complicaciones
 - Sin mangas
-- Dobladillo fluido
 - Calidad de confianza Carter, diarios y embalaje sin complicaciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

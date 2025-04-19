@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Toallitas húmedas para la higiene del bebé
 - Con una textura suave
 - Con extracto de avena natural y aloe vera
 - Deja la piel hidratada
-- Toallitas húmedas para la higiene del bebé
 - No contienen perfume ni parabenos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
