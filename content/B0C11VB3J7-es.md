@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello acanalado
 - Detalle de bolsillo
 - Paquete de 3 camisetas para niños
-- El producto recibido puede ser fabricado en Vietnam.
 - Mezcla y combina fácilmente estilos
+- El producto recibido puede ser fabricado en Vietnam.
+- Cuello acanalado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C11VB3J7{{</world>}}
