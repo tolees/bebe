@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Es un producto tópico elaborado con ingredientes de origen natural y en formato de barra de fácil y rápida aplicación. Está testado bajo control dermatológico y pediátrico. Hipoalergénico
 - Con Árnica, una planta medicinal cuyas flores amarillas tienen propiedades suavizantes, hidratantes y calmantes para la piel
-- Arnidol Gel Stick refresca y reconforta la piel proporcionando una agradable sensación de bienestar
 - Frotar suavemente la barra en la zona afectada. Repetir la aplicación tantas veces como sea necesario. No aplicar sobre heridas abiertas. Usar a partir de los 3 meses de edad
+- Arnidol Gel Stick refresca y reconforta la piel proporcionando una agradable sensación de bienestar
 - También cuenta con Harpagofito, la raíz de esta planta es la parte más importante, ya que aporta una agradable sensación de bienestar y confort sobre la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
