@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PUMA Marca en la lengüeta
 - Parte superior textil a base de malla
 - Entresuela de EVA para mayor comodidad
-- PUMA Marca en la lengüeta
 - Suela de goma que no deja marcas para mayor agarre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sandalia blanca apta tanto para niñas como para niños
 - Sandalia semicerrada Chicco con cierre ajustable en el tobillo
 - Sandalia apta tanto para el mar como para la piscina
+- Sandalia blanca apta tanto para niñas como para niños
 - La talla 22 corresponde a una longitud de pie de 136 mm
 - Sandalia de PVC. Los zapatos Chicco son cómodos, flexibles, ligeros, transpirables y prácticos
 

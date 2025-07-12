@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esteriliza hasta 5 biberones a la vez; Compatible con la mayoría de biberones, sacaleches, chupetes y accesorios del mercado
-- Los objetos esterilizados permanecen desinfectados hasta 24 horas mientras la tapa del esterilizador esté cerrada
 - Elimina el 99.9 % de los gérmenes con poder desinfectante del vapor, sin sustancias químicas; No requiere enjuagado y se apaga automáticamente al final del ciclo de esterilización
 - Esterilizador de vapor para desinfectar rápidamente utilizando el microondasy es adecuado para hornos microondas de 600 a 1200 W; Elimina el 99.9 % de bacterias y microorganismos
+- Los objetos esterilizados permanecen desinfectados hasta 24 horas mientras la tapa del esterilizador esté cerrada
+- Esteriliza hasta 5 biberones a la vez; Compatible con la mayoría de biberones, sacaleches, chupetes y accesorios del mercado
 - Caja de cartón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Manga corta con hombros caídos
 - Ajuste regular
 - 40% poliéster
-- Cuello redondo
-- Manga corta con hombros caídos
 - Estampado gráfico de tigre Levis en el pecho
 - Punto de origen orgánico
+- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FBF3SYT{{</world>}}
