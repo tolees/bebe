@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A prueba de derrames: cierre automático cuando se deja de beber para evitar que se salga el líquido
-- Sujeción cómoda: asas ergonómicas que el bebé puede agarrar; tapa que mantiene la taza para sorber siempre limpia
 - Brilla en la oscuridad hasta 8 horas*: para encontrarla fácilmente por la noche, solo tiene que colocarla bajo una lámpara o al sol para recargarla
 - Para beber desde cualquier lado: diseño de 360° para que los niños beban por cualquier sitio
+- Sujeción cómoda: asas ergonómicas que el bebé puede agarrar; tapa que mantiene la taza para sorber siempre limpia
+- A prueba de derrames: cierre automático cuando se deja de beber para evitar que se salga el líquido
 - Toma sin pausa: borde de silicona blanda con válvula de aire que regula el flujo del líquido; ideal para el destete
 
 [🛒 Aquí!!!]({{< param buyurl >}})

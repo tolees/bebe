@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología inalámbrica digital que ofrece una calidad de sonido excepcional
-- Supervisión visual del nivel de ruido mediante el LED de colores
 - Alcance de transmisión de 300 m - transmisión digital
+- Supervisión visual del nivel de ruido mediante el LED de colores
+- Tecnología inalámbrica digital que ofrece una calidad de sonido excepcional
 - Modo Eco+ con radiación mínima y eficiencia energética alta
 - Control de volumen de la unidad para padres
 

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aportan un gran número de vitaminas y minerales
+- Contienen hidratos de carbono complejos que ayudan a aportar energía
 - Indicadas a partir de los 6 meses
 - Complemento nutritivo ideal en el inicio de la alimentación complementaria
-- Contienen hidratos de carbono complejos que ayudan a aportar energía
 - Con hierro que contribuye al desarrollo cognitivo normal de los niños
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tratamiento exclusivo por calor que nos permite conservar el sabor original de los cereales
 - Es de fácil disolución
 - Papilla 8 Cereales está elaborada para diversificar la dieta del bebé
+- Tratamiento exclusivo por calor que nos permite conservar el sabor original de los cereales
 - Es una papilla instantánea
 - Sin conservantes ni colorantes
 

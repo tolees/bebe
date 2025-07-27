@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela y mediasuela de EVA
 - Forro textil
-- Horma clásica
 - Cierre autoadherente
+- Horma clásica
+- Suela y mediasuela de EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3JGBXZ4{{</world>}}
