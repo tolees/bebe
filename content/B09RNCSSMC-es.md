@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gran comodidad para grandes aventuras.
 - Suela de goma
+- Gran comodidad para grandes aventuras.
 - 3 tiras en la parte superior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

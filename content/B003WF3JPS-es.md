@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NO MANCHA LA ROPA. Perfecta para aplicar sobre la ropita del bebé o del recién nacido
-- BAJO CONTENIDO EN ALCOHOL. Colonia para bebés de bajo contenido en alcohol, por lo que no mancha la ropa. Colonia ligera pero de larga duración
-- IDEAL para refrescar a tu bebé en cualquier momento del día. Perfecta para regalar, como regalo de recién nacido
-- CON VAPORIZADOR. Se presenta en un práctico frasco vaporizador para una dosificación más cómoda y segura
 - ¿A QUÉ HUELE? Te sorprenderá por su fresco y delicado aroma que combina las mejores notas de frutos cítricos, flores blancas y almizcles
 - BABY COLOGNE. Colonia para Bebés de Suavinex, nuestra Baby Cologne más clásica. 100 ml con frasco vaporizador
+- CON VAPORIZADOR. Se presenta en un práctico frasco vaporizador para una dosificación más cómoda y segura
+- IDEAL para refrescar a tu bebé en cualquier momento del día. Perfecta para regalar, como regalo de recién nacido
+- NO MANCHA LA ROPA. Perfecta para aplicar sobre la ropita del bebé o del recién nacido
+- BAJO CONTENIDO EN ALCOHOL. Colonia para bebés de bajo contenido en alcohol, por lo que no mancha la ropa. Colonia ligera pero de larga duración
 - PARA TODA LA FAMILIA. Para bebés, mamás y papás. ¡Que bonito compartir la misma fragancia!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

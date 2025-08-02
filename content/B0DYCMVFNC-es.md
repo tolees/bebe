@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Batería Inalámbrica】Equipado con una batería de alta capacidad, este dispositivo sin cable mesita ofrece entre 10 y 12 horas de uso continuo. Su diseño inalámbrico permite ubicarla libremente en cualquier espacio, siendo asimismo una luz mesita de noche sin cable perfecta para cualquier rincón, ¡donde siempre hay una chispa de innovación!
-- 【Control Táctil】Cambie fácilmente entre colores y ajuste el brillo con solo un toque en esta lampara tactil. La función de temporizador garantiza el apagado automático, haciendo de esta lampara bebe noche la opción práctica y sorprendente para dormitorios infantiles y zonas de relax.
 - 【Diseño Versátil】Este dispositivo USB recargable no solo funciona como lampara sin cable mesita, sino que su estilo elegante y compacto se adapta a cualquier ambiente. Perfecta como lamparas de mesita de noche infantil o como pieza decorativa en eventos, su toque innovador le brinda a su espacio un encanto inesperado que encantará a todos.
+- 【Control Táctil】Cambie fácilmente entre colores y ajuste el brillo con solo un toque en esta lampara tactil. La función de temporizador garantiza el apagado automático, haciendo de esta lampara bebe noche la opción práctica y sorprendente para dormitorios infantiles y zonas de relax.
+- 【Batería Inalámbrica】Equipado con una batería de alta capacidad, este dispositivo sin cable mesita ofrece entre 10 y 12 horas de uso continuo. Su diseño inalámbrico permite ubicarla libremente en cualquier espacio, siendo asimismo una luz mesita de noche sin cable perfecta para cualquier rincón, ¡donde siempre hay una chispa de innovación!
 - 【Protección Ocular】Disfrute de una lampara mesita noche que emite una luz suave sin parpadeos, ideal como luz bebe nocturna para cuidar la vista de niños y adultos. Su iluminación equilibrada crea el ambiente perfecto para descansar, leer o alimentar, y le brinda ese toque de sorpresa en cada uso.
 - 【Ajuste LED RGB】Esta lampara mesilla de noche permite ajustar el brillo en cinco niveles con transiciones de colores que se adaptan a su estado de ánimo. Con el control táctil, se convierte en la lampara tactil mesilla noche ideal para crear ambientes acogedores y hasta para sorprenderle en momentos inesperados.
 
