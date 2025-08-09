@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Se puede convertir en mesa y silla
-- Hecho de material de madera
 - Plegable y fácil de almacenar
+- Hecho de material de madera
 - Con unas dimensiones de 50 x 50 x 50 cm
 - Edad mínima recomendada por el fabricante: 6 - 30 meses
 

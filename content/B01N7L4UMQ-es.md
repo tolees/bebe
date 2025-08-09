@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protege la piel – Este aceite Johnson Baby protege y nutre la delicada piel de bebés y adultos, dejando una agradable sensación de suavidad y un aspecto saludable
 - Retiene hasta el doble de humedad – Este aceite corporal para bebés enriquecido con aloe vera puro retiene hasta el doble de humedad y mantiene la suavidad de la piel
-- Ideal para masajes – Hidrata y nutre la delicada piel de tu bebé con el aceite para masajes relajante de Johnsons Baby, que deja la piel con un aspecto saludable
-- Fórmula hipoalergénica – La fórmula de este aceite corporal sin alcohol, sulfatos ni ftalatos está formulada para reducir el riesgo de alergias. Clínicamente probada
+- Protege la piel – Este aceite Johnson Baby protege y nutre la delicada piel de bebés y adultos, dejando una agradable sensación de suavidad y un aspecto saludable
 - Probado por pediatras – La calidad de los aceites y productos para bebés, recién nacidos y niños de Johnsons Baby está rigurosamente avalada por pediatras y dermatólogos
+- Fórmula hipoalergénica – La fórmula de este aceite corporal sin alcohol, sulfatos ni ftalatos está formulada para reducir el riesgo de alergias. Clínicamente probada
+- Ideal para masajes – Hidrata y nutre la delicada piel de tu bebé con el aceite para masajes relajante de Johnsons Baby, que deja la piel con un aspecto saludable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N7L4UMQ{{</world>}}

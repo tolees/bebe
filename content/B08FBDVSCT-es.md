@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estampado a rayas
-- Cuello redondo
-- 40% poliéster
-- Ajuste regular
-- Manga larga
 - Logotipo Levis en el pecho
+- Manga larga
+- Cuello redondo
+- Ajuste regular
+- 40% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FBDVSCT{{</world>}}
