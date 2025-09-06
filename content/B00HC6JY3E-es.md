@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - No aplicar la colonia directamente sobre el bebé. Echar un poco de la colonia en la palma de nuestras manos para luego frotarlas, y posteriormente tocar al pequeño en aquellas zonas que se deseen aromatizar
-- Colonia Tous con fragancia floral almizclada para bebé
-- Vaporizador de 100ml
 - La primera fragancia para bebés de la marca Tous
 - Las notas de salida son bergamota, mandarina y nerolí; las notas de corazón son pera, manzana y flor de naranjo; las notas de fondo son cedro, almizcle y petit grain
+- Vaporizador de 100ml
+- Colonia Tous con fragancia floral almizclada para bebé
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00HC6JY3E{{</world>}}

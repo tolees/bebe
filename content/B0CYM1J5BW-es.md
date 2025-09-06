@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro textil
 - Empeine de malla
 - Horma clásica
-- Forro textil
 - Tejido de secado rápido
 - Mediasuela de EVA
 - Suela de goma con puntera reforzada

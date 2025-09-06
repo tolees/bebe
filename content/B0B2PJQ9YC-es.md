@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Trona gemelar con la que el niño puede alimentar a 2 muñecos al mismo tiempo
 - Muñecos no incluidos
+- Trona gemelar con la que el niño puede alimentar a 2 muñecos al mismo tiempo
 - Incluye: 2 cucharas y 2 platos.
-- 2en1: asiento para la trona y balancín
 - Fabricado en Francia
+- 2en1: asiento para la trona y balancín
 - Adecuado a partir de 2 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})

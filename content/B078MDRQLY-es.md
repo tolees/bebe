@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MADE IN SPAIN - Los productos de ECUS KIDS están fabricados en España. Cuenta con el Certificado Oeko-Tex. Esto significa que han sido sometidos a pruebas para detectar sustancias nocivas y no contienen ninguna de ellas.
-- TRANSPIRABLE - El núcleo de este colchón de viaje para bebé está compuesto por espuma Oxígena, muy adaptable y transpirable, porque se adapta a los puntos de presión del cuerpo del bebé y permite evacuar el CO2 mientras duerme.
-- DIMENSIONES - La altura del colchón es de 4 cm y se recomienda para cunas de 120cm x 60 cm.
-- USO RECOMENDADO - Desde el nacimiento hasta los 20 kg aprox.
 - ACOLCHADO - El tejido de su funda está diseñado con fibras 3D para facilitar la disipación de la humedad producida por la sudoración del bebé, manteniéndolo seco y confortable toda la noche. No es desenfundable. Lavado en seco.
+- DIMENSIONES - La altura del colchón es de 4 cm y se recomienda para cunas de 120cm x 60 cm.
+- TRANSPIRABLE - El núcleo de este colchón de viaje para bebé está compuesto por espuma Oxígena, muy adaptable y transpirable, porque se adapta a los puntos de presión del cuerpo del bebé y permite evacuar el CO2 mientras duerme.
+- MADE IN SPAIN - Los productos de ECUS KIDS están fabricados en España. Cuenta con el Certificado Oeko-Tex. Esto significa que han sido sometidos a pruebas para detectar sustancias nocivas y no contienen ninguna de ellas.
+- USO RECOMENDADO - Desde el nacimiento hasta los 20 kg aprox.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078MDRQLY{{</world>}}

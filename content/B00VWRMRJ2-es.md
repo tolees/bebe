@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 5 años de garantia ante defectos de fabricación | 30 noches de prueba | Sin costes de devolución
+- Prevención Plagiocefalia 8/10 | Prevención Asfixia 8/10
+- Núcleo interior del colchón de cuna | Espuma Oxygen | Acolchado exterior del colchón de cuna | Tejido 3D más transpirable
 - Colchón de cuna con tratamientos | Antibacterianos e Hipoalergénicos
 - Certificado Oeko Tex | Libre sustancias perjudiciales para salud | Nº Certificado 2017OK0745
-- Prevención Plagiocefalia 8/10 | Prevención Asfixia 8/10
-- 5 años de garantia ante defectos de fabricación | 30 noches de prueba | Sin costes de devolución
-- Núcleo interior del colchón de cuna | Espuma Oxygen | Acolchado exterior del colchón de cuna | Tejido 3D más transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00VWRMRJ2{{</world>}}
