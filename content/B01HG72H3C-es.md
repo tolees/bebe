@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Barrotes planos. Conforme a la normativa Europea. Lateral abatible
 - Estructura madera maciza madera de haya. Pintura al agua
+- Barrotes planos. Conforme a la normativa Europea. Lateral abatible
 - Somier regulable de 3 posiciones. Ruedas incluidas. Fantástica cuna de madera de haya súper resistente, y con barrotes planos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

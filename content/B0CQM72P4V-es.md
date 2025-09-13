@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Toallitas con 100% fibras de origen vegetal y 0% plástico
-- Elaboradas con 99% de agua para una limpieza delicada
 - Elaboradas con 99% de agua para una limpieza delicada
 - Toallitas con 100% fibras de origen vegetal y 0% plástico
+- Toallitas con 100% fibras de origen vegetal y 0% plástico
+- Elaboradas con 99% de agua para una limpieza delicada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQM72P4V{{</world>}}
