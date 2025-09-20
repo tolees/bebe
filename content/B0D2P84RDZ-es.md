@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - [MÁXIMO CONFORT DURANTE EL PORTEO] Tiras cruzadas que distribuyen mejor el peso en la espalda, y un cinturón que reparte también el peso en la zona lumbar.
-- [DISEÑO] Dotado de apertura total de la parte frontal para una colocación y extracción más cómodas del peque.
 - [MULTIPOSICIÓN] Permite llevar al niño en 3 posiciones diferentes: 1. Mirando hacia al adulto. 2. Mirando hacia el sentido de la marcha (recomendado en breves lapsos de tiempo). 3. En la espalda del porteador.
 - [COMODIDAD] Su reposacabezas regulable, compatible desde el nacimiento, aportará al bebé comodidad y seguridad durante los paseos. Su armazón es suave y acolchado, amable con la piel del pequeño y del porteador.
+- [DISEÑO] Dotado de apertura total de la parte frontal para una colocación y extracción más cómodas del peque.
 - [CALIDAD Y SEGURIDAD] La mochila portabebé Dual es adecuada para niños de 3,5-15 kg. y está homologada bajo la normativa europea EN 13209-2:2015.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

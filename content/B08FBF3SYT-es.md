@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado gráfico de tigre Levis en el pecho
-- Ajuste regular
-- 40% poliéster
 - Manga corta con hombros caídos
+- 40% poliéster
 - Punto de origen orgánico
+- Ajuste regular
+- Estampado gráfico de tigre Levis en el pecho
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

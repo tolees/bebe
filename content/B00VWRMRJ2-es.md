@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 5 años de garantia ante defectos de fabricación | 30 noches de prueba | Sin costes de devolución
 - Certificado Oeko Tex | Libre sustancias perjudiciales para salud | Nº Certificado 2017OK0745
+- 5 años de garantia ante defectos de fabricación | 30 noches de prueba | Sin costes de devolución
 - Prevención Plagiocefalia 8/10 | Prevención Asfixia 8/10
 - Colchón de cuna con tratamientos | Antibacterianos e Hipoalergénicos
 - Núcleo interior del colchón de cuna | Espuma Oxygen | Acolchado exterior del colchón de cuna | Tejido 3D más transpirable

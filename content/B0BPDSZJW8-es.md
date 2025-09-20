@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
 - Gran comodidad para grandes aventuras.
+- Suela de goma
 - 3 tiras en la parte superior
 
 [🛒 Aquí!!!]({{< param buyurl >}})

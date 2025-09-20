@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Cobertura de tejido sin tejer suave, hipoalergénica y altamente resistente en contacto con la piel del bebé
-- Lámina de adquisición-difusión que cubre el núcleo, aumenta la velocidad de absorción y facilita la difusión a lo largo de todo el pañal
-- Sistema de doble barrera antiescapes a ambos lados del pañal, manteniendo seco al bebé
-- Cobertura exterior transpirable y completamente decorada con apariencia textil. Siendo el primer pañal completamente decorado
 - El paquete puede variar
+- Sistema de doble barrera antiescapes a ambos lados del pañal, manteniendo seco al bebé
+- Lámina de adquisición-difusión que cubre el núcleo, aumenta la velocidad de absorción y facilita la difusión a lo largo de todo el pañal
+- Cobertura de tejido sin tejer suave, hipoalergénica y altamente resistente en contacto con la piel del bebé
+- La siguiente información se aplica a cada unidad del paquete
+- Cobertura exterior transpirable y completamente decorada con apariencia textil. Siendo el primer pañal completamente decorado
 - Doble núcleo de absorción reforzada de pasta de celulosa mezclada con superabsorbente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
