@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EDAD | Leche de continuación desde los 6 meses.
 - A TENER EN CUENTA | El biberón debe ser preparado inmediatamente antes de su uso. Una vez preparado, se recomienda consumirlo antes de una hora. No reutilizar el contenido del biberón después de la toma.
-- IMPORTANTE | La leche materna es el mejor alimento para el lactante durante los primeros meses de vida y cuando no sea posible, le corresponderá al pediatra o profesional sanitario que realice el seguimiento de su crecimiento y desarrollo recomendar la más indicada.
 - CONTENIDO DEL ENVASE | El envase contiene 3 botes de 800g de leche de continuación en polvo.
+- EDAD | Leche de continuación desde los 6 meses.
 - Fórmula Evolution | El último avance de Ordesa en leche de continuación, una alternativa para lactancia mixta y transición al biberón. Ahora enriquecida con proteína A2, IM1 PRO, 5 HMOs y proteínas bioactivas presentas en la leche materna.
+- IMPORTANTE | La leche materna es el mejor alimento para el lactante durante los primeros meses de vida y cuando no sea posible, le corresponderá al pediatra o profesional sanitario que realice el seguimiento de su crecimiento y desarrollo recomendar la más indicada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJRQ9XXW{{</world>}}

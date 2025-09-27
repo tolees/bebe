@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
 - Ajuste regular
+- Suela de goma
 - Parte superior de cuero sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
