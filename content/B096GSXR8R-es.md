@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene tacón plano
 - Cierre con velcro
+- Tiene tacón plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096GSXR8R{{</world>}}

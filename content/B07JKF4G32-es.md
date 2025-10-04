@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Formulado a base de una mezcla botánica de aceite de semilla de girasol, manzanilla y extractos de caléndula. Hace que los labios se sientan flexibles y con un ligero toque de brillo natural
+- Consejo de uso: recomendamos aplicar el bálsamo suavemente sobre los labios. Se puede aplicar también encima del maquillaje dando una sensación de labios jugosos y uniformes
+- Bálsamo labial reparador para labios secos y agrietados que necesitan nutrición e hidratación intensiva. Deja los labios suaves e hidratados, especialmente en condiciones de clima frío
 - Nutre e hidrata intensamente los labios. Además, su fórmula con ingredientes naturales se funde con la piel de los labios, suavizándolos. Dermatológicamente testado y sin gluten
 - Los extractos de flores de caléndula y de pensamiento silvestre crean una barrera hidratante y protectora, tienen propiedades suavizantes y apoyan la regeneración de la piel
-- Bálsamo labial reparador para labios secos y agrietados que necesitan nutrición e hidratación intensiva. Deja los labios suaves e hidratados, especialmente en condiciones de clima frío
-- Consejo de uso: recomendamos aplicar el bálsamo suavemente sobre los labios. Se puede aplicar también encima del maquillaje dando una sensación de labios jugosos y uniformes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JKF4G32{{</world>}}
