@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de malla
 - Horma clásica
-- Mediasuela de EVA
-- Forro textil
 - Tejido de secado rápido
 - Suela de goma con puntera reforzada
+- Empeine de malla
+- Forro textil
+- Mediasuela de EVA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYM1J5BW{{</world>}}

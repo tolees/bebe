@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto dermatitis atópica: Recomendado para bebés con pieles hipersensibles y atópicas.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
 - Con Camomila/Alantíona: Calma y repara la piel, dejándola suave y protegida.
+- Apto dermatitis atópica: Recomendado para bebés con pieles hipersensibles y atópicas.
 - Leche corporal Sebamed de 200ml, ideal para piel sensible de bebés.
 - Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 
