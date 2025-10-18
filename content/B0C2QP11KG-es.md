@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Suela de goma que no deja marcas
 - Horma clásica
+- Forro textil
 - Parte de piel sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

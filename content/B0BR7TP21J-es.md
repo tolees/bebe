@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene 2 tiritas incorporadas en su ropa que cubren dos pequeñas heridas
-- Nenuco de 25 cm con cuerpo blandito
-- Cuando aprietas las heridas Nenuco llora
 - El muñeco emite hasta 5 sonidos diferentes
+- Cuando aprietas las heridas Nenuco llora
+- Nenuco de 25 cm con cuerpo blandito
+- Tiene 2 tiritas incorporadas en su ropa que cubren dos pequeñas heridas
 - Si aprietas sus manitas Nenuco dice mamá y papá o hace sonidos de bebé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
