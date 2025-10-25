@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contenido del envío: 1x tubo de 37 g Purelan de Medela para pezones, 1x manual de instrucciones
-- Versátil: el efecto profundamente hidratante de la lanolina también es adecuado para la piel sensible, los labios y la piel reseca, los adultos y los niños
-- Lanolina obtenida de forma ética: la lanolina de Purelan procede de granjas en las que no se practica el "mulesing"
-- Alivio rápido: formulada con lanolina pura de calidad médica, la crema Purelan imita la capacidad natural de la piel para mantener la humedad y retiene dos veces su peso en agua
 - Producto seguro para tu bebé: Purelan no contiene aditivos, conservantes, o fragancias por lo que no necesitas quitártelo ante de dar el pecho
+- Versátil: el efecto profundamente hidratante de la lanolina también es adecuado para la piel sensible, los labios y la piel reseca, los adultos y los niños
+- Alivio rápido: formulada con lanolina pura de calidad médica, la crema Purelan imita la capacidad natural de la piel para mantener la humedad y retiene dos veces su peso en agua
+- Lanolina obtenida de forma ética: la lanolina de Purelan procede de granjas en las que no se practica el "mulesing"
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HDGKR5B{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
-- Pantalón: cintura elástica
 - Contiene al menos un 70% de material reciclado y renovable
+- Pantalón: cintura elástica
+- Corte clásico
 - 70% algodón / 30% poliéster (reciclado)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
