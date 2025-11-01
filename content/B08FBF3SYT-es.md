@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
-- Punto de origen orgánico
-- Manga corta con hombros caídos
 - Cuello redondo
+- Manga corta con hombros caídos
+- Punto de origen orgánico
+- Ajuste regular
 - 40% poliéster
 - Estampado gráfico de tigre Levis en el pecho
 

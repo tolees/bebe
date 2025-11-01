@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Desarrolla la imaginación y creatividad
+- Ideal para los bebés
+- Desarrolla la percepción visual y espacial
 - A partir de 6 meses
 - Estimula la habilidad manual
-- Desarrolla la imaginación y creatividad
-- Desarrolla la percepción visual y espacial
-- Ideal para los bebés
 - Un set de 4 vechículos divertidos que el niño podrá apilar e insertar uno dentro de otro y descubrir cada uno a su vez
 
 [🛒 Aquí!!!]({{< param buyurl >}})

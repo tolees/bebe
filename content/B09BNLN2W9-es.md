@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esterilla de juego impermeable fabricada en espuma XPE, fácil de limpiar con una esponja y agua
 - Diseño antideslizante, adecuado para aprender a caminar
+- Esterilla de juego impermeable fabricada en espuma XPE, fácil de limpiar con una esponja y agua
 - Multiusos: exterior, interior, jardín, yoga, picnic, colchonetas de juego; fácil de transportar y almacenar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
