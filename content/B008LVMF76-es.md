@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido no tejido - malla elástica
 - Braguitas monouso desechable
 - Talla universal
+- Tejido no tejido - malla elástica
 - Transpirables
 - Preparadas para usarlas con compresas - post parto
 

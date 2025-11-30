@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crema facial infantil con ingredientes de origen natural que hidrata y protege la piel, respetando su barrera natural, su textura ligera se extiende fácilmente, dejando la piel sedosa y flexible
-- CONSEJO EXPERTO: Aplica la crema suavemente sobre la piel limpia y seca, si es necesario, reaplica el producto durante el día
 - TE PUEDE INTERESAR: Apto desde los 0 meses, testado pediátrica y dermatológicamente, hipoalergénico
 - INGREDIENTES: Está formulado con un 92% de ingredientes de origen natural como glicerina, aceite de semilla de algodón, aceite de semilla de girasol y extracto de siempreviva, su fórmula es biodegradable en un 96%
+- Crema facial infantil con ingredientes de origen natural que hidrata y protege la piel, respetando su barrera natural, su textura ligera se extiende fácilmente, dejando la piel sedosa y flexible
+- CONSEJO EXPERTO: Aplica la crema suavemente sobre la piel limpia y seca, si es necesario, reaplica el producto durante el día
 - BENEFICIOS: Hidrata la piel y mantiene su nivel óptimo de hidratación durante 24 h, protege y respeta la función barrera de la piel, ayuda a relajar el bebé y deja una sensación muy agradable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

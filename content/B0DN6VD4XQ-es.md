@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Suavizante concentrado para la ropa fragancia Nenuco
+- Descubre el resto de fragancias Flor y encuentra tu favorita
+- La siguiente información se aplica a cada unidad del paquete
 - Agradable sensación de suavidad y frescor con una fórmula hipoalergénica
 - Facilita el planchado, evitando la electricidad estática en tus prendas
-- Descubre el resto de fragancias Flor y encuentra tu favorita
 - 24 horas de frescor con un envolvente aroma a Nenuco que te transportará al mundo de los bebés
 
 [🛒 Comprar!!!]({{< param buyurl >}})
