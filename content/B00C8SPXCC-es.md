@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidado 3 en 1 alisador, corrector y efecto piel de bebé: BB Eye Touche Parfaite es un producto de triple acción para perfeccionar la delicada piel del contorno de los ojos. Resultado, las ojeras y bolsas se reducen, las arrugas y líneas de expresión se alisan y la mirada se ve más fresca
-- Complejo de Ginseng Blanco: compuesto por extractos de raíz de ginseng blanco, regaliz, ñame silvestre, cola de caballo y fruto de kigelia, este complejo único es conocido por su acción protectora, alisadora e hidratante sobre la piel
 - Ojos desfatigados y mirada radiante: esta crema sedosa, proveniente de la tecnología coreana, combina un potente cuidado alisador y un efecto anti-ojeras, para una mirada luminosa y perfecta. Es el complemento ideal para la BB Crema de Ginseng
 - Consejo de belleza: para un resultado óptimo, aplique el producto a toques y alise delicadamente el contorno del ojo. Es una excelente base de maquillaje. Probado bajo control dermatológico
+- Cuidado 3 en 1 alisador, corrector y efecto piel de bebé: BB Eye Touche Parfaite es un producto de triple acción para perfeccionar la delicada piel del contorno de los ojos. Resultado, las ojeras y bolsas se reducen, las arrugas y líneas de expresión se alisan y la mirada se ve más fresca
 - Productos no testados en animales, nuestra prioridad: Erborian nunca ha probado sus productos, ingredientes o materias primas en animales. Las materias primas de nuestros proveedores tampoco son nunca testadas en animales
+- Complejo de Ginseng Blanco: compuesto por extractos de raíz de ginseng blanco, regaliz, ñame silvestre, cola de caballo y fruto de kigelia, este complejo único es conocido por su acción protectora, alisadora e hidratante sobre la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00C8SPXCC{{</world>}}

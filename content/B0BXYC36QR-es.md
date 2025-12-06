@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Difusión en spray que permite una aplicación cómoda
+- Contiene SPF 50
+- Resistente al agua y al sudor
 - No aplicar cerca de los ojos
 - Leche protectora para niños
-- Resistente al agua y al sudor
-- Contiene SPF 50
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXYC36QR{{</world>}}
