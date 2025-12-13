@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SÁBANAS ALBA: las sábanas Alba (se venden por separado) están especialmente diseñadas para cubrir el colchón de nuestra Maxi-Cosi Alba (100% algodón)
+- MOISÉS TODO EN 1: elegante moisés, sillón reclinable y trona todo en uno, diseñado para responder a todas las necesidades del bebé durante el día y estar uno junto al otro
 - TEJIDOS 100 % RECICLADOS: envuelve a tu bebé en tejidos supersuaves de primera calidad. Alba cuenta con Eco Care, un tejido 100 % reciclado que da confort a tu hijo y te ofrece una opción sostenible
 - EL MEJOR COLCHÓN CONFORT: con un colchón extragrueso, la cuna moisés Alba proporciona máxima comodidad para tu bebé, tanto en posición tumbada como reclinada
-- MOISÉS TODO EN 1: elegante moisés, sillón reclinable y trona todo en uno, diseñado para responder a todas las necesidades del bebé durante el día y estar uno junto al otro
 - KIT PARA COMIDAS ALBA: utiliza Alba como trona en combinación con el kit para comidas Alba (se vende por separado) desde los 6 meses hasta aprox. 3 años (15 kg). La bandeja se engancha en el bastidor
-- FÁCIL DE CAMBIAR, AJUSTAR Y MOVER: el diseño móvil de Alba permite cambiar fácilmente entre moisés para bebé, moisés reclinable y trona y es regulable en altura
+- SÁBANAS ALBA: las sábanas Alba (se venden por separado) están especialmente diseñadas para cubrir el colchón de nuestra Maxi-Cosi Alba (100% algodón)
 - CUNA PARA BEBÉ Y TRONA 2 EN 1: puede utilizarse desde el nacimiento hasta aproximadamente los 6 meses (9 kg) como capazo, con función reclinable, y desde los 6 meses hasta los 3 años como trona (puede combinarse con el kit para comida que se vende por separado)
+- FÁCIL DE CAMBIAR, AJUSTAR Y MOVER: el diseño móvil de Alba permite cambiar fácilmente entre moisés para bebé, moisés reclinable y trona y es regulable en altura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTPSWVJW{{</world>}}

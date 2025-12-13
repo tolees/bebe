@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Ayuda instantáneamente a recuperar el pH natural en pieles delicadas
 - Limpia de manera eficaz la piel gracias a su textura extra gruesa y suave
+- Apropiadas desde el primer día porque están especialmente diseñadas para la piel del recién nacido
 - Con fibras de origen vegetal
 - Testado dermatológicamente, sin perfume y 0% de fenoxietanol, parabenos y alcohol
-- Apropiadas desde el primer día porque están especialmente diseñadas para la piel del recién nacido
 - Su exclusiva loción ayuda a prevenir la irritación de la piel
 - Máxima protección de la piel de Dodot
 

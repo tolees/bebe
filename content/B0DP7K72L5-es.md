@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuadas para la delicada piel de tu recién nacido
-- La fórmula está dermatológicamente testada y aprobada por dermatólogos de Skin Health Alliance
-- Hecho con 0% alcohol y perfume
-- Con 99% agua
 - Más suave que el algodón y el agua
+- Adecuadas para la delicada piel de tu recién nacido
+- Con 99% agua
+- Hecho con 0% alcohol y perfume
 - Fibras 100% de origen vegetal, de las cuáles 10% son algodón premium
+- La fórmula está dermatológicamente testada y aprobada por dermatólogos de Skin Health Alliance
 - Fórmula única que ayuda a restaurar el Ph natural de la piel y protegerla de irritaciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

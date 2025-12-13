@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El potito aporta más energía y menos agua que los purés caseros.
 - Delicioso sabor a judías verdes y patatas. Desde los 4 meses.
 - Sin aditivos, colorantes, ni conservantes.
-- El potito aporta más energía y menos agua que los purés caseros.
 - Los potito de introducción a las judías verdes y patatas están elaborados para alimentar a tu bebé a partir de los 4 meses y forman parte de una dieta variada
 - La cantidad de nutrientes es calculada teniendo en cuenta las necesidades nutricionales de cada etapa.
 

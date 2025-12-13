@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protector Solar para Niños Ecran de la marca Denenes
-- ¡Si quieres lucir un moreno espectacular sin olvidar el cuidado de tu piel!
-- Color: multicolor
-- Medidas: 8 x 4,5 x 20,5 centímetros
 - Referencia del fabricante: S05099111
+- Protector Solar para Niños Ecran de la marca Denenes
+- Medidas: 8 x 4,5 x 20,5 centímetros
+- Color: multicolor
+- ¡Si quieres lucir un moreno espectacular sin olvidar el cuidado de tu piel!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKJQZPXC{{</world>}}
