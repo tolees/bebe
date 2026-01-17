@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Mediasuela Cloudfoam
 - Forro textil
-- Horma clásica
-- Empeine textil
-- Forro textil
 - Cierre con correa autoadherente
+- Horma clásica
+- Forro textil
+- Empeine textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYQ8ZLVJ{{</world>}}

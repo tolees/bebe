@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Juego de memoria con animales
 - Producto de alta calidad
 - Tarjetas gruesas, piezas de autocorrección, cartón resistente
-- Juego de memoria con animales
 - Memoria y atención, capacidades lógicas, formas y colores, manualidades finas y coordinación ojo-mano, decodificación de imágenes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
