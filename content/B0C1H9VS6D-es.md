@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Asiento seguro con cinturones: en la modalidad de trona, podrás asegurar al bebé con los cinturones de 5 puntos para optima seguridad cuando el bebé está sentado en la trona
-- Reposapiés ajustables: el reposapiés más alto se puede ajustar a 2 alturas diferentes para adaptarse al crecimiento del niño y así poder subir y bajar de la silla con total autonomía, fomentando su independencia
 - Trona compacta y plegable: Crescendo Lite se puede cerrar para ahorrar espacio y guardarse mientras no se está utilizando; optimo para cualquier tipo de cocina o comedor
 - Trona evolutiva con 3 configuraciones: Crescendo Lite sigue el crecimiento del bebé; se puede utilizar como trona de 6 a 36 meses; como silla para niños desde los 3 años hasta los 40 kg; y como taburete para adultos hasta 99 años y 110 kg
 - Muy accesoriada: Crescendo Lite se complementa con una serie de accesorios, de venta por separado; bandeja y textil acolchado: para la opción trona (6-36 meses); patas adicionales: elevan la altura de crescendo lite 20 cm para utilizar también en mesas altas como islas o penínsulas de cocina; kit torre de aprendizaje: para fomentar la autonomía del niño y su participación en la preparación de las comidas con los adultos
+- Reposapiés ajustables: el reposapiés más alto se puede ajustar a 2 alturas diferentes para adaptarse al crecimiento del niño y así poder subir y bajar de la silla con total autonomía, fomentando su independencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1H9VS6D{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ACCESORIOS: completa tu cuna de colecho Iora Air con las sábanas ajustables y suaves Maxi-Cosi Iora Air de algodón 100%, en pack de 2 (se venden por separado)
-- MODO MECEDORA: Iora Air cuenta con una práctica función de balanceo para que puedas calmar fácilmente a tu bebé - simplemente mueve el soporte de pie arqueado y acuna a tu bebé para que se duerma
-- ADVERTENCIA: debe utilizarse con camas para adultos con una altura mínima de 56 cm (altura total del somier + colchón) y una altura del somier mínima de 30 cm/máx. 49cm - no utilice el colecho si el espacio entre el borde del somier y el colchón es mayor a 5.5cm
 - DESLIZAMIENTO FÁCIL: con la función de deslizamiento fácil de Iora Air, sólo tienes que deslizar la cuna de lado para que se adapte perfectamente a tu cama y que tú y tu bebé tengáis la experiencia perfecta durmiendo juntos
-- MALLA INTEGRAL: la gran ventana de malla garantiza una conexión visible con tu bebé, incluso cuando el lateral está levantado, y añade transpirabilidad y circulación de aire dentro de la cuna
 - TEJIDOS 100% RECICLADOS: tejidos sostenibles diseñados con Eco Care: la funda está compuesta por tejidos 100% reciclados, se pueden quitar fácilmente y se pueden lavar en la lavadora
+- ADVERTENCIA: debe utilizarse con camas para adultos con una altura mínima de 56 cm (altura total del somier + colchón) y una altura del somier mínima de 30 cm/máx. 49cm - no utilice el colecho si el espacio entre el borde del somier y el colchón es mayor a 5.5cm
+- MALLA INTEGRAL: la gran ventana de malla garantiza una conexión visible con tu bebé, incluso cuando el lateral está levantado, y añade transpirabilidad y circulación de aire dentro de la cuna
+- MODO MECEDORA: Iora Air cuenta con una práctica función de balanceo para que puedas calmar fácilmente a tu bebé - simplemente mueve el soporte de pie arqueado y acuna a tu bebé para que se duerma
+- ACCESORIOS: completa tu cuna de colecho Iora Air con las sábanas ajustables y suaves Maxi-Cosi Iora Air de algodón 100%, en pack de 2 (se venden por separado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B93XB6RY{{</world>}}

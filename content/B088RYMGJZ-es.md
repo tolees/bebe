@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - POMADA PROTECTORA REPARADORA 50 ml. Ayuda a prevenir la dermatitis causada por el uso del pañal, favoreciendo la reparación de la piel fragilizada a causa de posibles agentes irritantes. Alivia las irritaciones y las rojeces. Con pantenol
+- APTO PARA PIELES SENSIBLES. Los productos de cosmética pediátrica de Suavinex se pueden utilizar desde el primer día y son aptos para pieles sensibles
 - PACK DE COSMÉTICA Suavinex de Gran Formato. Para tener los indispensables para el aseo del bebé. Ideal como regalo de recién nacido o como canastilla
 - INGREDIENTES DE ORIGEN NATURAL. Los productos de esta canastilla contienen de media, un 93% de ingredientes de origen natural, incluyendo el agua
-- APTO PARA PIELES SENSIBLES. Los productos de cosmética pediátrica de Suavinex se pueden utilizar desde el primer día y son aptos para pieles sensibles
-- GEL CREMA BAÑO SUAVE, de 750 ml. Gel - Cahmpú para limpiar con suavidad la piel y el cabello del bebé. Hidrata preservando la película hidrolipídica. Sin jabón, textura rica y cremosa. No pica en los ojos. Con Avena Bio, Prebióticos y Pantenol
 - TOALLITAS DERMOHIDRATANTES 25 uds. Limpian de forma suave la piel del bebé. Aptas también para las manitas y la carita del bebé
+- GEL CREMA BAÑO SUAVE, de 750 ml. Gel - Cahmpú para limpiar con suavidad la piel y el cabello del bebé. Hidrata preservando la película hidrolipídica. Sin jabón, textura rica y cremosa. No pica en los ojos. Con Avena Bio, Prebióticos y Pantenol
 - LECHE HIDRATANTE de 750 ml. Hidrata en profundidad la piel del bebé, protegiéndola de la sequedad. Deja una piel camada, suave, tersa y ligeramente perfumada. Fácil absorción. Con Avena BIO + Prebiótico, Manteca de karité, Aceite de Almendras y Glicerina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

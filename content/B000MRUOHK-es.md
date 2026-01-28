@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfectas para snacks
-- Color: multicolor
 - Fácil de usar
+- Color: multicolor
+- Perfectas para snacks
 - Está hecho de plástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

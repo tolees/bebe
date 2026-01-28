@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
-- Compra 1 talla más pequeña
 - Suela y mediasuela de EVA
-- Suela sintética
+- Compra 1 talla más pequeña
 - Contiene al menos un 20% de material reciclado
+- Forro textil
+- Suela sintética
 - Parte superior de piel sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
