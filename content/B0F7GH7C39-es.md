@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- MODO DE CONDUCCIÓN LIBRE: Dedicado a conductores más experimentados (18+ meses), en el modo de Conducción Libre las ruedas de apoyo pueden ser removidas para comenzar la aventura. HECHO EN ITALIA: Diseñado y producido en Italia.
 - VESPA PRIMAVERA: El juego montable Chicco de estilo inconfundible; el diseño original de Vespa Primavera hará vivir al niño aventuras emocionantes y momentos divertidos con total libertad.
 - CRECE CON EL NIÑO: La Vespa Primavera Chicco está diseñada para crecer con tu niño, gracias a las cómodas ruedas de soporte que se pueden quitar cuando se haya convertido en un conductor experto.
-- MODO DE CONDUCCIÓN FÁCIL: Diseñado para los más pequeños (12+ meses), el modo de conducción fácil permite añadir las ruedas de soporte para moverse con total seguridad.
 - PANEL ELECTRÓNICO: Con detalles y sonidos realistas para una experiencia a 360°; Gira la llave para escuchar el rugido del motor, llena el tanque de tu Vespa y juega con los botones sonoros y las luces de colores.
-- MODO DE CONDUCCIÓN LIBRE: Dedicado a conductores más experimentados (18+ meses), en el modo de Conducción Libre las ruedas de apoyo pueden ser removidas para comenzar la aventura. HECHO EN ITALIA: Diseñado y producido en Italia.
+- MODO DE CONDUCCIÓN FÁCIL: Diseñado para los más pequeños (12+ meses), el modo de conducción fácil permite añadir las ruedas de soporte para moverse con total seguridad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F7GH7C39{{</world>}}

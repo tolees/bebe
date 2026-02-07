@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Asa fácil de coger para llevarse el juguete a todas partes.
 - Diez bloques de colores para ordenar, apilar y encajar.
 - Todos los bloques caben dentro del cubo para guardarlos.
+- Asa fácil de coger para llevarse el juguete a todas partes.
 - Enseña los colores y las formas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

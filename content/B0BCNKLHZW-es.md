@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - LIMPIA SUAVEMENTE: El gel de lavado suave Naïf para bebés y niños limpia y cuida suavemente la piel sensible.
 - FRAGANCIA SUAVE: Huele celestial sin los 26 alérgenos más comunes.
-- ESPECIALMENTE PARA PIELES SENSIBLES: Todos los productos Naïf están elaborados con ingredientes naturales, están dermatológicamente probados y libres de SLES, microplásticos, parabenos y aceites minerales.
 - CUIDADO DE LARGA DURACIÓN: Gel de ducha para piel seca que previene el picor y la irritación. Nutre intensamente la piel, la protege contra la deshidratación y mantiene su equilibrio natural de hidratación.
+- ESPECIALMENTE PARA PIELES SENSIBLES: Todos los productos Naïf están elaborados con ingredientes naturales, están dermatológicamente probados y libres de SLES, microplásticos, parabenos y aceites minerales.
 - ENVASE DE RECARGA SOSTENIBLE: reduce el consumo de plástico y apoya a las familias conscientes del medio ambiente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
