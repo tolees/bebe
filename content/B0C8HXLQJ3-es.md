@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ESPONJA NATURAL. Esponja natural marina, recogida en el Mar Mediterráneo por inmersión, respetando en todo momento el fondo marino. Su proceso de selección y preparación es artesanal y cuidadoso
 - APTA PARA PIELES SENSIBLES. Testada bajo supervisión dermatológica
-- DE GRAN CALIDAD. Tiene poros densos y uniformes y es una de las mejores esponjas marinas que se encuentran en la naturaleza
 - ESPONJA BEBÉ. Esponja para bebés recién nacidos, para utilizar desde el primer día. Apta también para toda la familia
 - SUAVE con la delicada piel del bebé, con gran poder de absorción
+- ESPONJA NATURAL. Esponja natural marina, recogida en el Mar Mediterráneo por inmersión, respetando en todo momento el fondo marino. Su proceso de selección y preparación es artesanal y cuidadoso
+- DE GRAN CALIDAD. Tiene poros densos y uniformes y es una de las mejores esponjas marinas que se encuentran en la naturaleza
 - CON CAJITA - CANASTILLA. Esponja con estuche - cajita para poder guardarla. Ideal para llevar de viaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})

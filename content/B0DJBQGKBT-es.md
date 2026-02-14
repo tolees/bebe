@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ⭐Función Trona (6m+):Transformable en una trona ergonómica desde los 6 meses. Incluye doble bandeja fácil de limpiar. Entrepierna de seguridad (desmontable) y cojín también desmontable. Con cinturón de seguridad 5 puntos. Reposapiés 3 alturas, asegura la postura adecuada del niño en cada etapa.
 - ⭐Función Hamaca alta (0m+): Permite que el bebé esté elevado a la altura de la mesa. Reclinable en 2 posiciones, adaptable al crecimiento del bebé y a diferentes momentos del día (jugar, descansar) quitando y poniendo el arco de juguetes. Base estable y segura intercambiable en 5 segundos.
 - ⭐Función silla (36m+): Se ajusta a una silla infantil para cuando el niño ya puede sentarse sin apoyo. Hecha de madera de haya resistente, diseñada para durar en el tiempo y crecer junto con el niño. Ideal para usar en cualquier espacio, ya sea en la mesa de comedor o en áreas de juego, ofreciendo comodidad y estilo. Soporta el peso de un adulto.
-- ⭐Función Trona (6m+):Transformable en una trona ergonómica desde los 6 meses. Incluye doble bandeja fácil de limpiar. Entrepierna de seguridad (desmontable) y cojín también desmontable. Con cinturón de seguridad 5 puntos. Reposapiés 3 alturas, asegura la postura adecuada del niño en cada etapa.
-- ⭐Función Hamaquita (0m+): Perfecta para recién nacidosl, proporciona una posición reclinada (2 posiciones) para la comodidad del bebé. Con un reductor ergonómico, suave y ajustable para ofrecer el mejor soporte desde los primeros meses. Arnés de seguridad de 5 puntos para máxima protección. Incluye arco de juegos con 2 juguetes. Balanceo o fija!
 - ⭐Función Torre de aprendizaje (24m+): Se convierte en una torre de aprendizaje estable, ideal para que los niños participen de manera segura en actividades como cocinar o lavar. Diseño muy seguro con barandilla frontal y respaldo desmontable que protegen al niño mientras explora y aprende a mantenerse de pie. Promueve la independencia y el desarrollo de habilidades motoras.
+- ⭐Función Hamaquita (0m+): Perfecta para recién nacidosl, proporciona una posición reclinada (2 posiciones) para la comodidad del bebé. Con un reductor ergonómico, suave y ajustable para ofrecer el mejor soporte desde los primeros meses. Arnés de seguridad de 5 puntos para máxima protección. Incluye arco de juegos con 2 juguetes. Balanceo o fija!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJBQGKBT{{</world>}}

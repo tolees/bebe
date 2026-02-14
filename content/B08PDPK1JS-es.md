@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos posiciones de reclinación para la comodidad de tu bebé
-- Vibración relajante y un divertido juguete
-- Cómodo almohadón extraíble para bebés de pocos meses
 - Asiento perfecto para que niños de hasta 18 kg puedan sentarse a la mesa con toda la familia
+- Dos posiciones de reclinación para la comodidad de tu bebé
+- Cómodo almohadón extraíble para bebés de pocos meses
+- Vibración relajante y un divertido juguete
 - Cuenta con tres modos diferentes: Balanceo, mecedora y asiento fijo con soporte trasero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

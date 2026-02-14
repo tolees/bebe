@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Loción con 99% de agua
 - Dodot mejor limpieza & protección
-- Toallitas con textura suave para una limpieza sin esfuerzo
 - Hecho con 0% alcohol y perfume
 - Fórmula única que ayuda a restaurar el Ph natural de la piel y protegerla de irritaciones
+- Loción con 99% de agua
+- Toallitas con textura suave para una limpieza sin esfuerzo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GCMVN3ZN{{</world>}}
