@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatibles con la colección de ropa how to dress de miniland para muñecos de 21cm
 - Colección de diferentes etnias y sexos
+- Compatibles con la colección de ropa how to dress de miniland para muñecos de 21cm
 - Bebé de 21cm artículado y ligeramente perfumado
 - Anatómicamente correctos: niño
 - Rasgos étnicos definidos: europeo

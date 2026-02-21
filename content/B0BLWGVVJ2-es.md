@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muselina multifunción: arrullo de verano, como toalla, arropar al bebé en los primeros meses, cubrirte mientras das el pecho, proteger al bebé mientras duerme al aire libre del sol, viento o mosquitos
-- Muselina de la colección Eco Collection de Interbaby.
 - Muselinas de gran tamaño extra suaves, de tejido vaporoso, suave y transpirable.
+- Muselina de la colección Eco Collection de Interbaby.
+- Muselina multifunción: arrullo de verano, como toalla, arropar al bebé en los primeros meses, cubrirte mientras das el pecho, proteger al bebé mientras duerme al aire libre del sol, viento o mosquitos
 - Medida: 120x120 cm.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

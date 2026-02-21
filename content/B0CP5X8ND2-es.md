@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaboradas con 99% de agua para una limpieza delicada
 - Hechas con 0% perfume y alcohol
 - Fórmula única con algodón premium. Suave como una pluma en la delicada piel del bebé
+- Elaboradas con 99% de agua para una limpieza delicada
 - Toallitas con 100% fibras de origen vegetal y 0% plástico
 - Testadas dermatológicamente y aprobadas por Dermatólogos del Skin Health Alliance
 
