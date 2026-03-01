@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar sobre el cabello y cuerpo mojado, enjabonar suavemente y aclarar bien. Se puede usar en la bañera y la ducha.
-- Deja el cabello suave, sedoso y fácil de peinar; además ha sido testada dermatológicamente, incluso en pieles sensibles
-- Este gel y champú vegano y 100% natural no es irritante para los sensibles ojos de los bebés y no tiene jabón
 - Gel y Champú 2 en 1 para baño y ducha sin jabón que limpia suavemente el cabello y el cuerpo del bebé
+- Deja el cabello suave, sedoso y fácil de peinar; además ha sido testada dermatológicamente, incluso en pieles sensibles
+- Aplicar sobre el cabello y cuerpo mojado, enjabonar suavemente y aclarar bien. Se puede usar en la bañera y la ducha.
 - Cuenta con aceite de sésamo, aceite de almendra y extracto de caléndula que mantienen la hidratación de la piel, la protegen de la sequedad
+- Este gel y champú vegano y 100% natural no es irritante para los sensibles ojos de los bebés y no tiene jabón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00K2Y8WWC{{</world>}}

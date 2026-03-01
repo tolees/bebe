@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Champú Johnson Baby – Champú sin sulfatos diseñado para la delicada piel y el cabello de los bebés y con fórmula hipoalergénica para reducir el riesgo de alergias
-- Con esencias NaturCalm – La fórmula delicada de este champú infantil está enriquecida con esencias relajantes NaturCalm que ayudan a calmar al bebé antes de dormir
-- No Llores Más – Tan suave con los ojos como el agua más pura, este champú neutro evita las lágrimas y los picores en los ojos durante el baño y facilita el aclarado
-- Rutina de sueño en tres pasos – La rutina de sueño de baño tibio, masaje y relajación de Johnsons puede ayudar a tu peque a acostumbrarse a un horario normal
 - Probado por pediatras – La calidad de los champús y productos para bebés, recién nacidos y niños de Johnsons Baby está rigurosamente avalada por pediatras y dermatólogos
+- No Llores Más – Tan suave con los ojos como el agua más pura, este champú neutro evita las lágrimas y los picores en los ojos durante el baño y facilita el aclarado
+- Con esencias NaturCalm – La fórmula delicada de este champú infantil está enriquecida con esencias relajantes NaturCalm que ayudan a calmar al bebé antes de dormir
+- Rutina de sueño en tres pasos – La rutina de sueño de baño tibio, masaje y relajación de Johnsons puede ayudar a tu peque a acostumbrarse a un horario normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B082VQPVN5{{</world>}}

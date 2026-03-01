@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Uso fácil y conveniente
-- Asocia cada cachorro con su madre
 - Tarjetas gruesas, piezas de autocorrección, cartón resistente
+- Asocia cada cachorro con su madre
 - Capacidades lógicas, atención y concentración, formas y colores, manualidades finas y coordinación ojo-mano, decodificación de imágenes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

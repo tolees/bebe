@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 14 POSICIONES DE REPOSACABEZAS: a medida que el pequeño crece, el ajuste del reposacabezas con una mano de esta silla coche grupo 2-3 facilita seleccionar entre 14 posiciones para brindar una seguridad y un confort óptimos
 - PLEGADO COMPACTO Y LIGERO (4,4 KG): gracias a su diseño plegable único, esta silla coche grupo 2-3 resulta compacta, ligera (4,4 kg) y fácil de guardar, mover y llevar a todas partes
-- SILLA DE COCHE R129: esta silla coche grupo 2-3 y asiento elevador cumple la norma europea de seguridad más rigurosa (R129/03) para el uso en posiciones de asiento universales y compatibles con i-Size, por lo que brinda la máxima seguridad
 - ASIENTO COMPLETAMENTE ACOLCHADO: la silla de coche y asiento elevador con respaldo RoadFix i-Size consta de un cojín blando, así como un asiento y un reposacabezas acolchados, para proporcionar confort al pequeño
+- SILLA DE COCHE R129: esta silla coche grupo 2-3 y asiento elevador cumple la norma europea de seguridad más rigurosa (R129/03) para el uso en posiciones de asiento universales y compatibles con i-Size, por lo que brinda la máxima seguridad
 - SILLA DE COCHE ISOFIX: esta silla coche grupo 2-3 puede instalarse mediante conectores ISOFIX para garantizar una fijación estable y segura (el uso de los conectores ISOFIX es opcional)
 - SILLA COCHE GRUPO 2-3: RoadFix i-Size es una silla de coche segura, gracias a la instalación mediante ISOFIX, y plegable que acompañará a los niños de 3 años y medio a 12 años (100–150 cm) en todas sus aventuras.
 

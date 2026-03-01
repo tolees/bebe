@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CÓMODOS Y PRÁCTICOS: Estos leggings Chicco ofrecen un ajuste suave y relajado. Tienen una cómoda cintura elástica para mayor practicidad. Estas prendas Chicco son lavables a máquina para garantizar una completa higiene
-- 100% ALGODÓN: Chicco se compromete a garantizar a nuestros niños un futuro mejor. Estas prendas están hechas con algodón procedente de recursos gestionados responsablemente y siguiendo los estándares OEKO-TEX
 - CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades. Con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y de quienes cuidan de los niños
-- LEGGINGS NIÑA: Conjunto de 3 leggings largos de algodón ligero, ideales para primavera y otoño. Estas prendas Chicco son lavables a máquina para garantizar una completa higiene
 - A LA MODA: Estas prendas para niña se destacan por estampados y colores a la moda. Ideales para un look casual, tanto en casa como para salir a la calle
+- 100% ALGODÓN: Chicco se compromete a garantizar a nuestros niños un futuro mejor. Estas prendas están hechas con algodón procedente de recursos gestionados responsablemente y siguiendo los estándares OEKO-TEX
+- CÓMODOS Y PRÁCTICOS: Estos leggings Chicco ofrecen un ajuste suave y relajado. Tienen una cómoda cintura elástica para mayor practicidad. Estas prendas Chicco son lavables a máquina para garantizar una completa higiene
+- LEGGINGS NIÑA: Conjunto de 3 leggings largos de algodón ligero, ideales para primavera y otoño. Estas prendas Chicco son lavables a máquina para garantizar una completa higiene
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08XKBVCJ4{{</world>}}

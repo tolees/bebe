@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- TOALLITAS DERMOHIDRATANTES 25 uds. Limpian de forma suave la piel del bebé. Aptas también para las manitas y la carita del bebé
+- GEL CREMA BAÑO SUAVE, de 500 ml. Gel - Champú para limpiar con suavidad la piel y el cabello del bebé. Hidrata preservando la película hidrolipídica. Sin jabón, textura rica y cremosa. No pica en los ojos. Con Avena Bio, Prebióticos y Pantenol. Aroma suave, icónico bebé
+- POMADA PROTECTORA REPARADORA 50 ml. Ayuda a prevenir la dermatitis causada por el uso del pañal, favoreciendo la reparación de la piel fragilizada a causa de posibles agentes irritantes. Alivia las irritaciones y las rojeces. Con pantenol
 - APTO PARA PIELES SENSIBLES. Los productos de cosmética pediátrica de Suavinex se pueden utilizar desde el primer día y son aptos para pieles sensibles. Pueden utilizarse de forma diaria
+- LECHE HIDRATANTE de 500 ml. Hidrata en profundidad la piel del bebé, protegiéndola de la sequedad. Deja una piel camada, suave, tersa y ligeramente perfumada. Fácil absorción. Con Avena BIO + Prebiótico, Manteca de karité, Aceite de Almendras y Glicerina. Aroma suave, icónico bebé
 - KIT IDEAL si estás empezando a formar tu kit de cuidados para el bebé. La combinación de productos y tamaños es perfecta para usar dentro y fuera de casa o para llevar a la escuela infantil
 - PACK DE COSMÉTICA Suavinex en formatos de 500 ml con dosificador, para una aplicación más cómoda. Pack con todos los indispensables en la rutina de baño y aseo del bebé. Ideal como regalo de recién nacido o como canastilla
-- TOALLITAS DERMOHIDRATANTES 25 uds. Limpian de forma suave la piel del bebé. Aptas también para las manitas y la carita del bebé
-- LECHE HIDRATANTE de 500 ml. Hidrata en profundidad la piel del bebé, protegiéndola de la sequedad. Deja una piel camada, suave, tersa y ligeramente perfumada. Fácil absorción. Con Avena BIO + Prebiótico, Manteca de karité, Aceite de Almendras y Glicerina. Aroma suave, icónico bebé
-- POMADA PROTECTORA REPARADORA 50 ml. Ayuda a prevenir la dermatitis causada por el uso del pañal, favoreciendo la reparación de la piel fragilizada a causa de posibles agentes irritantes. Alivia las irritaciones y las rojeces. Con pantenol
-- GEL CREMA BAÑO SUAVE, de 500 ml. Gel - Champú para limpiar con suavidad la piel y el cabello del bebé. Hidrata preservando la película hidrolipídica. Sin jabón, textura rica y cremosa. No pica en los ojos. Con Avena Bio, Prebióticos y Pantenol. Aroma suave, icónico bebé
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FLQFTZ4K{{</world>}}

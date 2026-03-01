@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La trona es la primera silla de todos los niños que empiezan el destete
-- Asiento regulable con 3 posiciones de reclinación, 6 posiciones de altura y reposapiés ajustable para el máximo confort del niño
-- Cinturón de 5 puntos que permite una sujeción óptima
 - De fácil plegado, se queda de pie, muy compacta, una vez cerrada
+- Cinturón de 5 puntos que permite una sujeción óptima
+- Asiento regulable con 3 posiciones de reclinación, 6 posiciones de altura y reposapiés ajustable para el máximo confort del niño
+- La trona es la primera silla de todos los niños que empiezan el destete
 - Bandeja ajustable en 3 posiciones con sobre bandeja para que sea muy fácil de limpiar y funda acolchada desenfundable y lavable a 30º grados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

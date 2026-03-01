@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SEGURIDAD ALIMENTARIA - Todas las fórmulas de Nutribén están elaboradas en nuestra fábrica de leches y cuentan con la garantía de la normativa Seguridad Alimentaria, para alimentar a tu bebé de la forma más segura posible además de asegurar la mejor alimentación para los más pequeños ofreciéndoles un equilibrio nutricional completo para su desarrollo
-- INCLUYE CACITO DOSIFICADOR - El cacito dosificador de Nutribén Continuación Pro Alfa 2 se encuentra en el interior del bote para favorecer la dosificación de las tomas
 - LECHE BEBE 2 - Nutribén Continuación Pro Alfa 2 es la leche de continuación para bebés desde los 6 meses hasta 1 año, elaborada para ofrecer una adecuada nutrición y desarrollo para tu bebé
-- SIN ACEITE DE PALMA - CONTIENE DHA - La fórmula para bebés Nutribén Continuación Pro Alfa 2 está elaborada sin aceite de palma,contiene DHA y OLM
+- SEGURIDAD ALIMENTARIA - Todas las fórmulas de Nutribén están elaboradas en nuestra fábrica de leches y cuentan con la garantía de la normativa Seguridad Alimentaria, para alimentar a tu bebé de la forma más segura posible además de asegurar la mejor alimentación para los más pequeños ofreciéndoles un equilibrio nutricional completo para su desarrollo
 - HASTA 29 TOMAS POR CADA BOTE DE 1KG - El cálculo de tomas y la dosificación recomendada para el lactante varía en función de la edad de tu bebé
+- INCLUYE CACITO DOSIFICADOR - El cacito dosificador de Nutribén Continuación Pro Alfa 2 se encuentra en el interior del bote para favorecer la dosificación de las tomas
+- SIN ACEITE DE PALMA - CONTIENE DHA - La fórmula para bebés Nutribén Continuación Pro Alfa 2 está elaborada sin aceite de palma,contiene DHA y OLM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDCPSRBD{{</world>}}

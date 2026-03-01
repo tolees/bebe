@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No Llores Más: Tan suave con los ojos como el agua más pura, este champú para niños evita las lágrimas y los picores en los ojos durante el baño y facilita el aclarado
-- Champú Johnson Baby: especialmente diseñado para ser suave con el cuero cabelludo de los niños, es ideal también para adultos. Deja el pelo suave, brillante e hidratado.
-- Probado por pediatras: La calidad de los champús y productos para bebés, recién nacidos y niños de Johnson’s Babyestá rigurosamente avalada por pediatras y dermatólogos
-- Champú sin sulfatos: Diseñado limpiar el fino cabello y delicado cuero cabelludo del bebé, este champú neutro no contiene colorantes, ftalatos, sulfatos, alcohol ni jabón
 - Apto para pieles sensibles: Formulado para minimizar el riesgo de alergias en tu bebé, este champú es hipoalergénico*, ideal para la piel atópica, y con un pH equilibrado
+- No Llores Más: Tan suave con los ojos como el agua más pura, este champú para niños evita las lágrimas y los picores en los ojos durante el baño y facilita el aclarado
+- Champú sin sulfatos: Diseñado limpiar el fino cabello y delicado cuero cabelludo del bebé, este champú neutro no contiene colorantes, ftalatos, sulfatos, alcohol ni jabón
+- Probado por pediatras: La calidad de los champús y productos para bebés, recién nacidos y niños de Johnson’s Babyestá rigurosamente avalada por pediatras y dermatólogos
+- Champú Johnson Baby: especialmente diseñado para ser suave con el cuero cabelludo de los niños, es ideal también para adultos. Deja el pelo suave, brillante e hidratado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KYZWHFJ{{</world>}}

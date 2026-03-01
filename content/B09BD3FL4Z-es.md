@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin BPA; esterilizar en el microondas con el estuche reutilizable
 - El 95 % de los bebés aceptan este chupete NUK y el 99 % de las madres lo recomendarían*
 - La forma original de los chupetes NUK se ha mejorado de modo que imite el pezón materno durante la lactancia para conseguir una sensación natural y agradable
+- Sin BPA; esterilizar en el microondas con el estuche reutilizable
 - Las aberturas de ventilación extragrandes, ideales para la sensible piel del bebé, maximizan la circulación del aire, lo que permite que la piel respire
 - Promueve el desarrollo saludable de los dientes y la mandíbula ejercitando los labios, la lengua y los músculos faciales del bebé
 

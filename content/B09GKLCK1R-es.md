@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El set se presenta en una bonita caja perfecta para regalo.
-- Talla única/Recién Nacido.
-- Set regalo de ropita "Primera Puesta" para recién nacido 100% algodón en tonos rosa.
 - El set incluye los elementos indispensables en la canastilla del bebé; un par de manoplas, un babero, un gorro primera puesta, una camisa y unas polainas.
+- El set se presenta en una bonita caja perfecta para regalo.
+- Set regalo de ropita "Primera Puesta" para recién nacido 100% algodón en tonos rosa.
 - Composición: 100% algodón.
+- Talla única/Recién Nacido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09GKLCK1R{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BALANCÍN ELÉCTRICO: el Swoon Motion calma a tu bebé con un balanceo lateral o de adelante atrás. También puede utilizarse como tumbona fija.
 - MANTENIMIENTO FÁCIL: el asiento del balancín y el reductor son extraíbles y lavables a máquina a 30°.
+- CÓMODO: este balancín dispone de un asiento de algodón ajustable (2 posiciones) y gira a 360°. El respaldo se inclina (2 posiciones) e incluye un reductor extraíble para recién nacido.
 - MELODÍAS: 8 canciones de cuna disponibles compuestas por melodías y sonidos de la naturaleza; el volumen es regulable al pie del columpio
 - INNOVADOR: el balancín cuenta con 5 velocidades de balanceo, con programación (10, 20 / 30 min) y con un detector de movimiento (el balanceo se reinicia automáticamente si tu bebé se mueve).
-- CÓMODO: este balancín dispone de un asiento de algodón ajustable (2 posiciones) y gira a 360°. El respaldo se inclina (2 posiciones) e incluye un reductor extraíble para recién nacido.
+- BALANCÍN ELÉCTRICO: el Swoon Motion calma a tu bebé con un balanceo lateral o de adelante atrás. También puede utilizarse como tumbona fija.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00N8YZ7CG{{</world>}}

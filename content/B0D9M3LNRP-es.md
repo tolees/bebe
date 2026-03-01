@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El cuerpo, las manos y los pies de la muñeca están hechos de suave tela
-- Ayuda al desarrollo sensorial del niño: afectividad, imaginación y fantasía
 - Mordedor con forma de corazón, indicado para la dentición
+- Ayuda al desarrollo sensorial del niño: afectividad, imaginación y fantasía
 - Tierna Muñeca de Chicco para los primeros mimos del recién nacido, con un suave corazón para la dentición, súper suave y ligera
 - La tela es adecuada desde el nacimiento y se puede lavar a máquina a 30 grados
 

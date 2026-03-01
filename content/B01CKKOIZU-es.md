@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - HAGA DE ESTE EL PRIMER PASO - Para rutinas de cuidado dental saludables y felices, con agarre para masticar que estimula la encía del bebé
-- JORDAN STEP 1 - El cepillo de dientes para bebés de 0 a 2 años diseñado con cerdas extra suaves, un anillo mordiente suave y un mango adaptable
-- PACK DE CEPILLO DE DIENTES INFANTIL - Con 4 unidades de colores divertidos, ganador del premio Red Dot Design Award
 - CEPILLO DE DIENTES BEBÉ - Hecho a medida para una primera experiencia de cepillado placentera y seguro
+- PACK DE CEPILLO DE DIENTES INFANTIL - Con 4 unidades de colores divertidos, ganador del premio Red Dot Design Award
+- JORDAN STEP 1 - El cepillo de dientes para bebés de 0 a 2 años diseñado con cerdas extra suaves, un anillo mordiente suave y un mango adaptable
 - LOS DENTISTAS RECOMIENDAN - Comenzar cuando aparece el primer diente, con mango ergonómico y cerdas de colores que indican la cantidad de pasta dental
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

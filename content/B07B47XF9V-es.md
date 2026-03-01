@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- No contiene conservantes ni colorantes.
+- Fruta 100% natural. Ingredientes Nutribén de primera calidad específicamente adaptados para bebés en su alimentación a partir de los 6 meses.
 - Fruta & GO!, la manera más cómoda, higiénica y divertida de dar a los peques el aporte de energía que necesitan en cualquier momento y lugar.
 - Formato atractivo, fácil de manejar y con tapón de seguridad, para tomar en cualquier lugar y momento.
-- Fruta 100% natural. Ingredientes Nutribén de primera calidad específicamente adaptados para bebés en su alimentación a partir de los 6 meses.
-- No contiene conservantes ni colorantes.
 - Sin azúcares añadidos. Contiene azúcares naturalmente presentes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
