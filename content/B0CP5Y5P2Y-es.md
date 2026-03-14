@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Más suave que el algodón y el agua
 - Hecho con 0% alcohol y perfume
+- Más suave que el algodón y el agua
 - La fórmula está dermatológicamente testada y aprobada por dermatólogos de Skin Health Alliance
 - Con una gota de Aloe Vera
 - Fórmula única que ayuda a restaurar el Ph natural de la piel y protegerla de irritaciones

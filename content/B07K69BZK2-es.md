@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CLASIFICACIÓN UPF50: Protegerá a su bebé de los rayos UV y el clima cálido; el tejido de protección con clasificación UPF50 brinda la protección para su bebé dondequiera que vaya
+- PESO: 425g, DIMENSIONES: 75 x 79 x 4,6 cm
 - AJUSTE FLEXIBLE: La sección flexible en la base de la sombrilla le permite doblar el vástago para ajustar fácilmente el ángulo; nota: se requiere mucha fuerza para doblarse en su posición; los ejes de resorte flexibles y las bisagras del accesorio le permiten ajustar la posición del paraguas fácilmente, para brindar una protección total de 360° a su bebé
 - MATERIALES DE CALIDAD: El paraguas para cochecito LittleLife está hecho de tela con clasificación UPF50 que es muy duradera y fácil de limpiar; este material proporciona una protección óptima para los días soleados; también está libre de BPA y ftalatos
-- PESO: 425g, DIMENSIONES: 75 x 79 x 4,6 cm
+- CLASIFICACIÓN UPF50: Protegerá a su bebé de los rayos UV y el clima cálido; el tejido de protección con clasificación UPF50 brinda la protección para su bebé dondequiera que vaya
 - AJUSTE UNIVERSAL: La abrazadera ajustable en la parte inferior hace que la sombrilla para cochecito sea adecuada para cualquier cochecito, cochecito o silla de paseo (se abre hasta un máximo de 2,5 cm, es decir, solo cabe sobre barras/manijas de 2,5 cm de diámetro/grosor máximo)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resultados visibles en solo 4 semanas. Aumenta la hidratación hasta un 56% a los 30 minutos, mejora la firmeza de la piel y reduce las arrugas hasta un 29% con el uso continuado dos veces al día
 - Fórmula natural con activos antioxidantes de alta eficacia. Enriquecido con aloe vera BIO, zumo de granada, extracto de espino negro y semilla de mijo, ingredientes de origen natural que combaten los radicales libres y protegen la piel frente al estrés oxidativo y la luz azul
-- Cuidado facial masculino antioxidante 5 en 1 para una piel hidratada y firme durante 24 horas. Sérum facial ligero y sin aceites que ayuda a reducir los signos del envejecimiento, mejora la elasticidad y estimula la renovación celular. Ideal para el uso diario en todo tipo de piel
 - Consejos de uso. Aplicar suavemente sobre el rostro limpio por la mañana y por la noche. Para una hidratación extra, especialmente en pieles secas, completar la rutina con la Crema Hidratante Weleda FOR MEN. Evitar el contacto directo con los ojos
+- Cuidado facial masculino antioxidante 5 en 1 para una piel hidratada y firme durante 24 horas. Sérum facial ligero y sin aceites que ayuda a reducir los signos del envejecimiento, mejora la elasticidad y estimula la renovación celular. Ideal para el uso diario en todo tipo de piel
+- Resultados visibles en solo 4 semanas. Aumenta la hidratación hasta un 56% a los 30 minutos, mejora la firmeza de la piel y reduce las arrugas hasta un 29% con el uso continuado dos veces al día
 - Resultados visibles en solo 4 semanas. Aumenta la hidratación hasta un 56% a los 30 minutos, mejora la firmeza de la piel y reduce las arrugas hasta un 29% con el uso continuado dos veces al día
 
 [🛒 Aquí!!!]({{< param buyurl >}})

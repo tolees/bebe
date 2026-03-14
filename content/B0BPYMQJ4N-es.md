@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✅ DOS POSICIONES: El padre se puede poner NINO de dos maneras: puede cargar al bebé en el pecho o en la espalda: siempre mirando hacia el padre.
-- ✅ ERGONÓMICO: el portabebés NINO tiene una opinión positiva de International Hip Dysplasia Institute: la posición del bebé es segura y apropiada para el desarrollo de la cadera (las piernas en forma de la letra M). Es apto para niños desde los 3 meses de vida hasta los ¡20 kg!
 - ✅ PRÁCTICO: NINO tiene un bolsillo especial para artículos pequeños que se encuentra en la parte delantera. El padre sin problema puede guardar allá las llaves o el móvil. Las hebillas están bajo unas cubiertas que aumentan la comodidad de uso.
+- ✅ ERGONÓMICO: el portabebés NINO tiene una opinión positiva de International Hip Dysplasia Institute: la posición del bebé es segura y apropiada para el desarrollo de la cadera (las piernas en forma de la letra M). Es apto para niños desde los 3 meses de vida hasta los ¡20 kg!
+- ✅ DOS POSICIONES: El padre se puede poner NINO de dos maneras: puede cargar al bebé en el pecho o en la espalda: siempre mirando hacia el padre.
 - ✅ FÁCIL DE USAR: NINO se pone fácilmente. Además, se dobla a un tamaño pequeño y, por lo tanto, guardarlo y transportarlo es aún más fácil: cabrá en una bolsa.
 - ✅ AJUSTABLE: se puede regular usando el elástico que tiene un seguro de velcro. También las hombreras son ajustables. Esto permite un ajuste perfecto del portabebés al padre y al hijo.
 

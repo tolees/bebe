@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CIRCULACIÓN DEL AIRE: el colchón de malla 3D incluido y la red en los dos lados permiten que el niño duerma un sueño fresco y tranquilo
-- ALTURA AJUSTABLE: la cuna está equipada con 11 niveles de altura para adaptarse a diferentes tipos de cama
-- 4 RUEDAS GIRATORIAS: La cuna está equipada con 4 ruedas giratorias con freno, que permiten mover fácilmente la cuna
 - MODO DE COLUMPIO: Cuando la cuna se utiliza en configuración independiente, puede utilizar el modo de columpio para ayudar al niño a dormir
 - APERTURA CON UNA SOLA MANO: apertura fácil y rápida gracias a la barandilla deslizante que se abre y cierra simplemente pulsando un botón
+- CIRCULACIÓN DEL AIRE: el colchón de malla 3D incluido y la red en los dos lados permiten que el niño duerma un sueño fresco y tranquilo
+- 4 RUEDAS GIRATORIAS: La cuna está equipada con 4 ruedas giratorias con freno, que permiten mover fácilmente la cuna
+- ALTURA AJUSTABLE: la cuna está equipada con 11 niveles de altura para adaptarse a diferentes tipos de cama
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BR898J7Y{{</world>}}

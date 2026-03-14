@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [GRAN CAPACIDAD] La capacidad de la bañera hinchable es de 30 litros y sus medidas son de 78 x 43 x 37 cm
-- [POSICIÓN 2]: Fijar el separador intermedio en el velcro que hay justo en el medio de la base de la bañera, asé el bebé podrá estar incorporado y el separador le hará de barra de seguridad evitando que se resbale
-- [USO DESDE EL NACIMIENTO] Contiene un separador para evitar que el bebé se resbale. Uso recomendado desde recién nacido.
-- [POSICIÓN 1]: Poner el separador intermedio de reposacabezas, así el bebé podrá estar estirado con la cabeza más elevada que el cuerpo
 - [POSICIÓN 3]: Retirar el separador intermedio de la base de la bañera, así el bebé podrá estar más ancho.
+- [USO DESDE EL NACIMIENTO] Contiene un separador para evitar que el bebé se resbale. Uso recomendado desde recién nacido.
+- [POSICIÓN 2]: Fijar el separador intermedio en el velcro que hay justo en el medio de la base de la bañera, asé el bebé podrá estar incorporado y el separador le hará de barra de seguridad evitando que se resbale
+- [POSICIÓN 1]: Poner el separador intermedio de reposacabezas, así el bebé podrá estar estirado con la cabeza más elevada que el cuerpo
+- [GRAN CAPACIDAD] La capacidad de la bañera hinchable es de 30 litros y sus medidas son de 78 x 43 x 37 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C4TH7DRW{{</world>}}
