@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enseña los colores y las formas.
 - Todos los bloques caben dentro del cubo para guardarlos.
+- Enseña los colores y las formas.
 - Diez bloques de colores para ordenar, apilar y encajar.
 - Asa fácil de coger para llevarse el juguete a todas partes.
 

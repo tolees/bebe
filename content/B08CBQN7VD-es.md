@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bastoncillos de algodón chicco para la higiene de los oídos.
-- Algodón
 - Biodegradable y compostable
+- Algodón
 - Paquete de 60 piezas
 - Con punta suave y flexible.
 

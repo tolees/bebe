@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad
 - Marca: Playgro
+- Producto de calidad
 - Juguete de baño 3 amigos flotantes, impermeable/sin suciedad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 102x102x89 cm y capacidad para 45 litros/agua
-- Accesorios: seta hinchable extraíble para que el niño juegue
-- Piscina hinchable Intex para bebé con forma de seta
 - La seta actúa de parasol y proporciona sombra parcial al niño
+- Medidas: 102x102x89 cm y capacidad para 45 litros/agua
+- Piscina hinchable Intex para bebé con forma de seta
+- Accesorios: seta hinchable extraíble para que el niño juegue
 - La base es hinchable para mayor comodidad del bebé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

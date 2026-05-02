@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Chicco Sun Spray con SPF 50+, adecuado para la piel sensible de los niños
+- Nuestras fórmulas están diseñadas para reducir, en la medida de lo posible, el impacto sobre el medio ambiente en el que vivimos
 - El spray solar de Chicco tiene una consistencia ligera, fluida y fácil de aplicar que creará una película protectora reforzada y resistente al agua
 - El spray está enriquecido con ingredientes activos como la vitamina E y el extracto de Physalis, de acción antioxidante
-- Nuestras fórmulas están diseñadas para reducir, en la medida de lo posible, el impacto sobre el medio ambiente en el que vivimos
-- Chicco Sun Spray con SPF 50+, adecuado para la piel sensible de los niños
 - Gracias a su fórmula, crea una barrera que protege la piel de tu hijo de los rayos solares
 
 [🛒 Visítala!!!]({{< param buyurl >}})

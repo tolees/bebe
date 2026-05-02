@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con espumas memory foam para mayor comodidad y seguridad
-- Instalación con isofix y cinturon de seguridad
 - Desde los 3 años hasta los 12 años o 100-150cm altura
+- Instalación con isofix y cinturon de seguridad
 - Cabezal ajustable multiposiciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

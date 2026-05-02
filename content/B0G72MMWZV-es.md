@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - [AHORRO DE ENERGÍA & PRÁCTICO]: Consume solo 1,5 vatios. Ahorro de energía e inteligente: El modo automático con detección precisa de movimiento (hasta 3 m) asegura que la luz esté ahí exactamente cuando la necesita – y no se desperdicie cuando hay calma. Ideal para desplazamientos nocturnos.
 - [DISEÑO BIEN PENSADO PARA LA COMODIDAD]: La luz está inclinada hacia abajo. La redirección de la luz mediante refracción minimiza el deslumbramiento directo. Esto protege los ojos de su familia y garantiza un sueño reparador.
-- [EL AMBIENTE PERFECTO AL TOCAR UN BOTÓN]: La función de regulación continua le permite crear el brillo ideal (15-100%) para cada momento manteniendo pulsado el botón – ya sea como una suave luz nocturna o como una luz de orientación brillante.
+- [SUAVE BLANCO CÁLIDO 3000K]: Esta luz agradable y sin deslumbramientos ofrece el brillo ideal para la orientación nocturna sin alterar el ambiente de sueño.
 - [APLICACIÓN VERSÁTIL PARA MÁS SEGURIDAD]: El pack de 2 luces nocturnas es la solución ideal para eliminar riesgos de tropiezos en toda la casa. Instálelas en pasillos, escaleras, habitaciones infantiles, baños, cocinas, etc., y disfrute de noches seguras y tranquilas.
 - [3 MODOS INTELIGENTES]: Modo ON (Siempre Encendido), Modo AUTO (con sensor crepuscular & de movimiento), Modo OFF (Siempre Apagado). En modo AUTO, la luz se ilumina durante 30 segundos al detectar movimiento (Alcance: 3 metros, 120°) en ambientes oscuros.
-- [SUAVE BLANCO CÁLIDO 3000K]: Esta luz agradable y sin deslumbramientos ofrece el brillo ideal para la orientación nocturna sin alterar el ambiente de sueño.
+- [EL AMBIENTE PERFECTO AL TOCAR UN BOTÓN]: La función de regulación continua le permite crear el brillo ideal (15-100%) para cada momento manteniendo pulsado el botón – ya sea como una suave luz nocturna o como una luz de orientación brillante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G72MMWZV{{</world>}}

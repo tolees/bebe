@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [AUTONOMÍA PROLONGADA] El humidificador de Jané tiene un depósito de 140 ml, con hasta 7-8 horas de funcionamiento continuo, ideal para proteger al bebé durante toda la noche. Además, su diseño de llenado ubicado en la parte superior evita cualquier derrame y simplifica la limpieza.
 - [LUZ DE COMPAÑÍA PERSONALIZABLE] Iluminación suave con colores totalmente personalizables para crear un ambiente acogedor y adaptado a cada niño. Dispone de 7 bonitos colores LED que puede dejar fijos o disfrutar del programa multicolor.
 - [HIDRATACIÓN Y BIENESTAR] Humidifica suavemente el aire de manera uniforme ayudando a reducir la sequedad ambiental, para ayudar a mejorar la respiración y el descanso de los más pequeños. Además, añade aromas a su difusor para crear el ambiente perfecto.
 - [COMPACTO Y SILENCIOSO] Con su diseño compacto de 11 x 13 cm, el humidificador Drop tiene el tamaño ideal para cualquier habitación infantil, o para llevarlo de viaje, con un funcionamiento ultra silencioso que no interrumpe el sueño del bebé.
+- [AUTONOMÍA PROLONGADA] El humidificador de Jané tiene un depósito de 140 ml, con hasta 7-8 horas de funcionamiento continuo, ideal para proteger al bebé durante toda la noche. Además, su diseño de llenado ubicado en la parte superior evita cualquier derrame y simplifica la limpieza.
 - [TEMPORIZADOR INTELIGENTE] Su temporizador dispone de diferentes opciones preestablecidas y se apaga automáticamente cuando el nivel de agua de la base es bajo, para un uso seguro y eficiente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

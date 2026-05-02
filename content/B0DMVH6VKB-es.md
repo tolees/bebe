@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de EVA de una sola pieza
+- Horma clásica
 - Empeine de piel sintética
 - Forro textil
-- Horma clásica
+- Suela de EVA de una sola pieza
 - Cierre con tiras de velcro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A LA MODA: Las camisetas presentan divertidos estampados, coloridos y a la moda, adecuadas para todo tipo de looks
 - CAMISETAS NIÑA: Set de 3 camisetas de manga corta de algodón, ideales para primavera y verano. Estas prendas Chicco son lavables a máquina, para una higiene elevada
+- 100% ALGODÓN: Chicco se compromete a garantizar a nuestros niños y niñas un futuro mejor; estas prendas están hechas con algodón procedente de una cadena gestionada responsablemente y según los estándares OEKO-TEX
 - CÓMODAS DE LLEVAR: Las camisetas están disponibles hasta la talla 18 meses y tienen botones en el hombro para facilitar el ajuste
 - CHICCO: Desde siempre junto a las familias, escuchando sus historias y necesidades. Con nuestros productos innovadores, respondemos a las necesidades de los padres y cuidadores de los niños
-- 100% ALGODÓN: Chicco se compromete a garantizar a nuestros niños y niñas un futuro mejor; estas prendas están hechas con algodón procedente de una cadena gestionada responsablemente y según los estándares OEKO-TEX
+- A LA MODA: Las camisetas presentan divertidos estampados, coloridos y a la moda, adecuadas para todo tipo de looks
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPYCWJ4F{{</world>}}

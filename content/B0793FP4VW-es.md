@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forma ergonómica que permite alcanzar todas las zonas de la mandíbula
-- Novedoso diseño de tortuga para mantener al bebe distraído
 - ¡Nota! El color no es seleccionable.
+- Novedoso diseño de tortuga para mantener al bebe distraído
+- Forma ergonómica que permite alcanzar todas las zonas de la mandíbula
 - Masajea y enfría las encías durante la dentición
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Encajando las distintas piezas, los niños descubrirán cada una de las letras del abecedario, tanto en mayúsculas como en minúsculas.
 - Para que los niños aprendan de una forma divertida en compañía de Mickey y sus amigos.
 - Adecuado para niños de 4-5 años.
-- Divertido juego de asociación para iniciarse en el conocimiento de las letras.
 - Aprenderán a asociar letras e imágenes, a dinstinguir la grafía de cada letra y a ampliar su vocabulario.
+- Divertido juego de asociación para iniciarse en el conocimiento de las letras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TRY9SHC{{</world>}}

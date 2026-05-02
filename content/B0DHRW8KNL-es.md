@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- SILLA DE AUTO RECLINABLE: la silla de auto puede reclinarse en 5 posiciones diferentes, tanto en posición contraria a la marcha como en dirección a la marcha, asegurando un viaje cómodo en cualquier posición; el reposacabezas puede ajustarse en altura simultáneamente con los arneses de 5 puntos para seguir el crecimiento del niño
+- GRUPO 2/3 (100 a 150 cm): A partir de 100 cm (aprox. 3 años) es posible quitar los arneses de 5 puntos y el niño es sujetado por los cinturones de 3 puntos del vehículo; la silla se instala en dirección a la marcha; el uso de los conectores Isofix es opcional y el Top Tether ya no es necesario; en esta configuración, la silla puede ser utilizada hasta 150 cm (aprox. 12 años)
 - GRUPO 0 (de 40 a 87 cm): el niño es sujetado por los arneses de 5 puntos; la silla se instala en sentido contrario a la marcha utilizando conectores Isofix y Top Tether (sistema Isofix)
 - SEGGIOLINO AUTO 4-en-1: la silla se transforma para seguir el crecimiento del niño, desde el nacimiento hasta aproximadamente los 12 años de edad; altura comprendida entre 40 y 150 cm; 0-36 kg
-- GRUPO 2/3 (100 a 150 cm): A partir de 100 cm (aprox. 3 años) es posible quitar los arneses de 5 puntos y el niño es sujetado por los cinturones de 3 puntos del vehículo; la silla se instala en dirección a la marcha; el uso de los conectores Isofix es opcional y el Top Tether ya no es necesario; en esta configuración, la silla puede ser utilizada hasta 150 cm (aprox. 12 años)
 - GRUPO 1 (de 76 a 105 cm): desde 76 cm (mín. 15 meses) hasta 105 cm (máx. 18 kg), el niño es sujetado por los arneses de 5 puntos; la silla de auto se instala en dirección a la marcha utilizando los conectores Isofix y el Top Tether (sistema Isofix)
-- SILLA DE AUTO RECLINABLE: la silla de auto puede reclinarse en 5 posiciones diferentes, tanto en posición contraria a la marcha como en dirección a la marcha, asegurando un viaje cómodo en cualquier posición; el reposacabezas puede ajustarse en altura simultáneamente con los arneses de 5 puntos para seguir el crecimiento del niño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHRW8KNL{{</world>}}

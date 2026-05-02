@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ASIENTO CÓMODO: La silla de bebé tiene un asiento profundo y ancho, recubierto de espuma EPE que absorbe los impactos y ofrece un asiento cómodo para el pequeño. La comodidad también está asegurada gracias a los cómodos reposabrazos que mantienen el cinturón en la posición correcta
+- ISOFIX O CINTURONES DE SEGURIDAD: la silla de coche Hugo i-Size se instala en sentido de la marcha. ISOFIX proporciona un montaje rápido y seguro reduciendo significativamente las fuerzas en caso de una frenada brusca. También es posible instalar la silla utilizando los cinturones del coche. Además, la silla dispone de un indicador de instalación correcta en los conectores ISOFIX
 - SEGURIDAD: fabricado en plástico PP y reforzado con Memory Foam, el reposacabezas absorbe cualquier sobrecarga y mejora la seguridad del pequeño pasajero. La protección lateral proporciona el máximo nivel de seguridad por todos lados
 - PARA NIÑOS MAYORES: la silla permite quitar el respaldo y utilizar solamente el asiento para niños mayores de 135 cm a 150 cm de altura. Gracias al ajuste de altura del reposacabezas de 8 posiciones, puedes ajustar fácilmente la altura del reposacabezas para adaptarla al crecimiento de tu hijo
-- ISOFIX O CINTURONES DE SEGURIDAD: la silla de coche Hugo i-Size se instala en sentido de la marcha. ISOFIX proporciona un montaje rápido y seguro reduciendo significativamente las fuerzas en caso de una frenada brusca. También es posible instalar la silla utilizando los cinturones del coche. Además, la silla dispone de un indicador de instalación correcta en los conectores ISOFIX
+- ASIENTO CÓMODO: La silla de bebé tiene un asiento profundo y ancho, recubierto de espuma EPE que absorbe los impactos y ofrece un asiento cómodo para el pequeño. La comodidad también está asegurada gracias a los cómodos reposabrazos que mantienen el cinturón en la posición correcta
 - SEGURIDAD TOTAL: la silla de coche Hugo ha sido sometida a pruebas en un organismo de certificación independiente. Cumple con la última norma de seguridad europea I-size R129
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón costero de protección completa con cintura alta.
 - Reinforcement fabric on Seat and Knees
 - Tejido Helly Tech Performance
 - Impermeable, a prueba de viento y transpirable.
+- Pantalón costero de protección completa con cintura alta.
 - Helly Tech Performance fabric
 
 [🛒 Aquí!!!]({{< param buyurl >}})

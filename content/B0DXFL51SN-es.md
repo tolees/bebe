@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MELODÍAS, LUCES Y SONIDOS: Juega con Mike y diviértete con las diferentes melodías disponibles, los sonidos divertidos y las luces intermitentes, ¡para sentirte realmente la estrella de cada uno de tus conciertos!
-- 4 MODOS DE JUEGO: ¿Listo para tu próximo concierto? ¡Diviértete cantando con Mike, el micrófono de Chicco! Prueba los modos de juego 4 en 1: Graba tu voz, escucha tu voz, habla como un alienígena y acelera tu voz. ¡El micrófono es simple e intuitivo! Utiliza los 4 botones de colores para acceder a los diferentes modos de juego disponibles.
 - MANGO SIMPLE: El micrófono es ligero y tiene un mango ergonómico adecuado para las manos pequeñas de los niños.
+- 4 MODOS DE JUEGO: ¿Listo para tu próximo concierto? ¡Diviértete cantando con Mike, el micrófono de Chicco! Prueba los modos de juego 4 en 1: Graba tu voz, escucha tu voz, habla como un alienígena y acelera tu voz. ¡El micrófono es simple e intuitivo! Utiliza los 4 botones de colores para acceder a los diferentes modos de juego disponibles.
+- MELODÍAS, LUCES Y SONIDOS: Juega con Mike y diviértete con las diferentes melodías disponibles, los sonidos divertidos y las luces intermitentes, ¡para sentirte realmente la estrella de cada uno de tus conciertos!
 - JUEGA Y CANTA AL RITMO DE LA MÚSICA: Mike es el micrófono interactivo que realmente amplifica el sonido de la voz. Muchos efectos divertidos para jugar y cantar al ritmo de la música. Graba tu voz presionando el botón "REC". Luego presiona "Play" para volver a escuchar tus conciertos con tus padres y amigos.
 - EFECTOS DE DISTORSIÓN DE VOZ: ¡Presiona el botón verde para distorsionar tu voz y hablar como un simpático robot! En cambio, presiona el botón amarillo para acelerar tu voz: ¿podrán entender tu mensaje?
 

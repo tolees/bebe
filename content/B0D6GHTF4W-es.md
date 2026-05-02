@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TODOTERRENO: el carrito 3 en 1 ESME tiene 4 ruedas grandes y amortiguadas de goma TPE resistente a pinchazos. No solo garantizan comodidad durante el trayecto, sino también una gran maniobrabilidad incluso en terrenos irregulares. Sirve tanto para ciudad como para caminos rurales.
 - FÁCIL DE PLEGAR: ESME se pliega en unos instantes sin tener que desmontar el asiento. Una vez plegado, el carrito ocupa poco, por lo que podrás meterlo en el maletero y llevártelo de viaje.
+- TODOTERRENO: el carrito 3 en 1 ESME tiene 4 ruedas grandes y amortiguadas de goma TPE resistente a pinchazos. No solo garantizan comodidad durante el trayecto, sino también una gran maniobrabilidad incluso en terrenos irregulares. Sirve tanto para ciudad como para caminos rurales.
 - MULTIFUNCIONAL: carrito multifuncional 3 en 1 desde el nacimiento hasta 25 kg*. Tiene un práctico asiento 2 en 1 que se puede transformar entre capazo grande y silla de paseo cómoda en un instante. Además, la silla se puede enganchar hacia adelante o hacia atrás.
 - Sistema de viaje (TRAVEL SYSTEM): ESME tiene adaptadores que permiten enganchar la silla de coche MINK PRO i-Size 40-75 cm (incluida) al chasis para crear un práctico sistema de viaje. En el coche, se instala en la posición más segura, es decir, a contramarcha (RWF) y sujeta con el cinturón del coche.
 - CON ACCESORIOS: portavasos, cubrepiés universal, plástico impermeable, bolsa, silla de coche MINK PRO i-Size, adaptadores.
