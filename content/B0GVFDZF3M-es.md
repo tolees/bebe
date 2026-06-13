@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 🐰 [VEGANO Y SIN MICROPLÁSTICOS]: Fórmula libre de componentes animales y microplásticos. Tensioactivos vegetales de alta biodegradabilidad. Envase 100% reciclado y reciclable. Producción sostenible.
 - 🌿 [HIPOALERGÉNICO Y EU ECOLABEL]: Sin perfumes, colorantes ni conservantes añadidos. pH neutro, dermatológicamente testado. Certificado EU Ecolabel. Seguro para la piel del bebé desde el primer día.
-- 🧸 [LIMPIA TODO EL MENAJE DEL BEBÉ]: Biberones, tetinas, chupetes, vasos de aprendizaje y vajilla de bebé. Elimina eficazmente residuos de leche, zumo y alimento de todos los utensilios cotidianos.
 - ♻️ [FROSCH BABY, PIONERO DESDE 1986]: Gama ecológica específicamente diseñada para bebés y niños. Producción con gestión energética activa. La elección eco-responsable elegida por las madres españolas.
+- 🧸 [LIMPIA TODO EL MENAJE DEL BEBÉ]: Biberones, tetinas, chupetes, vasos de aprendizaje y vajilla de bebé. Elimina eficazmente residuos de leche, zumo y alimento de todos los utensilios cotidianos.
 - 🍼 [ENJUAGUE TOTAL, CERO RESIDUOS]: Fórmula con pantenol y enzimas naturales que disuelve restos de leche y papilla. Se enjuaga fácilmente sin dejar película de jabón ni residuo en biberones y tetinas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

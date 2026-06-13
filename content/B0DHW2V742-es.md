@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine sintético
-- Suela de goma vulcanizada
-- Forro textil
 - Fiel a la talla
+- Empeine sintético
+- Forro textil
+- Suela de goma vulcanizada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHW2V742{{</world>}}

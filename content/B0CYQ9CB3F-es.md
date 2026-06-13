@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela de EVA
-- Empeine de malla y material sintético
-- Suela de goma
-- Cierre autoadherente
-- Forro textil
 - Horma ancha
+- Mediasuela de EVA
+- Suela de goma
+- Forro textil
+- Cierre autoadherente
+- Empeine de malla y material sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYQ9CB3F{{</world>}}

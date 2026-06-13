@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Set Bebe Camiseta Y Pantalón Corto Niños 3 años'
-date: 2026-05-28 05:23:03
+date: 2026-06-12 17:25:45
 image: 'https://m.media-amazon.com/images/I/31uFc5HQSEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHW3FJBH/?tag=tolees-21'
 descuento: '30.17'
-average: '21.825'
+average: '21.5333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

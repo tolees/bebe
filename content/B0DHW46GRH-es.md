@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fiel a la talla
 - Contiene al menos un 20% de material reciclado
 - Mediasuela Cloudfoam
-- Fiel a la talla
 - Forro textil
 - Forro textil
 - Empeine textil

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para uso diario
 - Sombrero deportivo
+- Para uso diario
 - Tiene detalles distintivos de la marca, la misma es Puma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

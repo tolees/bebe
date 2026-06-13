@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teléfono móvil de juguete con luz, melodías y sonidosde winfun
-- Medidas: 7,5 x 2 x 14 cm
-- Pilas: 2xAAA (incluidas)
 - 9 teclas cuadradas con sonidos y 3 botones redondos con luces
+- Pilas: 2xAAA (incluidas)
+- Medidas: 7,5 x 2 x 14 cm
+- Teléfono móvil de juguete con luz, melodías y sonidosde winfun
 - Función de grabación y reproducción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

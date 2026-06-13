@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un aroma delicado que envuelve suavemente a tu bebé. Probado dermatológicamente en pieles sensibles
 - Fórmula 96% natural, sin alcohol.
+- Un aroma delicado que envuelve suavemente a tu bebé. Probado dermatológicamente en pieles sensibles
 - Caja plegable de papel reciclado
 - botella de vidrio cierre de plástico reciclable
 
