@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ➤ Adopta el método de instalación ISOFIX dual + Top Tether, fácil de conectar a tu coche. Funda de asiento extraíble y lavable, fácil de limpiar.
+- ➤ Reposacabezas ajustable en altura en 9 posiciones (hasta 20 cm), reclinación con una sola mano (1 posición orientación trasera, 4 posiciones orientación hacia adelante), ángulo máximo de reclinación de 140 grados.
 - ➤ Giro libre de 360°, cambiar de orientación trasera a orientación hacia adelante solo toma unos segundos. Se acabaron los dolores de cuello y espalda. Es fácil girar el sillas coche hacia la puerta abierta del vehículo y colocar al niño dentro.
 - ➤ El sillas coche ha sido sometido a pruebas de impacto lateral más exhaustivas, lo que reduce las lesiones en la cabeza, el cuello y los hombros, y proporciona la máxima protección para su hijo.
-- ➤ Reposacabezas ajustable en altura en 9 posiciones (hasta 20 cm), reclinación con una sola mano (1 posición orientación trasera, 4 posiciones orientación hacia adelante), ángulo máximo de reclinación de 140 grados.
 - ➤ Cumple con la norma de seguridad europea ECE R129 (E4-040413). Apto para niños desde el nacimiento hasta los 150 cm (recién nacidos a 12 años). Orientación hacia adelante (40-105 cm); Orientación trasera (75-150 cm).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

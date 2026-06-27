@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño delicado
 - Momentos de diversión
+- Diseño delicado
 - Figura de juguete
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- APTO PARA PIELES SENSIBLES, spray desenredante sin alérgenos, sin siliconas, sin parabenos y sin amoniaco
-- SIN ACLARADO. El desenredante puede usarse en cabello seco o mojado y no necesita aclarado
-- SIN TIRONES. Spray desenredante para niñas y niños. Ayuda a desenredar el pelo, facilitando su peinado al instante. Con fragancia smoothie frutal. 250 ml
-- TESTADO. Spray clínicamente testado bajo control dermatológico y pediátrico
-- PELO SUAVE Y BRILLANTE. Con textura ligera, deja el cabello sedoso, brillante y sin apelmazar
-- REDUCE LA SEQUEDAD Y CALMA. Desenredante con extracto de avena orgánica que reduce la sequedad gracias a sus propiedades hidratantes. Calma y suaviza la piel del cuero cabelludo y reduce la irritacion
-- REPARA Y PROTEGE, al penetrar en la fibra capilar, refuerza, repara y protege el cabello desde dentro. Ayuda a reducir las roturas de cabello durante el peinado
 - DE 3 A 10 AÑOS. Desenredante para niñas y niños de 3 a 10 años. Con fórmulas adaptadas a su rango de edad y pH, de alta tolerancia. De uso diario
+- SIN TIRONES. Spray desenredante para niñas y niños. Ayuda a desenredar el pelo, facilitando su peinado al instante. Con fragancia smoothie frutal. 250 ml
+- APTO PARA PIELES SENSIBLES, spray desenredante sin alérgenos, sin siliconas, sin parabenos y sin amoniaco
+- TESTADO. Spray clínicamente testado bajo control dermatológico y pediátrico
+- REDUCE LA SEQUEDAD Y CALMA. Desenredante con extracto de avena orgánica que reduce la sequedad gracias a sus propiedades hidratantes. Calma y suaviza la piel del cuero cabelludo y reduce la irritacion
+- SIN ACLARADO. El desenredante puede usarse en cabello seco o mojado y no necesita aclarado
+- REPARA Y PROTEGE, al penetrar en la fibra capilar, refuerza, repara y protege el cabello desde dentro. Ayuda a reducir las roturas de cabello durante el peinado
+- PELO SUAVE Y BRILLANTE. Con textura ligera, deja el cabello sedoso, brillante y sin apelmazar
 - ¿CÓMO USARLO? Agitar, aplicar sobre el cabello seco o mojado y peinar. Completar la rutina de cuidado con el Gel y Champú Fun&Clean y con el Champú y Acondicionador Fun&Shine
 - ORIGEN NATURAL. Con 96% de ingredientes de origen natural
 

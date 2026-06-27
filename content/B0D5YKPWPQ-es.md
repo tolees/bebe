@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construida con una tela relajada y brim
-- Hecho con algodón (100% algodón)
-- Embroidered LeviS Branding
 - Cierre de fabricación automática
+- Embroidered LeviS Branding
+- Hecho con algodón (100% algodón)
+- Construida con una tela relajada y brim
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5YKPWPQ{{</world>}}

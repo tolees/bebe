@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Plantilla textil
-- Suela de goma que no deja marcas
 - Empeine textil y sintético
+- Plantilla textil
+- Horma clásica
+- Suela de goma que no deja marcas
 - Dos correas autoadherentes ajustables
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

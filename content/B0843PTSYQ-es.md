@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria y atención, capacidades lógicas, formas y colores, manualidades finas y coordinación ojo-mano, decodificación de imágenes
 - Juego de memoria con animales
+- Memoria y atención, capacidades lógicas, formas y colores, manualidades finas y coordinación ojo-mano, decodificación de imágenes
 - Producto de alta calidad
 - Tarjetas gruesas, piezas de autocorrección, cartón resistente
 

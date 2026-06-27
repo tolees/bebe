@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ESPECIALMENTE PARA PIELES SENSIBLES: Todos los productos Naïf están elaborados con ingredientes naturales, están dermatológicamente probados y libres de SLES, microplásticos, parabenos y aceites minerales.
-- UN TODO TERRENO: Adecuado para rostro y cuerpo, ideal para uso diario y versátil.
 - HIDRATACIÓN INTENSIVA: Protege y proporciona hidratación intensiva con aceites naturales y manteca de karité, ideal para piel seca.
-- AROMA SUAVE: Aroma suave sin los 26 alérgenos más comunes
+- UN TODO TERRENO: Adecuado para rostro y cuerpo, ideal para uso diario y versátil.
 - CUIDADO SUAVE: Sin parabenos, perfecto para pieles sensibles y niños con riesgo de alergias.
+- AROMA SUAVE: Aroma suave sin los 26 alérgenos más comunes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00MA29VY2{{</world>}}

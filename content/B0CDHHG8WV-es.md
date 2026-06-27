@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - REDUCTOR DE ASIENTO: el suave cojín extraíble con protección para la cabeza de las hamacas bebe es ideal para recién nacidos. Las funda de nuestra hamaquita bebe es de algodón transpirable
+- RESPALDO RECLINABLE: el respaldo ajustable de la amaca bebe mecedora permite elevar un poco a tu bebé para que pueda verlo todo. También podrás ponerlo en posición reclinada para relajarse
+- EN LA TRONA DESDE EL NACIMIENTO: gracias a la hamaca bebe, podrás equipar las tronas evolutivas Alpha Plus y Beta Plus con función de reclinado y utilizarlas para recién nacidos hasta los 9 kg
 - 2 EN 1: la hanaca bebe para tronas de bebe evolutiva incluye un armazón adicional para usarla como columpio bebe balancin. Por lo que tendrás a tu bebé cerca en todo momento
 - MÁXIMA SEGURIDAD PARA LOS MÁS PEQUEÑOS: incluso los bebés más activos estarán seguros en nuestra amaca para bebes para la trona. El arnés de 5 puntos es ajustable y crece con tu bebé
-- EN LA TRONA DESDE EL NACIMIENTO: gracias a la hamaca bebe, podrás equipar las tronas evolutivas Alpha Plus y Beta Plus con función de reclinado y utilizarlas para recién nacidos hasta los 9 kg
-- RESPALDO RECLINABLE: el respaldo ajustable de la amaca bebe mecedora permite elevar un poco a tu bebé para que pueda verlo todo. También podrás ponerlo en posición reclinada para relajarse
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CDHHG8WV{{</world>}}

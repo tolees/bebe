@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conjunto de 10 bloques para que tu bebé los agrupe, apile y encaje
-- Enseña los colores y las formas a tu bebé
 - Para bebés a partir de 6 meses
+- Enseña los colores y las formas a tu bebé
+- Conjunto de 10 bloques para que tu bebé los agrupe, apile y encaje
 - Todos los bloques caben dentro del cubo para guardarlos fácilmente
 - Asa fácil de coger para llevarte el juguete a todas partes
 

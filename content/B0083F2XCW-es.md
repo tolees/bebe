@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Incluye una bolsa para guardar todas las piezas fácilmente
+- 60 bloques de construcción maxi
 - Para más diversión, se puede combinar con otros conjuntos de juego Mega Bloks de preescolar
 - Un juguete idóneo para manos pequeñas
-- 60 bloques de construcción maxi
-- Incluye una bolsa para guardar todas las piezas fácilmente
 - Permite realizar juegos manuales, que estimulan el desarrollo desde la primera infancia
 - 60 bloques de construcción y formas especiales de colores clásicos
 

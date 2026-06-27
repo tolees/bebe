@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- [MÁXIMA SEGURIDAD] Testado bajo las más estrictas normativas de seguridad.
 - [AYUDA AL DECANSO DEL BEBÉ] Favorece el descanso del pequeño durante el trayecto, complemento perfecto para tus viajes.
 - [TALLA S] El cojín cervical talla S de Jané está ideado para bebés desde el nacimiento hasta los 18 meses.
 - [COMODIDAD PARA EL PEQUEÑO] Ayuda al bebé a mantener la cabeza en una posición cómoda.
-- [MÁXIMA SEGURIDAD] Testado bajo las más estrictas normativas de seguridad.
 - [COJÍN DE APOYO CERVICAL PARA BEBÉ] Suave cojín de apoyo cervical para usarlo en la silla de coche.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

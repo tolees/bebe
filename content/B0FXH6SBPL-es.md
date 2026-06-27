@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nasalmer Baby limpia suavemente la nariz del bebé desde los 15 días, ayudando a aliviar la congestión y facilitar la respiración.
-- Apto para higiene diaria o como apoyo en el tratamiento de síntomas como resfriados y bronquiolitis.
 - Diseñado para cuidar la respiración de tu bebé con suavidad y confianza desde sus primeros días.
+- Apto para higiene diaria o como apoyo en el tratamiento de síntomas como resfriados y bronquiolitis.
 - A base de agua de mar isotónica, sin conservantes ni aditivos, ideal para un uso frecuente y respetuoso.
 - El spray nasal natural con agua de mar pura y boquilla adaptada para una aplicación segura y delicada.
 

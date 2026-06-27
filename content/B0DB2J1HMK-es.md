@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cloud G i-Size/Magic Black-black PU1
-- La posición horizontal ergonómica y la ventilación perimetral mantienen al niño cómodo y la rotación de 180°
-- sistema de apertura con un solo clic facilitan la subida y bajada
 - Altura del niño: 40-87 cm
+- sistema de apertura con un solo clic facilitan la subida y bajada
+- La posición horizontal ergonómica y la ventilación perimetral mantienen al niño cómodo y la rotación de 180°
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB2J1HMK{{</world>}}

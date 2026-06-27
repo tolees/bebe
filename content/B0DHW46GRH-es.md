@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene al menos un 20% de material reciclado
-- Mediasuela Cloudfoam
-- Empeine textil
-- Suela sintética
 - Forro textil
 - Fiel a la talla
+- Suela sintética
+- Contiene al menos un 20% de material reciclado
+- Empeine textil
+- Mediasuela Cloudfoam
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compatible con todas tus figuras y accesorios de Lil Woodzeez y con la mayoría de las de otras marcas.
-- Juego de niñera con cochecito para cuidar de tu pequeño Woodzeez.
 - Incluye un panda, dos Woodzeez pequeños, un coche y muchos accesorios más.
 - Fomenta la imaginación: Crea tu propio universo Honeysuckle Hollow.
+- Juego de niñera con cochecito para cuidar de tu pequeño Woodzeez.
 - Edad recomendada: apto para niños a partir de 3 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
