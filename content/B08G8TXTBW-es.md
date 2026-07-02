@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El vestido tiene parte trasera de cierre y una cubierta de pañales a juego
-- El traje de sol tiene mangas abatibles, cierre en la parte trasera y en la parte inferior para facilitar los cambios
-- Calidad de Carter, diarios y embalaje sin complicaciones
 - El pelele tiene mangas de acanalado, cintura cincada y dobladillo con la parte inferior a presión
 - Dobladillo fluido
+- Calidad de Carter, diarios y embalaje sin complicaciones
+- El traje de sol tiene mangas abatibles, cierre en la parte trasera y en la parte inferior para facilitar los cambios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08G8TXTBW{{</world>}}

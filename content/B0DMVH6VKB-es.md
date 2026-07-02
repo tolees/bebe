@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Empeine de piel sintética
+- Horma clásica
 - Forro textil
 - Cierre con tiras de velcro
-- Empeine de piel sintética
 - Suela de EVA de una sola pieza
-- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMVH6VKB{{</world>}}

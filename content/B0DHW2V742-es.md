@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fiel a la talla
 - Suela de goma vulcanizada
 - Empeine sintético
+- Fiel a la talla
 - Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

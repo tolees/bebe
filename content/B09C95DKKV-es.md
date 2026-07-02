@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fáciles de transportar y flexibles para llevarlas a cualquier parte, vayas donde vayas
-- Envase de 6 x 90g
-- Nuestra bolsitas, aptas para mayores de 6 meses, no tienen trozos de comida, ofrecen un sabor intenso y serán el alimento favorito de tu pequeño
-- Agitar antes de abrir. Apretar la bolsita directamente sobre la cuchara. No coloque la bolsita en el microondas
-- Apto para dietas vegetarianas y veganas
-- Puré de Manzana, plátano y avena
 - Todos nuestros deliciosos ingredientes son orgánicos
+- Agitar antes de abrir. Apretar la bolsita directamente sobre la cuchara. No coloque la bolsita en el microondas
+- Puré de Manzana, plátano y avena
+- Nuestra bolsitas, aptas para mayores de 6 meses, no tienen trozos de comida, ofrecen un sabor intenso y serán el alimento favorito de tu pequeño
+- Fáciles de transportar y flexibles para llevarlas a cualquier parte, vayas donde vayas
+- Apto para dietas vegetarianas y veganas
+- Envase de 6 x 90g
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09C95DKKV{{</world>}}

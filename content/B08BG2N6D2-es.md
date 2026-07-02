@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EVOLUTIVO : Permite seleccionar el modo niño o adulto e interpretar así más fácilmente la temperatura (el concepto de fiebre varía de un niño a un adulto)
-- FÁCIL : Esta interpretación es más sencilla gracias a la visualización de la temperatura con un código de colores (rojo/verde), acompañado de un aviso sonoro cuando el niño tiene fiebre
-- ULTRARRÀPIDA : Medición en 1 segundo con un solo clic, sin contacto con la piel para no despertar al bebé (modo silencioso disponible)
 - TERMÓMETRO INFRARROJO 3 en 1 : Auricular, Frontal y Ambiental
-- DIGITAL : Visualización en la pantalla LCD retroiluminada, para una lectura tanto de día como de noche
 - RAPIDO : la toma de temperatura en 1 segundo tocando un solo botón
+- EVOLUTIVO : Permite seleccionar el modo niño o adulto e interpretar así más fácilmente la temperatura (el concepto de fiebre varía de un niño a un adulto)
+- ULTRARRÀPIDA : Medición en 1 segundo con un solo clic, sin contacto con la piel para no despertar al bebé (modo silencioso disponible)
+- FÁCIL : Esta interpretación es más sencilla gracias a la visualización de la temperatura con un código de colores (rojo/verde), acompañado de un aviso sonoro cuando el niño tiene fiebre
+- DIGITAL : Visualización en la pantalla LCD retroiluminada, para una lectura tanto de día como de noche
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BG2N6D2{{</world>}}

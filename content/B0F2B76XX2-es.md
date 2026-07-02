@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine textil
-- Suela y mediasuela de EVA moldeada de una sola pieza
 - Horma clásica
-- Plantilla Cloudfoam
 - Forro textil
+- Plantilla Cloudfoam
 - Cordones elásticos y correa autoadherente
+- Suela y mediasuela de EVA moldeada de una sola pieza
+- Empeine textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2B76XX2{{</world>}}
