@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incorpora un motor de 2.ª generación con succión ajustable. Dispone de 3 modos —estimulación, extracción y mixto— y 9 niveles para adaptar la intensidad según las necesidades de cada momento.
-- Su formato wearable permite colocarlo dentro del sujetador y utilizarlo con mayor libertad durante el día. Una opción práctica para extraer leche en casa, en el trabajo o mientras realizas otras tareas.
 - M6 está diseñado para ofrecer una extracción estable y práctica en rutinas de lactancia frecuentes. Su ritmo de funcionamiento ayuda a que cada sesión sea más sencilla y cómoda.
+- Su formato wearable permite colocarlo dentro del sujetador y utilizarlo con mayor libertad durante el día. Una opción práctica para extraer leche en casa, en el trabajo o mientras realizas otras tareas.
+- Incorpora un motor de 2.ª generación con succión ajustable. Dispone de 3 modos —estimulación, extracción y mixto— y 9 niveles para adaptar la intensidad según las necesidades de cada momento.
 - La brida combina silicona suave y una estructura de soporte más firme para favorecer un mejor ajuste al pecho.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

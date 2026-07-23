@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Baby Set
-- Una Silla Para Toda La Vida
 - Pack Para Recién Nacido
+- Una Silla Para Toda La Vida
+- Baby Set
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY76LJTZ{{</world>}}

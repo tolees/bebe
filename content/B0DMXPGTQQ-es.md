@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100 % algodón Interlock: hecho de 100 % algodón ligero y ultrasuave, este tejido de doble punto ofrece elasticidad natural y transpirabilidad, asegurando comodidad durante todo el año.
+- MEDIDAS GENERALES: 86,4 x 86,4 cm
 - Detalles: ideal para regalar y versátil, puede usarse como manta de arrullo, cubierta de lactancia, manta para proteger del sol en el cochecito, manta para el cambiador y mucho más.
 - Manta de arrullo: manta suave y acogedora para envolver a tu pequeño. Disponible en estampados a juego en Amazon Essentials Baby.
-- MEDIDAS GENERALES: 86,4 x 86,4 cm
-- 100 % algodón Interlock: hecho de 100 % algodón ligero y ultrasuave, este tejido de doble punto ofrece elasticidad natural y transpirabilidad, asegurando comodidad durante todo el año.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMXPGTQQ{{</world>}}

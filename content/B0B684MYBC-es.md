@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Snacks de cereales ecológicos
 - Sin azúcares añadidos; contiene azúcares naturalmente presentes
 - Sin conservantes ni colorantes, según la legislación vigente
-- Horneados, no fritos
 - Con vitamina B1
+- Horneados, no fritos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B684MYBC{{</world>}}

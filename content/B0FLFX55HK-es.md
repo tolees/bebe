@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Looks a la última
 - La marca inglesa para toda la familia
-- NEXT - la marca inglesa para el hogar y la familia
 - Básicos atemporales
+- NEXT - la marca inglesa para el hogar y la familia
+- Looks a la última
 - Lavar a máquina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

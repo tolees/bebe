@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Crema facial para bebés que hidrata cara y manos. Posee Caléndula que ayuda a calmar la piel y el aceite de sésamo que tiene un gran efecto antioxidante
-- Esta crema puede ser utilizada por aquellas personas con piel sensible, delicada o con tendencia seca e irritada
 - La crema es de fácil absorción y se puede aplicar en rostro, manos y otras zonas expuestas del cuerpo
 - También posee Lanolina, la cera de abeja y el aceite de almendra BIO que nutren e hidratan la piel y la cuidan evitando agresiones externas
+- Esta crema puede ser utilizada por aquellas personas con piel sensible, delicada o con tendencia seca e irritada
 - Aplicar a diario una pequeña cantidad en el rostro y las manitas de tu bebé, para así mantener protegida la piel del viento, el frío y las condiciones ambientales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

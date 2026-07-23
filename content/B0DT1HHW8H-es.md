@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ÁLBUM BOLSILLOS - Nuestro álbum contiene 100 bolsillos ideales para meter tus fotos de 10x15 y que esten siempre protegidas. Contiene una foto por página haciendolo así un álbum pequeño para tenerlo siempre a la vista
-- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y pósters con las licencias más actuales del mercado
-- Un álbum de fotos siempre será la mejor opción par recordar aquellos momentos que nos hicieron felices. Con este álbum niña de bolsillos podrás guardar bien todos aquellos recuerdos y tenerlos siempre a mano
 - CALIDAD - Álbum infantil fabricado con materiales de alta calidad cuyas medidas son de 13 x 17 x 5,2 cm. Es un álbum tapa dura haciendolo así más resistente y duradero
 - REGALO ORIGINAL - Un álbum de fotos siempre ha sido un regalo dotado de mucha personalidad y cargado de emoción. Es ideal para crear un álbum bebe primer año para inmortalizar aquellos momentazos únicos y enseñarselos al bebe cuando sea más grande ¡Se convertirá en el álbum fotos bebe preferido de los papás!
+- ÁLBUM BOLSILLOS - Nuestro álbum contiene 100 bolsillos ideales para meter tus fotos de 10x15 y que esten siempre protegidas. Contiene una foto por página haciendolo así un álbum pequeño para tenerlo siempre a la vista
+- Un álbum de fotos siempre será la mejor opción par recordar aquellos momentos que nos hicieron felices. Con este álbum niña de bolsillos podrás guardar bien todos aquellos recuerdos y tenerlos siempre a mano
+- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y pósters con las licencias más actuales del mercado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DT1HHW8H{{</world>}}

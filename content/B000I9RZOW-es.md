@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La piscina está diseñada para que sea utilizada por bebés entre 1 a 3 años de edad
-- Medidas: 86x25 cm y 68 litros de capacidad de agua
 - Fabricada de vinilo, tiene 3 aros de diferente color cada uno: rosa, amarillo y azul
+- Medidas: 86x25 cm y 68 litros de capacidad de agua
 - Piscina hinchable Intex infantil
 - El suelo de la piscina Intex es hinchable para mayor comodidad del niño, incluye kit de parches
 

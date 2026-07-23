@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Horma clásica
+- Empeine textil y sintético
 - Plantilla textil
 - Dos correas autoadherentes ajustables
 - Suela de goma que no deja marcas
-- Empeine textil y sintético
-- Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1XGQ45Z{{</world>}}

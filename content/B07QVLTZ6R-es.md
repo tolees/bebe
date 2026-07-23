@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sillita mecedora de color neutro que gustará tanto a niños como a niñas
-- Un lugar seguro para que tu bebé descanse
 - Cuenta con vibraciones relajantes, 12 melodías y 4 sonidos naturales
 - 3 posturas reclinables para que el bebé siempre este cómodo
+- Sillita mecedora de color neutro que gustará tanto a niños como a niñas
+- Un lugar seguro para que tu bebé descanse
 - Úsalo como balancín o silla para niños pequeños durante años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

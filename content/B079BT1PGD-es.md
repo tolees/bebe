@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- línea Miss Lovely
 - colección Maternidad de Anita
+- línea Miss Lovely
 - sujetador de cazoleta sin aros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

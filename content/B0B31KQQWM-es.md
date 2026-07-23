@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Cierre autoadherente
+- Horma clásica
 - Suela de goma que no deja marcas
 - Forro textil
 - Parte de piel sintética
