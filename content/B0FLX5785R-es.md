@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede pegar sobre cualquier superficie limpia, seca y lisa sin textura: paredes, ventanas, azulejos, muebles, espejos e incluso refrigeradores.
-- Si no está satisfecho con su compra o tiene algún problema con la instalación, no dude en contactarnos y le responderemos y le ayudaremos a resolver los problemas dentro de las 24 horas.
 - Viene en 2 hojas, tamaño de hoja: 30cm x 90cm (11,81" x 35,43"). Recomendar tamaño final: 90cm × 83cm (35.4" ×32.7"), adhesivos de pared DIY, también se puede ajustar de acuerdo a su preferencia.
+- Se puede pegar sobre cualquier superficie limpia, seca y lisa sin textura: paredes, ventanas, azulejos, muebles, espejos e incluso refrigeradores.
 - decalmile pegatinas de pared animales de la jungla son perfectas para decorar la dormitorio, salón, habitación infantiles niños, cuarto de jugar y el bebés guardería.
+- Si no está satisfecho con su compra o tiene algún problema con la instalación, no dude en contactarnos y le responderemos y le ayudaremos a resolver los problemas dentro de las 24 horas.
 - decalmile adhesivos de pared están hechos de alta calidad, brillantes y coloridos, fáciles de despegar y pegar, extraíbles e impermeables.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

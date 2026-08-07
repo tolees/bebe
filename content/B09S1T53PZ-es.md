@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Agua de Perfume perfecta para perfumar, cuidar y mimar a diario la piel del bebé.
-- Formato Pulverizador de 100 ml.
-- Con agentes hidratantes.
 - Fórmula específica para respetar la piel del bebé testada dermatológicamente.
-- Apto para recién nacidos.
 - Bajo contenido en alcohol y +90% ingredientes de origen natural.
+- Con agentes hidratantes.
+- Formato Pulverizador de 100 ml.
+- Apto para recién nacidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09S1T53PZ{{</world>}}

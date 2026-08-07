@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Incluye 3 sondas desechables
 - Boquillas desechables suaves y flexibles
-- Con filtro absorbente interior
 - Para eliminar mucosidades
+- Con filtro absorbente interior
 - Ergonómico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

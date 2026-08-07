@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Horma clásica
+- Correa autoadherente
+- Plantilla textil
 - Suela de EVA de una sola pieza
 - Empeine de piel sintética
-- Correa autoadherente
-- Horma clásica
-- Plantilla textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F29PZ8HM{{</world>}}

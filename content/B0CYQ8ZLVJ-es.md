@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre con correa autoadherente
 - Horma clásica
 - Empeine textil
-- Forro textil
+- Cierre con correa autoadherente
 - Mediasuela Cloudfoam
+- Forro textil
 - Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

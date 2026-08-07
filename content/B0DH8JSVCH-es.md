@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con gama completa: contiene un Agua de Colonia Nenuco, un Champú Extra Suave Nenuco y un Jabón Líquido Suave Nenuco
-- Champú suave: sin lágrimas
-- Jabón líquido: para cuerpo y cabello
 - Personaliza su mochila
+- Jabón líquido: para cuerpo y cabello
+- Champú suave: sin lágrimas
 - Agua de colonia: no reseca la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

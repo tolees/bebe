@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horneados, no fritos
-- Con vitamina B1
-- Sin azúcares añadidos; contiene azúcares naturalmente presentes
 - Snacks de cereales ecológicos
+- Horneados, no fritos
+- Sin azúcares añadidos; contiene azúcares naturalmente presentes
 - Sin conservantes ni colorantes, según la legislación vigente
+- Con vitamina B1
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B684FWZ3{{</world>}}

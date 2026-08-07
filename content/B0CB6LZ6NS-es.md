@@ -32,8 +32,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Se suministra en un embalaje con certificado FSC fabricado con materiales que apoyan la forestación responsable (FSC C172210, 2021)
 - Enlace del juguete: Un 95% de plástico con certificado ISCC (método de balance de masas)
 - Smilestones: Los hitos y la diversión van de la mano Este juguete ayuda a fomentar el desarrollo sensorial con texturas divertidas, colores brillantes y tintineos, para activar los sentidos del tacto, la vista y el oído de tu bebé
-- Lleva contigo adonde quieras a la tortuga marina de peluche para cochecito con divertidos tintineos y función de rebote, y haz feliz a tu bebé
 - Tejido de texturas y colores en contraste fabricado con un 80% de plásticos reciclados tras el consumo
+- Lleva contigo adonde quieras a la tortuga marina de peluche para cochecito con divertidos tintineos y función de rebote, y haz feliz a tu bebé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB6LZ6NS{{</world>}}

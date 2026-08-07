@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BODY RECIÉN NACIDA: Pack de 4 bodis de algodón sin mangas, ideales para tu bebé. Estas prendas Chicco se pueden lavar en la lavadora, para una buena higiene
 - A LA MODA: El paquete incluye dos body con estampado todo sobre y dos body de color liso, decorados con simpáticos animales y letras
+- BODY RECIÉN NACIDA: Pack de 4 bodis de algodón sin mangas, ideales para tu bebé. Estas prendas Chicco se pueden lavar en la lavadora, para una buena higiene
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XJWFBBF{{</world>}}

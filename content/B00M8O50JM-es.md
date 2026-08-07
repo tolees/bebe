@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cintura elástica y fáciles de quitar por sus laterales rasgables
 - Para el mar y la piscina
 - No se hinchan en el agua
+- Con cintura elástica y fáciles de quitar por sus laterales rasgables
 - Cómodidad absoluta para jugar
 - Máxima protección gracias a sus barreras laterales anti-escape
 
