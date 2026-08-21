@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de tracción flexible
 - Ligeras
-- Cierre adaptable
 - Parte superior sintética con cierre de correa ajustable en el empeine
 - Sandalia ligera con detalles lineales
+- Suela de tracción flexible
+- Cierre adaptable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F63CVFKC{{</world>}}

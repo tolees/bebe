@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MÁXIMA PROTECCIÓN. Los discos cuentan con una capa impermeable que asegura que la leche no traspase aún en los casos de pérdida abundante
-- TRANSPIRABLES. CUIDAN LA PIEL. Con tejido microporoso en la capa exterior del disco para que el pecho esté perfectamente ventilado. Preserva el pecho de la humedad, mantiene su equilibrio natural y respeta la piel ayudando a prevenir grietas e irritaciones
-- SUAVES, discos de lactancia con tejido non woven en la parte interior, en contacto con el pecho, para cuidar la piel. Testado dermatológicamente
-- EN BOLSITAS individuales, para llevar de forma cómoda e higiénica en el bolso
-- 120 DISCOS DE LACTANCIA. 2 Cajas de 60 Discos de lactancia absorbentes, para colocar entre el pecho y el sujetador. Discos envasados en bolsitas individuales
-- MUY ABSORBENTES. Discos de lactancia con núcleo de un material con gran poder de absorción y que neutraliza el olor, a veces inteso, de la leche
 - COMPOSICION. Celulosa súper absorbente y Non Woven. MEDIDAS: 10,5 cm x 11,5 cm aprox.
+- TRANSPIRABLES. CUIDAN LA PIEL. Con tejido microporoso en la capa exterior del disco para que el pecho esté perfectamente ventilado. Preserva el pecho de la humedad, mantiene su equilibrio natural y respeta la piel ayudando a prevenir grietas e irritaciones
+- MUY ABSORBENTES. Discos de lactancia con núcleo de un material con gran poder de absorción y que neutraliza el olor, a veces inteso, de la leche
+- MÁXIMA PROTECCIÓN. Los discos cuentan con una capa impermeable que asegura que la leche no traspase aún en los casos de pérdida abundante
+- 120 DISCOS DE LACTANCIA. 2 Cajas de 60 Discos de lactancia absorbentes, para colocar entre el pecho y el sujetador. Discos envasados en bolsitas individuales
+- EN BOLSITAS individuales, para llevar de forma cómoda e higiénica en el bolso
+- SUAVES, discos de lactancia con tejido non woven en la parte interior, en contacto con el pecho, para cuidar la piel. Testado dermatológicamente
 - MUY FINOS Y CÓMODOS. Discos de lactancia absorbentes, pero muy finos, imperceptibles bajo la ropa. Con banda adhesiva para una mayor fijación al sujetador
 
 [🛒 Aquí!!!]({{< param buyurl >}})

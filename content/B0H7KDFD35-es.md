@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protector solar facial y corporal diseñado para la piel delicada de los bebés, proporcionando una alta protección contra los rayos UVA/UVB. Se absorbe al instante, sin dejar marcas blancas, y es resistente al agua, sudor y arena.
 - Ofrece alta protección contra rayos UVA/UVB, se absorbe rápido, es resistente al agua, sudor y arena.
 - Aplicar antes de la exposición solar y renovar frecuentemente, después de nadar, sudar o secarse con una toalla.
+- Protector solar facial y corporal diseñado para la piel delicada de los bebés, proporcionando una alta protección contra los rayos UVA/UVB. Se absorbe al instante, sin dejar marcas blancas, y es resistente al agua, sudor y arena.
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

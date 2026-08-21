@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con un diseño estilo antiguo de color verde y marrón. El correpasillos ayudará a mejorar la postura al caminar y a fortalecer los músculos de brazos y piernas; por otro lado, reforzará el equilibrio del bebé.
-- Apto para bebés de entre 10 y 36 meses.
 - Apto tanto para uso interior como para uso exterior. No requiere montaje.
+- Apto para bebés de entre 10 y 36 meses.
 - Ligero, práctico y seguro; con 4 ruedas para dar estabilidad.
 - Correpasillos con diseño vintage para los primeros pasos de tu pequeño. Los correpasillos son el juguete perfecto para ayudar a tu bebé a dar esos primeros pasos de una manera muy divertida.
 

@@ -33,8 +33,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - SEGURIDAD I-SIZE: esta silla de coche ha sido probada y diseñada de acuerdo con las normas de seguridad más estrictas de la UE (ECE R129); al contar con conectores ISOFIX, su instalación es muy rápida y sencilla
 - CONFORT EXTRA: con su reposacabezas ajustable y acolchado, su respaldo y su asiento mullido, RodiFix M i-Size ofrece el ajuste perfecto, tanto si tu pequeño tiene 3,5 como 12 años
 - PROTECCIÓN CONTRA IMPACTOS LATERALES G-CELL: este sistema de seguridad integrado proporciona una protección extra frente a impactos laterales, ya que distribuye las fuerzas lejos del niño reduciendo las lesiones en la cabeza, el cuello y los hombros.
-- SILLA COCHE GRUPO 2-3: ofreciendo años de segurad, la silla de coche i-Size Rodifix M está fabricada para durar mucho tiempo: de 100 a 150 cm (aprox. 15-36 kg) y de 3,5 a 12 años
 - REPOSACABEZAS AJUSTABLE: la silla infantil es ajustable en altura, para que tu hijo esté siempre seguro y cómodo; basta con pulsar un botón en la parte posterior del reposacabezas para ajustarlo
+- SILLA COCHE GRUPO 2-3: ofreciendo años de segurad, la silla de coche i-Size Rodifix M está fabricada para durar mucho tiempo: de 100 a 150 cm (aprox. 15-36 kg) y de 3,5 a 12 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKZCHD8P{{</world>}}

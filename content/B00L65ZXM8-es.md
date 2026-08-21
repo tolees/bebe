@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [VENTILACIÓN] Con orificios de ventilación laterales para la seguridad y comodidad del bebé
 - [BURBUJA DE LLUVIA PARA CAPAZO]Universal, se adapta especialmente a los capazos Micro, Transporter y Nano de Jané.
-- [BOLSA DE TRANSPORTE] Incluye bolsa de viaje para guardarlo fácilmente.
 - [TU PEQUE SIEMPRE BAJO CONTROL] Gracias a su material transparente podrás vigilar a tu pequeño en todo momento sin tener que abrir o quitar la burbuja.
+- [VENTILACIÓN] Con orificios de ventilación laterales para la seguridad y comodidad del bebé
+- [BOLSA DE TRANSPORTE] Incluye bolsa de viaje para guardarlo fácilmente.
 - [VENTANA CENTRAL] La ventana se fija fácilmente a los velcros que tiene por todo su contorno para facilitar la apertura y maniobrabilidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

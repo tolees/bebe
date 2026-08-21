@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Suela de goma
 - Horma clásica
 - Empeine de material sintético
+- Forro textil
+- Suela de goma
 - Cierre autoadherente
 - La parte superior contiene al menos un 50% de material reciclado
 

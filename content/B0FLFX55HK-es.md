@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar a máquina
-- Looks a la última
 - La marca inglesa para toda la familia
-- Básicos atemporales
+- Looks a la última
 - NEXT - la marca inglesa para el hogar y la familia
+- Lavar a máquina
+- Básicos atemporales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLFX55HK{{</world>}}

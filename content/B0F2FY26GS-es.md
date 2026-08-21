@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
 - Plantilla textil
-- Empeine de material sintético
+- Corte clásico
 - Suela sintética
+- Empeine de material sintético
 - Cierre autoadherente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

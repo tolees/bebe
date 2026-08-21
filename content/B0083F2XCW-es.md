@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un juguete idóneo para manos pequeñas
 - 60 bloques de construcción y formas especiales de colores clásicos
 - Incluye una bolsa para guardar todas las piezas fácilmente
-- Un juguete idóneo para manos pequeñas
-- 60 bloques de construcción maxi
 - Para más diversión, se puede combinar con otros conjuntos de juego Mega Bloks de preescolar
+- 60 bloques de construcción maxi
 - Permite realizar juegos manuales, que estimulan el desarrollo desde la primera infancia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

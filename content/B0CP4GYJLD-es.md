@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Figura de juguete
-- Momentos de diversión
 - Diseño delicado
+- Momentos de diversión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP4GYJLD{{</world>}}

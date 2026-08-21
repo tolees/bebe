@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Para biberones o comida
 - Incluye 2 envases de 250ml
 - Tapa con función de taza
-- Para biberones o comida
 - Acero inoxidable
 - Mantiene la temperatura hasta 5 horas
 

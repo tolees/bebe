@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Indicaciones de lavado: lavar antes del primer uso; lavar a máquina en agua fría; no meter en la secadora; planchar a baja temperatura; no usar lejía; no lavar en seco
+- Realizada en algodón 100%
 - Toalla de baño infantil, con capucha en forma de cabecita de panda rojo; en la parte trasera, encontramos también la colita
 - Medidas: 100 x 100 cm
-- Realizada en algodón 100%
+- Indicaciones de lavado: lavar antes del primer uso; lavar a máquina en agua fría; no meter en la secadora; planchar a baja temperatura; no usar lejía; no lavar en seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CXJ9PRZT{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asalvo 12371 - Cuna de madera 120 x 60 cm color blanco'
-date: 2026-08-15 13:02:50
+date: 2026-08-20 13:26:12
 image: 'https://m.media-amazon.com/images/I/31aH-oZDawL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HG72H3C/?tag=tolees-21'
 descuento: '19.37'
-average: '119.530000000001'
+average: '119.856551724139'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estructura madera maciza madera de haya. Pintura al agua
 - Somier regulable de 3 posiciones. Ruedas incluidas. Fantástica cuna de madera de haya súper resistente, y con barrotes planos
 - Barrotes planos. Conforme a la normativa Europea. Lateral abatible
-- Estructura madera maciza madera de haya. Pintura al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01HG72H3C{{</world>}}

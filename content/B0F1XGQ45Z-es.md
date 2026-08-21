@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine textil y sintético
 - Plantilla textil
 - Dos correas autoadherentes ajustables
+- Empeine textil y sintético
 - Horma clásica
 - Suela de goma que no deja marcas
 

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Personaliza su mochila
 - Jabón líquido: para cuerpo y cabello
-- Agua de colonia: no reseca la piel
 - Con gama completa: contiene un Agua de Colonia Nenuco, un Champú Extra Suave Nenuco y un Jabón Líquido Suave Nenuco
+- Agua de colonia: no reseca la piel
 - Champú suave: sin lágrimas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

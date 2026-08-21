@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [COMODIDAD] Deja las manoplas instaladas en el manillar para poder usarlas de manera rápida siempre que lo necesites.
 - [MANOPLAS DE INVIERNO PARA CARRITO] Con las manoplas de Jané protegerás tus manos del frio y del viento durante los paseos invernales con tu peque gracias a su suave interior en tejido polar.
+- [COMODIDAD] Deja las manoplas instaladas en el manillar para poder usarlas de manera rápida siempre que lo necesites.
 - [UNIVERSAL] Su práctica confección la hace universal y aptos para manillar abierto o cerrado.
 - [FÁCIL INSTALACIÓN] Coloca las manoplas fácilmente y déjalas fijadas a través de sus cremalleras laterales.
 

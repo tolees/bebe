@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con foto en blanco de montaje de papel y papel cristal intercalaciones
 - Contiene 60 paginas + 2 con el texto de introducción
 - Adecuado para el almacenamiento creativa de fotos
-- Con foto en blanco de montaje de papel y papel cristal intercalaciones
 - Ofrece espacio para fotos y mucho más recuerdos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
