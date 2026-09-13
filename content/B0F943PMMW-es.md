@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ☀️ PROTECCIÓN DURADERA TODO EL AÑO | No importa si es verano o invierno, su fórmula de amplio espectro protege la piel infantil durante todas las estaciones, incluso en días nublados o en exposiciones indirectas.
-- 🌊 RESISTENTE AL AGUA Y A PRUEBA DE DIVERSIÓN | Ideal para días de playa, piscina o juegos al aire libre, mantiene su eficacia incluso después del baño o del sudor, garantizando una protección continua sin comprometer la comodidad del bebé.
 - 🌿 CON INGREDIENTES SUAVES Y NATURALES | Enriquecida con manteca de karité, vitamina E y leche de chufa, nutre, hidrata y refuerza la barrera natural de la piel sin causar irritaciones.
+- 🌊 RESISTENTE AL AGUA Y A PRUEBA DE DIVERSIÓN | Ideal para días de playa, piscina o juegos al aire libre, mantiene su eficacia incluso después del baño o del sudor, garantizando una protección continua sin comprometer la comodidad del bebé.
 - 🛡️ PROTECCIÓN SOLAR FACIAL MUY ALTA DESDE LOS 6 MESES | Diseñada especialmente para bebés y niños pequeños, esta crema facial con SPF50 ofrece defensa eficaz frente a los rayos UVA, UVB y la luz azul (HEV), ayudando a prevenir daños celulares y el envejecimiento prematuro de la piel.
 - 💧 TEXTURA LIGERA Y DE RÁPIDA ABSORCIÓN | Se extiende fácilmente sobre la piel del rostro sin dejar residuos blancos ni sensación grasa, permitiendo que la piel respire mientras está protegida e hidratada.
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine textil y sintético
-- Suela non-marking rubber outsole
-- Plantilla textil
-- Cierre autoadherente de dos tiras
 - Horma clásica
+- Suela non-marking rubber outsole
+- Cierre autoadherente de dos tiras
+- Empeine textil y sintético
+- Plantilla textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F1XZSV3N{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elemento de protección
 - Sirona G i-Size Plus/Ocean Blue-navy blue PU1
 - Seguridad y confort para los más peques
 - Asiento de coche para bebés
+- Elemento de protección
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DB2KF89J{{</world>}}

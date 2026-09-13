@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene Hierro que favorece el desarrollo cognitivo normal
-- Sin aceite de palma
 - Contiene Calcio y Vitamina D que favorecen el normal crecimiento de los huesos
 - Nestlé NATIVA 3 es una leche de crecimiento en polvo a partir de los 12 meses
+- Sin aceite de palma
 - Y Vitaminas A y C que favorecen la función normal del sistema inmunitario
 
 [🛒 Comprar!!!]({{< param buyurl >}})

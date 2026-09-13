@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a desarrollar los sentidos y la motricidad gruesa del niño.
 - Tienen el tamaño ideal para las manitas de los más pequeños.
 - Cuentas de colores.
-- Sonidos de sonajero.
+- Ayuda a desarrollar los sentidos y la motricidad gruesa del niño.
 - Pompones suaves.
+- Sonidos de sonajero.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00FBW7CNA{{</world>}}

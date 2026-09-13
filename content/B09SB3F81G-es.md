@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una historia de más de 40 años, con productos para bebés de fabricación danesa. Nos centramos en productos de alta calidad con un diseño estético e inspirador para llenar de color los primeros momentos del bebé
+- Diseñado y fabricado en Dinamarca/UE.
 - Función anticólicos para garantizar el mejor flujo de leche para el bebé. El vidrio resiste la congelación, el calentamiento por microondas y las temperaturas de ebullición.
 - La tetina coincide con la tetina de nuestro popular chupete BIBS Colour y se asemeja al pecho de la madre para evitar confusiones cuando se está dando el pecho y suplementando.
-- Diseñado y fabricado en Dinamarca/UE.
 - Fabricado con un material 100 % seguro para los alimentos y reciclable. 100 % libre de BPA, PVC y ftalatos. Certificación EN14350.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

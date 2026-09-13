@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAMISETAS NIÑA: Set de 3 camisetas sin mangas de algodón, ideales para primavera y verano. Estas prendas Chicco son lavables a máquina, para una higiene elevada
 - A LA MODA: Las camisetas están adornadas con un estampado gráfico de unicornio y están fabricadas con una tela suave
+- CAMISETAS NIÑA: Set de 3 camisetas sin mangas de algodón, ideales para primavera y verano. Estas prendas Chicco son lavables a máquina, para una higiene elevada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW46JDNV{{</world>}}

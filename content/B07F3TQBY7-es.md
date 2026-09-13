@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- algodón
 - Perfecto para uso diario
-- Lavable a máquina
 - Vans Logotipo en el pecho, logotipo en la manga y el dobladillo.
+- Lavable a máquina
+- algodón
 - Ajuste clásico con cuello redondo y mangas cortas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

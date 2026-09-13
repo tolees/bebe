@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Be Cool Kombo Cochecito Bebé 2 Piezas con Capazo Rígido Elevable y Silla de Paseo Reversible Plegado con una Mano Desde el Nacimiento hasta 22 kg Gris'
-date: 2026-09-10 18:13:19
+date: 2026-09-11 19:37:52
 image: 'https://m.media-amazon.com/images/I/41RhtHkGfDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

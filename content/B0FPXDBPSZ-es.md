@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft La Granja de Gallinas - Granja de Juguete con Minifiguras del Fan del Pollo Zombi Bebé y Figura de Zorro - Regalo Gamer para Niños y Niñas de 7+ Años - 21585'
-date: 2026-09-10 14:45:43
+date: 2026-09-11 19:12:05
 image: 'https://m.media-amazon.com/images/I/41YxzZjpSIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXDBPSZ/?tag=tolees-21'
 descuento: '21.01'
-average: '14.2566666666666'
+average: '14.4757142857142'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

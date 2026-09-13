@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PLEGADO COMPACTO CON BANDEJA AHORRA ESPACIO EN LAS PATAS TRASERAS: Cuando no se utiliza, la trona se pliega de manera compacta y dispone de una bandeja ahorra espacio en las patas traseras
 - ULTRALIGERO Y COMPACTO: Con un peso inferior a 4,5 kg, el diseño ligero y el tamaño reducido hacen que Polly Zest sea fácil de mover en la cocina o en otros ambientes de la casa
+- PLEGADO COMPACTO CON BANDEJA AHORRA ESPACIO EN LAS PATAS TRASERAS: Cuando no se utiliza, la trona se pliega de manera compacta y dispone de una bandeja ahorra espacio en las patas traseras
 - PRÁCTICO Y FÁCIL DE LIMPIAR: Con un diseño minimalista y líneas suaves, la estructura del asiento en una sola pieza es fácil de limpiar
 - COMODIDAD DESDE LOS 6 MESES HASTA 40 KG: ofrece la comodidad de una trona estándar a la altura de la mesa con asiento lavable, cinturón de 5 puntos y bandeja extraíble, las extensiones de las patas removibles crean una trona perfecta para los niños al quitar el arnés y la bandeja, A medida que el niño crece, la trona se transforma también en un robusto taburete de mesa
 - CHICCO: Siempre hemos estado al lado de las familias de todo el mundo y nos dedicamos a desarrollar productos innovadores que satisfagan las necesidades cambiantes de los padres

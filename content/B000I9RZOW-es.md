@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piscina hinchable Intex infantil
-- Fabricada de vinilo, tiene 3 aros de diferente color cada uno: rosa, amarillo y azul
-- La piscina está diseñada para que sea utilizada por bebés entre 1 a 3 años de edad
 - El suelo de la piscina Intex es hinchable para mayor comodidad del niño, incluye kit de parches
+- La piscina está diseñada para que sea utilizada por bebés entre 1 a 3 años de edad
+- Fabricada de vinilo, tiene 3 aros de diferente color cada uno: rosa, amarillo y azul
+- Piscina hinchable Intex infantil
 - Medidas: 86x25 cm y 68 litros de capacidad de agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer FT 17 termómetro clínico digital termómetro con punta de medición flexible para la medición oral rectal y axilar resultado en 10 s indicador de fiebre para bebés niños y adultos blanco'
-date: 2026-09-10 14:41:31
+date: 2026-09-11 23:17:29
 image: 'https://m.media-amazon.com/images/I/41xzYXsmrxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDBC3PB2/?tag=tolees-21'
 descuento: '28.61'
-average: '4.56142857142857'
+average: '4.615'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

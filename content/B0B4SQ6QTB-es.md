@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Calidad comprobada: La barrera ha pasado una serie de controles internos y, también, las pruebas en el laboratorio de certificados independiente SGS. Está conforme con la norma europea de seguridad EN 1930.
+- MEDIDAS UNIVERSALES: El montaje con las medidas desde 75 cm hasta 85 cm queda bien con la mayoría de los marcos de puerta. La sujeción especial posibilita extender la barrera de seguridad hasta 105 cm
 - UMBRAL BAJO: el umbral tiene solo 1,5 cm de altura. En el umbral hay un espacio separado para el perfil del suelo para que la barrera se ajuste perfectamente a todo tipo de superficie
 - DOBLE PROTECCIÓN: El mecanismo doble de la protección previene la apertura con un solo botón, ya que es necesario también subir la puerta
 - MONTAJE FÀCIL: la barrera de seguridad se monta sin tornillos, por eso no es necesario taladrar agujeros. Las asas de protección de silicona no dejan huellas en el marco de la puerta
-- Calidad comprobada: La barrera ha pasado una serie de controles internos y, también, las pruebas en el laboratorio de certificados independiente SGS. Está conforme con la norma europea de seguridad EN 1930.
-- MEDIDAS UNIVERSALES: El montaje con las medidas desde 75 cm hasta 85 cm queda bien con la mayoría de los marcos de puerta. La sujeción especial posibilita extender la barrera de seguridad hasta 105 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4SQ6QTB{{</world>}}

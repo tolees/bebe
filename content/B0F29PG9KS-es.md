@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de piel sintética
-- Horma clásica
-- Plantilla textil
 - Correa autoadherente
+- Horma clásica
 - Suela de EVA de una sola pieza
+- Plantilla textil
+- Empeine de piel sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F29PG9KS{{</world>}}

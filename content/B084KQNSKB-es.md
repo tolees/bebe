@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estos tarros de conservación son de cristal; El cristal es un material ecológico y reciclable para un uso más sostenible
 - PRÁCTICO: los Babybols de vidrio se pueden lavar en el lavavajillas; Para recalentar el contenido, utilice el baño maría en lugar del microondas (función de descongelación) o un calienta biberones cuando los Babybols salgan del frigorífico o del congelador; Asegúrese de que los Babybols de vidrio no sufran un choque térmico
 - Los tarros de conservación de cristal graduados de 220 ml y 100 ml preservan el sabor de los alimentos por larga duración, también incluye un libro de recetas
 - Estos tarros de cristal son adecuados para conservar y para transportar tranquilamente las comidas de tu peque, gracias a su tapa de rosca con una junta de silicona no hay riesgo de fuga
+- Estos tarros de conservación son de cristal; El cristal es un material ecológico y reciclable para un uso más sostenible
 - Puedes escribir el contenido del bote directamente en la tapa, la superficie es reescribible, lo cual resulta práctico para identificar los alimentos cuando guardes los botes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

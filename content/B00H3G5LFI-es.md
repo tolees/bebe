@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PUERTA DE SEGURIDAD EXTRA ALTA: 91 cm de altura, lo suficientemente alta para evitar que los niños de 2 años trepen por ella
 - FÁCIL DE USAR: esta puerta para niños se abre con una sola mano en ambas direcciones y se cierra simplemente con un suave empujón
 - SEGURIDAD: El indicador visual integrado en el sistema de cierre garantiza que la puerta está realmente cerrada y es segura; el mecanismo de cierre secundario protege incluso a los niños más curiosos
+- PUERTA DE SEGURIDAD EXTRA ALTA: 91 cm de altura, lo suficientemente alta para evitar que los niños de 2 años trepen por ella
+- DIMENSIONES: Puerta de seguridad que se adapta a aberturas de 73 cm a 80 cm y puede ampliarse hasta 94 cm con extensiones de puerta de 7 cm (se venden por separado)
 - AUTORREGULADORA: el desajuste inicial en el nivel del mecanismo de cierre desaparece al apretar los tornillos de fijación en el marco
 - RÁPIDO Y FÁCIL DE INSTALAR: El marco en forma de U con cuatro puntos de presión garantiza una sólida sujeción y no requiere perforaciones
-- DIMENSIONES: Puerta de seguridad que se adapta a aberturas de 73 cm a 80 cm y puede ampliarse hasta 94 cm con extensiones de puerta de 7 cm (se venden por separado)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00H3G5LFI{{</world>}}

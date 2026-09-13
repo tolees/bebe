@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dodot Sensitive Talla 2 88 Pañales 4kg-8kg'
-date: 2026-09-10 09:03:20
+date: 2026-09-11 16:29:36
 image: 'https://m.media-amazon.com/images/I/51zKJM6souL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FP1DC64T/?tag=tolees-21'
 descuento: '19.85'
-average: '27.9978947368422'
+average: '27.7809523809525'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
