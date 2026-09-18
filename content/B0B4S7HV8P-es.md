@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calidad muy alta
 - Conectores isofix regulables
+- Calidad muy alta
 - Con protección lateral según el reglamento ECE-R129
 - Respaldo plegable para obtener el máximo rango de uso
 

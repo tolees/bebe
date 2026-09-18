@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ribete 4 x 2.
 - 2 pares de pantalones.
 - 100 % algodón orgánico. Certificado Oeko-Tex y GOTS.
 - Cintura elástica.
-- Ribete 4 x 2.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F7S1D3H7{{</world>}}

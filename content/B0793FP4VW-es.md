@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Masajea y enfría las encías durante la dentición
 - ¡Nota! El color no es seleccionable.
+- Masajea y enfría las encías durante la dentición
 - Forma ergonómica que permite alcanzar todas las zonas de la mandíbula
 - Novedoso diseño de tortuga para mantener al bebe distraído
 

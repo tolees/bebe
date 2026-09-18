@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correa autoadherente
 - Suela de EVA de una sola pieza
+- Correa autoadherente
 - Empeine de piel sintética
 - Horma clásica
 - Plantilla textil

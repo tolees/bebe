@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Momcozy S9 Pro Sacaleches Actualizados 2 Modos 9 Nivele Succión 285 mmHg'
-date: 2026-09-16 11:25:49
+date: 2026-09-18 11:57:29
 image: 'https://m.media-amazon.com/images/I/41FzK+IA8bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GQL7P18N/?tag=tolees-21'
 descuento: '29.24'
-average: '47.34'
+average: '47.115'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

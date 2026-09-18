@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weleda - Aceite Corporal Refrescante de Citrus 100 ml'
-date: 2026-09-10 20:43:18
+date: 2026-09-17 12:42:44
 image: 'https://m.media-amazon.com/images/I/3142punJzsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ORV2B0/?tag=tolees-21'
 descuento: '30.36'
-average: '12.68'
+average: '12.65'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

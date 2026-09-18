@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IRROMPIBLE. Vajilla para bebés resistente, de material irrompible
-- Hemos cambiado el diseño de nuestra Vajilla de Aprendizaje para Bebés. Puedes recibir una vajilla con un diseño ligeramente diferente al de la imagen
-- MANTEL ANTIDESLIZANTE para mayor seguridad
-- PLATO LLANO. Plato para bebés, de gran capacidad. Ideal para comidas y alimentos sólidos
-- DE APRENDIZAJE. Vajilla de aprendizaje, pensada para facilitar la alimentación del bebé. Toda una ayuda para aprender a comer solitos
 - APTA para el Microondas y para el Lavavajillas. Fácil de limpiar
+- IRROMPIBLE. Vajilla para bebés resistente, de material irrompible
+- DE APRENDIZAJE. Vajilla de aprendizaje, pensada para facilitar la alimentación del bebé. Toda una ayuda para aprender a comer solitos
+- MANTEL ANTIDESLIZANTE para mayor seguridad
 - CUCHARA para bebés ergonómica, de mango largo, cómoda y fácil de agarrar por el bebé. Ideal para papillas y potitos
 - BOL. De gran capacidad. Ideal para papillas o sopas
+- PLATO LLANO. Plato para bebés, de gran capacidad. Ideal para comidas y alimentos sólidos
+- Hemos cambiado el diseño de nuestra Vajilla de Aprendizaje para Bebés. Puedes recibir una vajilla con un diseño ligeramente diferente al de la imagen
 - TAZA con asitas grandes, para un agarre más cómodo
 - VAJILLA PARA BEBÉS. Vajilla de aprendizaje para Bebés +6 Meses con 5 piezas: Plato Llano, Bol, Mantel Antideslizante, Taza y Cuchara Ergonómica
 

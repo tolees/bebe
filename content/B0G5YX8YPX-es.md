@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kinderkraft I-SPARK 2 PRO Silla de Coche i-Size 100-150 cm Gris'
-date: 2026-09-14 12:09:41
+date: 2026-09-18 16:23:42
 image: 'https://m.media-amazon.com/images/I/41CO4ppXKPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

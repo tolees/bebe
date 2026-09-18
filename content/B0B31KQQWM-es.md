@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro textil
-- Parte de piel sintética
 - Horma clásica
+- Parte de piel sintética
 - Suela de goma que no deja marcas
 - Cierre autoadherente
 

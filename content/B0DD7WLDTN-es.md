@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Suela y mediasuela de EVA
-- Cierre con correa autoadherente
-- Contiene al menos un 20% de material reciclado
-- Mediasuela y suela combinadas de EVA
-- Empeine textil
 - Horma clásica
 - Mediasuela Cloudfoam
+- Cierre con correa autoadherente
+- Suela y mediasuela de EVA
+- Empeine textil
+- Mediasuela y suela combinadas de EVA
+- Forro textil
+- Contiene al menos un 20% de material reciclado
 - Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

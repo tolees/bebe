@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jané Barrera de Cama Abatible 90 cm Extra Alta y Transpirable Plegable con Bolsa de Transporte Gris'
-date: 2026-09-14 19:57:29
+date: 2026-09-16 18:02:01
 image: 'https://m.media-amazon.com/images/I/21bEVwcj9QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C4TFKRKN/?tag=tolees-21'
 descuento: '15.03'
-average: '25.455'
+average: '25.4533333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
