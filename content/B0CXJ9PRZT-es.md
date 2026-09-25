@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Medidas: 100 x 100 cm
 - Indicaciones de lavado: lavar antes del primer uso; lavar a máquina en agua fría; no meter en la secadora; planchar a baja temperatura; no usar lejía; no lavar en seco
 - Toalla de baño infantil, con capucha en forma de cabecita de panda rojo; en la parte trasera, encontramos también la colita
-- Medidas: 100 x 100 cm
 - Realizada en algodón 100%
 
 [🛒 Comprar!!!]({{< param buyurl >}})

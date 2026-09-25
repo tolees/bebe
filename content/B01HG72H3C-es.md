@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asalvo 12371 - Cuna de madera 120 x 60 cm color blanco'
-date: 2026-09-19 17:38:50
+date: 2026-09-24 16:25:03
 image: 'https://m.media-amazon.com/images/I/31aH-oZDawL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HG72H3C/?tag=tolees-21'
 descuento: '19.37'
-average: '121.201176470589'
+average: '121.424'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

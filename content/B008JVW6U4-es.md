@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 2 envases de 250ml
 - Acero inoxidable
-- Mantiene la temperatura hasta 5 horas
 - Tapa con función de taza
+- Incluye 2 envases de 250ml
+- Mantiene la temperatura hasta 5 horas
 - Para biberones o comida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

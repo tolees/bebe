@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sandalia cerrada
-- Adecuada para las aventuras veraniegas al aire libre
 - Resistente al agua y de secado rápido.
+- Adecuada para las aventuras veraniegas al aire libre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FB47JNK2{{</world>}}

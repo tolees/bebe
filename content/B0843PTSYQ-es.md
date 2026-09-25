@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjetas gruesas, piezas de autocorrección, cartón resistente
 - Memoria y atención, capacidades lógicas, formas y colores, manualidades finas y coordinación ojo-mano, decodificación de imágenes
 - Juego de memoria con animales
+- Tarjetas gruesas, piezas de autocorrección, cartón resistente
 - Producto de alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

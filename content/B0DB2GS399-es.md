@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Seguridad y confort para los más peques
 - Elemento de protección
 - Asiento de coche para bebés
+- Seguridad y confort para los más peques
 - Sirona Gi i-Size Plus/Almond Beige-beige PU1
 
 [🛒 Comprar!!!]({{< param buyurl >}})

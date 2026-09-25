@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre autoadherente
-- Forro textil
 - Empeine de material sintético
 - Horma clásica
+- Cierre autoadherente
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VT1M8HH{{</world>}}

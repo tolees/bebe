@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela sintética
-- Mediasuela Cloudfoam
-- Forro textil
 - Empeine textil
 - Cierre con correa autoadherente
+- Mediasuela Cloudfoam
+- Forro textil
 - Horma clásica
+- Suela sintética
 - Forro textil
 - Contiene al menos un 20% de material reciclado
 

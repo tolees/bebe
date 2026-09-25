@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cabezal ajustable multiposiciones
 - Con espumas memory foam para mayor comodidad y seguridad
+- Cabezal ajustable multiposiciones
 - Desde los 3 años hasta los 12 años o 100-150cm altura
 - Instalación con isofix y cinturon de seguridad
 

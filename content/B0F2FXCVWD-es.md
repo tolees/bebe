@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de piel sintética
-- Plantilla textil
 - Suela de EVA de una sola pieza
+- Empeine de piel sintética
 - Correa autoadherente
+- Plantilla textil
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

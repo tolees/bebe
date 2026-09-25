@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma parte de la colección Tiny Princess Tales
 - Juguetes llamativos para el niño: sonajeros divertidos y coloridos, molinete de colores, conejo con tela que cruje, prisma que refleja la luz
+- Forma parte de la colección Tiny Princess Tales
 - Arco de juego para silla de paseo, cuna, portabebés, con clip universal, apto desde el nacimiento
 - Arco flexible que puede orientarse hacia el niño gracias a su articulación ajustable: el niño puede jugar con las dos manos y los dos piesa
 - El arco se puede plegar y cerrar de forma compacta para facilitar su almacenamiento

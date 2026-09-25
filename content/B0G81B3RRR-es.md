@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con 99% agua
-- Fibras 100% de origen vegetal, de las cuáles 10% son algodón premium]
-- La siguiente información se aplica a cada unidad del paquete
 - La fórmula está dermatológicamente testada y aprobada por dermatólogos de Skin Health Alliance
 - [Más suave que el algodón y el agua
 - Adecuadas para la delicada piel de tu recién nacido
+- La siguiente información se aplica a cada unidad del paquete
+- Con 99% agua
+- Fibras 100% de origen vegetal, de las cuáles 10% son algodón premium]
 - Fórmula única que ayuda a restaurar el Ph natural de la piel y protegerla de irritaciones
 - Hecho con 0% alcohol y perfume
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack de recambios para ambientadores eléctricos Air Wick
-- Descubre el resto de fragancias Air Wick Eléctrico
 - Disfruta de un aroma duradero y consistente para tu hogar
+- Descubre el resto de fragancias Air Wick Eléctrico
+- Pack de recambios para ambientadores eléctricos Air Wick
 - Fragancia Nenuco, una fragancia fresca y ligera que te transportará al tierno mundo de los bebés, llenando tu hogar con el fresco y suave aroma de la Colonia Nenuco
 - Elije entre los diferentes niveles de intensidad para conseguir tu nivel de fragancia óptima
 
