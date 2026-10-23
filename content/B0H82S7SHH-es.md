@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paruu P10 Pro Sacaleches Electricos Manos Libres con brida de 27 mm más ancha succión de 45 kPa 4 modos 9 niveles 180 ml 2 Rosa'
-date: 2026-10-19 19:24:50
+date: 2026-10-22 09:41:36
 image: 'https://m.media-amazon.com/images/I/41ne7UDNM6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

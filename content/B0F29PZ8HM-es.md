@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Suela de EVA de una sola pieza
 - Empeine de piel sintética
-- Plantilla textil
 - Correa autoadherente
+- Plantilla textil
 - Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

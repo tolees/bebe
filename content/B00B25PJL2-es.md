@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weleda - Aceite de Caléndula Bebé Piel Sensible 200 ml | Caléndula hidrata y protege cuida la piel piel sensible bebé vegano uso diario cuidado natural masaje'
-date: 2026-10-20 07:49:27
+date: 2026-10-23 05:38:37
 image: 'https://m.media-amazon.com/images/I/31GqpC61SIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B25PJL2/?tag=tolees-21'
 descuento: '33.76'
-average: '11.6442857142857'
+average: '11.675'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

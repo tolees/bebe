@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fórmula 96% natural, sin alcohol.
+- Caja plegable de papel reciclado
 - botella de vidrio cierre de plástico reciclable
 - Un aroma delicado que envuelve suavemente a tu bebé. Probado dermatológicamente en pieles sensibles
-- Caja plegable de papel reciclado
-- Fórmula 96% natural, sin alcohol.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09C6V4DZ5{{</world>}}

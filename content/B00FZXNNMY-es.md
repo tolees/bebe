@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Espuma baño bebé 1L: Limpia suavemente, sin jabón.
 - Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
-- Espuma baño bebé 1L: Limpia suavemente, sin jabón.
 - Calma con camomila: Ideal pieles sensibles.
 - Testado dermatológicamente: Seguro desde 0 meses.
 

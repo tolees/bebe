@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tiene un refrescante sabor a fresa
 - Contenedor práctico y fácil de almacenar
 - Ideal para uso diario
-- Tiene un refrescante sabor a fresa
-- Con protección contra la caries
 - Gel dental para niños
+- Con protección contra la caries
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FDR52V7{{</world>}}

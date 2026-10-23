@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Goki
 - Número de modelo: ‎‎‎57056
+- Marca: Goki
 - Puzzles 3d
 - Tiene motivos con animales
 

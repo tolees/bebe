@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene detalles distintivos de la marca "Levis"
-- Conjunto coordinado
 - Prenda de vestir
+- Conjunto coordinado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHW4BBGG{{</world>}}

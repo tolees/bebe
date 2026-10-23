@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reposacabezas acolchado y extraíble
 - 3 posiciones de transporte que se adaptan al crecimiento del bebé
+- Reposacabezas acolchado y extraíble
 - Lavable a máquina
 - El primer y auténtico portabebés concebido para rendir al aire libre sin estructuras de metal o plástico
 - Babero extraíble
