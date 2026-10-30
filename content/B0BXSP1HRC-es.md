@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxi-Cosi Loa Mecedora para Bebé Ligera 0–12 kg Beyond Graphite | Mecedora para Bebé Desde el Nacimiento-2 Años Plegado Ultracompacto 2 Posiciones de Reclinación Tejidos 100 % Reciclados'
-date: 2026-10-26 14:17:23
+date: 2026-10-30 08:36:49
 image: 'https://m.media-amazon.com/images/I/310pF7b45zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BXSP1HRC/?tag=tolees-21'
 descuento: '25.00'
-average: '46.445'
+average: '46.154'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

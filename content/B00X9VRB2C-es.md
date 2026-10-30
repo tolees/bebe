@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con extracto natural
-- Para dientes de leche
-- Sabor fresa suave
 - Pasta de dientes para niños
 - Contiene flúor para proteger contra la aparición de caries y placa y fortalecer el esmalte dental
+- Para dientes de leche
+- Sabor fresa suave
+- Con extracto natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00X9VRB2C{{</world>}}

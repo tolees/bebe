@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calma con camomila: Ideal pieles sensibles.
-- Testado dermatológicamente: Seguro desde 0 meses.
 - Espuma baño bebé 1L: Limpia suavemente, sin jabón.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
+- Testado dermatológicamente: Seguro desde 0 meses.
 - Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
+- Calma con camomila: Ideal pieles sensibles.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FZXNNMY{{</world>}}

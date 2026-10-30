@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sirona Gi i-Size Plus/Stormy Blue-light blue PU1
-- Asiento de coche para bebés
 - Seguridad y confort para los más peques
+- Asiento de coche para bebés
+- Sirona Gi i-Size Plus/Stormy Blue-light blue PU1
 - Elemento de protección
 
 [🛒 Comprar!!!]({{< param buyurl >}})

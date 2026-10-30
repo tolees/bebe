@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Empeine de piel y material sintético
 - Cierre con correa autoadherente
+- Empeine de piel y material sintético
+- Forro textil
 - Suela de goma
 - Horma clásica
 

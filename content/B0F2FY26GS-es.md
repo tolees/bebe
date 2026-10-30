@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre autoadherente
-- Suela sintética
-- Corte clásico
-- Empeine de material sintético
 - Plantilla textil
+- Cierre autoadherente
+- Corte clásico
+- Suela sintética
+- Empeine de material sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F2FY26GS{{</world>}}

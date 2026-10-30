@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bebé de 21cm artículado y ligeramente perfumado
-- Anatómicamente correctos: niño
-- Compatibles con la colección de ropa how to dress de miniland para muñecos de 21cm
-- Rasgos étnicos definidos: europeo
 - Colección de diferentes etnias y sexos
+- Bebé de 21cm artículado y ligeramente perfumado
+- Rasgos étnicos definidos: europeo
+- Compatibles con la colección de ropa how to dress de miniland para muñecos de 21cm
+- Anatómicamente correctos: niño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BWXMN68{{</world>}}

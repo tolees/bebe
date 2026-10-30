@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Empeine de malla sintética
-- Cordones elásticos y cierre autoadherente
-- Horma ancha
 - Suela de goma
+- Cordones elásticos y cierre autoadherente
+- Forro textil
+- Horma ancha
+- Empeine de malla sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FSSRG1VK{{</world>}}

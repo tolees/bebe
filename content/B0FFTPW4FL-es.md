@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Traje de baño sin espalda liso
 - Tejido de poliéster con textura suave, con tirantes ajustables en el cuello y la espalda
 - Bordes dorados en la parte delantera, forro frontal
-- Traje de baño sin espalda liso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTPW4FL{{</world>}}

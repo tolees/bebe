@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A LA MODA: Las camisetas presentan estampados divertidos, coloridos y a la moda, adecuados para todo tipo de looks
 - CAMISETA NIÑO: Juego de 3 camisetas de manga corta de algodón, óptima para el vestuario primavera-verano de tu niño, estas prendas Chicco se pueden lavar en la lavadora, para una buena higiene
+- A LA MODA: Las camisetas presentan estampados divertidos, coloridos y a la moda, adecuados para todo tipo de looks
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPYHGJZX{{</world>}}

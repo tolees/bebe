@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
-- Amortiguación LIGHTMOTION
 - Suela de EVA de una sola pieza
+- Amortiguación LIGHTMOTION
 - Empeine de malla acolchado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
