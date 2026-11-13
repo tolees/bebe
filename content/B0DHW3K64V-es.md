@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Horma clásica
 - Empeine de piel y material sintético
 - Forro textil
-- Horma clásica
 - Cierre con correa autoadherente
 - Suela de goma
 

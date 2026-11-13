@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Galletas para bebés con tamaño Mini, para pequeñas manitas
-- Su tamaño Mini adaptado a sus manitas ayuda a que aprenda a comer solito
-- Galletas con todos los beneficios de los cereales infantiles para la nutrición infantil durante la etapa de alimentación complementaria
 - Alimento infantil sin aceite de palma
 - Galletas de cereales para bebés con Hierro, que ayuda a la función normal de su sistema inmunitario y también a su desarrollo cognitivo normal
+- Galletas con todos los beneficios de los cereales infantiles para la nutrición infantil durante la etapa de alimentación complementaria
+- Su tamaño Mini adaptado a sus manitas ayuda a que aprenda a comer solito
 - Galletas infantiles adaptadas para los niños a partir de 1 año
 
 [🛒 Visítala!!!]({{< param buyurl >}})

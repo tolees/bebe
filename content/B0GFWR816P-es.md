@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Luz Nocturna Infantil 2000mAh Silicona 8 Colores Regulable Temporizador | Lámpara Nocturna para Bebés Recargable USB-C Sin Parpadeos Memoria Luz Roja Nocturna para Habitación Infantil y Dormitorio'
-date: 2026-11-10 22:07:40
+date: 2026-11-13 09:31:17
 image: 'https://m.media-amazon.com/images/I/41ugw2f7ceL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GFWR816P/?tag=tolees-21'
 descuento: '49.88'
-average: '16.509999999999998'
+average: '16.016666666666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Familia de patos de goma, resistente al agua, sin suciedad
 - Marca: Playgro
+- Familia de patos de goma, resistente al agua, sin suciedad
 - Producto de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

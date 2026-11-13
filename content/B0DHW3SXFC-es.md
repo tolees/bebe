@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre con correa autoadherente
-- Empeine ripstop y textil con refuerzos sintéticos
-- Suela TRAXION
 - Impermeable
-- Drop de la mediasuela: 6 mm (talón: 21 mm, antepié: 15 mm)
-- Peso: 145 g
 - Horma clásica
 - Plantilla Adifit para medir el pie
+- Empeine ripstop y textil con refuerzos sintéticos
+- Drop de la mediasuela: 6 mm (talón: 21 mm, antepié: 15 mm)
+- Peso: 145 g
+- Cierre con correa autoadherente
+- Suela TRAXION
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHW3SXFC{{</world>}}

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 🔒 Bolsa con autocierre para una conservación ideal.
 - 👌Con un tamaño adaptado a sus pequeñas manitas.
-- 👶 Crackers adaptados para bebés a partir de 12 meses
-- 🚫 Sin aceite de palma.
 - 🍀 Con ingredientes ecológicos y vitamina B1
+- 🚫 Sin aceite de palma.
+- 👶 Crackers adaptados para bebés a partir de 12 meses
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FWRYY288{{</world>}}

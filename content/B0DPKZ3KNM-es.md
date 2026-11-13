@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PARA TODA LA FAMILIA. Para bebés, mamás y papás. ¡Que bonito compartir la misma fragancia!
-- MENOR IMPACTO ambiental. Frasco fabricado con vidrio reciclable y packaging de cartón con certificado FSC, procedente de bosques de gestión sostenible
-- NATURAL. 94% de Ingredientes de origen natural. Ingredientes de origen sostenible y de cercanía: recogidos en la costa mediterránea y en asociación con proveedores locales
-- SIN ALCOHOL. Colonia para bebés con fragancia delicada. Colonia sin alcohol, pero con la misma intensidad y permanencia
-- ¿A QUE HUELE? Agua perfumada para bebé con notas de jara - cistus, geranios y hoja de lima Kaffir
-- CON FRASCO VAPORIZADOR. Se presenta en un práctico frasco vaporizador para una dosificación más cómoda y segura. Puede aplicarse sobre la piel y el cabello del bebé, también sobre la ropa. Tamaño del frasco: 100 ml
 - PARA BEBÉS. La colonia sin alcohol Sense se puede aplicar desde el nacimiento. Puede usarse sobre la piel y el cabello del bebé. No irrita y no mancha la ropa
+- MENOR IMPACTO ambiental. Frasco fabricado con vidrio reciclable y packaging de cartón con certificado FSC, procedente de bosques de gestión sostenible
 - APTA PIELES SENSIBLES. Baby Cologne Sense puede usarse desde el primer día, está dermatológicamente testada y es apta para pieles sensibles
+- PARA TODA LA FAMILIA. Para bebés, mamás y papás. ¡Que bonito compartir la misma fragancia!
+- CON FRASCO VAPORIZADOR. Se presenta en un práctico frasco vaporizador para una dosificación más cómoda y segura. Puede aplicarse sobre la piel y el cabello del bebé, también sobre la ropa. Tamaño del frasco: 100 ml
+- ¿A QUE HUELE? Agua perfumada para bebé con notas de jara - cistus, geranios y hoja de lima Kaffir
+- SIN ALCOHOL. Colonia para bebés con fragancia delicada. Colonia sin alcohol, pero con la misma intensidad y permanencia
+- NATURAL. 94% de Ingredientes de origen natural. Ingredientes de origen sostenible y de cercanía: recogidos en la costa mediterránea y en asociación con proveedores locales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPKZ3KNM{{</world>}}

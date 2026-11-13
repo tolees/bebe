@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Vans Logotipo en el pecho, logotipo en la manga y el dobladillo.
 - algodón
-- Ajuste clásico con cuello redondo y mangas cortas.
 - Lavable a máquina
 - Perfecto para uso diario
+- Ajuste clásico con cuello redondo y mangas cortas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07F3TQBY7{{</world>}}

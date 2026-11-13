@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clarks Shoes, Fawna Jane, Black Leather, 4 (Women)
 - Plantilla acolchada de espuma de alto rebote que ofrece comodidad duradera
+- Clarks Shoes, Fawna Jane, Black Leather, 4 (Women)
 - Plantilla acolchada de contorno
 - Entresuela ligera de EVA
 

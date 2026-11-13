@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se adapta a todos los conjuntos
 - Tiene detalles distintivos de la marca
+- Se adapta a todos los conjuntos
 - Artículo de marca NAME IT
 
 [🛒 Visítala!!!]({{< param buyurl >}})
