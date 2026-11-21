@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nenuco Pack Bebé Mochila de Paseo Rana con Gama Completa Colonia Jabón y Champú 3x200ml'
-date: 2026-11-11 22:24:42
+date: 2026-11-21 02:37:39
 image: 'https://m.media-amazon.com/images/I/41DMWVmICdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CD7LN63S/?tag=tolees-21'
 descuento: '30.00'
-average: '13.447142857142843'
+average: '12.901111111111101'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

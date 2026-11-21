@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Suela de goma
-- Empeine de piel y material sintético
 - Cierre con correa autoadherente
+- Empeine de piel y material sintético
+- Horma clásica
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

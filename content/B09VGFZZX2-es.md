@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños acanalados
 - Cuello, dobladillo y puños plegables
+- Puños acanalados
 - Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

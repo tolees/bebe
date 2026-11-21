@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Diversión emocionante en el baño! Tus hijos pueden esconder al buzo o al adorable bebé tiburón detrás de la puerta de la rueda de agua y enviarlos a giros turbulentos. ¿Qué tan rápido puede girar la rueda de agua?
 - Conjunto de juego para niños y niñas a partir de 1 año: Los conjuntos PLAYMOBIL JUNIOR son óptimos para el tamaño de sus manos y bordes redondeados agradables al tacto. Con funciones atractivas para las primeras exploraciones
+- ¡Diversión emocionante en el baño! Tus hijos pueden esconder al buzo o al adorable bebé tiburón detrás de la puerta de la rueda de agua y enviarlos a giros turbulentos. ¿Qué tan rápido puede girar la rueda de agua?
 - Calidad superior y diseño robusto, limpieza de las piezas (sin pegatinas) bajo agua corriente sin productos químicos
 - Juego seguro: PLAYMOBIL JUNIOR es sinónimo de máxima seguridad para los más pequeños. Los juegos se fabrican en Europa y no contiene plastificantes ni piezas pequeñas que se puedan tragar - para disfrutar al máximo
 - Contenido: 6 piezas con instrucciones: 1 figura, 1 animal, 4 accesorios adicionales; materiales de plástico; LxAxA: 24,8 x 18,7 x 9,3 cm, peso: 346 g, 71688

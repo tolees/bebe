@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Veganas Certificadas por OEKO-TEXT STANDARD 100, sin ingredientes de origen animal ni pruebas en animales.
-- 0 % perfumes y alcohol
 - Toallita 100 % sin plásticos
 - Respetuosas con la delicada piel de tu bebé y con el medioambiente
+- 0 % perfumes y alcohol
+- Veganas Certificadas por OEKO-TEXT STANDARD 100, sin ingredientes de origen animal ni pruebas en animales.
 - Paquete familiar con 10 paquetes de toallitas húmedas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

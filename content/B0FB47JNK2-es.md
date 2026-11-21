@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sandalia cerrada
 - Resistente al agua y de secado rápido.
+- Sandalia cerrada
 - Adecuada para las aventuras veraniegas al aire libre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

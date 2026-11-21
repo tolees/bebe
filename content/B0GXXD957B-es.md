@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Combate la sequedad: Con lactato sódico para una piel fresca y sin resequedad.
 - Hidrata con Pentavitín: Ingrediente clave para mantener la piel del bebé hidratada.
-- La siguiente información se aplica a cada unidad del paquete
-- Sin alcohol, 250ml Sebamed Baby: Protege y humecta la piel sensible de bebés y niños, con pH
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
+- Sin alcohol, 250ml Sebamed Baby: Protege y humecta la piel sensible de bebés y niños, con pH
+- Combate la sequedad: Con lactato sódico para una piel fresca y sin resequedad.
+- La siguiente información se aplica a cada unidad del paquete
 - Protección sedosa: Proteínas de seda forman una capa suave para cuidado delicado del bebé.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla textil
+- Horma clásica
 - Correa autoadherente
 - Suela de EVA de una sola pieza
-- Horma clásica
 - Empeine de piel sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
 - Empeine de malla y material sintético
-- Horma ancha
 - Mediasuela de EVA
+- Forro textil
 - Suela de goma
+- Horma ancha
 - Cierre autoadherente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

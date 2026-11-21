@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dos correas autoadherentes ajustables
-- Horma clásica
-- Plantilla textil
 - Empeine textil y sintético
 - Suela de goma que no deja marcas
+- Horma clásica
+- Plantilla textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1XGQ45Z{{</world>}}

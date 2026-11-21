@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Algodón estampado con motivos de safari
 - Forrada con batista
 - Fácil limpieza y cuidado
-- Algodón estampado con motivos de safari
 - Gorra con visera y protección para la nuca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
